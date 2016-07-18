@@ -28,14 +28,13 @@ permalink: /
     </div><! --/container -->
 </div><! --/service -->
 
-{% include portfolio.html title="LATEST WORKS" limit=10 %}
+{% include portfolio.html title="LATEST PROJECTS" limit=10 %}
 
 <div class="container mtb">
     <div class="row">
         <div class="col-lg-4 col-lg-offset-1">
             <h4>More About Our Agency.</h4>
             <p>{{ site.about }}</p>
-            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
         </div>
 
         <div class="col-lg-3">
@@ -47,7 +46,7 @@ permalink: /
         </div>
 
         <div class="col-lg-3">
-            <h4>Latest Posts</h4>
+            <h4>Latest News</h4>
             <div class="hline"></div>
             {% for post in site.categories['blog'] limit:5 %} 
                 <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
