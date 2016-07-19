@@ -22,7 +22,7 @@
 	} 
 
 body { 
-	background: #ffffff; 
+	background: #f2f2f2; 
 	margin: 0; 
 	height: 100%; 
 	color: {{ site.colors.secondary }};
@@ -535,3 +535,13 @@ a.anchor{
         -webkit-transform: translateY(15px);
         -o-transform: translateY(15px);
 }
+
+/*###
+##  Position #
+###*/
+
+.position{
+        color : darkcyan;
+        font-variant: small-caps;
+}
+

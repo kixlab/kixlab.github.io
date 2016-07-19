@@ -3,7 +3,8 @@
         <div class="row">
         <h4 class="centered"> {{ state.stateObj.statename }}</h4>
             {% for position in state.stateObj.position %}
-            <h4 style="text-align:left; color:black"><b>{{ position.positionName }}</b> </h4> <!-- position name -->
+            <h3 class="centered position" ><b>  {{ position.positionName | prepend : "&lt" | append : "/&gt" }}</b> </h3> <!-- position name -->
+                    <div class="spacing"></div>
                     {% unless position.positionMembers %}
                         <h4> We have no {{position.positionName}}</h4>
                     {% endunless %}
