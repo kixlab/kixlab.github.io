@@ -40,6 +40,7 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
+    - KAIST N1 624
     - Daejeon
     - Republic of Korea
 email: kixlab@kixlab.org
@@ -49,11 +50,71 @@ tel: "TBD"
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
     
 # Members information. Shown on About page.
+# If member changed --> modify in here
 members:
-    - name: Juho Kim
-      position: Professor
-      text: He is a leader of KIXLAB
-      img: team01.jpg
+    ## current members
+    # 
+    #       
+    #
+    - stateObj: 
+        statename: CURRENT MEMBERS
+        position:
+            - positionName: Professor
+              positionMembers:
+                - name: Juho Kim
+                  email: juhokim@juhokim.com
+                  career:
+                    - 
+                  img: team01.jpg 
+            - positionName: Ph.D Candidates
+              positionMembers:
+                - name: Minsuk Jang
+                  email: enter later
+                  career: enter later
+                  img: team01.jpg 
+            - positionName: MS Candidates
+              positionMembers:
+            - positionName: Undergraduates
+              positionMembers:
+                - name: Jiwoo Park
+                  email: jiwoojoajoa@gmail.com
+                  career: 
+                    - elementary
+                    - middle
+                    - high
+                    - college
+                  img: team01.jpg 
+                - name: Hyungyu Shin
+                  email: <enter later>
+                  career: <later>
+                  img: team01.jpg 
+                - name: Dongkwan Kim
+                  email: <enter later>
+                  career: <later>
+                  img: team01.jpg 
+                - name: Hyeongshik Jeong
+                  email: <enter later>
+                  career: <later>
+                  img: team01.jpg 
+                - name: Taekyung Park
+                  email: <enter later>
+                  career: <later>
+                  img: team01.jpg 
+ 
+    ## Members who leave KIXLAB
+    - stateObj:
+        statename: ALUMNI
+        statemembers:
+            - name: Alumni1
+              position: Working
+              text: CEO
+              img: team04.jpg
+              state: sdf
+            - name: Alumni2
+              position: Working
+              text: CEO2
+              img: team02.jpg
+              state: Cool
       
 # Clients information. Shown on Home and About pages.
 clients:

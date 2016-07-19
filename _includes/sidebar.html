@@ -6,12 +6,6 @@
             <input type="text" class="form-control" placeholder="Search something">
         </p>
     <div class="spacing"></div> -->
-    <h4>Subscribe</h4>
-    <div class="hline"></div>
-        <p>
-            <p class="rss-subscribe">Subscribe to this blog <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a>.</p>
-        </p>
-    <div class="spacing"></div>
     <h4>Categories</h4>
     <div class="hline"></div>
     {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" or category.first == "question" %}
@@ -36,12 +30,4 @@
         </ul>
 
     <div class="spacing"></div>
-
-    <h4>Popular Tags</h4>
-    <div class="hline"></div>
-    <p>
-    {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" or category.first == "question" %}
-            <a class="btn btn-theme" href="{{ '/category/#'  | prepend: site.baseurl  }}{{ category | first }}" role="button">{{ category | first | capitalize }} ({{ category | last | size }})</a>	         
-        {% endunless %}{% endfor %}
-    </p>
 </div>
