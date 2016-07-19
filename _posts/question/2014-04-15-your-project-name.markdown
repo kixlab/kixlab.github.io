@@ -1,8 +1,8 @@
 ---
 layout: question
-title:  "Why did the Chicken cross the road?"
-date:   2014-04-25 16:54:46
-author: Marcel Newman
+title:  "Ask to KIXLAB"
+date:   2016-07-01 00:00:00
+author: Admin
 categories:
 - question
 ---
