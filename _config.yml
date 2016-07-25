@@ -122,10 +122,10 @@ clients:
     img: client01.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We pursue society which human & computer really understand each other."
+about: "We pursue a society where humans and computers really understand each other."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Welcome to KIXLAB. We pursue human computer interaction."
+    message: "Welcome to KIXLAB. We are a human computer interaction research group."
     author: Jiwoo Park
     position: Web Page Designer
