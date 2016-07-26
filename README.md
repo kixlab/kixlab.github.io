@@ -15,12 +15,12 @@ How to change NEW MEMBERS
 
 How to Add NEW publications
 ---------------------------
-> Add new publications
+### Add new publications
     1. Go to _posts/publication
     2. Write new markdown file
     3. Format of file name should be YYYY-MM-DD-title.markdown
 
-> You should write this informations in here
+### You should write informations in this form
     ---
     layout: project
     title: <title of your project>
