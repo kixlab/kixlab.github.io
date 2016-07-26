@@ -12,11 +12,12 @@
            
                     <div class="col-xs-8">
                     <a href="{{ project.url | prepend: site.baseurl }}">    
-                            <h1 style="text-align:left">{{project.title}}</h1>
+                            <h1 class="project_title" style="text-align:left">{{project.title}}</h1>
                     </a>
                             <p style="text-align:left">{{project.desc}}</p>
             </div>
             </div><!-- end col-12 -->
+            <div class="spacing"></div>
             {% endfor %}
         </div><!-- portfolio -->
     </div><!-- portfolio container -->
