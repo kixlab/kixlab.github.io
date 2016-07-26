@@ -12,6 +12,8 @@ How to change NEW MEMBERS
     1. Go to _posts/news
     2. 
 
+How to Add NEW publications
+---------------------------
 > Add new publications
     1. Go to _posts/publication
     2. Write new markdown file
