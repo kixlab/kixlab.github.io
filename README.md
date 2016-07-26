@@ -10,8 +10,8 @@ How to change NEW MEMBERS
     4. You can add your name, email, home page
 
 ### Add Latest News
-    1. Go to _posts/news
-    2. 
+    Go to _posts/news
+     
 
 How to Add NEW publications
 ---------------------------
