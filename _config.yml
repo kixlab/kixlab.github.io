@@ -72,8 +72,9 @@ members:
                   interest: KIXLAB
                   img: team01.jpg 
                 - name: Hyungyu Shin
-                  email: <enter later>
-                  career: <later>
+                  email: hyungyu.sh@kaist.ac.kr
+                  career: 
+					- BS, Dept. of CSE, POSTECH
                   img: team01.jpg 
                 - name: Dongkwan Kim
                   email: <enter later>
