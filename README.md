@@ -18,7 +18,7 @@ How to Add NEW publications
 ### Add new publications
     1. Go to _posts/publication
     2. Write new markdown file
-    3. Format of file name should be YYYY-MM-DD-title.markdown
+    3. File name should be YYYY-MM-DD-title.markdown
 
 ### You should write informations in this form
     ---
@@ -37,3 +37,4 @@ How to Add NEW publications
       url: <your material link>
     - type: <your type name>
       url: <your material link>
+    ---
