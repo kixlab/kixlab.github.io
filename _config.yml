@@ -25,24 +25,11 @@ colors:  #in hex code if not noted else
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
-  - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
-    
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
+    - 34141 Daejeon Yuseonggu Daehakro 291 
     - KAIST N1 624
-    - Daejeon
-    - Republic of Korea
 email: kixlab@kixlab.org
 tel: "TBD"
 
@@ -66,12 +53,14 @@ members:
                   career:
                     - 
                   img: team01.jpg 
+                  interest: KIXLAB
             - positionName: Ph.D Candidates
               positionMembers:
                 - name: Minsuk Jang
                   email: enter later
                   career: enter later
                   img: team01.jpg 
+                  interest: KIXLAB
             - positionName: MS Candidates
               positionMembers:
             - positionName: Undergraduates
@@ -80,9 +69,7 @@ members:
                   email: jiwoojoajoa@gmail.com
                   career: 
                     - elementary
-                    - middle
-                    - high
-                    - college
+                  interest: KIXLAB
                   img: team01.jpg 
                 - name: Hyungyu Shin
                   email: <enter later>
@@ -116,14 +103,22 @@ members:
               img: team02.jpg
               state: Cool
       
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: KAIST
-    img: client01.png
-    
-# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We pursue society which human & computer really understand each other."
-
+### Publications
+publications:
+    -where:
+        whereName: Journal
+        -class:
+            className: International
+            classPapers:
+                -
+        -class:
+            className: Domestic
+    -where:
+        whereName: Conference
+        papers:
+    -where:
+        whereName: Others
+                 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
     message: "Welcome to KIXLAB. We pursue human computer interaction."

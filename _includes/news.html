@@ -2,19 +2,22 @@
     <div class="">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% for project in site.categories['project'] limit:include.limit %}
+            {% for news in site.categories['news'] limit:include.limit %}
 
                 <div class="row">
+                    <div class="container">
+                            <a href="{{ news.url | prepend: site.baseurl }}"></a>
                     <div class="col-xs-4">
-                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
+                    <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ news.img }}" alt=""/>
 
                     </div><!-- he wrap -->
            
                     <div class="col-xs-8">
-                    <a href="{{ project.url | prepend: site.baseurl }}">    
-                            <h1 style="text-align:left">{{project.title}}</h1>
-                    </a>
-                            <p style="text-align:left">{{project.desc}}</p>
+
+                            <h1 style="text-align:left">{{news.title}}</h1>
+                            <p style="text-align:left">{{news.desc}}</p>
+                    </div>
+            </a>
             </div>
             </div><!-- end col-12 -->
             {% endfor %}

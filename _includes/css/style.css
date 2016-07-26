@@ -545,3 +545,47 @@ a.anchor{
         font-variant: small-caps;
 }
 
+
+
+/* ###
+ * # publication
+ * $*/
+
+.where::before{
+        transform: translate(-7px, -7px);
+        -ms-transform: translate(-7px, -7px);
+        -webkit-transform: translate(-7px, -7px);
+        -o-transform: translate(-7px, -7px);
+        position: absolute;
+        content: "";
+        width: 10px;
+        background-color: aquamarine;
+        height: 10px;
+}
+
+.material{
+        border-bottom: 1px solid;
+}
+.award{
+        background-color: aqua;
+        font-weight: bold;
+        margin-right: 10px;
+}
+.author{
+        font-size: 10px;
+}
+.venue{
+        margin-right: 10px;
+}
+
+.title{
+        font-size:15px;
+        font-weight: bold;
+        color: #61748c;
+}
+.publications{
+        list-style: square;
+}
+.publications a {
+        color: #61748C;
+}
