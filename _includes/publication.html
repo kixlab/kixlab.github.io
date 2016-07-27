@@ -1,0 +1,71 @@
+<div id="publicationwrap">
+        <h3 class="where"> Journal </h3>
+        <ul class="publications">
+        {% for paper in site.categories['journal'] %}
+            <li>
+                <a href="{{paper.link}}" class="title">{{paper.title }}</a>
+                <div class="author">
+                    {% for author in paper.author %}
+                        {{ author }}
+                    {% endfor %}
+                </div>
+                <div>
+                        <i class="venue">{{ paper.venue }}</i> 
+                        {% if paper.award %}
+                            <span class="award">{{ paper.award }}</span>
+                        {% endif %}
+                        {% for material in paper.materials %}
+                        <a href="{{material.url}}" class="material">{{ material.type }}</a>
+                        {% endfor %} 
+                </div>
+            </li>
+        {% endfor %} <!-- Journal Papers-->
+        </ul>
+        <div class="spacing"></div>
+        <h3 class="where"> Conference </h3>
+        <ul class="publications">
+        {% for paper in site.categories['conference'] %}
+            <li>
+                <a href="{{paper.link}}" class="title">{{paper.title}}</a>
+                <div class="author">
+                        {% for author in paper.author %}
+                            {{ author }}
+                        {% endfor %}
+                </div>
+                <div>
+                        <i class="venue">{{ paper.venue }}</i>
+                        {% if paper.award %}
+                            <span class="award">{{ paper.award }}</span>
+                        {% endif %}
+                        {% for material in paper.materials %}
+                        <a href="{{material.url}}" class="material">{{ material.type }}</a>
+                        {% endfor %}
+                </div>
+            </li>
+        {% endfor %} <!-- Conference papers-->
+        </ul>
+        <div class="spacing"></div>
+        <h3 class="where"> Others </h3>
+        <ul class="publications">
+        {% for paper in site.categories['conference'] %}
+            <li>
+                <a href="{{paper.link}}" class="title">{{paper.title}}</a>
+                <div class="author">
+                        {% for author in paper.author %}
+                            {{ author }}
+                        {% endfor %}
+                </div>
+                <div>
+                        <i class="venue">{{ paper.venue }}</i>
+                        {% if paper.award %}
+                            <span class="award">{{ paper.award }}</span>
+                        {% endif %}
+                        {% for material in paper.materials %}
+                        <a href="{{material.url}}" class="material">{{ material.type }}</a>
+                        {% endfor %}
+                </div>
+            </li>
+        {% endfor %} <!-- Conference papers-->
+        </ul>
+        <div class="spacing"></div>
+</div>

@@ -23,23 +23,11 @@ colors:  #in hex code if not noted else
   
   
 ### CONTACT SETTINGS ###
-
-# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
-#social:
-#  - title: dribbble
-#    url:
-#  - title: facebook
-#    url:
-#  - title: twitter
-#    url: 
-#  - title: instagram
-#    url: 
-#  - title: tumblr
-#    url: 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
+    - 34141 Daejeon Yuseonggu Daehakro 291 
     - KAIST N1 624
     - 291 Daehak-ro, Yuseong-gu, Daejeon 34141
     - Republic of Korea
@@ -53,8 +41,6 @@ tel: "+82 42 350 7865"
 # If member changed --> modify in here
 members:
     ## current members
-    # 
-    #       
     #
     - stateObj: 
         statename: CURRENT MEMBERS
@@ -72,6 +58,7 @@ members:
                   email:
                   career: 
                   img: team01.jpg 
+                  interest: KIXLAB
             - positionName: MS Students
               positionMembers:
             - positionName: Undergraduates
@@ -80,13 +67,13 @@ members:
                   email: jiwoojoajoa@gmail.com
                   career: 
                     - elementary
-                    - middle
-                    - high
-                    - college
+                  interest: KIXLAB
                   img: team01.jpg 
                 - name: Hyungyu Shin
-                  email: <enter later>
-                  career: <later>
+                  email: hyungyu.sh@kaist.ac.kr
+                  career: 
+                    - BS, Dept. of CSE, POSTECH
+                  interest: KIXLAB
                   img: team01.jpg 
                 - name: Dongkwan Kim
                   email: <enter later>
@@ -124,6 +111,22 @@ clients:
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "We pursue a society where humans and computers really understand each other."
 
+### Publications
+publications:
+    -where:
+        whereName: Journal
+        -class:
+            className: International
+            classPapers:
+                -
+        -class:
+            className: Domestic
+    -where:
+        whereName: Conference
+        papers:
+    -where:
+        whereName: Others
+                 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
     message: "Welcome to KIXLAB. We are a human computer interaction research group."
