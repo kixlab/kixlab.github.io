@@ -25,6 +25,7 @@ colors:  #in hex code if not noted else
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+<<<<<<< HEAD
 #social:
 #  - title: dribbble
 #    url:
@@ -37,12 +38,18 @@ colors:  #in hex code if not noted else
 #  - title: tumblr
 #    url: 
     
+=======
+>>>>>>> master
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
+    - 34141 Daejeon Yuseonggu Daehakro 291 
     - KAIST N1 624
+<<<<<<< HEAD
     - 291 Daehak-ro, Yuseong-gu, Daejeon 34141
     - Republic of Korea
+=======
+>>>>>>> master
 email: kixlab@kixlab.org
 tel: "+82 42 350 7865"
 
@@ -67,12 +74,14 @@ members:
                     - 
                   img: team01.jpg 
             - positionName: Ph.D Students
+                  interest: KIXLAB
               positionMembers:
                 - name: Minsuk Chang
                   email:
                   career: 
                   img: team01.jpg 
             - positionName: MS Students
+                  interest: KIXLAB
               positionMembers:
             - positionName: Undergraduates
               positionMembers:
@@ -80,13 +89,12 @@ members:
                   email: jiwoojoajoa@gmail.com
                   career: 
                     - elementary
-                    - middle
-                    - high
-                    - college
+                  interest: KIXLAB
                   img: team01.jpg 
                 - name: Hyungyu Shin
-                  email: <enter later>
-                  career: <later>
+                  email: hyungyu.sh@kaist.ac.kr
+                  career: 
+					- BS, Dept. of CSE, POSTECH
                   img: team01.jpg 
                 - name: Dongkwan Kim
                   email: <enter later>
@@ -116,6 +124,7 @@ members:
               img: team02.jpg
               state: Cool
       
+<<<<<<< HEAD
 # Clients information. Shown on Home and About pages.
 clients:
   - name: KAIST
@@ -124,6 +133,24 @@ clients:
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "We pursue a society where humans and computers really understand each other."
 
+=======
+### Publications
+publications:
+    -where:
+        whereName: Journal
+        -class:
+            className: International
+            classPapers:
+                -
+        -class:
+            className: Domestic
+    -where:
+        whereName: Conference
+        papers:
+    -where:
+        whereName: Others
+                 
+>>>>>>> master
 # Testimonial content. Shown on Home and About page. 
 testimonial:
     message: "Welcome to KIXLAB. We are a human computer interaction research group."
