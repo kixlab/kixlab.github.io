@@ -2,7 +2,7 @@
 
 # Site settings
 title: KIXLAB
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "The KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction research in the School of Computing at KAIST. We build interactive systems that support interaction at scale: crowdsourcing and human computation, online education and learning at scale, civic engagement and collective action, and interactive data analytics and mining. We often take an interdisciplinary approach to our research, by connecting computer science with learning science, psychology, and sociology, and aim to deploy our systems to real users."
 analytics: UA-50546869-2
 baseurl: "" #important: start with /
 url: "http://kixlab.github.io"
@@ -17,7 +17,7 @@ colors:  #in hex code if not noted else
   primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
   secondary: "#384452" #"#33004D"
   link: "#428bca"
-  link_hover: "#01b2fe"
+  link_hover: "#ffa500"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
   
@@ -25,13 +25,33 @@ colors:  #in hex code if not noted else
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+<<<<<<< HEAD
+#social:
+#  - title: dribbble
+#    url:
+#  - title: facebook
+#    url:
+#  - title: twitter
+#    url: 
+#  - title: instagram
+#    url: 
+#  - title: tumblr
+#    url: 
+    
+=======
+>>>>>>> master
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
     - 34141 Daejeon Yuseonggu Daehakro 291 
     - KAIST N1 624
+<<<<<<< HEAD
+    - 291 Daehak-ro, Yuseong-gu, Daejeon 34141
+    - Republic of Korea
+=======
+>>>>>>> master
 email: kixlab@kixlab.org
-tel: "TBD"
+tel: "+82 42 350 7865"
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -53,15 +73,15 @@ members:
                   career:
                     - 
                   img: team01.jpg 
+            - positionName: Ph.D Students
                   interest: KIXLAB
-            - positionName: Ph.D Candidates
               positionMembers:
-                - name: Minsuk Jang
-                  email: enter later
-                  career: enter later
+                - name: Minsuk Chang
+                  email:
+                  career: 
                   img: team01.jpg 
+            - positionName: MS Students
                   interest: KIXLAB
-            - positionName: MS Candidates
               positionMembers:
             - positionName: Undergraduates
               positionMembers:
@@ -104,6 +124,16 @@ members:
               img: team02.jpg
               state: Cool
       
+<<<<<<< HEAD
+# Clients information. Shown on Home and About pages.
+clients:
+  - name: KAIST
+    img: client01.png
+    
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "We pursue a society where humans and computers really understand each other."
+
+=======
 ### Publications
 publications:
     -where:
@@ -120,8 +150,9 @@ publications:
     -where:
         whereName: Others
                  
+>>>>>>> master
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Welcome to KIXLAB. We pursue human computer interaction."
+    message: "Welcome to KIXLAB. We are a human computer interaction research group."
     author: Jiwoo Park
     position: Web Page Designer
