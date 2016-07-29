@@ -13,20 +13,20 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#000000" #"#F70031" 
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  primary: "#000000" #"#F70031"
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
   secondary: "#384452" #"#33004D"
   link: "#428bca"
   link_hover: "#FF8C00"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
-  
-  
+
+
 ### CONTACT SETTINGS ###
-    
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
-  - lines: 
+  - lines:
     - KAIST N1 624
     - 291 Daehak-ro, Yuseong-gu, Daejeon 34141
     - Republic of Korea
@@ -35,13 +35,13 @@ tel: "+82 42 350 7865"
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # Members information. Shown on About page.
 # If member changed --> modify in here
 members:
     ## current members
     #
-    - stateObj: 
+    - stateObj:
         statename: People at KIXLAB
         position:
             - positionName: Professor
@@ -49,13 +49,13 @@ members:
                 - name: Juho Kim
                   email: juhokim@juhokim.com
                   career:
-                  img: team01.jpg 
+                  img: team01.jpg
             - positionName: Ph.D Students
               positionMembers:
                 - name: Minsuk Chang
-                  email: 
+                  email:
                   career:
-                  img: team02.jpg 
+                  img: team02.jpg
                   interest: Humans, Computers and Pizzas :)
             - positionName: MS Students
               positionMembers:
@@ -63,29 +63,29 @@ members:
               positionMembers:
                 - name: Jiwoo Park
                   email: jiwoojoajoa@gmail.com
-                  career: 
+                  career:
                     - elementary
                   interest: KIXLAB
-                  img: team01.jpg 
+                  img: team01.jpg
                 - name: Hyungyu Shin
                   email: hyungyu.sh@kaist.ac.kr
-                  career: 
+                  career:
                     - BS, Dept. of CSE, POSTECH
                   interest: KIXLAB
-                  img: team01.jpg 
+                  img: team01.jpg
                 - name: Dongkwan Kim
                   email: <enter later>
                   career: <later>
-                  img: team01.jpg 
-                - name: Hyeongshik Jeong
-                  email: <enter later>
-                  career: <later>
-                  img: team01.jpg 
+                  img: team01.jpg
+                - name: Hyeungshik Jung
+                  email: cescc@snu.ac.kr
+                  career: BS, College of Liberal Studies(CSE & ITCT), Feburary 2017(expected)
+                  img: team01.jpg
                 - name: Taekyung Park
                   email: <enter later>
                   career: <later>
-                  img: team01.jpg 
- 
+                  img: team01.jpg
+
 
     ## Members who leave KIXLAB
     #- stateObj:
@@ -101,12 +101,12 @@ members:
     #          text: CEO2
     #          img: team02.jpg
     #          state: Cool
-      
+
 # Clients information. Shown on Home and About pages.
 clients:
   - name: KAIST
     img: client01.png
-    
+
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "We pursue a society where humans and computers really understand each other."
 
@@ -125,8 +125,8 @@ publications:
         papers:
     -where:
         whereName: Others
-                 
-# Testimonial content. Shown on Home and About page. 
+
+# Testimonial content. Shown on Home and About page.
 #testimonial:
 #    message: "The KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction research in the School of Computing at KAIST. We build interactive systems that support interaction at scale: crowdsourcing and human computation, online education and learning at scale, civic engagement and collective action, and interactive data analytics and mining. We often take an interdisciplinary approach to our research, by connecting computer science with learning science, psychology, and sociology, and aim to deploy our systems to real users"
     #author: Jiwoo Park
