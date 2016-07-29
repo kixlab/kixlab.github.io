@@ -17,7 +17,7 @@ colors:  #in hex code if not noted else
   primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
   secondary: "#384452" #"#33004D"
   link: "#428bca"
-  link_hover: "#ffa500"
+  link_hover: "#FF8C00"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
   
@@ -27,7 +27,6 @@ colors:  #in hex code if not noted else
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - 34141 Daejeon Yuseonggu Daehakro 291 
     - KAIST N1 624
     - 291 Daehak-ro, Yuseong-gu, Daejeon 34141
     - Republic of Korea
@@ -43,22 +42,21 @@ members:
     ## current members
     #
     - stateObj: 
-        statename: CURRENT MEMBERS
+        statename: People at KIXLAB
         position:
             - positionName: Professor
               positionMembers:
                 - name: Juho Kim
                   email: juhokim@juhokim.com
                   career:
-                    - 
                   img: team01.jpg 
             - positionName: Ph.D Students
               positionMembers:
                 - name: Minsuk Chang
-                  email:
-                  career: 
-                  img: team01.jpg 
-                  interest: KIXLAB
+                  email: 
+                  career:
+                  img: team02.jpg 
+                  interest: Humans, Computers and Pizzas :)
             - positionName: MS Students
               positionMembers:
             - positionName: Undergraduates
@@ -88,20 +86,21 @@ members:
                   career: <later>
                   img: team01.jpg 
  
+
     ## Members who leave KIXLAB
-    - stateObj:
-        statename: ALUMNI
-        statemembers:
-            - name: Alumni1
-              position: Working
-              text: CEO
-              img: team04.jpg
-              state: sdf
-            - name: Alumni2
-              position: Working
-              text: CEO2
-              img: team02.jpg
-              state: Cool
+    #- stateObj:
+    #    statename: ALUMNI
+    #    statemembers:
+    #        - name: Alumni1
+    #          position: Working
+    #          text: CEO
+    #          img: team04.jpg
+    #          state: sdf
+    #        - name: Alumni2
+    #          position: Working
+    #          text: CEO2
+    #          img: team02.jpg
+    #          state: Cool
       
 # Clients information. Shown on Home and About pages.
 clients:
@@ -128,7 +127,7 @@ publications:
         whereName: Others
                  
 # Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "Welcome to KIXLAB. We are a human computer interaction research group."
-    author: Jiwoo Park
-    position: Web Page Designer
+#testimonial:
+#    message: "The KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction research in the School of Computing at KAIST. We build interactive systems that support interaction at scale: crowdsourcing and human computation, online education and learning at scale, civic engagement and collective action, and interactive data analytics and mining. We often take an interdisciplinary approach to our research, by connecting computer science with learning science, psychology, and sociology, and aim to deploy our systems to real users"
+    #author: Jiwoo Park
+    #position: Web Page Designer
