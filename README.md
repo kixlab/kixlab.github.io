@@ -16,25 +16,16 @@ How to change NEW MEMBERS
 How to Add NEW publications
 ---------------------------
 ### Add new publications
-    1. Go to _posts/publication
-    2. Write new markdown file
-    3. File name should be YYYY-MM-DD-title.markdown
+    1. Go to _data/publication
+    2. select yml file that your new publication published
 
-### You should write informations in this form
-    ---
-    layout: project
-    title: <title of your project>
-    categories:
-    - publication
-    - journal or conference or others
-    author:
-    - <author1>
-    - <author2>
-    venue: <your venue>
-    award: <your award> 
-    materials:
-    - type: <your type name>
-      url: <your material link>
-    - type: <your type name>
-      url: <your material link>
-    ---
+### Then append follow informations in the form
+    - title: <your publication title>
+      author: <your name>
+      venue: <your venue>
+      material:
+        - type: <your material type name>
+          url: <link to those material>
+        " You can add multiple materials append '-' "
+      award: <if you get an award then write it here"
+ 

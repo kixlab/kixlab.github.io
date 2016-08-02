@@ -1,0 +1,23 @@
+- title: Annotation interface for mobile learning system
+  author: Hyeungshik Jeong
+  desc: "honeybutter chip"
+  venue: "CSCW 2018"
+  materials:
+    - type: KIXLAB
+      url: kixlab.github.io
+    - type: tsingdao
+      url: www.tsingdao.com
+  link: "kixlab.github.io" 
+  award: "BEST PAPER @ CSCW"
+
+- title: "Enhancing the Contents of Lecture Video by Leveraging Students' Questions"
+  author: Hyungyu Shin
+  desc: "powerade"
+  venue: "UIST 2018"
+  materials:
+    - type: KIXLAB
+      url: kixlab.github.io
+    - type: blue hawaii
+      url: kixlab.github.io
+  link: "kixlab.github.io"
+  award: "BEST PAPER @ UIST"
