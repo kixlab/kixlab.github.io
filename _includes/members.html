@@ -1,5 +1,5 @@
 <div class="container mtb">
-        {% for state in site.members %}
+        {% for state in site.data.members %}
         <div class="row">
         <h4 class="centered"> {{ state.stateObj.statename }}</h4>
             {% for position in state.stateObj.position %}
@@ -24,16 +24,16 @@
                                 {% endfor %}
                             </ul>
                             <div>
-                                    I'm interested in  {{ member.interest }} 
+                                    I'm interested in  {{ member.interest }}
                             </div>
-                        </div><!-- Member description --> 
+                        </div><!-- Member description -->
                     </div>
                     <div class="spacing"></div>
                     {% endfor %}
         <div class="spacing"></div>
             {% endfor %}
         </div>
-        {% endfor %} 
+        {% endfor %}
         <!--
         {% for member in site.members %}
         <div class="col-lg-3 col-md-3 col-sm-3">
@@ -54,5 +54,5 @@
             <div class="hline"></div>
         </div>
         {% endfor %}
-        --> 
+        -->
 </div>

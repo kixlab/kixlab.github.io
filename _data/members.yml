@@ -1,0 +1,65 @@
+# Members information. Shown on About page.
+# If member changed --> modify in here
+
+## Current members
+#
+- stateObj:
+    statename: People at KIXLAB
+    position:
+        - positionName: Professor
+          positionMembers:
+            - name: Juho Kim
+              email: juhokim@juhokim.com
+              career:
+              img: team01.jpg
+        - positionName: Ph.D Students
+          positionMembers:
+            - name: Minsuk Chang
+              email:
+              career:
+              img: team02.jpg
+              interest: Humans, Computers and Pizzas :)
+        - positionName: MS Students
+          positionMembers:
+        - positionName: Undergraduates
+          positionMembers:
+            - name: Jiwoo Park
+              email: jiwoojoajoa@gmail.com
+              career:
+                - elementary
+              interest: KIXLAB
+              img: team01.jpg
+            - name: Hyungyu Shin
+              email: hyungyu.sh@kaist.ac.kr
+              career:
+                - BS, Dept. of CSE, POSTECH
+              interest: KIXLAB
+              img: team01.jpg
+            - name: Dongkwan Kim
+              email: <enter later>
+              career: <later>
+              img: team01.jpg
+            - name: Hyeungshik Jung
+              email: cescc@snu.ac.kr
+              career: BS, College of Liberal Studies, Seoul National University, Feburary 2017(expected)
+              img: team01.jpg
+            - name: Taekyung Park
+              email: <enter later>
+              career: <later>
+              img: team01.jpg
+
+
+## Members who had been in KIXLAB
+#- stateObj:
+#    statename: ALUMNI
+#    statemembers:
+#        - name: Alumni1
+#          position: Working
+#          text: CEO
+#          img: team04.jpg
+#          state: sdf
+#        - name: Alumni2
+#          position: Working
+#          text: CEO2
+#          img: team02.jpg
+#          state: Cool
