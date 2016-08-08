@@ -1,58 +1,33 @@
 <div class="container mtb">
-        {% for state in site.data.members %}
-        <div class="row">
-        <h4 class="centered"> {{ state.stateObj.statename }}</h4>
-            {% for position in state.stateObj.position %}
-            <h3 class="centered position" ><b>  {{ position.positionName | prepend : "&lt " | append : " &gt" }}</b> </h3> <!-- position name -->
-                    <div class="spacing"></div>
-                    {% unless position.positionMembers %}
-                        <h4> We have no {{position.positionName}}</h4>
-                    {% endunless %}
-                    {% for member in position.positionMembers %}
-                    <div class="row namecard">
-                        <div class = "col-xs-3 photo">
-                            <div class="he-wrap tpl6">
-                            <img src=" {{"/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt=""/>
-                        </div><!-- Member pictures -->
-                        </div>
-                        <div class= "col-xs-9 desc">
-                                <i ><h4>{{member.name}}</h4></i>
-                                <i style="color:cadetblue">{{ member.email }}</i>
-                            <ul class="list-unstyled">
-                                {% for line in member.career %}
-                                <li> {{ line }} </li>
-                                {% endfor %}
-                            </ul>
-                            <div>
-                                    I'm interested in  {{ member.interest }}
-                            </div>
-                        </div><!-- Member description -->
-                    </div>
-                    <div class="spacing"></div>
-                    {% endfor %}
+    {% for state in site.data.members %}
+    <div class="row">
+    <!--<h4 class="centered"> {{ state.stateObj.statename }}</h4>-->
+    {% for position in state.stateObj.position %}
+        <h3 class="centered position"><b>{{ position.positionName | prepend : "&lt " | append : " &gt" }}</b></h3> <!-- position name -->
         <div class="spacing"></div>
-            {% endfor %}
-        </div>
-        {% endfor %}
-        <!--
-        {% for member in site.members %}
-        <div class="col-lg-3 col-md-3 col-sm-3">
-            <div class="he-wrap tpl6">
-            <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
-                <div class="he-view">
-                    <div class="bg a0" data-animate="fadeIn">
-                        <h3 class="a1" data-animate="fadeInDown">Contact Me:</h3>
-                        {% for entry in member.social %}
-                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.title }}"></i></a>
-                        {% endfor %}
+        {% unless position.positionMembers %}
+            <h4> We have no {{position.positionName}}</h4>
+        {% endunless %}
+        {% for member in position.positionMembers %}
+            <div class="row namecard">
+                <div class = "col-xs-3 photo">
+                    <div class="he-wrap tpl6">
+                    <img src=" {{"/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt=""/>
+                    </div><!-- Member pictures -->
                     </div>
-                </div>
+                    <div class= "col-xs-9 desc">
+                        <i ><h4>{{member.name}}</h4></i>
+                        <i style="color:cadetblue">{{ member.email }}</i>
+                    <ul class="list-unstyled">
+                        {% for line in member.career %}
+                        <li> {{ line }} </li>
+                        {% endfor %}
+                    </ul>
+                    <div>I'm interested in  {{ member.interest }}</div>
+                </div><!-- Member description -->
             </div>
-            <h4>{{ member.name }}</h4>
-            <h5 class="ctitle">{{ member.position }}</h5>
-            <p>{{ member.text }}</p>
-            <div class="hline"></div>
-        </div>
         {% endfor %}
-        -->
+    {% endfor %}
+    </div>
+    {% endfor %}
 </div>

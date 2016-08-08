@@ -6,7 +6,7 @@
 - stateObj:
     statename: People at KIXLAB
     position:
-        - positionName: Professor
+        - positionName: Director
           positionMembers:
             - name: Juho Kim
               email: juhokim@juhokim.com
