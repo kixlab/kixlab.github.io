@@ -1,31 +1,25 @@
 # kixlab.github.io
+Our lab's website
 
-How to change NEW MEMBERS
-----------------------
-### Add new member 
-----------------
-    1. Go to _config.yml
-    2. Find "members"
-    3. Edit or Add what you want
-    4. You can add your name, email, home page
+## How to Add NEW Memebers
+1. Go to `_data/members.yml`
+2. Edit or add what you want
+3. You can add your name, email, homepage
 
-### Add Latest News
-    Go to _posts/news
-     
+### How to Add Latest News
+Go to `_posts/news`
 
-How to Add NEW publications
----------------------------
-### Add new publications
-    1. Go to _data/publication
-    2. select yml file that your new publication published
-
-### Then append follow informations in the form
-    - title: <your publication title>
-      author: <your name>
-      venue: <your venue>
-      material:
-        - type: <your material type name>
-          url: <link to those material>
-        " You can add multiple materials append '-' "
-      award: <if you get an award then write it here"
- 
+## How to Add NEW publications
+1. Go to `_data/publication`
+2. Select yml file that your new publication published
+3. Then append following informations in the form
+```yml
+- title: <your publication title>
+  author: <your name>
+  venue: <your venue>
+  material:
+    - type: <your material type name>
+      url: <link to those material>
+    " You can add multiple materials append '-' "
+  award: <if you get an award then write it here"
+```
