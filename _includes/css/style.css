@@ -510,32 +510,24 @@ a.anchor{
 /* ##########
 # PROFILE #
 ########## */
-
-.namecard{
+.position-members {
+	overflow: hidden;
 }
-.namecard .desc h4{
-       margin-bottom: 0px;
+.position-members:after {
+	content: " ";
+	display: block;
+	clear: both;
 }
-.namecard .desc p{
-        margin-top: 0px;
+.namecard {
+	width: 300px;
+	height: 370px;
+	float: left;
+	margin: 20px;
+	/*display: inline-block;*/
 }
-.namecard .desc ul:before{
-        position: absolute;
-        content: "";
-        transform: translateY(-10px);
-        -ms-transform: translateY(-10px);
-        -webkit-transform: translateY(-10px);
-        -o-transform: translateY(-10px);
-        width: 30px;
-        height: 3px;
-        background: aquamarine;
-}
-
-.namecard .desc ul{
-        transform: translateY(15px);
-        -ms-transform: translateY(15px);
-        -webkit-transform: translateY(15px);
-        -o-transform: translateY(15px);
+.namecard h5 {
+	color: black;
+	font-weight: 400;
 }
 
 /*###
@@ -546,8 +538,6 @@ a.anchor{
         color : darkcyan;
         font-variant: small-caps;
 }
-
-
 
 /* ###
  * # publication

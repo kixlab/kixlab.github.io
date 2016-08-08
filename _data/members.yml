@@ -6,47 +6,51 @@
 - stateObj:
     statename: People at KIXLAB
     position:
-        - positionName: Director
+        - positionName: Faculty
           positionMembers:
             - name: Juho Kim
-              email: juhokim@juhokim.com
-              career:
+              email: juhokim@kaist.ac.kr
+              career: Director
               img: juhokim.jpg
-        - positionName: Ph.D Students
+              site: http://juhokim.com
+        - positionName: Graudate Students
           positionMembers:
             - name: Minsuk Chang
-              email:
-              career:
+              email: minsuk@kaist.ac.kr
+              career: Ph.D candidate
               img: team02.jpg
               interest: Humans, Computers and Pizzas :)
-        - positionName: MS Students
-          positionMembers:
+              site: ''
         - positionName: Undergraduates
           positionMembers:
             - name: Jiwoo Park
-              email: jiwoojoajoa@gmail.com
+              email: shapley_aldebaran@kaist.ac.kr
               career:
-                - elementary
               interest: KIXLAB
               img: team01.jpg
+              site: ''
             - name: Hyungyu Shin
               email: hyungyu.sh@kaist.ac.kr
               career:
                 - BS, Dept. of CSE, POSTECH
               interest: KIXLAB
               img: team01.jpg
+              site: ''
             - name: Dongkwan Kim
-              email: <enter later>
+              email: dong112d@kaist.ac.kr
               career: <later>
               img: team01.jpg
+              site: ''
             - name: Hyeungshik Jung
               email: cescc@snu.ac.kr
-              career: BS, College of Liberal Studies, Seoul National University, Feburary 2017(expected)
-              img: team01.jpg
-            - name: Taekyung Park
-              email: <enter later>
               career: <later>
               img: team01.jpg
+              site: ''
+            - name: Taekyung Park
+              email: kibi0620@gmail.com
+              career: <later>
+              img: team01.jpg
+              site: ''
 
 
 ## Members who had been in KIXLAB

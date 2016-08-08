@@ -1,32 +1,28 @@
-<div class="container mtb">
+<div class="container">
     {% for state in site.data.members %}
-    <div class="row">
+    <div class="status">
     <!--<h4 class="centered"> {{ state.stateObj.statename }}</h4>-->
     {% for position in state.stateObj.position %}
         <h3 class="centered position"><b>{{ position.positionName | prepend : "&lt " | append : " &gt" }}</b></h3> <!-- position name -->
-        <div class="spacing"></div>
         {% unless position.positionMembers %}
             <h4> We have no {{position.positionName}}</h4>
         {% endunless %}
+        <div class="position-members">
         {% for member in position.positionMembers %}
-            <div class="row namecard">
-                <div class = "col-xs-3 photo">
-                    <div class="he-wrap tpl6">
-                    <img src=" {{"/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt=""/>
-                    </div><!-- Member pictures -->
-                    </div>
-                    <div class= "col-xs-9 desc">
-                        <i ><h4>{{member.name}}</h4></i>
-                        <i style="color:cadetblue">{{ member.email }}</i>
-                    <ul class="list-unstyled">
-                        {% for line in member.career %}
-                        <li> {{ line }} </li>
-                        {% endfor %}
-                    </ul>
-                    <div>I'm interested in  {{ member.interest }}</div>
-                </div><!-- Member description -->
+            <div class='namecard'>
+                <div class='person-img-wrap'>
+                    <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="{{member.name}}"/>
+                </div>
+                {% if member.site != '' %}
+                    <a href="{{member.site}}"><h4>{{member.name}}</h4></a>
+                {% else %}
+                    <h4>{{member.name}}</h4>
+                {% endif %}
+                <h5>{{member.career}}</h5>
+                <h6>{{member.email}}</h6>
             </div>
         {% endfor %}
+        </div>
     {% endfor %}
     </div>
     {% endfor %}
