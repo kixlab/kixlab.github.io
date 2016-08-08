@@ -1,6 +1,6 @@
 <div id="portfoliowrap">
     <div class="">
-        {% if include.title %}<h3 class="project_title">{{ include.title }}</h3>{% endif %}
+        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
             {% for project in site.categories['project'] limit:include.limit %}
 
@@ -9,9 +9,9 @@
                     <img src="{{ "/assets/img/project/" | prepend: site.baseurl }}{{ project.img }}" alt="">
 
                     </div><!-- he wrap -->
-           
+
                     <div class="col-xs-8">
-                    <a href="{{ project.url | prepend: site.baseurl }}">    
+                    <a href="{{ project.url | prepend: site.baseurl }}">
                             <h1 class="project_title" style="text-align:left">{{project.title}}</h1>
                     </a>
                             <p style="text-align:left">{{project.desc}}</p>
