@@ -48,9 +48,9 @@ about: "We pursue a society where humans and computers really understand each ot
 
 # Testimonial content. Shown on Home and About page.
 testmonial:
-	message: "Machinelearning is also learning"
-	author: Minsuk Chang
-	position: Ph.D. candidate
+	- message: "Machinelearning is also learning"
+	  author: Minsuk Chang
+	  position: Ph.D. candidate
 #testimonial:
 #    message: "The KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction research in the School of Computing at KAIST. We build interactive systems that support interaction at scale: crowdsourcing and human computation, online education and learning at scale, civic engagement and collective action, and interactive data analytics and mining. We often take an interdisciplinary approach to our research, by connecting computer science with learning science, psychology, and sociology, and aim to deploy our systems to real users"
     #author: Jiwoo Park
