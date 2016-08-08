@@ -217,6 +217,8 @@ a:focus {
 
 #headerwrap {
 	background-color: {{ site.colors.primary }};
+	background : url(../img/headerimg01.jpg);
+	background-size: cover;
 	min-height: 0px;
 	padding-top: 100px;
 	padding-bottom: 50px;
@@ -236,7 +238,6 @@ a:focus {
 #headerwrap .img-responsive {
 	margin: 0 auto;
 }
-
 /* Services Wrap */
 #service {
 	margin-top: 0px;
@@ -252,7 +253,7 @@ a:focus {
 
 /* Portfolio Wrap */
 #portfoliowrap {
-	padding-top: 60px;
+	padding-top: 30px;
 	margin-bottom: 60px;
 	display: block;
 	text-align: center
