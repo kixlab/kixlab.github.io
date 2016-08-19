@@ -2,7 +2,7 @@
     <div class="">
         {% if include.title %}<h3 style="text-align:left" class="project_title">{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
-            {% for project in site.categories['project'] limit:include.limit %}
+            {% for project in site.data.project limit:include.limit %}
 
                 <div class="row">
                     <div class="col-xs-4">
