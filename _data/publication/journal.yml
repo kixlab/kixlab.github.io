@@ -2,7 +2,7 @@
   author: Dongkwan Kim
   img: portfolio_09.jpg
   desc: "Dongkwan's paper"
-  venue: "CHI 2018"
+  venue:
   materials:
         - type: google
           url: "http://www.google.com"
@@ -10,12 +10,12 @@
           url: "http://www.facebook.com"
         - type: naver
           url: "http://www.naver.com"
-  award: "Best Paper CHI"
+  award:
   link: "http://www.twitter.com"
 - title: "Does People Care What Others Do?: Influence of Social Factors in Engagement in Survey, Voting Procedure in Crowdsourcing System"
   author: Tae Kyung Park
   desc: "Tae Kyung's paper"
-  venue: "CHI 2018"
+  venue:
   materials:
       - type: google
         url: "http://www.google.com"
@@ -23,5 +23,5 @@
         url: "http://www.facebook.com"
       - type: naver
         url: "http://www.naver.com"
-  award: "Best paper CHI"
+  award:
   link: "#"
