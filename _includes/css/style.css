@@ -619,3 +619,17 @@ a.anchor{
 .orange{
     color: #a6e22d;
 }
+
+.inline-block{
+    display:inline-block;
+}
+
+.translateX-35px{
+    transform: translateX(35px);
+    -webkit-transform: translateX(35px);
+    -moz-transform: translateX(35px);
+    -ms-transform: translateX(35px);
+    -o-transform: translateX(35px);
+}
+
+
