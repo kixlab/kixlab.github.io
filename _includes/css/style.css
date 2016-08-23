@@ -217,10 +217,15 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
+    background-color: #272822;
 	background-size: cover;
 	min-height: 0px;
 	padding-top: 70px;
 	text-align: center;
+    font-size: 100px;
+    font-family: 'Raleway';
+    padding-top: 110px;
+    padding-bottom:50px;
 }
 
 #headerwrap h3, h5 {
@@ -578,4 +583,39 @@ a.anchor{
 }
 .project_title{
         font-size: 20px;
+}
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1;}
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1;}
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1;}
+}
+
+.white{
+    color: #b4b4b4;
+}
+.red{
+    color: #fd2671;
+}
+.yellow{
+    color: #e9dd76;
+}
+.orange{
+    color: #a6e22d;
 }
