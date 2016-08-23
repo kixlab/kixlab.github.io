@@ -217,8 +217,6 @@ a:focus {
 ################################################################# */
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
-	background : url(../img/headerimg01.jpg);
 	background-size: cover;
 	min-height: 0px;
 	padding-top: 100px;
