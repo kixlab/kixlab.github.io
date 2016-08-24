@@ -507,6 +507,18 @@ a.anchor{
     top: -80px;
     visibility: hidden;
 }
+/* #########
+# INTRO #
+########## */
+#intro-section p {
+	font-size: 17px;
+	line-height: 2;
+}
+
+.lab-intro {
+	margin: 100px 0px;
+}
+
 /* ##########
 # PROFILE #
 ########## */
