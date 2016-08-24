@@ -518,6 +518,10 @@ a.anchor{
 	display: block;
 	clear: both;
 }
+
+.position-members .member-name { margin-bottom: 3px; }
+.position-members .member-career { margin-top: 0px; }
+
 .namecard {
 	width: 300px;
 	height: 370px;

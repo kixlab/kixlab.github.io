@@ -14,11 +14,11 @@
                     <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="{{member.name}}"/>
                 </div>
                 {% if member.site != '' %}
-                    <a href="{{member.site}}"><h4>{{member.name}}</h4></a>
+                    <a href="{{member.site}}"><h4 class="member-name">{{member.name}}</h4></a>
                 {% else %}
-                    <h4>{{member.name}}</h4>
+                    <h4 class="member-name">{{member.name}}</h4>
                 {% endif %}
-                <h5>{{member.career}}</h5>
+                <h5 class="member-career">{{member.career}}</h5>
                 <h6>{{member.email}}</h6>
             </div>
         {% endfor %}

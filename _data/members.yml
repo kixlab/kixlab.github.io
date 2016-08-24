@@ -26,31 +26,41 @@
             - name: Jiwoo Park
               email: shapley_aldebaran@kaist.ac.kr
               career:
+                - Summer Research Intern
               interest: KIXLAB
               img: team01.jpg
               site: ''
             - name: Hyungyu Shin
               email: hyungyu.sh@kaist.ac.kr
               career:
-                - BS, Dept. of CSE, POSTECH
+                - Summer Research Intern
               interest: KIXLAB
               img: team01.jpg
               site: ''
             - name: Dongkwan Kim
               email: dong112d@kaist.ac.kr
-              career: <later>
+              career:
+                - Summer Research Intern
               img: team01.jpg
               site: ''
             - name: Hyeungshik Jung
               email: cescc@snu.ac.kr
-              career: <later>
+              career:
+                - Summer Research Intern
               img: team01.jpg
               site: ''
             - name: Taekyung Park
               email: kibi0620@gmail.com
-              career: <later>
+              career:
+                - Summer Research Intern
               img: team01.jpg
               site: ''
+            - name: Juho Sun
+              email: soju@kaist.ac.kr
+              career:
+                - Independent Research
+              img: team01.jpg
+              site: 'http://juhojuho.com'
 
 
 ## Members who had been in KIXLAB
