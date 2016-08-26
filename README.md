@@ -22,4 +22,5 @@ Go to `_posts/news`
       url: <link to those material>
     " You can add multiple materials append '-' "
   award: <if you get an award then write it here"
+  link: <add link to your paper>
 ```
