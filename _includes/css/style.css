@@ -241,6 +241,13 @@ a:focus {
 #headerwrap .img-responsive {
 	margin: 0 auto;
 }
+
+@media only screen and (max-width: 500px) {
+	#headerwrap {
+		display: none;
+	}
+}
+
 /* Services Wrap */
 #service {
 	margin-bottom: 0px;
@@ -653,14 +660,14 @@ a.anchor{
 	-moz-filter: grayscale(100%);
 	-o-filter: grayscale(100%);
 	-ms-filter: grayscale(100%);
-	filter: grayscale(100%); 
+	filter: grayscale(100%);
 }
 .intro-hover-img{
 	-webkit-filter: grayscale(0%)!important;
 	-moz-filter: grayscale(0%)!important;
 	-o-filter: grayscale(0%)!important;
 	-ms-filter: grayscale(0%)!important;
-	filter: grayscale(0%)!important; 
+	filter: grayscale(0%)!important;
 }
 
 .kixlab-logo{
