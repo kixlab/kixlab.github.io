@@ -18,7 +18,10 @@
                 {% else %}
                     <h4 class="member-name">{{member.name}}</h4>
                 {% endif %}
-                <h5 class="member-career">{{member.career}}</h5>
+                {% for career in member.career %}
+                    <h5 class="member-career">{{career}}</h5>
+                {% endfor %}
+
                 <h6>{{member.email}}</h6>
             </div>
         {% endfor %}

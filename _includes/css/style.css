@@ -543,7 +543,6 @@ a.anchor{
 
 .namecard {
 	width: 300px;
-	height: 370px;
 	float: left;
 	margin: 20px;
 	/*display: inline-block;*/
@@ -671,6 +670,10 @@ a.anchor{
 }
 
 .kixlab-logo{
-    text-align: left;
-    padding-left: 15%;
+}
+#src{
+    display: inline-block;
+    transform: translateY(-4px);
+    -webkit-transform: translateY(-4px);
+    font-size: 60px;
 }
