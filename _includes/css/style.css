@@ -222,7 +222,11 @@ a:focus {
 	min-height: 0px;
 	padding-top: 70px;
 	text-align: center;
+<<<<<<< HEAD
     font-size: 5vw;
+=======
+    font-size: 90px;
+>>>>>>> a893715e93c554d4833293a856550edc2657148a
     font-family: 'Raleway';
     padding-top: 110px;
     padding-bottom:50px;
@@ -647,6 +651,7 @@ a.anchor{
 }
 /* # changed value 35 to 28 */ 
 .translateX-35px{
+
     transform: translateX(1vw);
     -webkit-transform: translateX(1vw);
     -moz-transform: translateX(1vw);
@@ -683,3 +688,4 @@ a.anchor{
     transform: translateY(-4px);
     -webkit-transform: translateY(-4px);
 }
+
