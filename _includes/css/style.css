@@ -677,6 +677,16 @@ a.anchor{
 	filter: grayscale(0%)!important;
 }
 
+.intro-panel{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+ 
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
 .kixlab-logo{
 }
 #src{
