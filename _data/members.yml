@@ -13,7 +13,7 @@
               career: Director
               img: juhokim.jpg
               site: http://juhokim.com
-        - positionName: Graudate Students
+        - positionName: Graduate Students
           positionMembers:
             - name: Minsuk Chang
               email: minsuk@kaist.ac.kr
@@ -26,9 +26,10 @@
             - name: Jiwoo Park
               email: shapley_aldebaran@kaist.ac.kr
               career:
+                - (Right in the Photo)
                 - Summer Research Intern
               interest: KIXLAB
-              img: team01.jpg
+              img: hyeungshik&jiwoo.jpg
               site: ''
             - name: Hyungyu Shin
               email: hyungyu.sh@kaist.ac.kr
@@ -46,8 +47,9 @@
             - name: Hyeungshik Jung
               email: cescc@snu.ac.kr
               career:
+                - (Left in the Photo)
                 - Summer Research Intern
-              img: team01.jpg
+              img: hyeungshik&jiwoo.jpg
               site: ''
             - name: Taekyung Park
               email: kibi0620@gmail.com
@@ -62,6 +64,19 @@
               img: team01.jpg
               site: 'http://juhojuho.com'
 
+        - positionName: Special Thanks To
+          positionMembers:
+            - name: Coffee Machine
+              email: YouCanSleep@WhenYouDead
+              img: CoffeeMachine.jpg
+              career:
+                - DeLongHi
+              site: ''
+            - name: Coffee Pot
+              email: CoffeePot@HotWater
+              img: CoffeePot.jpg
+              career:
+                - Russel Hobbs
 
 ## Members who had been in KIXLAB
 #- stateObj:

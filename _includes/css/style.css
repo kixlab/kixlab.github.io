@@ -222,7 +222,7 @@ a:focus {
 	min-height: 0px;
 	padding-top: 70px;
 	text-align: center;
-    font-size: 100px;
+    font-size: 5vw;
     font-family: 'Raleway';
     padding-top: 110px;
     padding-bottom:50px;
@@ -241,6 +241,13 @@ a:focus {
 #headerwrap .img-responsive {
 	margin: 0 auto;
 }
+
+@media only screen and (max-width: 500px) {
+	#headerwrap {
+		display: none;
+	}
+}
+
 /* Services Wrap */
 #service {
 	margin-bottom: 0px;
@@ -507,6 +514,18 @@ a.anchor{
     top: -80px;
     visibility: hidden;
 }
+/* #########
+# INTRO #
+########## */
+#intro-section p {
+	font-size: 17px;
+	line-height: 2;
+}
+
+.lab-intro {
+	margin: 100px 0px;
+}
+
 /* ##########
 # PROFILE #
 ########## */
@@ -524,7 +543,6 @@ a.anchor{
 
 .namecard {
 	width: 300px;
-	height: 370px;
 	float: left;
 	margin: 20px;
 	/*display: inline-block;*/
@@ -627,13 +645,41 @@ a.anchor{
 .inline-block{
     display:inline-block;
 }
-
+/* # changed value 35 to 28 */ 
 .translateX-35px{
-    transform: translateX(35px);
-    -webkit-transform: translateX(35px);
-    -moz-transform: translateX(35px);
-    -ms-transform: translateX(35px);
-    -o-transform: translateX(35px);
+    transform: translateX(1vw);
+    -webkit-transform: translateX(1vw);
+    -moz-transform: translateX(1vw);
+    -ms-transform: translateX(1vw);
+    -o-transform: translateX(1vw);
+}
+.translateX-2{
+    transform: translateX(2.7vw);
+    -webkit-transform: translateX(2.7vw);
+    -moz-transform: translateX(2.7vw);
+    -ms-transform: translateX(2.7vw);
+    -o-transform: translateX(2.7vw);
 }
 
+.intro-img{
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	filter: grayscale(100%);
+}
+.intro-hover-img{
+	-webkit-filter: grayscale(0%)!important;
+	-moz-filter: grayscale(0%)!important;
+	-o-filter: grayscale(0%)!important;
+	-ms-filter: grayscale(0%)!important;
+	filter: grayscale(0%)!important;
+}
 
+.kixlab-logo{
+}
+#src{
+    display: inline-block;
+    transform: translateY(-4px);
+    -webkit-transform: translateY(-4px);
+}

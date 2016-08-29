@@ -22,4 +22,15 @@ Go to `_posts/news`
       url: <link to those material>
     " You can add multiple materials append '-' "
   award: <if you get an award then write it here"
+  link: <add link to your paper>
 ```
+
+## How to Add new projects
+1. Go to `_data/project.yml
+2. Append information in the following form
+```
+- title: <title of your project>
+  img: <thumbnail of your project>
+  author: <Your name>
+  desc: <description of your project>
+
