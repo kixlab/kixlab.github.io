@@ -531,6 +531,13 @@ a.anchor{
 ########## */
 .position-members {
 	overflow: hidden;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
 }
 .position-members:after {
 	content: " ";
@@ -645,7 +652,7 @@ a.anchor{
 .inline-block{
     display:inline-block;
 }
-/* # changed value 35 to 28 */ 
+/* # changed value 35 to 28 */
 .translateX-35px{
 
     transform: translateX(1vw);
@@ -681,7 +688,7 @@ a.anchor{
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
- 
+
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
