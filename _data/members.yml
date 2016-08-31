@@ -21,6 +21,12 @@
               img: minsukJang.jpg
               interest: Humans, Computers and Pizzas :)
               site: ''
+            - name: Paul Grau
+              email: grau@kaist.ac.kr
+              career: MSc. candidate
+              img: paul.jpg
+              interest: Web Development and humans
+              site: http://graycoding.com
         - positionName: Undergraduates
           positionMembers:
             - name: Jiwoo Park
