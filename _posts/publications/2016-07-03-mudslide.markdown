@@ -1,0 +1,23 @@
+---
+layout: projects
+title: "How a Freeform Spatial Interface Supports Simple Problem Solving Tasks"
+date: 2016-07-02 00:00:00
+categories:
+- journal
+- publication
+author:
+- Author1
+- Author2
+- Author3
+venue: "CHI 2018"
+award: "Best of CHI Honorable Mention"
+materials:
+- type: video
+  url: "http://www.naver.com"
+- type: Office Mix
+  url: "sdfsdf"
+
+link: "http://www.google.com"
+---
+
+
