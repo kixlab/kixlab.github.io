@@ -529,6 +529,12 @@ a.anchor{
 /* ##########
 # PROFILE #
 ########## */
+.group-photo {
+    text-align: center;
+}
+.group-photo img {
+    max-width: 500px;
+}
 .position-members {
 	overflow: hidden;
 	display: -webkit-flex;
