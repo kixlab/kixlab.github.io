@@ -1,7 +1,7 @@
 <div id="publicationwrap">
         <h3 class="where"> Journal </h3>
         <ul class="publications">
-        {% for paper in site.data.publication.journal %}
+        {% for paper in site.data.publications.journal %}
             <li>
                 <a href="{{paper.link}}" class="title">{{paper.title }}</a>
                 <div class="author">
@@ -24,7 +24,7 @@
         <div class="spacing"></div>
         <h3 class="where"> Conference </h3>
         <ul class="publications">
-        {% for paper in site.data.publication.conference %}
+        {% for paper in site.data.publications.conference %}
             <li>
                 <a href="{{paper.link}}" class="title">{{paper.title}}</a>
                 <div class="author">
@@ -47,7 +47,7 @@
         <div class="spacing"></div>
         <h3 class="where"> Others </h3>
         <ul class="publications">
-        {% for paper in site.data.publication.others %}
+        {% for paper in site.data.publications.others %}
             <li>
                 <a href="{{paper.link}}" class="title">{{paper.title}}</a>
                 <div class="author">

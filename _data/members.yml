@@ -13,7 +13,7 @@
           positionMembers:
             - name: Juho Kim
               email: juhokim@kaist.ac.kr
-              career: Director
+              career: Assistant Professor
               img: juhokim.jpg
               site: http://juhokim.com
 
@@ -23,7 +23,7 @@
           positionMembers:
             - name: Minsuk Chang
               email: minsuk@kaist.ac.kr
-              career: Ph.D candidate
+              career: Ph.D. candidate
               img: minsuk.jpg
               interest: Humans, Computers and Pizzas :)
               site: ''
@@ -37,7 +37,7 @@
 
             - name: Yoo Jin Lim
               email: yjlim@kaist.ac.kr
-              career: Ph.D candidate
+              career: Ph.D. candidate
               img: yjlim.JPG
               site: ''              
 
@@ -52,6 +52,15 @@
                 - (Left in the Photo)
                 - Independent Research
               img: hyeungshik.jpg
+              site: ''
+
+            - name: Jiwoo Park
+              email: shapley_aldebaran@kaist.ac.kr
+              career:
+                - (Right in the Photo)
+                - Research Intern
+              interest: KIXLAB
+              img: jiwoo.jpg
               site: ''
 
             - name: Hyungyu Shin
@@ -80,15 +89,6 @@
               img: dongkwan.jpg
               site: ''
 
-            - name: Jiwoo Park
-              email: shapley_aldebaran@kaist.ac.kr
-              career:
-                - (Right in the Photo)
-                - Summer Research Intern
-              interest: KIXLAB
-              img: jiwoo.jpg
-              site: ''
-
             - name: Taekyung Park
               email: kibi0620@gmail.com
               career:
@@ -101,7 +101,7 @@
         - positionName: Special Thanks To
           positionMembers:
             - name: Coffee Machine
-              email: YouCanSleep@WhenYouDead
+              email: YouCanSleep@WhenYouAreDead
               img: CoffeeMachine.jpg
               career:
                 - DeLongHi
@@ -112,4 +112,5 @@
               img: CoffeePot.jpg
               career:
                 - Russel Hobbs
+              site: ''
 
