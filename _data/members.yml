@@ -6,6 +6,9 @@
 - stateObj:
     statename: People at KIXLAB
     position:
+
+## --------------Faculty----------------------------
+
         - positionName: Faculty
           positionMembers:
             - name: Juho Kim
@@ -13,6 +16,9 @@
               career: Director
               img: juhokim.jpg
               site: http://juhokim.com
+
+## --------------Graduate Students------------------
+
         - positionName: Graduate Students
           positionMembers:
             - name: Minsuk Chang
@@ -21,19 +27,59 @@
               img: minsuk.jpg
               interest: Humans, Computers and Pizzas :)
               site: ''
-            - name: Yoo Jin Lim
-              email: yjlim@kaist.ac.kr
-              career: Ph.D candidate
-              img: yjlim.JPG
-              site: ''              
+
             - name: Paul Grau
               email: grau@kaist.ac.kr
               career: MSc. candidate
               img: paul.jpg
               interest: Web Development and humans
               site: http://graycoding.com
+
+            - name: Yoo Jin Lim
+              email: yjlim@kaist.ac.kr
+              career: Ph.D candidate
+              img: yjlim.JPG
+              site: ''              
+
+
+## ---------------Undergraduates--------------------
+
         - positionName: Undergraduates
           positionMembers:
+            - name: Hyeungshik Jung
+              email: cescc@snu.ac.kr
+              career:
+                - (Left in the Photo)
+                - Independent Research
+              img: hyeungshik.jpg
+              site: ''
+
+            - name: Hyungyu Shin
+              email: hyungyu.sh@kaist.ac.kr
+              career:
+                - Research Intern
+              interest: KIXLAB
+              img: hyungyu.jpg
+              site: ''
+
+            - name: Juho Sun
+              email: soju@kaist.ac.kr
+              career:
+                - Independent Research
+              img: juhosun.png
+              site: 'http://juhojuho.com'
+
+## --------------Alumni---------------------------
+
+        - positionName: Alumni
+          positionMembers:
+            - name: Dongkwan Kim
+              email: dong112d@kaist.ac.kr
+              career:
+                - Summer Research Intern
+              img: dongkwan.jpg
+              site: ''
+
             - name: Jiwoo Park
               email: shapley_aldebaran@kaist.ac.kr
               career:
@@ -42,38 +88,15 @@
               interest: KIXLAB
               img: jiwoo.jpg
               site: ''
-            - name: Hyungyu Shin
-              email: hyungyu.sh@kaist.ac.kr
-              career:
-                - Summer Research Intern
-              interest: KIXLAB
-              img: hyungyu.jpg
-              site: ''
-            - name: Dongkwan Kim
-              email: dong112d@kaist.ac.kr
-              career:
-                - Summer Research Intern
-              img: dongkwan.jpg
-              site: ''
-            - name: Hyeungshik Jung
-              email: cescc@snu.ac.kr
-              career:
-                - (Left in the Photo)
-                - Summer Research Intern
-              img: hyeungshik.jpg
-              site: ''
+
             - name: Taekyung Park
               email: kibi0620@gmail.com
               career:
                 - Summer Research Intern
               img: taekyung.jpg
               site: ''
-            - name: Juho Sun
-              email: soju@kaist.ac.kr
-              career:
-                - Independent Research
-              img: juhosun.png
-              site: 'http://juhojuho.com'
+
+## -------------Special----------------------------
 
         - positionName: Special Thanks To
           positionMembers:
@@ -83,23 +106,10 @@
               career:
                 - DeLongHi
               site: ''
+
             - name: Coffee Pot
               email: CoffeePot@HotWater
               img: CoffeePot.jpg
               career:
                 - Russel Hobbs
 
-## Members who had been in KIXLAB
-#- stateObj:
-#    statename: ALUMNI
-#    statemembers:
-#        - name: Alumni1
-#          position: Working
-#          text: CEO
-#          img: team04.jpg
-#          state: sdf
-#        - name: Alumni2
-#          position: Working
-#          text: CEO2
-#          img: team02.jpg
-#          state: Cool
