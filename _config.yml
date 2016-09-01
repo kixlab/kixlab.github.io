@@ -2,7 +2,9 @@
 
 # Site settings
 title: KIXLAB
-description: "The KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction research in the School of Computing at KAIST. We build interactive systems that support interaction at scale: crowdsourcing and human computation, online education and learning at scale, civic engagement and collective action, and interactive data analytics and mining. We often take an interdisciplinary approach to our research, by connecting computer science with learning science, psychology, and sociology, and aim to deploy our systems to real users."
+description: "The KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction 
+research in the School of Computing at KAIST. We build interactive systems that support interaction at scale. We often take an interdisciplinary approach to our research, by connecting computer science with learning science and 
+social science, and aim to deploy our systems to real users."
 analytics: UA-50546869-2
 baseurl: "" #important: start with /
 url: "http://kixlab.github.io"
@@ -27,10 +29,10 @@ colors:  #in hex code if not noted else
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - KAIST N1 624
+    - Building N1 Room 624, KAIST
     - 291 Daehak-ro, Yuseong-gu, Daejeon 34141
     - Republic of Korea
-email: kixlab@kixlab.org
+email: kixlab.kaist@gmail.com
 tel: "+82 42 350 7865"
 
 
