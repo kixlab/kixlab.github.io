@@ -246,6 +246,9 @@ a:focus {
 	#headerwrap {
 		display: none;
 	}
+	#intro-section {
+		padding-top: 70px;
+	}
 }
 
 /* Services Wrap */
