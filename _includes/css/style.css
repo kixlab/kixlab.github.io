@@ -698,3 +698,9 @@ a.anchor{
     -webkit-transform: translateY(-4px);
 }
 
+.height-100{
+    height: 100%;
+}
+.navbar-brand{
+    padding: 0;
+}
