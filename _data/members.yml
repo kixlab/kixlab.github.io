@@ -91,6 +91,13 @@
                 - URP Program
               img: hyunsung.jpg
               site: ''
+              
+            - name: Soya Park
+              email: soya@kaist.ac.kr
+              career:
+                - Research Intern
+              img: soya.jpg
+              site: 'https://kr.linkedin.com/in/soya-park-b3465a88'
 
 ## --------------Alumni---------------------------
 
