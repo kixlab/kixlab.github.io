@@ -7,7 +7,7 @@ Our lab's website
 3. You can add your name, email, homepage
 
 ### How to Add Latest News
-Go to `_posts/news`
+Go to `_posts/news.yml`
 
 ## How to Add NEW publications
 1. Go to `_data/publication`
@@ -26,11 +26,11 @@ Go to `_posts/news`
 ```
 
 ## How to Add new projects
-1. Go to `_data/project.yml
+1. Go to `_data/project.yml`
 2. Append information in the following form
-```
+```yml
 - title: <title of your project>
   img: <thumbnail of your project>
   author: <Your name>
   desc: <description of your project>
-
+```
