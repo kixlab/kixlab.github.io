@@ -4,7 +4,7 @@
         <div class="recentitems portfolio">
             {% for project in site.data.projects limit:include.limit %}
 
-                <div class="row">
+                <div class="row" style="height:100px; overflow:auto">
                     <div class="col-xs-4">
                     <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ project.img }}" alt="">
 
