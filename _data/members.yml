@@ -39,7 +39,7 @@
               email: yjlim@kaist.ac.kr
               career: Ph.D. candidate
               img: yjlim.JPG
-              site: ''              
+              site: ''
 
             - name: Sung-Chul LEE
               email: leesungchul@kaist.ac.kr
@@ -52,7 +52,7 @@
         - positionName: Undergraduates
           positionMembers:
             - name: Hyeungshik Jung
-              email: cescc@snu.ac.kr
+              email: hyeungshik.jung@kaist.ac.kr
               career:
                 - (Left in the Photo)
                 - Independent Research
@@ -96,14 +96,14 @@
                 - URP Program
               img: hyunsung.jpg
               site: ''
-              
+
             - name: Soya Park
               email: soya@kaist.ac.kr
               career:
                 - Research Intern
               img: soya.jpg
               site: 'https://kr.linkedin.com/in/soya-park-b3465a88'
-              
+
             - name: Ching Liu
               email: liuching@kaist.ac.kr
               career:
