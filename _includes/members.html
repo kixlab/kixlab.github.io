@@ -15,7 +15,7 @@
             <h4> We have no {{position.positionName}}</h4>
         {% endunless %}
         <div class="position-members">
-        {% assign sorted_members = (position.positionMembers | sort: 'name' %}
+        {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}
         {% for member in sorted_members %}
             <div class='namecard'>
                 <div class='person-img-wrap'>
