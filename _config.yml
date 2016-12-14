@@ -5,7 +5,7 @@ title: KIXLAB
 description: "The KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction 
 research in the School of Computing at KAIST. We build interactive systems that support interaction at scale. We often take an interdisciplinary approach to our research, by connecting computer science with learning science and 
 social science, and aim to deploy our systems to real users."
-analytics: UA-50546869-2
+analytics: ""
 baseurl: "" #important: start with /
 url: "http://kixlab.github.io"
 
