@@ -12,6 +12,7 @@
         - positionName: Faculty
           positionMembers:
             - name: Juho Kim
+              lastName: Kim
               email: juhokim@kaist.ac.kr
               career: Assistant Professor
               img: juhokim.jpg
@@ -22,13 +23,15 @@
         - positionName: Graduate Students
           positionMembers:
             - name: Minsuk Chang
+              lastname: Chang
               email: minsuk@kaist.ac.kr
               career: Ph.D. candidate
               img: minsuk.jpg
               interest: Humans, Computers and Pizzas :)
-              site: ''
+              site: https://minsukchang.github.io/
 
             - name: Paul Grau
+              lastName: Grau
               email: grau@kaist.ac.kr
               career: MSc. candidate
               img: paul.jpg
@@ -36,18 +39,32 @@
               site: http://graycoding.com
 
             - name: Yoo Jin Lim
+              lastName: Lim
               email: yjlim@kaist.ac.kr
               career: Ph.D. candidate
               img: yjlim.JPG
-              site: ''              
+              site: ''
 
+            - name: Sung-Chul LEE
+              lastName: Lee
+              email: leesungchul@kaist.ac.kr
+              career: Ph.D. candidate
+              img: sclee.png
+              site: ''
 
+            - name: Jeanyoung Song
+              lastName: Song
+              email: jyskwon@umich.edu
+              career: Visiting Ph.D. student
+              img: profile_jean.jpg
+              site: ''
 ## ---------------Undergraduates--------------------
 
         - positionName: Undergraduates
           positionMembers:
             - name: Hyeungshik Jung
-              email: cescc@snu.ac.kr
+              lastName: Jung
+              email: hyeungshik.jung@kaist.ac.kr
               career:
                 - (Left in the Photo)
                 - Independent Research
@@ -55,6 +72,7 @@
               site: ''
 
             - name: Jiwoo Park
+              lastName: Park
               email: shapley_aldebaran@kaist.ac.kr
               career:
                 - (Right in the Photo)
@@ -64,6 +82,7 @@
               site: ''
 
             - name: Hyungyu Shin
+              lastName: Shin
               email: hyungyu.sh@kaist.ac.kr
               career:
                 - Research Intern
@@ -72,6 +91,7 @@
               site: ''
 
             - name: Juho Sun
+              lastName: Sun
               email: soju@kaist.ac.kr
               career:
                 - Independent Research
@@ -79,6 +99,7 @@
               site: 'http://juhojuho.com'
 
             - name: Dongkwan Kim
+              lastName: Kim
               email: dong112d@kaist.ac.kr
               career:
                 - Independent Research
@@ -86,20 +107,23 @@
               site: ''
 
             - name: Hyunsung Cho
+              lastName: Cho
               email: hscho1226@gmail.com
               career:
                 - URP Program
               img: hyunsung.jpg
               site: ''
-              
+
             - name: Soya Park
+              lastName: Park
               email: soya@kaist.ac.kr
               career:
                 - Research Intern
               img: soya.jpg
               site: 'https://kr.linkedin.com/in/soya-park-b3465a88'
-              
+
             - name: Ching Liu
+              lastName: Liu
               email: liuching@kaist.ac.kr
               career:
                 - Independent Research
@@ -110,6 +134,7 @@
         - positionName: Alumni
           positionMembers:
             - name: Taekyung Park
+              lastName: Park
               email: kibi0620@gmail.com
               career:
                 - Summer Research Intern
@@ -121,7 +146,6 @@
         - positionName: Special Thanks To
           positionMembers:
             - name: Coffee Machine
-              email: YouCanSleep@WhenYouAreDead
               img: CoffeeMachine.jpg
               career:
                 - DeLongHi

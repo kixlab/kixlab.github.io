@@ -2,14 +2,17 @@
 Our lab's website
 
 ## How to Add NEW Memebers
+
 1. Go to `_data/members.yml`
 2. Edit or add what you want
 3. You can add your name, email, homepage
 
-### How to Add Latest News
+## How to Add Latest News
+
 Go to `_posts/news.yml`
 
 ## How to Add NEW publications
+
 1. Go to `_data/publication`
 2. Select yml file that your new publication published
 3. Then append following informations in the form
@@ -26,6 +29,7 @@ Go to `_posts/news.yml`
 ```
 
 ## How to Add new projects
+
 1. Go to `_data/project.yml`
 2. Append information in the following form
 ```yml
@@ -34,3 +38,14 @@ Go to `_posts/news.yml`
   author: <Your name>
   desc: <description of your project>
 ```
+
+## How to check changes you made locally, before push or PR
+
+```sh
+bundle install && jekyll serve
+```
+or
+```sh
+docker run --rm -p 4000:4000 -v "$(pwd):/src" -it zxzl/kixlab-homepage jekyll serve --host=0.0.0.0
+```
+Then visit `localhost:4000` at your browser.
