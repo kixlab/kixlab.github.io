@@ -18,9 +18,11 @@
         {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}
         {% for member in sorted_members %}
             <div class='namecard'>
-                <div class='person-img-wrap'>
-                    <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="{{member.name}}"/>
-                </div>
+                {% if position.positionName != 'Alumni' %}
+                    <div class='person-img-wrap'>
+                        <img src="{{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}" alt="{{member.name}}"/>
+                    </div>
+                {% endif %}
                 {% if member.site != '' %}
                     <a href="{{member.site}}"><h4 class="member-name">{{member.name}}</h4></a>
                 {% else %}
