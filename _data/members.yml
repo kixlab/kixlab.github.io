@@ -71,16 +71,6 @@
               img: hyeungshik.jpg
               site: ''
 
-            - name: Jiwoo Park
-              lastName: Park
-              email: shapley_aldebaran@kaist.ac.kr
-              career:
-                - (Right in the Photo)
-                - Research Intern
-              interest: KIXLAB
-              img: jiwoo.jpg
-              site: ''
-
             - name: Hyungyu Shin
               lastName: Shin
               email: hyungyu.sh@kaist.ac.kr
@@ -88,22 +78,6 @@
                 - Research Intern
               interest: KIXLAB
               img: hyungyu.jpg
-              site: ''
-
-            - name: Juho Sun
-              lastName: Sun
-              email: soju@kaist.ac.kr
-              career:
-                - Independent Research
-              img: juhosun.png
-              site: 'http://juhojuho.com'
-
-            - name: Dongkwan Kim
-              lastName: Kim
-              email: dong112d@kaist.ac.kr
-              career:
-                - Independent Research
-              img: dongkwan.jpg
               site: ''
 
             - name: Hyunsung Cho
@@ -122,12 +96,31 @@
               img: soya2.jpg
               site: 'https://soyapark45.github.io/soya/'
 
-            - name: Ching Liu
-              lastName: Liu
-              email: liuching@kaist.ac.kr
+
+
+            - name: Deokseong Kim
+              lastName: Kim
+              email: stuzeakd@kaist.ac.kr
               career:
                 - Independent Research
-              img: jean.jpg
+              img: deokseong.jpg
+              site: ''
+
+            - name: Kyungje Jo
+              lastName: Jo
+              email: kyungjejo@kaist.ac.kr
+              career:
+                - URP Program
+              img: kyungje.jpg
+              site: ''
+
+            - name: Jaesung Huh
+              lastName: Huh
+              email: gasop@snu.ac.kr
+              career:
+                - Research Intern
+              img: jaesung.jpg
+              site: ''
 
 ## --------------Alumni---------------------------
 
@@ -139,6 +132,39 @@
               career:
                 - Summer Research Intern
               img: taekyung.jpg
+              site: ''
+
+            - name: Jiwoo Park
+              lastName: Park
+              email: shapley_aldebaran@kaist.ac.kr
+              career:
+                - Research Intern
+              interest: KIXLAB
+              img: jiwoo.jpg
+              site: ''
+
+            - name: Juho Sun
+              lastName: Sun
+              email: soju@kaist.ac.kr
+              career:
+                - Independent Research
+              img: juhosun.png
+              site: 'http://juhojuho.com'
+
+            - name: Dongkwan Kim
+              lastName: Kim
+              email: dong112d@kaist.ac.kr
+              career:
+                - Independent Research
+              img: dongkwan.jpg
+              site: ''
+
+            - name: Ching Liu
+              lastName: Liu
+              email: liuching@kaist.ac.kr
+              career:
+                - Independent Research
+              img: jean.jpg
               site: ''
 
 ## -------------Special----------------------------
