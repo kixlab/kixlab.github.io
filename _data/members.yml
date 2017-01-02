@@ -122,6 +122,14 @@
               img: jaesung.jpg
               site: ''
 
+            - name: Ching Liu
+              lastName: Liu
+              email: liuching@kaist.ac.kr
+              career:
+                - Independent Research
+              img: jean.jpg
+              site: ''
+
 ## --------------Alumni---------------------------
 
         - positionName: Alumni
@@ -157,14 +165,6 @@
               career:
                 - Independent Research
               img: dongkwan.jpg
-              site: ''
-
-            - name: Ching Liu
-              lastName: Liu
-              email: liuching@kaist.ac.kr
-              career:
-                - Independent Research
-              img: jean.jpg
               site: ''
 
 ## -------------Special----------------------------
