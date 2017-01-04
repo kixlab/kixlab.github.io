@@ -1,23 +1,19 @@
 <div id="portfoliowrap">
-    <div class="">
-        {% if include.title %}<h3 style="text-align:left" class="project_title">{{ include.title }}</h3>{% endif %}
-        <div class="recentitems portfolio">
-            {% for news in site.data.news limit:include.limit %}
-
-                <div class="row" >
-                    <div class="col-xs-4">
-                    <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ news.img }}" alt=""/>
-
-                    </div><!-- he wrap -->
-           
-                    <div class="col-xs-8">
+    {% if include.title %}<h3 style="text-align:left" class="project_title">{{ include.title }}</h3>{% endif %}
+    <div class="recentitems portfolio">
+        {% for news in site.data.news limit:include.limit %}
+            <div class="row">
+                <div class="col-xs-4">
+                    <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ news.img }}" />
+                </div>
+       
+                <div class="col-xs-8">
                     <a href="{{projects.url | prepend: site.baseurl }}">
-                            <h1 style="text-align:left" class="project_title">{{news.title}}</h1>
+                        <h1 style="text-align:left" class="project_title">{{news.title}}</h1>
                     </a>
-                            <p style="text-align:left">{{news.desc}}</p>
-            </div>
-            </div><!-- end col-12 -->
-            {% endfor %}
-        </div><!-- portfolio -->
-    </div><!-- portfolio container -->
-</div><!--/Portfoliowrap -->
+                    <p style="text-align:left">{{news.desc}}</p>
+                </div>
+            </div><!-- /row -->
+        {% endfor %}
+    </div><!-- /portfolio -->
+</div><!--/portfoliowrap -->
