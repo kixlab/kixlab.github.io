@@ -1,19 +1,19 @@
-<div id="portfoliowrap">
-    {% if include.title %}<h3 style="text-align:left" class="project_title">{{ include.title }}</h3>{% endif %}
-    <div class="recentitems portfolio">
-        {% for news in site.data.news limit:include.limit %}
-            <div class="row">
-                <div class="col-xs-4">
-                    <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ news.img }}" />
-                </div>
-       
-                <div class="col-xs-8">
-                    <a href="{{projects.url | prepend: site.baseurl }}">
-                        <h1 style="text-align:left" class="project_title">{{news.title}}</h1>
-                    </a>
-                    <p style="text-align:left">{{news.desc}}</p>
-                </div>
-            </div><!-- /row -->
-        {% endfor %}
-    </div><!-- /portfolio -->
-</div><!--/portfoliowrap -->
+{% if include.title %}<h1>{{ include.title }}</h1>{% endif %}
+
+<div class="recentitems portfolio">
+{% for post in site.categories.news limit:include.limit %}
+  <div class="row">
+    <div class="col-xs-4">
+        <img src="{{ "/assets/img/news/" | prepend: site.baseurl }}{{ post.thumb }}" />
+    </div>
+    <div class="col-xs-8">
+        <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
+            <h2 class="project_title">{{post.title}}</h2>
+        </a>
+        <p class="news-date">{{ post.date | date_to_long_string }}</p>
+        <p>{{ post.content }}</p>
+    </div>
+  </div><!-- /row -->
+{% endfor %}
+</div>
+

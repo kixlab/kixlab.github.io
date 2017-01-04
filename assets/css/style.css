@@ -81,12 +81,12 @@ a:focus {
 ::-moz-selection  {
 	color: #fff;
 	text-shadow:none;
-	background:{{ site.colors.secondary }};
+	background: #444;
 }
 ::selection {
 	color: #fff;
 	text-shadow:none;
-	background:{{ site.colors.secondary }};
+	background: #444;
 }
 
 .centered {
@@ -276,10 +276,27 @@ a:focus {
 	margin-bottom: 25px;
 }
 
+.portfoliowrap {
+    padding-top: 30px;
+    margin-bottom: 60px;
+}
+.portfoliowrap h1 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    text-transform: uppercase;
+}
+.portfoliowrap h2 {
+    margin-top: 0;
+}
+
 .portfolio {
 	padding:0 !important;
 	margin:0 !important;
 	display:block;
+}
+
+.portfolio .row {
+    margin-bottom: 20px;
 }
 
 
@@ -287,6 +304,9 @@ a:focus {
 .portfolio-item p {margin:0px 0 30px;}
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
+.news-date {
+    color: #888;
+}
 
 .tpl6 h3
 {

@@ -1,0 +1,12 @@
+---
+layout: post
+title: "CS492 Crowdsourcing course finished"
+date: 2016-12-30 00:00:00
+author: Admin
+categories: news
+img: cs492.jpg
+thumb: thumbs/cs492.jpg
+---
+
+In Fall 2016, Prof. Juho Kim from KIXLAB taught CS492: Crowdsourcing.
+Information about the class and students project gallery can be found [on the course website](http://kixlab.org/courses/crowdsourcing/index.html).

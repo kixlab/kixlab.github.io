@@ -3,15 +3,9 @@ layout: post
 title: "KIXLAB Open!"
 date: 2016-07-01 00:00:00
 author: Admin
-categories:
-- blog
-- News
-img: post02.jpg
-thumb: thumb02.jpg
+categories: news
+img: Kixlab_open.png
+thumb: thumbs/Kixlab_open.jpg
 ---
 
-# KIXLAB OPEN
-
-## KAIST IX Lab
-
-
+The new KAIST Interaction Lab has officially opened. We are kicking off with one Ph.D. student and five summer undergrad interns.
