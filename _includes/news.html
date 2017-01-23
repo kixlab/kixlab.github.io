@@ -1,19 +1,19 @@
 {% if include.title %}<h1>{{ include.title }}</h1>{% endif %}
 
 <div class="recentitems portfolio">
-{% for post in site.categories.news limit:include.limit %}
-  <div class="row">
-    <div class="col-xs-4">
-        <img src="{{ "/assets/img/news/" | prepend: site.baseurl }}{{ post.thumb }}" />
-    </div>
-    <div class="col-xs-8">
-        <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">
-            <h2 class="project_title">{{post.title}}</h2>
-        </a>
-        <p class="news-date">{{ post.date | date_to_long_string }}</p>
-        <p>{{ post.content }}</p>
-    </div>
-  </div><!-- /row -->
-{% endfor %}
+    {% for post in site.categories.news limit:include.limit %}
+    <div class="row">
+        <div class="col-xs-4">
+            <img src="{{ "/assets/img/news/" | prepend: site.baseurl }}{{ post.thumb }}" />
+        </div>
+        <div class="col-xs-8">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="project_title">{{post.title}}</h2>
+            </a>
+            <p class="news-date">{{ post.date | date_to_long_string }}</p>
+            <p>{{ post.content }}</p>
+        </div>
+    </div><!-- /row -->
+    {% endfor %}
 </div>
 
