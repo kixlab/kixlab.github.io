@@ -1,3 +1,6 @@
+---
+---
+
 /*	################################################################
 
 	Author: Carlos Alvarez
@@ -193,7 +196,7 @@ a:focus {
 }
 
 .mtb {
-	margin-top: 80px;
+	/*margin-top: 80px;*/
 	margin-bottom: 80px;
 }
 
@@ -202,7 +205,7 @@ a:focus {
 }
 
 .mt {
-	margin-top: 60px;
+	margin-bottom: 60px;
 }
 
 .hline {
@@ -420,14 +423,11 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: {{ site.colors.primary }};
-	margin-top: 60px;
-	margin-bottom: 60px;
+	margin-top: 80px;
 }
 
-#blue h3 {
-	color: white;
-	margin-left: 15px;
+.page-title {
+    color: #4E5280;
 }
 
 .carousel-inner > .item > img,

@@ -287,6 +287,9 @@ a:focus {
 .portfolio-item p {margin:0px 0 30px;}
 .portfolio-item h3 {margin:-10px 0 10px; font-size:16px; text-transform:uppercase;}
 
+.page-title {
+    color: #4E5280;
+}
 
 .tpl6 h3
 {
@@ -405,10 +408,6 @@ a:focus {
 	margin-bottom: 60px;
 }
 
-#blue h3 {
-	color: white;
-	margin-left: 15px;
-}
 
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
@@ -438,7 +437,7 @@ a:focus {
 	margin-bottom: 15px;
 }
 
-csmall {
+.csmall {
 	font-size: 12px;
 	color: #b3b3b3;
 }

@@ -1,18 +1,20 @@
 {% if include.title %}<h1>{{ include.title }}</h1>{% endif %}
-<div class="recentitems portfolio">
-    {% for project in site.data.projects limit:include.limit %}
-        <div class="row">
-            <div class="col-xs-4">
-                <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ project.img }}">
-            </div>
 
-            <div class="col-xs-8">
-                <a href="{{ project.url | prepend: site.baseurl }}">
-                    <h2 class="project_title">{{project.title}}</h2>
-                </a>
-                <p>{{project.desc}}</p>
-            </div>
-        </div><!-- end row -->
+<div class="recentitems portfolio">
+    {% for project in site.categories.projects limit:include.limit %}
+    <div class="row">
+        <div class="col-xs-4">
+            <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ project.img }}">
+        </div>
+
+        <div class="col-xs-8">
+            <a href="{{ project.url | prepend: site.baseurl }}">
+                <h2 class="project_title">{{project.title}}</h2>
+            </a>
+            <p>{{project.desc}}</p>
+            <p><a href="{{ project.url | prepend: site.baseurl }}">Details</a></p>
+        </div>
+    </div><!-- end row -->
     <div class="spacing"></div>
     {% endfor %}
 </div><!-- portfolio -->
