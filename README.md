@@ -9,8 +9,8 @@ Our lab's website
 
 ## How to Add Latest News
 
-Add a new file in `_posts/news/`.
-If the post has a picture, place it in assets/img/news, along with a thumbnail version in assets/img/news/thumbs.
+1. Add a new file in `_posts/news/`.
+2. If the post has a picture, place it in assets/img/news, along with a thumbnail version in assets/img/news/thumbs.
 
 ## How to Add NEW publications
 
