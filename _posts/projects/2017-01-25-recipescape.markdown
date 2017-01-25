@@ -5,8 +5,8 @@ date:   2017-01-25 00:00:00
 author: Admin
 categories:
 - projects
-img: default.png
-thumb: default.png
+img: 2017-recipescape.png
+thumb: 2017-recipescape.png
 website: 
 desc: "Enhancing video lectures; learner engagement; affinity between politicians"
 ---

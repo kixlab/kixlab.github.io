@@ -208,6 +208,10 @@ a:focus {
 	margin-bottom: 60px;
 }
 
+.projects-list {
+    margin-top: 20px;
+}
+
 .hline {
 	border-bottom: 2px solid {{ site.colors.secondary }};
 }
@@ -656,6 +660,7 @@ a.anchor{
 }
 .project_title{
         font-size: 20px;
+        margin-top: 0;
 }
 .typed-cursor{
     opacity: 1;
