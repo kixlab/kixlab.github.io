@@ -31,14 +31,8 @@ Our lab's website
 
 ## How to Add new projects
 
-1. Go to `_data/project.yml`
-2. Append information in the following form
-```yml
-- title: <title of your project>
-  img: <thumbnail of your project>
-  author: <Your name>
-  desc: <description of your project>
-```
+1. Add a new file in `_posts/projects/`.
+2. If the post has a picture, place it in assets/img/projects, along with a thumbnail version in assets/img/projects/thumbs.
 
 ## How to check changes you made locally, before push or PR
 
