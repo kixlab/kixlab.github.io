@@ -1,5 +1,6 @@
 # kixlab.github.io
-Our lab's website
+
+Our lab's website. We are using Jekyll, a static website generator.
 
 ## Adding content
 
@@ -11,7 +12,7 @@ Our lab's website
 
 ### News and projects
 
-1. Add a new file in `_posts/news/` (for example, by duplicating and renaming an existing one).
+1. Add a new file in `_posts/news/` or `_posts/projects/` (for example, by duplicating and renaming an existing one).
 2. You can write the content in Markdown format
 3. If the post has a picture, place it in assets/img/news, or assets/img/projects, respectively.
 
