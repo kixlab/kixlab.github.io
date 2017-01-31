@@ -6,7 +6,6 @@ author: Admin
 categories:
 - projects
 img: 2017-recipescape.png
-thumb: 2017-recipescape.png
 website: 
 desc: "Enhancing video lectures; learner engagement; affinity between politicians"
 ---

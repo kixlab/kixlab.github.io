@@ -6,7 +6,6 @@ author: Admin
 categories:
 - projects
 img: 2016-summer-internship.jpg
-thumb: 2016-summer-internship.jpg
 website: 
 desc: "Enhancing video lectures; learner engagement; affinity between politicians"
 ---
