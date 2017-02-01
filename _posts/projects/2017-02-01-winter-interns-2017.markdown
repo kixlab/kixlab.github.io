@@ -1,7 +1,7 @@
 ---
 layout: projects
 title:  "2017 Winter Intern Projects"
-date:   2017-01-01 00:00:00
+date:   2017-02-01 00:00:00
 author: Admin
 categories:
 - projects
