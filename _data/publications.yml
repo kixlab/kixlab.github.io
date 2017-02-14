@@ -1,0 +1,62 @@
+papers:
+  - title: "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
+    author: "Minsuk Chang, Vivian Hare, Juho Kim, Maneesh Agrawala"
+    venue: "CHI 2017 Extended Abstracts"
+    material:
+      - type: <your material type name>
+        url: <link to those material>
+    award: ""
+    link: <add link to your paper>
+
+  - title: "PlayBetter: A Phone-based Baby Play Support System for Childcare Bystander Parents"
+    author: "Seokwoo Song, Juho Kim, John Kim"
+    venue: "CHI 2017 Extended Abstracts"
+    material:
+      - type: <your material type name>
+        url: <link to those material>
+    award: ""
+    link: <add link to your paper>
+
+  - title: "Connecting Instructors and Learning Scientists via Collaborative Dynamic Experimentation"
+    author: "Joseph Jay Williams, Anna Rafferty, Andrew Ang, Dustin Tingley, Walter Lasecki, Juho Kim"
+    venue: "CHI 2017 Extended Abstracts"
+    material:
+      - type: <your material type name>
+        url: <link to those material>
+    award: ""
+    link: <add link to your paper>
+
+  - title: "Tools for Dynamic Experimentation and Personalization"
+    author: "Joseph Jay Williams, Anna Rafferty, Samuel Maldonado, Andrew Ang, Dustin Tingley, Juho Kim"
+    venue: "Learning at Scale 2017 Work-in-Progress"
+    material:
+      - type: <your material type name>
+        url: <link to those material>
+    award: ""
+    link: <add link to your paper>
+
+  - title: "Designing Interactive Distance Cartograms to Support Urban Travelers"
+    author: "Sungsoo (Ray) Hong, Rafal Kocielnik, Min-Joon Yoo, Sarah Battersby, Juho Kim, Cecilia Aragon"
+    venue: "PacificVis 2017"
+    material:
+      - type: <your material type name>
+        url: <link to those material>
+    award: ""
+    link: <add link to your paper>
+
+  - title: "Micro-NGO: Crowd-Driven Social Activism Via A Chat-Based Online Platform"
+    author: "Sungchul Lee, Jihee Kim, Juho Kim"
+    venue: "CSCW 2017 Workshop on Crowdsourcing Law and Policy"
+    material:
+      - type: <your material type name>
+        url: <link to those material>
+    award: ""
+    link: <add link to your paper>
+
+
+
+
+
+
+
+
