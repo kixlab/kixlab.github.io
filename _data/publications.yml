@@ -53,10 +53,11 @@ papers:
     award: ""
     link: <add link to your paper>
 
-
-
-
-
-
-
-
+  - title: "\"Don’t Bother Me. I’m Socializing!\": A Breakpoint-Based Smartphone Notification System"
+    author: "Chunjong Park, Junsung Lim, Juho Kim, Sung-Ju Lee, Dongman Lee"
+    venue: "CSCW 2017"
+    material:
+      - type: <your material type name>
+        url: <link to those material>
+    award: ""
+    link: <add link to your paper>
