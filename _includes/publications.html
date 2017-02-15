@@ -2,7 +2,11 @@
         <ul class="publications">
         {% for paper in site.data.publications.papers %}
             <li>
-                <a href="{{paper.link}}" class="title">{{paper.title}}</a>
+                {% if paper.link == "" or paper.link == "<add link to your paper>" %}
+                    <span title="Camera-ready version available soon!" class="title">{{paper.title}}</span>
+                {% else %}
+                    <a href="{{paper.link}}" class="title">{{paper.title}}</a>
+                {% endif %}
                 <div class="author">
                         {% for author in paper.author %}
                             {{ author }}

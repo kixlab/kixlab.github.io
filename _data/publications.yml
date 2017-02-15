@@ -6,7 +6,7 @@ papers:
       - type: <your material type name>
         url: <link to those material>
     award: ""
-    link:
+    link: <add link to your paper>
 
   - title: "PlayBetter: A Phone-based Baby Play Support System for Childcare Bystander Parents"
     author: "Seokwoo Song, Juho Kim, John Kim"
@@ -15,7 +15,7 @@ papers:
       - type: <your material type name>
         url: <link to those material>
     award: ""
-    link:
+    link: <add link to your paper>
 
   - title: "Connecting Instructors and Learning Scientists via Collaborative Dynamic Experimentation"
     author: "Joseph Jay Williams, Anna Rafferty, Andrew Ang, Dustin Tingley, Walter Lasecki, Juho Kim"
@@ -24,7 +24,7 @@ papers:
       - type: <your material type name>
         url: <link to those material>
     award: ""
-    link:
+    link: <add link to your paper>
 
   - title: "Tools for Dynamic Experimentation and Personalization"
     author: "Joseph Jay Williams, Anna Rafferty, Samuel Maldonado, Andrew Ang, Dustin Tingley, Juho Kim"
@@ -33,7 +33,7 @@ papers:
       - type: <your material type name>
         url: <link to those material>
     award: ""
-    link:
+    link: <add link to your paper>
 
   - title: "Designing Interactive Distance Cartograms to Support Urban Travelers"
     author: "Sungsoo (Ray) Hong, Rafal Kocielnik, Min-Joon Yoo, Sarah Battersby, Juho Kim, Cecilia Aragon"
@@ -42,7 +42,7 @@ papers:
       - type: <your material type name>
         url: <link to those material>
     award: ""
-    link:
+    link: <add link to your paper>
 
   - title: "Changing News Media Landscape in South Korea"
     author: "Hongjun Lim, Choongho Chung, Jihee Kim, Juho Kim, Sue Moon, Meeyoung Cha"
@@ -60,7 +60,7 @@ papers:
       - type: <your material type name>
         url: <link to those material>
     award: ""
-    link:
+    link: <add link to your paper>
 
   - title: "\"Don’t Bother Me. I’m Socializing!\": A Breakpoint-Based Smartphone Notification System"
     author: "Chunjong Park, Junsung Lim, Juho Kim, Sung-Ju Lee, Dongman Lee"
