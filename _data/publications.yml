@@ -2,7 +2,7 @@ papers:
   - title: "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
     author: "Minsuk Chang, Vivian Hare, Juho Kim, Maneesh Agrawala"
     venue: "CHI 2017 Extended Abstracts"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
@@ -11,7 +11,7 @@ papers:
   - title: "PlayBetter: A Phone-based Baby Play Support System for Childcare Bystander Parents"
     author: "Seokwoo Song, Juho Kim, John Kim"
     venue: "CHI 2017 Extended Abstracts"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
@@ -20,7 +20,7 @@ papers:
   - title: "Connecting Instructors and Learning Scientists via Collaborative Dynamic Experimentation"
     author: "Joseph Jay Williams, Anna Rafferty, Andrew Ang, Dustin Tingley, Walter Lasecki, Juho Kim"
     venue: "CHI 2017 Extended Abstracts"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
@@ -29,7 +29,7 @@ papers:
   - title: "Tools for Dynamic Experimentation and Personalization"
     author: "Joseph Jay Williams, Anna Rafferty, Samuel Maldonado, Andrew Ang, Dustin Tingley, Juho Kim"
     venue: "Learning at Scale 2017 Work-in-Progress"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
@@ -38,7 +38,7 @@ papers:
   - title: "Designing Interactive Distance Cartograms to Support Urban Travelers"
     author: "Sungsoo (Ray) Hong, Rafal Kocielnik, Min-Joon Yoo, Sarah Battersby, Juho Kim, Cecilia Aragon"
     venue: "PacificVis 2017"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
@@ -47,7 +47,7 @@ papers:
   - title: "Changing News Media Landscape in South Korea"
     author: "Hongjun Lim, Choongho Chung, Jihee Kim, Juho Kim, Sue Moon, Meeyoung Cha"
     venue: "WWW 2017 Workshop on Social News On the Web"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
@@ -56,7 +56,7 @@ papers:
   - title: "Micro-NGO: Crowd-Driven Social Activism Via A Chat-Based Online Platform"
     author: "Sungchul Lee, Jihee Kim, Juho Kim"
     venue: "CSCW 2017 Workshop on Crowdsourcing Law and Policy"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
@@ -65,7 +65,7 @@ papers:
   - title: "\"Don’t Bother Me. I’m Socializing!\": A Breakpoint-Based Smartphone Notification System"
     author: "Chunjong Park, Junsung Lim, Juho Kim, Sung-Ju Lee, Dongman Lee"
     venue: "CSCW 2017"
-    material:
+    materials:
       - type: <your material type name>
         url: <link to those material>
     award: ""
