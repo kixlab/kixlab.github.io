@@ -1,72 +1,98 @@
+# Topics: datamining, crowdsourcing, learning, civics
+
 papers:
   - title: "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
     author: "Minsuk Chang, Vivian Hare, Juho Kim, Maneesh Agrawala"
     venue: "CHI 2017 Extended Abstracts"
+    year: 2017
+    topics:
+      - datamining
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - label:
+        url:
     award: ""
-    link: <add link to your paper>
+    link: 
 
   - title: "PlayBetter: A Phone-based Baby Play Support System for Childcare Bystander Parents"
     author: "Seokwoo Song, Juho Kim, John Kim"
     venue: "CHI 2017 Extended Abstracts"
+    year: 2017
+    topics:
+      - datamining
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - label: 
+        url: 
     award: ""
-    link: <add link to your paper>
+    link: 
 
   - title: "Connecting Instructors and Learning Scientists via Collaborative Dynamic Experimentation"
     author: "Joseph Jay Williams, Anna Rafferty, Andrew Ang, Dustin Tingley, Walter Lasecki, Juho Kim"
     venue: "CHI 2017 Extended Abstracts"
+    year: 2017
+    topics:
+      - learning
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - label:
+        url:
     award: ""
-    link: <add link to your paper>
+    link:
 
   - title: "Tools for Dynamic Experimentation and Personalization"
     author: "Joseph Jay Williams, Anna Rafferty, Samuel Maldonado, Andrew Ang, Dustin Tingley, Juho Kim"
     venue: "Learning at Scale 2017 Work-in-Progress"
+    year: 2017
+    topics:
+      - crowdsourcing
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - label:
+        url:
     award: ""
-    link: <add link to your paper>
+    link:
 
   - title: "Designing Interactive Distance Cartograms to Support Urban Travelers"
     author: "Sungsoo (Ray) Hong, Rafal Kocielnik, Min-Joon Yoo, Sarah Battersby, Juho Kim, Cecilia Aragon"
     venue: "PacificVis 2017"
+    year: 2017
+    topics:
+      - civics
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - label:
+        url:
     award: ""
-    link: <add link to your paper>
+    link:
 
   - title: "Changing News Media Landscape in South Korea"
     author: "Hongjun Lim, Choongho Chung, Jihee Kim, Juho Kim, Sue Moon, Meeyoung Cha"
     venue: "WWW 2017 Workshop on Social News On the Web"
+    year: 2017
+    topics:
+      - civics
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - type:
+        url:
     award: ""
-    link: <add link to your paper>
+    link:
 
   - title: "Micro-NGO: Crowd-Driven Social Activism Via A Chat-Based Online Platform"
     author: "Sungchul Lee, Jihee Kim, Juho Kim"
     venue: "CSCW 2017 Workshop on Crowdsourcing Law and Policy"
+    year: 2017
+    topics:
+      - civics
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - label:
+        url:
     award: ""
-    link: <add link to your paper>
+    link:
 
   - title: "\"Don’t Bother Me. I’m Socializing!\": A Breakpoint-Based Smartphone Notification System"
     author: "Chunjong Park, Junsung Lim, Juho Kim, Sung-Ju Lee, Dongman Lee"
     venue: "CSCW 2017"
+    year: 2017
+    topics:
+      - datamining
     materials:
-      - type: <your material type name>
-        url: <link to those material>
+      - label:
+        url:
     award: ""
     link: "https://juhokim.com/files/CSCW2017-SCAN.pdf"
