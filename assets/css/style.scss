@@ -24,6 +24,9 @@
 		padding: 0px;
 	}
 
+
+
+
 body {
 	background: #f8f8f8;
 	margin: 0;
@@ -31,7 +34,13 @@ body {
 	color: {{ site.colors.secondary }};
 	font-family: 'Lato', sans-serif;
 	font-weight: 400;
+
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
 	}
+
+.container {flex: 1;}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Raleway', sans-serif;
