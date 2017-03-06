@@ -27,6 +27,8 @@ dummy
 
 .segmented-control {
     display: flex;
+    max-width: 100vw;
+    overflow: auto;
 }
 .segmented-control > * {
     display: inline-block;
@@ -72,7 +74,7 @@ dummy
     {% endfor %}
 
     <div class="filter-labels row">
-        <div class="col-xs-6">
+        <div class="col-xs-12 col-md-6">
             Research field
             <div class="segmented-control">
                 <label for="category-all" id="label-category-all">All</label>
@@ -81,7 +83,7 @@ dummy
                 {% endfor %}
             </div>
         </div>
-        <div class="col-xs-6">
+        <div class="col-xs-12 col-md-6">
             Type
             <div class="segmented-control">
                 <label for="type-all" id="label-type-all">All</label>
