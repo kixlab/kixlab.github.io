@@ -58,53 +58,35 @@
               career: Visiting Ph.D. student
               img: profile_jean.jpg
               site: ''
-## ---------------Undergraduates--------------------
 
-        - positionName: Undergraduates
-          positionMembers:
-            - name: Hyeungshik Jung
-              lastName: Jung
-              email: hyeungshik.jung@kaist.ac.kr
+            - name: Eunyoung Ko
+              lastName: Ko
+              email: key44@kaist.ac.kr
               career:
-                - (Left in the Photo)
-                - Independent Research
-              img: hyeungshik.jpg
+                - Visiting MS.c. student
+              img: 'eunyoung.jpg'
               site: ''
 
             - name: Hyungyu Shin
               lastName: Shin
               email: hyungyu.sh@kaist.ac.kr
               career:
-                - Research Intern
+                - MSc. candidate
               interest: KIXLAB
               img: hyungyu.jpg
               site: ''
 
-            - name: Hyunsung Cho
-              lastName: Cho
-              email: hscho1226@gmail.com
+            - name: Hyeungshik Jung
+              lastName: Jung
+              email: hyeungshik.jung@kaist.ac.kr
               career:
-                - URP Program
-              img: hyunsung.jpg
+                - MSc. candidate
+              img: hyeungshik.jpg
               site: ''
+## ---------------Undergraduates--------------------
 
-            - name: Soya Park
-              lastName: Park
-              email: soya@kaist.ac.kr
-              career:
-                - Research Intern
-              img: soya2.jpg
-              site: 'https://soyapark45.github.io/soya/'
-
-
-
-            - name: Deokseong Kim
-              lastName: Kim
-              email: stuzeakd@kaist.ac.kr
-              career:
-                - Independent Research
-              img: deokseong.jpg
-              site: ''
+        - positionName: Undergraduates
+          positionMembers:
 
             - name: Kyungje Jo
               lastName: Jo
@@ -114,20 +96,46 @@
               img: kyungje.jpg
               site: ''
 
-            - name: Jaesung Huh
-              lastName: Huh
-              email: gasop@snu.ac.kr
-              career:
-                - Research Intern
-              img: jaesung.jpg
-              site: ''
-
             - name: Ching Liu
               lastName: Liu
               email: liuching@kaist.ac.kr
               career:
                 - Independent Research
               img: jean.jpg
+              site: ''
+
+            - name: Jonghyuk Jung
+              lastName: Jung
+              email: jonghyuk101@kaist.ac.kr
+              career:
+                - Undergraduate Intern
+              img: 'jonghyuk.jpg'
+              site: ''
+
+            - name: Hyunwoo Kim
+              lastName: Kim
+              email: khw0726@kaist.ac.kr
+              career:
+                - Undergraduate Intern
+              img: 'hyunwoo.png'
+              site: ''
+
+            - name: Hyungwoo Kim
+              lastName: Kim
+              email: erickim713@kaist.ac.kr
+              career:
+                - Undergraduate Intern
+              img: 'hyungwoo.jpg'
+              site: ''
+
+        - positionName: Staffs
+          positionMembers:
+            - name: Oaksil Kim
+              lastName: Kim
+              email: oaksil79@gmail.com
+              career:
+                - Administrative Staff
+              img: oaksil.jpg
               site: ''
 
 ## --------------Alumni---------------------------
@@ -140,6 +148,14 @@
               career:
                 - Summer Research Intern
               img: taekyung.jpg
+              site: ''
+
+            - name: Jaesung Huh
+              lastName: Huh
+              email: gasop@snu.ac.kr
+              career:
+                - Research Intern
+              img: jaesung.jpg
               site: ''
 
             - name: Jiwoo Park
@@ -166,6 +182,33 @@
                 - Independent Research
               img: dongkwan.jpg
               site: ''
+
+            - name: Hyunsung Cho
+              lastName: Cho
+              email: hscho1226@gmail.com
+              career:
+                - URP Program
+              img: hyunsung.jpg
+              site: ''
+
+            - name: Soya Park
+              lastName: Park
+              email: soya@kaist.ac.kr
+              career:
+                - Research Intern
+              img: soya2.jpg
+              site: 'https://soyapark45.github.io/soya/'
+
+            - name: Deokseong Kim
+              lastName: Kim
+              email: stuzeakd@kaist.ac.kr
+              career:
+                - Independent Research
+              img: deokseong.jpg
+              site: ''
+
+
+
 
 ## -------------Special----------------------------
 
