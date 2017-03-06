@@ -1,28 +1,120 @@
-<div id="publicationwrap">
-        <ul class="publications">
-        {% for paper in site.data.publications.papers %}
-            <li>
-                {% if paper.link == "" or paper.link == undefined or paper.link == "<add link to your paper>" %}
-                    <span title="Camera-ready version available soon!" class="title">{{paper.title}}</span>
-                {% else %}
-                    <a href="{{paper.link}}" class="title">{{paper.title}}</a>
+<style>
+.filtered-list {}
+.filtered-list input {
+    display: none;
+}
+.filtered-list .filter-item {
+  max-height: 100px;
+  transition: all .3s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+/* Generate CSS filter rules */
+{% for topic in site.data.publications.topics %}
+#category-{{topic}}:checked ~ .publications > :not(.category-{{topic}}),
+{% endfor %}
+{% for type in site.data.publications.types %}
+#type-{{type}}:checked ~ .publications > :not(.type-{{type}}),
+{% endfor %}
+dummy
+{
+  max-height: 0px;
+  opacity: 0;
+}
+
+.filter-labels {
+    margin-bottom: 15px;
+}
+
+.segmented-control {
+    display: flex;
+}
+.segmented-control > * {
+    display: inline-block;
+    border: 1px solid #eee;
+    background-color: #fff;
+    padding: 0 1em;
+    line-height: 2em;
+    font-weight: normal;
+    cursor: pointer;
+    font-size: .95em;
+    margin-left: -1px;
+}
+.segmented-control > :first-child {
+    border-radius: 5px 0 0 5px;
+}
+.segmented-control > :last-child {
+    border-radius: 0 5px 5px 0;
+}
+
+#category-all:checked ~ .filter-labels #label-category-all,
+{% for topic in site.data.publications.topics %}
+#category-{{topic}}:checked ~ .filter-labels #label-category-{{topic}},
+{% endfor %}
+#type-all:checked ~ .filter-labels #label-type-all,
+{% for type in site.data.publications.types %}
+#type-{{type}}:checked ~ .filter-labels #label-type-{{type}},
+{% endfor %}
+dummy
+{
+  background-color: #544b61;
+  color: #fff;
+}
+</style>
+
+<div id="publicationwrap" class="filtered-list">
+    <input type="radio" name="category" id="category-all" checked />
+    {% for topic in site.data.publications.topics %}
+    <input type="radio" name="category" id="category-{{topic}}" />
+    {% endfor %}
+    <input type="radio" name="type" id="type-all" checked />
+    {% for type in site.data.publications.types %}
+    <input type="radio" name="type" id="type-{{type}}" />
+    {% endfor %}
+
+    <div class="filter-labels row">
+        <div class="col-xs-6">
+            Research field
+            <div class="segmented-control">
+                <label for="category-all" id="label-category-all">All</label>
+                {% for topic in site.data.publications.topics %}
+                <label for="category-{{topic}}" id="label-category-{{topic}}">{{ topic | capitalize }}</label>
+                {% endfor %}
+            </div>
+        </div>
+        <div class="col-xs-6">
+            Type
+            <div class="segmented-control">
+                <label for="type-all" id="label-type-all">All</label>
+                {% for type in site.data.publications.types %}
+                <label for="type-{{type}}" id="label-type-{{type}}">{{ type | capitalize }}</label>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    
+    <ul class="publications">
+    {% for paper in site.data.publications.papers %}
+        <li class="filter-item {% for topic in paper.topics %}category-{{topic}}{% endfor %} type-{{paper.type}}">
+            {% if paper.link == "" or paper.link == undefined or paper.link == "<add link to your paper>" %}
+                <span title="Camera-ready version available soon!" class="title">{{paper.title}}</span>
+            {% else %}
+                <a href="{{paper.link}}" class="title">{{paper.title}}</a>
+            {% endif %}
+            <div class="author">
+                {% for author in paper.author %}
+                    {{ author }}
+                {% endfor %}
+            </div>
+            <div>
+                <i class="venue">{{ paper.venue }}</i>
+                {% if paper.award %}
+                    <span class="award">{{ paper.award }}</span>
                 {% endif %}
-                <div class="author">
-                    {% for author in paper.author %}
-                        {{ author }}
-                    {% endfor %}
-                </div>
-                <div>
-                    <i class="venue">{{ paper.venue }}</i>
-                    {% if paper.award %}
-                        <span class="award">{{ paper.award }}</span>
-                    {% endif %}
-                    {% for material in paper.materials %}
-                    <a href="{{material.url}}" class="material">{{ material.label }}</a>
-                    {% endfor %}
-                </div>
-            </li>
-        {% endfor %}
-        </ul>
-        <div class="spacing"></div>
+                {% for material in paper.materials %}
+                <a href="{{material.url}}" class="material">{{ material.label }}</a>
+                {% endfor %}
+            </div>
+        </li>
+    {% endfor %}
+    </ul>
+    <div class="spacing"></div>
 </div>

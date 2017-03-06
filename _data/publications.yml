@@ -1,4 +1,17 @@
-# Topics: datamining, crowdsourcing, learning, civics
+# List of all existing topics
+topics:
+  - datamining
+  - crowdsourcing
+  - learning
+  - civics
+
+# List of all existing venue types
+types:
+  - conference
+  - workshop
+#  - poster
+#  - book
+#  - journal
 
 papers:
   - title: "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
@@ -7,6 +20,7 @@ papers:
     year: 2017
     topics:
       - datamining
+    type: conference
     materials:
       - label:
         url:
@@ -19,6 +33,7 @@ papers:
     year: 2017
     topics:
       - datamining
+    type: conference
     materials:
       - label: 
         url: 
@@ -31,6 +46,7 @@ papers:
     year: 2017
     topics:
       - learning
+    type: conference
     materials:
       - label:
         url:
@@ -43,6 +59,7 @@ papers:
     year: 2017
     topics:
       - crowdsourcing
+    type: conference
     materials:
       - label:
         url:
@@ -55,6 +72,7 @@ papers:
     year: 2017
     topics:
       - civics
+    type: conference
     materials:
       - label:
         url:
@@ -67,6 +85,7 @@ papers:
     year: 2017
     topics:
       - civics
+    type: workshop
     materials:
       - type:
         url:
@@ -79,6 +98,7 @@ papers:
     year: 2017
     topics:
       - civics
+    type: workshop
     materials:
       - label:
         url:
@@ -91,6 +111,7 @@ papers:
     year: 2017
     topics:
       - datamining
+    type: conference
     materials:
       - label:
         url:
