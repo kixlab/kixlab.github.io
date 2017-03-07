@@ -63,7 +63,7 @@
               lastName: Ko
               email: key44@kaist.ac.kr
               career:
-                - Visiting MS.c. student
+                - Visiting MS student
               img: 'eunyoung.jpg'
               site: ''
 
@@ -71,7 +71,7 @@
               lastName: Shin
               email: hyungyu.sh@kaist.ac.kr
               career:
-                - MSc. candidate
+                - MS candidate
               interest: KIXLAB
               img: hyungyu.jpg
               site: ''
@@ -80,7 +80,7 @@
               lastName: Jung
               email: hyeungshik.jung@kaist.ac.kr
               career:
-                - MSc. candidate
+                - MS candidate
               img: hyeungshik.jpg
               site: ''
 ## ---------------Undergraduates--------------------
