@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mtb">
+    <div class="row">
+        {% for course in site.data.courses.courses %}
+        <div class="col-xs-12 col-md-3">
+            <p>
+                <a href="{{course.url}}">
+                    <img src="{{ "/assets/img/courses/" | prepend: site.baseurl }}{{course.image}}" alt="{{course.code}} {{course.title}}">
+                </a>
+            </p>
+
+            <p>{{course.description}}</p>
+
+            <ul>
+                {% for edition in course.editions %}
+                <li><a href="{{edition.url}}">{{edition.semester}}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endfor %}
+
+    </div><!--/row -->
+</div><!--/container -->
