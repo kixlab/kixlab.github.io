@@ -1,0 +1,17 @@
+courses:
+  - title: "Intro to HCI"
+    code: "CS374"
+    image: "cs374.png"
+    description: "This course introduces fundamental principles, techniques, and methods for designing, prototyping, and evaluating user interfaces."
+    url: https://kixlab.org/courses/hci/
+    editions:
+      - semester: "Spring 2017"
+        url: https://kixlab.org/courses/cs374-spring-2017/
+  - title: "Crowdsourcing"
+    code: "CS492"
+    image: "cs492.png"
+    description: "This course covers major design issues and computational techniques in building crowdsourcing systems."
+    url: https://kixlab.org/courses/crowdsourcing/
+    editions:
+      - semester: "Fall 2016"
+        url: https://kixlab.org/courses/cs492-fall-2016/
