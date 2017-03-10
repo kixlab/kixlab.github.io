@@ -110,7 +110,7 @@
               career:
                 - Research Intern
               img: 'jonghyuk.jpg'
-              site: ''
+              site: 'https://jonghyuk.info/'
 
             - name: Hyunwoo Kim
               lastName: Kim
@@ -226,4 +226,3 @@
               career:
                 - Russel Hobbs
               site: ''
-
