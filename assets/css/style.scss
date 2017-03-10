@@ -615,7 +615,11 @@ a.anchor{
 	color: black;
 	font-weight: 400;
 }
-
+.namecard .person-img-wrap {
+    overflow: hidden;
+    width: 100%;
+    height: 225px;
+}
 /*###
 ##  Position #
 ###*/
