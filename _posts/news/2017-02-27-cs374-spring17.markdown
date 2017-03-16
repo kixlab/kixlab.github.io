@@ -1,0 +1,12 @@
+---
+layout: post
+title: "CS374 Intro to HCI started"
+date: 2017-02-27 00:00:00
+author: Admin
+categories: news
+img: cs374.png
+thumb: thumbs/cs374.png
+---
+
+This semester, a new course is being offered by Prof. Juho Kim from KIXLAB, Intro to HCI (CS374).
+Information about the class can be found [on the course website](http://kixlab.org/courses/hci/).
