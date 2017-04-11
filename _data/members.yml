@@ -128,6 +128,14 @@
               img: 'hyungwoo.jpg'
               site: ''
 
+            - name: John Chung
+              lastName: Chung
+              email: johnr0hol@gmail.com
+              career:
+                - Research Intern
+              img: 'john.jpg'
+              site: ''
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
