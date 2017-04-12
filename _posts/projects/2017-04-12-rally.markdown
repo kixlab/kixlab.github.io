@@ -10,3 +10,5 @@ website: https://student.kaist.ac.kr/internet/
 desc: "civic engagement; social activism; crowdsourced petition"
 ---
 Often complaints and request from community members’ happen in an ad-hoc manner, in turn, it couldn’t draw the attention from the decision maker. We propose a crowdsourced petition platform Rally to empower the community members' voice with unified communication pipeline to the decision maker. We focus on the petition which is one of the most common protocols between community members’ and decision makers. 
+
+Check here: [Link](https://student.kaist.ac.kr/internet/)
