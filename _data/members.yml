@@ -135,7 +135,15 @@
                 - Research Intern
               img: 'john.jpg'
               site: ''
-
+            
+            - name: Amy
+              lastName: Han
+              email: amy.s.han1717@gmail.com
+              career: 
+                - Research Intern
+              img: 'amy.jpg'
+              site: ''
+              
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
