@@ -161,6 +161,14 @@
               img: 'ina.jpeg'
               site: ''
               
+            - name: Leonore
+              lastName: Guillain
+              email: leonore.guillain@epfl.ch
+              career: 
+                - Research Intern
+              img: 'leonore.jpg'
+              site: ''
+              
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
