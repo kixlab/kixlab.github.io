@@ -10,6 +10,9 @@ Our lab's website. We are using Jekyll, a static website generator.
 2. Edit or add what you want
 3. You can add your name, email, homepage
 
+For the picture, please choose an image with 4:3 aspect ratio like the others. (Suggested size: 600x450px)
+Place the file at `assets/img/members/your_name.jpg` and reference it in `members.yml` with just `your_name.jpg`.
+
 ### News and projects
 
 1. Add a new file in `_posts/news/` or `_posts/projects/` (for example, by duplicating and renaming an existing one).
