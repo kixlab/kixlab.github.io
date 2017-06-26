@@ -143,6 +143,14 @@
                 - Research Intern
               img: 'amy.jpg'
               site: ''
+
+            - name: Ina Ryu
+              lastName: Ryu
+              email: ryu_ina@kaist.ac.kr
+              career: 
+                - Research Intern
+              img: 'ina.jpeg'
+              site: ''
               
         - positionName: Staff
           positionMembers:
