@@ -144,6 +144,15 @@
               img: 'amy.jpg'
               site: ''
 
+
+            - name: Wookjae
+              lastName: Byun
+              email: mecatos95d@kaist.ac.kr
+              career: 
+                - Research Intern
+              img: 'wookjae.jpg'
+              site: ''
+
             - name: Ina Ryu
               lastName: Ryu
               email: ryu_ina@kaist.ac.kr
