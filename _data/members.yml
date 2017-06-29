@@ -135,11 +135,11 @@
                 - Research Intern
               img: 'john.jpg'
               site: ''
-            
+
             - name: Amy
               lastName: Han
               email: amy.s.han1717@gmail.com
-              career: 
+              career:
                 - Research Intern
               img: 'amy.jpg'
               site: ''
@@ -148,7 +148,7 @@
             - name: Wookjae
               lastName: Byun
               email: mecatos95d@kaist.ac.kr
-              career: 
+              career:
                 - Research Intern
               img: 'wookjae.jpg'
               site: ''
@@ -156,19 +156,27 @@
             - name: Ina Ryu
               lastName: Ryu
               email: ryu_ina@kaist.ac.kr
-              career: 
+              career:
                 - Research Intern
               img: 'ina.jpeg'
               site: ''
-              
+
             - name: Leonore Guillain
               lastName: Guillain
               email: leonore.guillain@epfl.ch
-              career: 
+              career:
                 - Research Intern
               img: 'leonore.jpg'
               site: ''
-              
+
+            - name: Hyunsuk Shin
+              lastName: Shin
+              email: wellshs@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'hyunsuk.jpg'
+              site: ''
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
