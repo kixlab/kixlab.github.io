@@ -121,6 +121,13 @@
               img: 'amy.jpg'
               site: ''
 
+            - name: Suhwan Jee
+              lastName: Jee
+              email: jsh56son@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'suhwan.jpeg'
+              site: 'zeniuus.github.io'  
 
             - name: Wookjae Byun
               lastName: Byun
