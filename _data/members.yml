@@ -38,13 +38,6 @@
               interest: Web Development and humans
               site: http://graycoding.com
 
-            - name: Yoo Jin Lim
-              lastName: Lim
-              email: yjlim@kaist.ac.kr
-              career: Ph.D. student
-              img: yjlim.JPG
-              site: ''
-
             - name: Sung-Chul Lee
               lastName: Lee
               email: leesungchul@kaist.ac.kr
@@ -96,14 +89,6 @@
               img: kyungje.jpg
               site: ''
 
-            - name: Ching Liu
-              lastName: Liu
-              email: liuching@kaist.ac.kr
-              career:
-                - Independent Research
-              img: jean.jpg
-              site: ''
-
             - name: Jonghyuk Jung
               lastName: Jung
               email: jonghyuk101@kaist.ac.kr
@@ -118,14 +103,6 @@
               career:
                 - Research Intern
               img: 'hyunwoo.png'
-              site: ''
-
-            - name: Hyungwoo Kim
-              lastName: Kim
-              email: erickim713@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'hyungwoo.jpg'
               site: ''
 
             - name: John Chung
@@ -191,12 +168,12 @@
 
         - positionName: Alumni
           positionMembers:
-            - name: Taekyung Park
-              lastName: Park
-              email: kibi0620@gmail.com
+            - name: Hyunsung Cho
+              lastName: Cho
+              email: hscho1226@gmail.com
               career:
-                - Research Intern
-              img: taekyung.jpg
+                - URP Program
+              img: hyunsung.jpg
               site: ''
 
             - name: Jaesung Huh
@@ -205,6 +182,53 @@
               career:
                 - Research Intern
               img: jaesung.jpg
+              site: ''
+
+            - name: Deokseong Kim
+              lastName: Kim
+              email: stuzeakd@kaist.ac.kr
+              career:
+                - Research Intern
+              img: deokseong.jpg
+              site: ''
+
+            - name: Dongkwan Kim
+              lastName: Kim
+              email: dong112d@kaist.ac.kr
+              career:
+                - Research Intern
+              img: dongkwan.jpg
+              site: ''
+
+            - name: Hyungwoo Kim
+              lastName: Kim
+              email: erickim713@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'hyungwoo.jpg'
+              site: ''
+
+            - name: Yoo Jin Lim
+              lastName: Lim
+              email: yjlim@kaist.ac.kr
+              career: Ph.D. student
+              img: yjlim.JPG
+              site: ''
+
+            - name: Ching Liu
+              lastName: Liu
+              email: liuching@kaist.ac.kr
+              career:
+                - Independent Research
+              img: jean.jpg
+              site: ''
+
+            - name: Taekyung Park
+              lastName: Park
+              email: kibi0620@gmail.com
+              career:
+                - Research Intern
+              img: taekyung.jpg
               site: ''
 
             - name: Jiwoo Park
@@ -216,30 +240,6 @@
               img: jiwoo.jpg
               site: ''
 
-            - name: Juho Sun
-              lastName: Sun
-              email: soju@kaist.ac.kr
-              career:
-                - Research Intern
-              img: juhosun.png
-              site: 'http://juhojuho.com'
-
-            - name: Dongkwan Kim
-              lastName: Kim
-              email: dong112d@kaist.ac.kr
-              career:
-                - Research Intern
-              img: dongkwan.jpg
-              site: ''
-
-            - name: Hyunsung Cho
-              lastName: Cho
-              email: hscho1226@gmail.com
-              career:
-                - URP Program
-              img: hyunsung.jpg
-              site: ''
-
             - name: Soya Park
               lastName: Park
               email: soya@kaist.ac.kr
@@ -248,16 +248,13 @@
               img: soya2.jpg
               site: 'https://soyapark45.github.io/soya/'
 
-            - name: Deokseong Kim
-              lastName: Kim
-              email: stuzeakd@kaist.ac.kr
+            - name: Juho Sun
+              lastName: Sun
+              email: soju@kaist.ac.kr
               career:
                 - Research Intern
-              img: deokseong.jpg
-              site: ''
-
-
-
+              img: juhosun.png
+              site: 'http://juhojuho.com'
 
 ## -------------Special----------------------------
 
