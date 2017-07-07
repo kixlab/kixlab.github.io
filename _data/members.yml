@@ -154,6 +154,14 @@
               img: 'hyunsuk.jpg'
               site: ''
 
+            - name: Beomsu Kim
+              lastName: Kim
+              email: 3141kbs@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'beomsu.jpg'
+              site: ''
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
