@@ -154,6 +154,14 @@
               img: 'hyunsuk.jpg'
               site: ''
 
+            - name: Jooyoung Lee
+              lastName: Lee
+              email: leenoi3@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'jooyoung.jpg'
+              site: ''
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
