@@ -121,6 +121,13 @@
               img: 'amy.jpg'
               site: ''
 
+            - name: Suhwan Jee
+              lastName: Jee
+              email: jsh56son@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'suhwan.jpeg'
+              site: 'zeniuus.github.io'  
 
             - name: Wookjae Byun
               lastName: Byun
@@ -153,13 +160,18 @@
                 - Research Intern
               img: 'hyunsuk.jpg'
               site: ''
-
             - name: Beomsu Kim
               lastName: Kim
               email: 3141kbs@kaist.ac.kr
               career:
                 - Research Intern
               img: 'beomsu.jpg'
+            - name: Jooyoung Lee
+              lastName: Lee
+              email: leenoi3@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'jooyoung.jpg'
               site: ''
 
         - positionName: Staff
