@@ -15,7 +15,12 @@
             <h4> We have no {{position.positionName}}</h4>
         {% endunless %}
         <div class="position-members">
-        {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}
+        
+        {% if position.positionName != 'Alumni' %}
+            {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}
+        {% else %}
+            {% assign sorted_members = (position.positionMembers | sort: 'leavingDate' | reverse %}
+        {% endif %}
         {% for member in sorted_members %}
             <div class='namecard'>
                 {% if position.positionName != 'Alumni' %}
@@ -29,9 +34,14 @@
                     <h4 class="member-name">{{member.name}}</h4>
                 {% endif %}
                 {% for career in member.career %}
-                    <h5 class="member-career">{{career}}</h5>
+                    <h5 class="member-career">{{career}}
+                    </h5>
                 {% endfor %}
 
+                {% if member.period %}
+                    {{member.period}}
+                {% endif %}
+                
                 <h6>{{member.email}}</h6>
             </div>
         {% endfor %}
