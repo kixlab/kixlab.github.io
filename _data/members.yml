@@ -195,6 +195,8 @@
                 - URP Program
               img: hyunsung.jpg
               site: ''
+              period: Fall 2016–Winter 2017
+              leavingDate: 2017.02.28
 
             - name: Jaesung Huh
               lastName: Huh
@@ -203,6 +205,8 @@
                 - Research Intern
               img: jaesung.jpg
               site: ''
+              period: Winter 2017
+              leavingDate: 2017.02.28
 
             - name: Deokseong Kim
               lastName: Kim
@@ -211,6 +215,8 @@
                 - Research Intern
               img: deokseong.jpg
               site: ''
+              period: Winter 2017
+              leavingDate: 2017.02.28
 
             - name: Dongkwan Kim
               lastName: Kim
@@ -219,6 +225,8 @@
                 - Research Intern
               img: dongkwan.jpg
               site: ''
+              period: Summer 2016–Fall 2016
+              leavingDate: 2016.12.31
 
             - name: Hyungwoo Kim
               lastName: Kim
@@ -227,6 +235,8 @@
                 - Research Intern
               img: 'hyungwoo.jpg'
               site: ''
+              period: Spring 2017
+              leavingDate: 2017.06.30
 
             - name: Yoo Jin Lim
               lastName: Lim
@@ -234,6 +244,8 @@
               career: Ph.D. student
               img: yjlim.JPG
               site: ''
+              period: Fall 2016–Winter 2017
+              leavingDate: 2017.02.28
 
             - name: Ching Liu
               lastName: Liu
@@ -242,6 +254,8 @@
                 - Independent Research
               img: jean.jpg
               site: ''
+              period: Fall 2016–Spring 2017
+              leavingDate: 2017.06.30
 
             - name: Taekyung Park
               lastName: Park
@@ -250,6 +264,8 @@
                 - Research Intern
               img: taekyung.jpg
               site: ''
+              period: Summer 2016
+              leavingDate: 2016.08.31
 
             - name: Jiwoo Park
               lastName: Park
@@ -259,6 +275,8 @@
               interest: KIXLAB
               img: jiwoo.jpg
               site: ''
+              period: Summer 2016–Fall 2016
+              leavingDate: 2016.12.31
 
             - name: Soya Park
               lastName: Park
@@ -267,6 +285,8 @@
                 - Research Intern
               img: soya2.jpg
               site: 'https://soyapark45.github.io/soya/'
+              period: Fall 2016–Winter 2017
+              leavingDate: 2017.02.28
 
             - name: Juho Sun
               lastName: Sun
@@ -275,6 +295,8 @@
                 - Research Intern
               img: juhosun.png
               site: 'http://juhojuho.com'
+              period: Fall 2016
+              leavingDate: 2016.12.31
 
 ## -------------Special----------------------------
 
