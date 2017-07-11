@@ -76,6 +76,15 @@
                 - M.S. student
               img: hyeungshik.jpg
               site: ''
+
+            - name: Seoyoung Kim
+              lastName: Kim
+              email: youthskim@kaist.ac.kr
+              career:
+                - M.S. student
+              img: seoyoung.jpg
+              site: ''
+
 ## ---------------Undergraduates--------------------
 
         - positionName: Undergraduates
