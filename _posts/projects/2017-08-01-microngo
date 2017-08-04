@@ -1,0 +1,12 @@
+---
+layout: projects
+title:  "Micro-NGO: An Online Social Activism Platform with a Mediator Bot"
+date:   2017-08-01 00:00:00
+author: Admin
+categories:
+- projects
+img: 2017-mirongo.png
+website:
+desc: "civic engagement; social activism; microtask"
+---
+The real world problem is a popular theme of online discussions. While people can take useful insights from perspectives during the discussion,  It is rare to observe deliberation of collective actions from the discussion. Micro-NGO is a Bot-mediated social discussion platform that deliberates self-organized collective action. The bot helps to their member to deliberate their collective actions by assisting task disambiguation process, domain specific knowledge scaffolding process.
