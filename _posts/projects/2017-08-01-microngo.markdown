@@ -5,7 +5,7 @@ date:   2017-08-01 00:00:00
 author: Admin
 categories:
 - projects
-img: 2017-mirongo.png
+img: 2017-microngo.png
 website:
 desc: "civic engagement; social activism; microtask"
 ---
