@@ -1,4 +1,7 @@
 <style>
+.author p {
+    margin: 0
+}
 .filtered-list {}
 .filtered-list input {
     display: none;
@@ -104,7 +107,7 @@ dummy
             {% endif %}
             <div class="author">
                 {% for author in paper.author %}
-                    {{ author }}
+                    {{ author | markdownify }}
                 {% endfor %}
             </div>
             <div>
