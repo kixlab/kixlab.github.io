@@ -1,0 +1,14 @@
+---
+layout: projects
+title:  "Improving Government Transparency with Social Computing"
+date:   2016-12-01 00:00:00
+author: Admin
+categories:
+- projects
+img: 2016-xproject.png
+website:
+desc: "civic engagement; social computing"
+---
+How can we build an interactive platform for citizens to learn, discuss, and take collective action on important social issues? The ambitious aim of this project is to design and experiment with a system that helps to increase transparency and public trust. We achieve this by employing social computing techniques and creating a new public monitoring and feedback channel. Citizens join our platform to learn and be empowered by participation, by giving their opinion about political issues and performing micro-tasks such as tagging, adding related information, and requesting missing information. The issues originate from current congressmen’s campaign promises.
+
+Through a series of interviews, surveys, prototypes, and live deployments, we want to deepen our understanding of communities, citizensourcing, civic participation, personalization, and other related topics.
