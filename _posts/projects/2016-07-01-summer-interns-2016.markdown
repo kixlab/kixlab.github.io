@@ -4,10 +4,11 @@ title:  "2016 Summer Intern Projects"
 date:   2016-07-01 00:00:00
 author: Admin
 categories:
-- projects
+- projects-archive
 img: 2016-summer-internship.jpg
 website: 
 desc: "Enhancing video lectures; learner engagement; affinity between politicians"
+archived: true
 ---
 
 **Hyungyu Shin**:

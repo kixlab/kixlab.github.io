@@ -1,7 +1,9 @@
 {% if include.title %}<h1>{{ include.title }}</h1>{% endif %}
 
 <ul class="recentitems portfolio">
-    {% for project in site.categories.projects limit:include.limit %}
+    {% assign sorted_projects = (site.categories.projects | sort: 'archived' %}
+        
+    {% for project in sorted_projects limit:include.limit %}
     <li><a href="/projects">
                 {{project.title}}
             </a>

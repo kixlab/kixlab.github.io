@@ -5,5 +5,8 @@ layout: default
 
   {{ content }}
 <div class='container projects-list'>
-  {% include projects.html limit=10 %}
+  {% include projects.html limit=10 projects=site.categories.projects %}
+
+  <h3 class="page-title">Previous projects</h3>
+  {% include projects.html limit=10 projects=site.categories.projects-archive %}
 </div>

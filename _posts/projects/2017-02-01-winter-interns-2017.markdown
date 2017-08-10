@@ -4,9 +4,10 @@ title:  "2017 Winter Intern Projects"
 date:   2017-02-01 00:00:00
 author: Admin
 categories:
-- projects
+- projects-archive
 img: default.png
 website: 
+archived: true
 ---
 
 **Kyungje Jo**:

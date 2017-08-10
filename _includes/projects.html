@@ -1,7 +1,8 @@
 {% if include.title %}<h1>{{ include.title }}</h1>{% endif %}
 
 <div class="recentitems portfolio">
-    {% for project in site.categories.projects limit:include.limit %}
+        
+    {% for project in include.projects limit:include.limit %}
     <div class="row">
         <div class="col-xs-4">
             <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ project.img }}">
