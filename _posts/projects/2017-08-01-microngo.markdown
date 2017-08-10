@@ -9,4 +9,4 @@ img: 2017-microngo.png
 website:
 desc: "civic engagement; social activism; microtask"
 ---
-Real world problem are a popular theme of online discussions. While people can gather useful insights from diverse perspectives during the discussion, it is rare to observe deliberation of collective actions. Micro-NGO is a bot-mediated social discussion platform that fascilitates deliberation of self-organized collective action. The bot helps a group by assisting in task disambiguation and domain specific knowledge scaffolding.
+Real world problems are a popular theme of online discussions. While people can gather useful insights from diverse perspectives during the discussion, it is rare to observe deliberation of collective actions. Micro-NGO is a bot-mediated social discussion platform that fascilitates deliberation of self-organized collective action. The bot helps a group by assisting in task disambiguation and domain specific knowledge scaffolding.
