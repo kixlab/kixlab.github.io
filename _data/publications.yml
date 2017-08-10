@@ -25,7 +25,7 @@ papers:
       - label:
         url:
     award: ""
-    link: 
+    link: http://dl.acm.org/citation.cfm?id=3053118
 
   - title: "PlayBetter: A Phone-based Baby Play Support System for Childcare Bystander Parents"
     author: "Seokwoo Song, Juho Kim, John Kim"
@@ -38,7 +38,7 @@ papers:
       - label: 
         url: 
     award: ""
-    link: 
+    link: http://dl.acm.org/citation.cfm?id=3053073
 
   - title: "Connecting Instructors and Learning Scientists via Collaborative Dynamic Experimentation"
     author: "Joseph Jay Williams, Anna Rafferty, Andrew Ang, Dustin Tingley, Walter Lasecki, Juho Kim"
@@ -51,20 +51,21 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: http://dl.acm.org/citation.cfm?id=3053247
 
-  - title: "Tools for Dynamic Experimentation and Personalization"
+  - title: "MOOClets: A Framework for Dynamic Experimentation and Personalization"
     author: "Joseph Jay Williams, Anna Rafferty, Samuel Maldonado, Andrew Ang, Dustin Tingley, Juho Kim"
     venue: "Learning at Scale 2017 Work-in-Progress"
     year: 2017
     topics:
       - crowdsourcing
+      - learning
     type: conference
     materials:
       - label:
         url:
     award: ""
-    link:
+    link: http://dl.acm.org/citation.cfm?id=3054006
 
   - title: "Designing Interactive Distance Cartograms to Support Urban Travelers"
     author: "Sungsoo (Ray) Hong, Rafal Kocielnik, Min-Joon Yoo, Sarah Battersby, Juho Kim, Cecilia Aragon"
