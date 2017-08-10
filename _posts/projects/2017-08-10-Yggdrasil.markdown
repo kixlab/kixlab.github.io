@@ -1,7 +1,7 @@
 ---
 layout: projects
 title:  "Yggdrasil: Understanding events with crowdsourced knowledge base"
-date:   2017-08-01 00:00:00
+date:   2017-08-10 00:00:00
 author: Admin
 categories:
 - projects
