@@ -1,0 +1,12 @@
+---
+layout: projects
+title:  "Exprgram: Language Learning Interface for Development of Pragmatic Competence through Learnersourcing Video Annotation"
+date:   2017-08-11 00:00:00
+author: KJ
+categories:
+- projects
+img: 2017-kj_languagelearning.png
+website:
+desc: "language learning; pragmatic competence; learnersourcing"
+---
+The real world conversations are diverse in expressions depending on the context such as the relationship between speakers, location or time. While there are multiple ways to greet, apologize, compliment others, language learning materials often fail to provide enough diverse situations and rather put more focus on the meaning of words, reading or listening comprehension and grammar. This research combats the challenge by exploring large scale natural conversations through video mining. Unlike unauthentic dialogues from existing materials, videos in the target language can expose learners to authentic and diverse language situations. We introduce Exprgram, a learnersourced, web-based interface for teaching diverse language expressions.
