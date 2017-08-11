@@ -1,0 +1,13 @@
+---
+layout: projects
+title:  "Collaborative Dynamic Query"
+date:   2017-08-01 00:00:00
+author: Admin
+categories:
+- projects
+img: default.png
+website:
+desc: ""
+---
+
+The goal of this project is to reduce the communication cost of small group decision making. When people make decisions on questions such as where to travel or what to eat with other people, a lot of conversation is required to make decisions reflect as many opinions as possible. As a solution, we suggest an interface called Collaborative Dynamic Query. It helps people represent their preferences for several criteria and shows the preferences of other group members. Also, preferences of a group can be used for recommendation for available items.
