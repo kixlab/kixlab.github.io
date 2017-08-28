@@ -14,6 +14,33 @@ types:
 #  - journal
 
 papers:
+  - title: "Korero: Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface"
+    author: "Soon Hau Chua, Toni-Jan Keith Monserrat, Dongwook Yoon, _Juho Kim_, Shengdong Zhao"
+    venue: "CSCW 2018"
+    year: 2017
+    topics:
+      - crowdsourcing
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Exprgram: A Video-based Language Learning Interface Powered by Learnersourced Video Annotations"
+    author: "_Kyungje Jo_, _John Jooyoung Chung_, _Juho Kim_"
+    venue: "HCOMP 2017 Workshop on Human Computation for Image and Video Analysis"
+    year: 2017
+    topics:
+      - crowdsourcing
+      - learning
+    type: workshop
+    materials:
+      - label: "video"
+        url: "https://www.youtube.com/watch?v=J0Y9tzJ-8xY"
+    award: ""
+    link:
+
   - title: "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
     author: "_Minsuk Chang_, Vivian Hare, _Juho Kim_, Maneesh Agrawala"
     venue: "CHI 2017 Extended Abstracts"
@@ -35,8 +62,8 @@ papers:
       - datamining
     type: conference
     materials:
-      - label: 
-        url: 
+      - label:
+        url:
     award: ""
     link: http://dl.acm.org/citation.cfm?id=3053073
 
