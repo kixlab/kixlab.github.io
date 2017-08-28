@@ -85,6 +85,14 @@
               img: seoyoung.jpg
               site: ''
 
+            - name: Hyunwoo Kim
+              lastName: Kim
+              email: khw0726@kaist.ac.kr
+              career:
+                - M.S. student
+              img: 'hyunwoo.png'
+              site: ''
+
 ## ---------------Undergraduates--------------------
 
         - positionName: Undergraduates
@@ -94,7 +102,7 @@
               lastName: Jo
               email: kyungjejo@kaist.ac.kr
               career:
-                - URP Program
+                - Research Intern
               img: kyungje.jpg
               site: ''
 
@@ -106,14 +114,6 @@
               img: 'jonghyuk.jpg'
               site: 'https://jonghyuk.info/'
 
-            - name: Hyunwoo Kim
-              lastName: Kim
-              email: khw0726@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'hyunwoo.png'
-              site: ''
-
             - name: John Chung
               lastName: Chung
               email: johnr0hol@gmail.com
@@ -122,29 +122,13 @@
               img: 'john.jpg'
               site: ''
 
-            - name: Amy Han
-              lastName: Han
-              email: amy.s.han1717@gmail.com
-              career:
-                - Research Intern
-              img: 'amy.jpg'
-              site: ''
-
             - name: Suhwan Jee
               lastName: Jee
               email: jsh56son@kaist.ac.kr
               career:
                 - Research Intern
               img: 'suhwan.jpeg'
-              site: 'zeniuus.github.io'  
-
-            - name: Wookjae Byun
-              lastName: Byun
-              email: mecatos95d@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'wookjae.jpg'
-              site: ''
+              site: 'zeniuus.github.io'
 
             - name: Ina Ryu
               lastName: Ryu
@@ -154,14 +138,6 @@
               img: 'ina.jpeg'
               site: ''
 
-            - name: Leonore Guillain
-              lastName: Guillain
-              email: leonore.guillain@epfl.ch
-              career:
-                - Research Intern
-              img: 'leonore.jpg'
-              site: ''
-
             - name: Hyunsuk Shin
               lastName: Shin
               email: wellshs@kaist.ac.kr
@@ -169,12 +145,15 @@
                 - Research Intern
               img: 'hyunsuk.jpg'
               site: ''
+
             - name: Beomsu Kim
               lastName: Kim
               email: 3141kbs@kaist.ac.kr
               career:
                 - Research Intern
               img: 'beomsu.jpg'
+              site: ''
+
             - name: Jooyoung Lee
               lastName: Lee
               email: leenoi3@kaist.ac.kr
@@ -197,6 +176,36 @@
 
         - positionName: Alumni
           positionMembers:
+            - name: Leonore Guillain
+              lastName: Guillain
+              email: leonore.guillain@epfl.ch
+              career:
+                - Research Intern
+              img: 'leonore.jpg'
+              site: ''
+              period: Summer 2017
+              leavingDate: 2017.8.25
+
+            - name: Wookjae Byun
+              lastName: Byun
+              email: mecatos95d@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'wookjae.jpg'
+              site: ''
+              period: Summer 2017
+              leavingDate: 2017.8.25
+
+            - name: Amy Han
+              lastName: Han
+              email: amy.s.han1717@gmail.com
+              career:
+                - Research Intern
+              img: 'amy.jpg'
+              site: ''
+              period: Summer 2017
+              leavingDate: 2017.8.25
+
             - name: Hyunsung Cho
               lastName: Cho
               email: hscho1226@gmail.com

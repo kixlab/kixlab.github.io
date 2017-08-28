@@ -15,3 +15,5 @@ courses:
     editions:
       - semester: "Fall 2016"
         url: https://kixlab.org/courses/cs492-fall-2016/
+      - semester: "Fall 2017"
+        url: https://kixlab.org/courses/cs492-fall-2017/
