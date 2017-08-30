@@ -41,6 +41,20 @@ papers:
     award: ""
     link:
 
+  - title: "VideoScape: Augmenting Video Learning Experience with Concept Map"
+    author: "_Ching Liu_, Hao-Chuan Wang, _Juho Kim_"
+    venue: "TAICHI 2017"
+    year: 2017
+    topics:
+      - crowdsourcing
+      - learning
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "http://dl.acm.org/citation.cfm?id=3053118"
+
   - title: "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
     author: "_Minsuk Chang_, Vivian Hare, _Juho Kim_, Maneesh Agrawala"
     venue: "CHI 2017 Extended Abstracts"
@@ -52,7 +66,7 @@ papers:
       - label:
         url:
     award: ""
-    link: http://dl.acm.org/citation.cfm?id=3053118
+    link: "http://dl.acm.org/citation.cfm?id=3053118"
 
   - title: "PlayBetter: A Phone-based Baby Play Support System for Childcare Bystander Parents"
     author: "Seokwoo Song, _Juho Kim_, John Kim"
@@ -65,7 +79,7 @@ papers:
       - label:
         url:
     award: ""
-    link: http://dl.acm.org/citation.cfm?id=3053073
+    link: "http://dl.acm.org/citation.cfm?id=3053073"
 
   - title: "Connecting Instructors and Learning Scientists via Collaborative Dynamic Experimentation"
     author: "Joseph Jay Williams, Anna Rafferty, Andrew Ang, Dustin Tingley, Walter Lasecki, _Juho Kim_"
@@ -78,7 +92,7 @@ papers:
       - label:
         url:
     award: ""
-    link: http://dl.acm.org/citation.cfm?id=3053247
+    link: "http://dl.acm.org/citation.cfm?id=3053247"
 
   - title: "MOOClets: A Framework for Dynamic Experimentation and Personalization"
     author: "Joseph Jay Williams, Anna Rafferty, Samuel Maldonado, Andrew Ang, Dustin Tingley, _Juho Kim_"
@@ -92,7 +106,7 @@ papers:
       - label:
         url:
     award: ""
-    link: http://dl.acm.org/citation.cfm?id=3054006
+    link: "http://dl.acm.org/citation.cfm?id=3054006"
 
   - title: "Designing Interactive Distance Cartograms to Support Urban Travelers"
     author: "Sungsoo (Ray) Hong, Rafal Kocielnik, Min-Joon Yoo, Sarah Battersby, _Juho Kim_, Cecilia Aragon"
@@ -105,7 +119,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/PacificVis2017-DC.pdf"
 
   - title: "Changing News Media Landscape in South Korea"
     author: "Hongjun Lim, Choongho Chung, Jihee Kim, _Juho Kim_, Sue Moon, Meeyoung Cha"
@@ -118,7 +132,7 @@ papers:
       - type:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/WWW2017-Workshop-News.pdf"
 
   - title: "Micro-NGO: Crowd-Driven Social Activism Via A Chat-Based Online Platform"
     author: "_Sungchul Lee_, Jihee Kim, _Juho Kim_"
@@ -131,7 +145,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CSCW2017-Workshop-MicroNGO.pdf"
 
   - title: "\"Don’t Bother Me. I’m Socializing!\": A Breakpoint-Based Smartphone Notification System"
     author: "Chunjong Park, Junsung Lim, _Juho Kim_, Sung-Ju Lee, Dongman Lee"
