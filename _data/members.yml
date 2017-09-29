@@ -92,7 +92,7 @@
                 - M.S. student
               img: 'hyunwoo.png'
               site: ''
-              
+
             - name: Arti Thakur
               lastName: Thakur
               email: athakur36@gmail.com
@@ -129,13 +129,7 @@
               img: 'john.jpg'
               site: ''
 
-            - name: Suhwan Jee
-              lastName: Jee
-              email: jsh56son@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'suhwan.jpeg'
-              site: 'https://zeniuus.github.io'
+
 
             - name: Ina Ryu
               lastName: Ryu
@@ -145,13 +139,7 @@
               img: 'ina.jpeg'
               site: ''
 
-            - name: Hyunsuk Shin
-              lastName: Shin
-              email: wellshs@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'hyunsuk.jpg'
-              site: ''
+
 
             - name: Beomsu Kim
               lastName: Kim
@@ -192,6 +180,26 @@
               site: ''
               period: Summer 2017
               leavingDate: 2017.8.25
+
+            - name: Suhwan Jee
+              lastName: Jee
+              email: jsh56son@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'suhwan.jpeg'
+              site: 'https://zeniuus.github.io'
+              period: Summer 2017
+              leavingDate: 2017.09.29
+
+            - name: Hyunsuk Shin
+              lastName: Shin
+              email: wellshs@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'hyunsuk.jpg'
+              site: ''
+              period: Summer 2017
+              leavingDate: 2017.09.29
 
             - name: Wookjae Byun
               lastName: Byun
