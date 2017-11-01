@@ -99,7 +99,7 @@ dummy
     
     <ul class="publications">
     {% for paper in site.data.publications.papers %}
-        <li class="filter-item {% for topic in paper.topics %} category-{{topic}}{% endfor %} type-{{paper.type}}">
+        <li class="filter-item {% for topic in paper.topics %} category-{{topic}} {% endfor %} type-{{paper.type}}">
             {% if paper.link == "" or paper.link == undefined or paper.link == "<add link to your paper>" %}
                 <span title="Camera-ready version available soon!" class="title">{{paper.title}}</span>
             {% else %}
