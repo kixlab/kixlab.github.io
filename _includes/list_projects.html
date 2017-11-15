@@ -1,0 +1,14 @@
+<div class="project-list">
+    {% for project in include.projects limit:include.limit %}
+    <div class="project">
+        <div class="project-text">
+            <h2 class="project-title">{{project.title}}</h2>
+            <p>{{project.content}}</p>
+        </div>
+
+        <div class="project-image">
+            <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ project.img }}">
+        </div>
+    </div>
+    {% endfor %}
+</div>

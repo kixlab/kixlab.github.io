@@ -1,17 +1,19 @@
-<div id="headerwrap">
-    <div class="kixlab-logo">
-        <span class="typed-cursor inline-block translateX-2"  style="color:white">|</span>
+<header class="header">
+    <div class="wrap">
+        <div class="logo">
+            <span>kixlab</span>
+            KAIST Interaction Lab
+        </div>
 
-        <span class="white inline-block translateX-35px">&lt;</span> 
-        <span class="red">ixlab</span> <span class="orange">src</span> 
-        <span class="white">=</span><span class="yellow">"</span>
-        <span class="yellow" id="src">KAIST Interaction Lab</span>
-        <span class="yellow">"</span> <br /> 
-        <span class="orange small-font">area</span> 
-        <span class="white small-font">=</span>
-        <span class="yellow small-font">"</span>
-        <span class="yellow small-font" id="element"></span>
-        <span class="yellow small-font">"</span>
-        <span class="white small-font">&gt;</span>
+        <nav class="main-nav">
+            <ul class="nav">
+                {% assign sorted_pages = site.pages | sort:"order" %}
+                {% for item in sorted_pages %}{% if item.title %}
+                        <li{% if item.url == page.url %} class="active"{% endif %}><a href="{{ item.url | prepend: site.baseurl}}">{{ item.title }}</a></li>
+                {% endif %}{% endfor %}
+            </ul>
+        </nav>
     </div>
-</div><!-- /headerwrap -->
+</header>
+
+  

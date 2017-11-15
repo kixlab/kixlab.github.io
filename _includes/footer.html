@@ -1,31 +1,20 @@
-<div id="footerwrap">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4">
-                <h4>Our Bunker</h4>
-                <div class="hline-w"></div>
-                <p>
-                    {% for line in site.address.first.lines %}
-                        {{ line }} <br>
-                    {% endfor %}
-                </p>
-            </div>
-            <div class="col-lg-4">
-                <h4>HCI@KAIST</h4>
-                <div class="hline-w"></div>
-                <p>
-                We are part of the <a href="http://hci.kaist.ac.kr/">HCI@KAIST</a> research group.
-                </p>
-            </div>
-            <div class="col-lg-4">
-                <h4>Copyright</h4>
-                <div class="hline-w"></div>
-                <p>
-                Designed by Jiwoo Park<br>
-                Icons by Noun Project © "Meeting" icon by Claire Jones CC BY
-                </p>
-            </div>
- 
-        </div><!--/row -->
-    </div><!--/container -->
-</div><!--/footerwrap -->
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-item">
+            <h2>Our Bunker</h2>
+            <p>KAIST, N1 Room 624,<br>291 Daehak-ro, Yuseong-gu, Daejeon (34141)<br>Republic of Korea</p>
+        </div>
+        <div class="footer-item">
+
+            
+        </div>
+        <div class="footer-item">
+            <a href="http://hci.kaist.ac.kr">
+                <img src="{{'/assets/img/logo_kaist_hci_white.png' | prepend: site.baseurl }}" height="50">
+            </a>
+            <a href="https://cs.kaist.ac.kr">
+                <img src="{{'/assets/img/logo_kaist_soc.png' | prepend: site.baseurl }}" height="40">
+            </a>
+        </div>
+    </div>
+</footer>

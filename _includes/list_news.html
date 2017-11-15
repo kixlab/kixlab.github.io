@@ -1,0 +1,10 @@
+
+{% for post in site.categories.news limit:include.limit %}
+<div class="entry-item">
+    <h3 class="entry-title">{{post.title}}</h3>
+    <p class="entry-meta">{{ post.date | date_to_long_string }}</p>
+    {{ post.content }}
+</div>
+{% endfor %}
+
+

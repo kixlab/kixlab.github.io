@@ -1,0 +1,16 @@
+.site, .main {
+    background-image: url('data:image/svg+xml;utf8,
+    <svg width="1" height="16" xmlns="http://www.w3.org/2000/svg">
+        <rect height="1" width="1" y="15" x="0" fill="#00FF00" fill-opacity="0.3"/>
+    </svg>');
+    background-position: 50% 0;   
+}
+.wrap {
+    background-image: url('data:image/svg+xml;utf8,
+    <svg width="96" height="16" xmlns="http://www.w3.org/2000/svg">
+        <!--<rect height="16" width="1" y="0" x="48" fill="#00FF00" fill-opacity="0.3"/>-->
+        <rect height="16" width="24" y="0" x="0" fill="#FF0000" fill-opacity="0.08"/>
+        <rect height="16" width="24" y="0" x="72" fill="#FF0000" fill-opacity="0.08"/>
+    </svg>');
+    background-position: 50% 0;   
+}

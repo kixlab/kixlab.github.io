@@ -3,9 +3,7 @@
 
 ## Current members
 #
-- stateObj:
-    statename: People at KIXLAB
-    position:
+positions:
 
 ## --------------Faculty----------------------------
 
@@ -56,7 +54,7 @@
               lastName: Ko
               email: eunyoung4444@gmail.com
               career:
-                - Visiting M.S. student
+                - Research Intern
               img: 'eunyoung.jpg'
               site: ''
 
@@ -102,7 +100,7 @@
 
 ## ---------------Undergraduates--------------------
 
-        - positionName: Undergraduates
+        - positionName: Undergraduate Students
           positionMembers:
 
             - name: Kyungje Jo

@@ -1,6 +1,54 @@
 ---
 layout: default
 ---
-{% include header.html %}
-  {{ content }}
 
+<h1 class="slogan">
+  Research of<br />
+  <em>Human–computer interaction</em> at scale.
+</h1>
+
+<div class="introduction">{{ content }}</div>
+
+
+<h2>Recent projects</h2>
+
+<div class="area-items">
+  <div class="area-item">
+    <div class="media area-blurp">
+      <div class="media-image project-image" style="background-image: url(https://kixlab.org/assets/img/projects/2017-kj_languagelearning.png);"></div>
+      <div class="media-title project-title"><a href="#">Exprgram</a></div>
+      <p class="project-description">Language Learning Interface for Development of Pragmatic Competence through Learnersourcing Video Annotation</p>
+    </div>
+  </div>
+
+  <div class="area-item">
+    <div class="media area-blurp">
+      <div class="media-image project-image" style="background-image: url(https://kixlab.org/assets/img/projects/2017-microngo.png);"></div>
+      <div class="media-title project-title"><a href="#">Micro NGO</a></div>
+      <p class="project-description">An Online Social Activism Platform with a Mediator Bot</p>
+    </div>
+  </div>
+
+  <div class="area-item">
+    <div class="media area-blurp">
+      <div class="media-image project-image" style="background-image: url(https://kixlab.org/assets/img/projects/2017-recipescape.png);"></div>
+      <div class="media-title project-title"><a href="#">RecipeScape</a></div>
+      <p class="project-description">Mining and Analyzing Diverse Processes in Cooking Recipes</p>
+    </div>
+  </div>
+
+  <div class="area-item">
+    <div class="media area-blurp">
+      <div class="media-image project-image" style="background-image: url(https://kixlab.org/assets/img/projects/2017-kj_languagelearning.png);"></div>
+      <div class="media-title project-title"><a href="#">Exprgram</a></div>
+      <p class="project-description">Language Learning Interface for Development of Pragmatic Competence through Learnersourcing Video Annotation</p>
+    </div>
+  </div>
+
+</div>
+
+<h2>Latest news</h2>
+
+<div class="news-entries grid-2">
+  {% include list_news.html %}
+</div>

@@ -3,12 +3,18 @@
 
     {% include head.html %}
 
-    <body>
-        {% include nav.html %}
+    <body class="site page-{{page.path | slugify}}">
+        {% include header.html %}
 
-            {{ content }}
+        <main class="main">
+            <div class="wrap">
+                {{ content }}
+            </div>
+        </main>
 
+        
         {% include footer.html %}
+
         {% include js.html %}
     </body>
 </html>

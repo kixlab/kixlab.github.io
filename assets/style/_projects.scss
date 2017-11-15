@@ -1,0 +1,49 @@
+
+.project-list {
+    .project-title {
+        font-weight: 500;
+        line-height: 2rem;
+    }
+
+    .project {
+        clear: left;
+        border-left: 3px solid $color-accent;
+
+        display: flex;
+        flex-wrap: wrap;
+
+        margin-bottom: 2*$spacing;
+
+        .project-image {
+            float: right;
+            max-width: 24*$spacing;
+            margin-left: 3*$spacing;
+            flex: 24;
+            min-width: 15rem;
+
+            img {
+                width: 100%;
+                height: auto;
+            }
+
+            @media (max-width: 39rem) {
+                order: -1;
+                margin: 0 0 1*$spacing calc(1.5rem - 3px);
+            }
+        }
+        .project-text {
+            flex: (69-27);
+            min-width: 20rem;
+            max-width: 100%;
+            box-sizing: border-box;
+
+            font-size: (15/16)*1rem;
+
+            padding: .5rem 0 .5rem calc(1.5rem - 3px);
+
+            .project-title {
+                margin-top: 0;
+            }
+        }
+    }
+}
