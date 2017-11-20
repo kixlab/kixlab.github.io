@@ -1,10 +1,4 @@
 _site
-
-
+.sass-cache
+.jekyll-metadata
 .DS_Store
-
-
-
-assets/img/CivicEngagmentCollectiveAction - 복사본.png
-
-assets/img/CivicEngagmentCollectiveAction - 복사본.png

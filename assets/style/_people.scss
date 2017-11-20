@@ -1,0 +1,66 @@
+.group-picture {
+    max-width: 550px;
+    margin: 0 auto 1*$spacing;
+
+    a {
+        display: block;
+        box-shadow: 0 0 5px rgba(0,0,0,0.5);
+        border: 10px solid #fff;
+        transform: rotate(2deg);
+        text-decoration: none;
+        color: inherit;
+        font-size: (13/16)*1em;
+    }
+    img {
+        box-sizing: border-box;
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .caption {
+        display: block;
+        padding: .5em 0 0;
+        text-align: center;
+    }
+}
+
+.position-members {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+
+.member-name {
+    font-weight: bold;
+    line-height: 1.5rem;
+}
+
+.member-period {
+    color: $color-faded-text;
+}
+
+.namecard {
+    clear: left;
+    display: flex;
+    margin-bottom: 2*$spacing;
+
+    .member-image {
+        width: $spacing*10;
+        height: $spacing*10;
+        background-position: 50% 50%;
+        background-repeat: none;
+        background-size: cover;
+        background-color: $color-lightgray;
+
+        float: left;
+        margin-right: $spacing;
+    }
+    
+    .namecard-content {
+        p {
+            margin: 0;
+        }
+    }
+}

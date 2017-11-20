@@ -2,27 +2,20 @@
 layout: default
 ---
 
-{% include wrap.html %}
+<h1 class="page-title">{{page.title}}</h1>
 
-<div class="container mtb">
-    <div class="row">
-        {% for course in site.data.courses.courses %}
-        <div class="col-xs-12 col-md-3">
-            <p>
-                <a href="{{course.url}}">
-                    <img src="{{ "/assets/img/courses/" | prepend: site.baseurl }}{{course.image}}" alt="{{course.code}} {{course.title}}">
-                </a>
-            </p>
+<div class="news-entries grid-2">
+{% for course in site.data.courses.courses %}
+<div class="entry-item course">
+    <h3 class="entry-title">{{course.code}} {{course.title}}</h3>
 
-            <p>{{course.description}}</p>
+    <p>{{course.description}}</p>
 
-            <ul>
-                {% for edition in course.editions %}
-                <li><a href="{{edition.url}}">{{edition.semester}}</a></li>
-                {% endfor %}
-            </ul>
-        </div>
+    <ul>
+        {% for edition in course.editions %}
+        <li><a href="{{edition.url}}">{{edition.semester}}</a></li>
         {% endfor %}
-
-    </div><!--/row -->
-</div><!--/container -->
+    </ul>
+</div>
+{% endfor %}
+</div>

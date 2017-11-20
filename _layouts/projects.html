@@ -2,19 +2,12 @@
 layout: default
 ---
 
-{% include wrap.html %}
+<h1 class="page-title">Current projects</h1>
 
-<div class="container mt">
-    <div class="row">
+{{ content }}
 
-       <div class="col-xs-4">
-            <img src="{{ "/assets/img/projects/" | prepend: site.baseurl }}{{ page.img }}">
-        </div>
+{% include list_projects.html limit=10 projects=site.categories.projects %}
 
-        <div class="col-xs-8">
-            <p>{{content}}</p>
-        </div>
+<h2 class="page-title">Previous projects</h2>
+{% include list_projects.html limit=10 projects=site.categories.projects-archive %}
 
-    </div><!--/row -->
-</div><!--/container -->
-	 

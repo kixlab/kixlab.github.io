@@ -1,6 +1,24 @@
 ---
 layout: default
 ---
-{% include header.html %}
-  {{ content }}
 
+<h1 class="slogan">
+  Research of<br />
+  <em>Human–computer interaction</em> at scale.
+</h1>
+
+<div class="introduction">{{ content }}</div>
+
+
+<h2>Recent projects</h2>
+
+<div class="area-items">
+  {% include list_recent_projects.html projects=site.categories.projects limit=4 %}
+
+</div>
+
+<h2>Latest news</h2>
+
+<div class="news-entries grid-2">
+  {% include list_news.html %}
+</div>

@@ -1,7 +1,9 @@
 ---
 layout: projects
 title:  "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
-date:   2017-01-25 00:00:00
+short_title: "RecipeScape"
+oneline: "Mining and Analyzing Diverse Processes in Cooking Recipes"
+date:   2017-08-25 00:00:00
 author: Admin
 categories:
 - projects

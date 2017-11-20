@@ -1,0 +1,37 @@
+.publications {
+    list-style: square;
+    padding-left: 20px;
+    line-height: 1.5;
+
+    li {
+        margin-bottom: $spacing;
+    }
+
+    .award {
+        background-color: cornsilk;
+        font-weight: bold;
+        margin-right: 10px;
+    }
+    .author p {
+        margin: 0
+    }
+    .venue {
+        margin-right: 10px;
+    }
+
+    .title {
+        font-weight: bold;
+    }
+}
+
+.filter-labels {
+    display: flex;
+    font-size: (15/16)*1rem;
+    margin: 2*$spacing 0;
+
+    .segmented-control {
+        margin-right: $spacing;
+        margin-top: .5*$spacing;
+        font-size: (14/16)*1rem;
+    }
+}
