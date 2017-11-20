@@ -10,7 +10,7 @@ Our lab's website. We are using Jekyll, a static website generator.
 2. Edit or add what you want
 3. You can add your name, email, homepage
 
-For the picture, please choose an image with 4:3 aspect ratio like the others. (Suggested size: 600x450px)
+For the picture, please choose an image with 1:1 aspect ratio like the others. (Suggested size: 600x600px)
 Place the file at `assets/img/members/your_name.jpg` and reference it in `members.yml` with just `your_name.jpg`.
 
 ### News and projects
@@ -21,26 +21,12 @@ Place the file at `assets/img/members/your_name.jpg` and reference it in `member
 
 ### Publications
 
-__Subject to change soon!__
-
-1. Go to `_data/publication`
-2. Select yml file that your new publication published
-3. Then append following informations in the form
-```yml
-- title: <your publication title>
-  author: <your name>
-  venue: <your venue>
-  material:
-    - type: <your material type name>
-      url: <link to those material>
-    " You can add multiple materials append '-' "
-  award: <if you get an award then write it here"
-  link: <add link to your paper>
-```
+1. Go to `_data/publications.yml`
+3. Append the list by copy-pasting one of the items and filling in your information.
 
 ## How to check changes you made locally
 
-Please do this before you submit a pull request.
+Please check that the site still works before you submit a pull request. You can do this by:
 
 ```sh
 bundle install && jekyll serve
@@ -50,7 +36,7 @@ or, if you want to use Docker
 docker run --rm -p 4000:4000 -v "$(pwd):/src" -it zxzl/kixlab-homepage jekyll serve --host=0.0.0.0
 ```
 
-Then visit `localhost:4000` at your browser.
+Then visit `localhost:4000` in your browser.
 
 ## How to branch, commit and push
 
