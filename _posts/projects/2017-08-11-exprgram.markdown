@@ -1,7 +1,9 @@
 ---
 layout: projects
 title:  "Exprgram: Language Learning Interface for Development of Pragmatic Competence through Learnersourcing Video Annotation"
-date:   2017-08-11 00:00:00
+short_title: "Exprgram"
+oneline: "Language Learning Interface for Development of Pragmatic Competence through Learnersourcing Video Annotation"
+date:   2017-08-12 00:00:00
 author: KJ
 categories:
 - projects

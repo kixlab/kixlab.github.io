@@ -145,10 +145,10 @@ html {
     position: relative;
 
     .project-image {
-        height: 8rem;
+        height: 9rem;
         background-color: #fff;
-        background-size: auto 100%;
-        background-position: 50% 0;
+        background-size: contain;
+        background-position: 50% 50%;
         background-repeat: no-repeat;
     }
 }

@@ -1,6 +1,8 @@
 ---
 layout: projects
 title:  "Interaction Techniques for Intelligent Agents Powered by Large-Scale Conversation Mining"
+short_title: "Interaction Techniques for Intelligent Agents"
+oneline: "Powered by Large-Scale Conversation Mining"
 date:   2017-08-11 00:00:00
 author: Admin
 categories:

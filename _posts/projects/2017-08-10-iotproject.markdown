@@ -1,6 +1,8 @@
 ---
 layout: projects
 title:  "Data-Driven Personas in Smart Space"
+short_title: "Data-Driven Personas"
+oneline: "Building data-driven personas in smart space by analyzing interactions at scale"
 date:   2017-08-10 00:00:00
 author: Admin
 categories:
