@@ -9,4 +9,4 @@ We build interactive systems that support interaction at scale.
 We often take an interdisciplinary approach to our research,
 by connecting computer science with learning science and social science,
 and aim to deploy our systems to real users.<br>
-Keywords: crowdsourcing, human computation, interactive data analysis, online education, civic engagement, information discovery.
+<span class="note">Keywords: crowdsourcing, human computation, interactive data analysis, online education, civic engagement, information discovery.</span>
