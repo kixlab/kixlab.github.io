@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction 
   research in the School of Computing at KAIST. We build interactive systems
   that support interaction at scale.
-baseurl: "/kixlab" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 analytics: "UA-88966686-1"
