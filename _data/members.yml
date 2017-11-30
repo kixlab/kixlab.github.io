@@ -111,14 +111,6 @@ positions:
               img: kyungje.jpg
               site: ''
 
-            - name: Jonghyuk Jung
-              lastName: Jung
-              email: jonghyuk101@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'jonghyuk.jpg'
-              site: 'https://jonghyuk.info/'
-
             - name: John Chung
               lastName: Chung
               email: johnr0hol@gmail.com
@@ -147,14 +139,6 @@ positions:
               img: 'beomsu.jpg'
               site: ''
 
-            - name: Jooyoung Lee
-              lastName: Lee
-              email: leenoi3@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'jooyoung.jpg'
-              site: ''
-
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
@@ -169,6 +153,26 @@ positions:
 
         - positionName: Alumni
           positionMembers:
+            - name: Jonghyuk Jung
+              lastName: Jung
+              email: jonghyuk101@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'jonghyuk.jpg'
+              site: 'https://jonghyuk.info/'
+              period: Spring 2017–Fall 2017
+              leavingDate: 2017.10.30
+
+            - name: Jooyoung Lee
+              lastName: Lee
+              email: leenoi3@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'jooyoung.jpg'
+              site: ''
+              period: Summer 2017–Fall 2017
+              leavingDate: 2017.10.30
+
             - name: Leonore Guillain
               lastName: Guillain
               email: leonore.guillain@epfl.ch
@@ -177,7 +181,7 @@ positions:
               img: 'leonore.jpg'
               site: ''
               period: Summer 2017
-              leavingDate: 2017.8.25
+              leavingDate: 2017.08.25
 
             - name: Suhwan Jee
               lastName: Jee
@@ -207,7 +211,7 @@ positions:
               img: 'wookjae.jpg'
               site: ''
               period: Summer 2017
-              leavingDate: 2017.8.25
+              leavingDate: 2017.08.25
 
             - name: Amy Han
               lastName: Han
@@ -217,7 +221,7 @@ positions:
               img: 'amy.jpg'
               site: ''
               period: Summer 2017
-              leavingDate: 2017.8.25
+              leavingDate: 2017.08.25
 
             - name: Hyunsung Cho
               lastName: Cho

@@ -30,7 +30,9 @@
                 <p class="member-period">{{member.period}}</p>
                 {% endif %}
                 
+                {% if position.positionName != 'Alumni' %}
                 <p class="member-email">{{member.email}}</p>
+                {% endif %}
             </div>
         </div>
     {% endfor %}
