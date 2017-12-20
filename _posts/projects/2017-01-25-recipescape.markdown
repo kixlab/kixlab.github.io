@@ -15,4 +15,4 @@ In this research, we explore how analyzing cooking recipes in aggregate and in s
 
 Joint research project with [Stanford University](http://brown.stanford.edu/)
 
-[Project website[(http://recipescape.kixlab.org)
+[Project website](http://recipescape.kixlab.org)
