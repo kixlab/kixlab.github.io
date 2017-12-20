@@ -3,7 +3,12 @@
     <div class="project">
         <div class="project-text">
             <h2 class="project-title">{{project.title}}</h2>
-            <p>{{project.content}}</p>
+            {% if project.website %}
+            <p><a href="{{project.website}}" class="link-button">Project website</a></p>
+            {% endif %}
+            
+            {{project.content}}
+            
         </div>
 
         <div class="project-image">

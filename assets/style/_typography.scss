@@ -37,6 +37,21 @@ a {
     text-decoration: none;
 }
 
+a.link-button {
+    font-size: .8em;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-weight: 500;
+    display: inline-block;
+    padding: 0 .4em;
+    text-transform: uppercase;
+
+    &:hover {
+        text-decoration: none;
+        border-color: $color-link;
+    }
+}
+
 /* Headlines */
 h1, h2, h3, h4 {
     line-height: 2rem;
