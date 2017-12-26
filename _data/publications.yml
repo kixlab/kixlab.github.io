@@ -4,6 +4,7 @@ topics:
   - crowdsourcing
   - learning
   - civics
+  - visualization
 
 # List of all existing venue types
 types:
@@ -14,10 +15,116 @@ types:
 #  - journal
 
 papers:
+  - title: "Understanding the Effect of In-Video Prompting on Learners and Instructors"
+    author: "_Hyungyu Shin_, _Eun Young Ko_, Joseph Williams, _Juho Kim_"
+    venue: "CHI 2018"
+    year: 2018
+    topics:
+      - learning
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale"
+    author: "_Minsuk Chang_, _Leonore Guillain_, _Hyeungshik Jung_, Vivian Hare, _Juho Kim_, Maneesh Agrawala"
+    venue: "CHI 2018"
+    year: 2018
+    topics:
+      - datamining
+    type: conference
+    materials:
+      - label: "Project Website"
+        url: "https://recipescape.kixlab.org"
+    award: ""
+    link:
+
+  - title: "To Distort or Not to Distort: Distance Cartograms in the Wild"
+    author: "_Sungsoo (Ray) Hong_, Minjoon Yoo, Bonnie Chinh, _Amy Han_, Sarah Battersby, _Juho Kim_"
+    venue: "CHI 2018"
+    year: 2018
+    topics:
+      - visualization
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+
+  - title: "Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making"
+    author: "_Sungsoo (Ray) Hong_, Minhyang (Mia) Suh, Nathalie Henry Riche, _Jooyoung Lee_, _Juho Kim_, Mark Zachry"
+    venue: "CHI 2018"
+    year: 2018
+    topics:
+      - visualization
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "BebeCode: Collaborative Child Development Tracking System"
+    author: "Seokwoo Song, _Juho Kim_, Bumsoo Kang, Wonjeong Park, John Kim"
+    venue: "CHI 2018"
+    year: 2018
+    topics:
+      - crowdsourcing
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "ConceptScape: Collaborative Concept Mapping for Video Learning"
+    author: "_Ching Liu_, _Juho Kim_, Hao-Chuan Wang"
+    venue: "CHI 2018"
+    year: 2018
+    topics:
+      - crowdsourcing
+      - learning
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments"
+    author: "Joseph Williams, Anna Rafferty, Dustin Tingley, Andrew Ang, Walter Lasecki, _Juho Kim_"
+    venue: "CHI 2018"
+    year: 2018
+    topics:
+      - learning
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Two Tools are Better Than One: Tool Diversity as a Means of Improving Aggregate Crowd Performance"
+    author: "_Jean Y. Song_, Raymond Fok, Alan Lundgard, Fan Yang, _Juho Kim_, and Walter S. Lasecki"
+    venue: "IUI 2018"
+    year: 2018
+    topics:
+      - crowdsourcing
+    type: conference
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
   - title: "Korero: Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface"
     author: "Soon Hau Chua, Toni-Jan Keith Monserrat, Dongwook Yoon, _Juho Kim_, Shengdong Zhao"
     venue: "CSCW 2018"
-    year: 2017
+    year: 2018
     topics:
       - crowdsourcing
     type: conference
@@ -73,7 +180,7 @@ papers:
     venue: "CHI 2017 Extended Abstracts"
     year: 2017
     topics:
-      - datamining
+      - crowdsourcing
     type: conference
     materials:
       - label:
