@@ -148,6 +148,17 @@ positions:
               img: 'jiyoun.png'
               site: ''
 
+
+            - name: Seayeon Lee
+              lastName: Lee
+              email: syeonlee@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'seayeon.jpg'
+              site: ''
+              
+              
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
