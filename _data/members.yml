@@ -138,6 +138,15 @@ positions:
                 - Research Intern
               img: 'beomsu.jpg'
               site: ''
+              
+  
+            - name: Jiyoun Ha
+              lastName: Ha
+              email: jiyounha@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'jiyoun.png'
+              site: ''
 
         - positionName: Staff
           positionMembers:
