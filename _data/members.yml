@@ -156,7 +156,14 @@ positions:
                 - Research Intern
               img: 'seayeon.jpg'
               site: ''
-              
+           
+           - name: Hyunjong Lee
+             lastName: Lee
+             email: hyunjongL@kaist.ac.kr
+             career:
+               -Research Intern
+             img: 'hyunjong.jpeg'
+             site: 'hyunjongL.github.io'
               
 
         - positionName: Staff
