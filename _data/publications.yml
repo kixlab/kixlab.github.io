@@ -16,8 +16,8 @@ types:
 
 papers:
   - title: "Understanding the Effect of In-Video Prompting on Learners and Instructors"
-    author: "_Hyungyu Shin_, _Eun Young Ko_, Joseph Williams, _Juho Kim_"
-    venue: "CHI 2018"
+    author: "_Hyungyu Shin_, _Eun Young Ko_, Joseph Jay Williams, _Juho Kim_"
+    venue: "CHI 2018 (To appear)"
     year: 2018
     topics:
       - learning
@@ -30,7 +30,7 @@ papers:
 
   - title: "RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale"
     author: "_Minsuk Chang_, _Leonore Guillain_, _Hyeungshik Jung_, Vivian Hare, _Juho Kim_, Maneesh Agrawala"
-    venue: "CHI 2018"
+    venue: "CHI 2018 (To appear)"
     year: 2018
     topics:
       - datamining
@@ -43,7 +43,7 @@ papers:
 
   - title: "To Distort or Not to Distort: Distance Cartograms in the Wild"
     author: "_Sungsoo (Ray) Hong_, Minjoon Yoo, Bonnie Chinh, _Amy Han_, Sarah Battersby, _Juho Kim_"
-    venue: "CHI 2018"
+    venue: "CHI 2018 (To appear)"
     year: 2018
     topics:
       - visualization
@@ -57,7 +57,7 @@ papers:
 
   - title: "Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making"
     author: "_Sungsoo (Ray) Hong_, Minhyang (Mia) Suh, Nathalie Henry Riche, _Jooyoung Lee_, _Juho Kim_, Mark Zachry"
-    venue: "CHI 2018"
+    venue: "CHI 2018 (To appear)"
     year: 2018
     topics:
       - visualization
@@ -70,7 +70,7 @@ papers:
 
   - title: "BebeCode: Collaborative Child Development Tracking System"
     author: "Seokwoo Song, _Juho Kim_, Bumsoo Kang, Wonjeong Park, John Kim"
-    venue: "CHI 2018"
+    venue: "CHI 2018 (To appear)"
     year: 2018
     topics:
       - crowdsourcing
@@ -83,7 +83,7 @@ papers:
 
   - title: "ConceptScape: Collaborative Concept Mapping for Video Learning"
     author: "_Ching Liu_, _Juho Kim_, Hao-Chuan Wang"
-    venue: "CHI 2018"
+    venue: "CHI 2018 (To appear)"
     year: 2018
     topics:
       - crowdsourcing
@@ -96,8 +96,8 @@ papers:
     link:
 
   - title: "Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments"
-    author: "Joseph Williams, Anna Rafferty, Dustin Tingley, Andrew Ang, Walter Lasecki, _Juho Kim_"
-    venue: "CHI 2018"
+    author: "Joseph Jay Williams, Anna Rafferty, Dustin Tingley, Andrew Ang, Walter Lasecki, _Juho Kim_"
+    venue: "CHI 2018 (To appear)"
     year: 2018
     topics:
       - learning
@@ -110,7 +110,7 @@ papers:
 
   - title: "Two Tools are Better Than One: Tool Diversity as a Means of Improving Aggregate Crowd Performance"
     author: "_Jean Y. Song_, Raymond Fok, Alan Lundgard, Fan Yang, _Juho Kim_, and Walter S. Lasecki"
-    venue: "IUI 2018"
+    venue: "IUI 2018 (To apper)"
     year: 2018
     topics:
       - crowdsourcing
