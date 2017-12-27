@@ -23,7 +23,7 @@ positions:
             - name: Minsuk Chang
               lastname: Chang
               email: minsuk@kaist.ac.kr
-              career: Ph.D. candidate
+              career: Ph.D. Candidate
               img: minsuk.jpg
               interest: Humans, Computers and Pizzas :)
               site: https://sites.google.com/view/minsuk/
@@ -31,7 +31,7 @@ positions:
             - name: Paul Grau
               lastName: Grau
               email: grau@kaist.ac.kr
-              career: M.S. student
+              career: M.S. Student
               img: paul.jpg
               interest: Web Development and humans
               site: http://graycoding.com
@@ -39,14 +39,14 @@ positions:
             - name: Sung-Chul Lee
               lastName: Lee
               email: leesungchul@kaist.ac.kr
-              career: Ph.D. student
+              career: Ph.D. Student
               img: sclee.png
               site: ''
 
             - name: Jeanyoung Song
               lastName: Song
               email: jyskwon@umich.edu
-              career: Visiting Ph.D. student
+              career: Visiting Ph.D. Student
               img: profile_jean.jpg
               site: https://jyskwon.github.io/
 
@@ -62,7 +62,7 @@ positions:
               lastName: Shin
               email: hyungyu.sh@kaist.ac.kr
               career:
-                - M.S. student
+                - M.S. Student
               interest: KIXLAB
               img: hyungyu.jpg
               site: 'https://drive.google.com/open?id=0BzAN8v4bTN5HOFh1NG1Rd25abTA'
@@ -71,7 +71,7 @@ positions:
               lastName: Jung
               email: hyeungshik.jung@kaist.ac.kr
               career:
-                - M.S. student
+                - M.S. Student
               img: hyeungshik.jpg
               site: ''
 
@@ -79,7 +79,7 @@ positions:
               lastName: Kim
               email: youthskim@kaist.ac.kr
               career:
-                - M.S. student
+                - M.S. Student
               img: seoyoung.jpg
               site: ''
 
@@ -87,7 +87,7 @@ positions:
               lastName: Kim
               email: khw0726@kaist.ac.kr
               career:
-                - M.S. student
+                - M.S. Student
               img: 'hyunwoo.png'
               site: ''
 
@@ -119,8 +119,6 @@ positions:
               img: 'john.jpg'
               site: ''
 
-
-
             - name: Ina Ryu
               lastName: Ryu
               email: ryu_ina@kaist.ac.kr
@@ -128,18 +126,7 @@ positions:
                 - Research Intern
               img: 'ina.jpeg'
               site: ''
-
-
-
-            - name: Beomsu Kim
-              lastName: Kim
-              email: 3141kbs@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'beomsu.jpg'
-              site: ''
               
-  
             - name: Jiyoun Ha
               lastName: Ha
               email: jiyounha@kaist.ac.kr
@@ -147,7 +134,6 @@ positions:
                 - Research Intern
               img: 'jiyoun.png'
               site: ''
-
 
             - name: Seayeon Lee
               lastName: Lee
@@ -173,6 +159,17 @@ positions:
 
         - positionName: Alumni
           positionMembers:
+
+            - name: Beomsu Kim
+              lastName: Kim
+              email: 3141kbs@kaist.ac.kr
+              career:
+                - Research Intern
+              img: 'beomsu.jpg'
+              site: ''
+              period: Summer 2017–Fall 2017
+              leavingDate: 2017.11.30
+
             - name: Jonghyuk Jung
               lastName: Jung
               email: jonghyuk101@kaist.ac.kr
@@ -296,7 +293,7 @@ positions:
             - name: Yoo Jin Lim
               lastName: Lim
               email: yjlim@kaist.ac.kr
-              career: Ph.D. student
+              career: Ph.D. Student
               img: yjlim.JPG
               site: ''
               period: Fall 2016–Winter 2017
@@ -306,7 +303,7 @@ positions:
               lastName: Liu
               email: liuching@kaist.ac.kr
               career:
-                - Independent Research
+                - Exchange Student
               img: jean.jpg
               site: ''
               period: Fall 2016–Spring 2017
