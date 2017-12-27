@@ -132,6 +132,13 @@ positions:
               career: Research Intern
               img: 'seayeon.jpg'
               site: ''  
+              
+            - name: Tae Soo Kim
+              lastName: Kim
+              email: kimts0830@gmail.com
+              career: Research Intern
+              img: 'taesoo.jpg'
+              site: ''  
 
             - name: Ina Ryu
               lastName: Ryu
