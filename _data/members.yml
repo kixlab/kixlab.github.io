@@ -14,7 +14,7 @@ positions:
               email: juhokim@kaist.ac.kr
               career: Assistant Professor
               img: juhokim.jpg
-              site: http://juhokim.com
+              site: http://juhokim.com/
 
 ## --------------Graduate Students------------------
 
@@ -53,16 +53,14 @@ positions:
             - name: Eunyoung Ko
               lastName: Ko
               email: eunyoung4444@gmail.com
-              career:
-                - Research Intern
+              career: Research Intern
               img: 'eunyoung.jpg'
               site: ''
 
             - name: Hyungyu Shin
               lastName: Shin
               email: hyungyu.sh@kaist.ac.kr
-              career:
-                - M.S. Student
+              career: M.S. Student
               interest: KIXLAB
               img: hyungyu.jpg
               site: 'https://drive.google.com/open?id=0BzAN8v4bTN5HOFh1NG1Rd25abTA'
@@ -70,24 +68,21 @@ positions:
             - name: Hyeungshik Jung
               lastName: Jung
               email: hyeungshik.jung@kaist.ac.kr
-              career:
-                - M.S. Student
+              career: M.S. Student
               img: hyeungshik.jpg
               site: ''
 
             - name: Seoyoung Kim
               lastName: Kim
               email: youthskim@kaist.ac.kr
-              career:
-                - M.S. Student
+              career: M.S. Student
               img: seoyoung.jpg
               site: ''
 
             - name: Hyunwoo Kim
               lastName: Kim
               email: khw0726@kaist.ac.kr
-              career:
-                - M.S. Student
+              career: M.S. Student
               img: 'hyunwoo.png'
               site: ''
 
@@ -103,62 +98,54 @@ positions:
         - positionName: Undergraduate Students
           positionMembers:
 
-            - name: Kyungje Jo
-              lastName: Jo
-              email: kyungjejo@kaist.ac.kr
-              career:
-                - Research Intern
-              img: kyungje.jpg
-              site: ''
-
             - name: John Chung
               lastName: Chung
               email: johnr0hol@gmail.com
-              career:
-                - Research Intern
+              career: Research Intern
               img: 'john.jpg'
               site: ''
 
-            - name: Ina Ryu
-              lastName: Ryu
-              email: ryu_ina@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'ina.jpeg'
-              site: ''
-              
             - name: Jiyoun Ha
               lastName: Ha
               email: jiyounha@kaist.ac.kr
-              career:
-                - Research Intern
+              career: Research Intern
               img: 'jiyoun.png'
               site: ''
+
+            - name: Kyungje Jo
+              lastName: Jo
+              email: kyungjejo@kaist.ac.kr
+              career: Research Intern
+              img: kyungje.jpg
+              site: ''
+       
+            - name: Hyunjong Lee
+              lastName: Lee
+              email: hyunjongL@kaist.ac.kr
+              career: Research Intern
+              img: 'hyunjong.jpeg'
+              site: 'hyunjongL.github.io'
 
             - name: Seayeon Lee
               lastName: Lee
               email: syeonlee@kaist.ac.kr
-              career:
-                - Research Intern
+              career: Research Intern
               img: 'seayeon.jpg'
+              site: ''  
+
+            - name: Ina Ryu
+              lastName: Ryu
+              email: ryu_ina@kaist.ac.kr
+              career: Research Intern
+              img: 'ina.jpeg'
               site: ''
-           
-           - name: Hyunjong Lee
-             lastName: Lee
-             email: hyunjongL@kaist.ac.kr
-             career:
-               -Research Intern
-             img: 'hyunjong.jpeg'
-             site: 'hyunjongL.github.io'
-              
 
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
               lastName: Kim
               email: oaksil79@gmail.com
-              career:
-                - Administrative Staff
+              career: Administrative Staff
               img: oaksil.jpg
               site: ''
 
@@ -166,7 +153,6 @@ positions:
 
         - positionName: Alumni
           positionMembers:
-
             - name: Beomsu Kim
               lastName: Kim
               email: 3141kbs@kaist.ac.kr
