@@ -1,14 +1,12 @@
 ---
 layout: projects
-title:  "Rally(아, 쫌!): Facilitate communication between decision maker & citizens by empowering citizen’s voice with crowdsourced petition"
+title:  "Rally(아, 쫌!): A Data-driven Community Petition Platform"
 date:   2017-04-12 00:00:00
 author: Admin
 categories:
 - projects
-img: 2017-achome.png
-website: https://student.kaist.ac.kr/internet/
+img: 2017-achome.jpg
+website: https://soyapark-kaist.github.io/rally/
 desc: "civic engagement; social activism; crowdsourced petition"
 ---
-Often complaints and request from community members’ happen in an ad-hoc manner, in turn, it couldn’t draw the attention from the decision maker. We propose a crowdsourced petition platform Rally to empower the community members' voice with unified communication pipeline to the decision maker. We focus on the petition which is one of the most common protocols between community members’ and decision makers. 
-
-Check here: [https://student.kaist.ac.kr/internet/](https://student.kaist.ac.kr/internet/)
+Often complaints and request from community members’ happen in an ad-hoc manner, in turn, it couldn’t draw the attention from the decision maker. We propose a crowdsourced petition platform Rally to empower the community members' voice with unified communication pipeline to the decision maker. We focus on the petition which is one of the most common protocols between community members’ and decision makers.
