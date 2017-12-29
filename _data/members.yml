@@ -140,6 +140,13 @@ positions:
               img: 'taesoo.jpg'
               site: ''  
 
+            - name: Hyoungwook Jin
+              lastName: Jin
+              email: hyoungwookjin12@kaist.ac.kr
+              career: Research Intern
+              img: 'hyoungwook.jpg'
+              site: ''  
+
             - name: Ina Ryu
               lastName: Ryu
               email: ryu_ina@kaist.ac.kr
