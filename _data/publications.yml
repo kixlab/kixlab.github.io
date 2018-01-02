@@ -132,7 +132,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "https://dl.acm.org/citation.cfm?id=3134669"
 
   - title: "Exprgram: A Video-based Language Learning Interface Powered by Learnersourced Video Annotations"
     author: "_Kyungje Jo_, _John Jooyoung Chung_, _Juho Kim_"
