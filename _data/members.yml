@@ -124,7 +124,7 @@ positions:
               email: hyunjongL@kaist.ac.kr
               career: Research Intern
               img: 'hyunjong.jpeg'
-              site: 'hyunjongL.github.io'
+              site: 'https://hyunjongl.github.io/'
 
             - name: Seayeon Lee
               lastName: Lee
@@ -147,13 +147,6 @@ positions:
               img: 'hyoungwook.jpg'
               site: ''  
 
-            - name: Ina Ryu
-              lastName: Ryu
-              email: ryu_ina@kaist.ac.kr
-              career: Research Intern
-              img: 'ina.jpeg'
-              site: ''
-
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
@@ -167,6 +160,15 @@ positions:
 
         - positionName: Alumni
           positionMembers:
+            - name: Ina Ryu
+              lastName: Ryu
+              email: ryu_ina@kaist.ac.kr
+              career: Research Intern
+              img: 'ina.jpeg'
+              site: ''
+              period: Summer 2017–Fall 2017
+              leavingDate: 2017.12.31
+
             - name: Beomsu Kim
               lastName: Kim
               email: 3141kbs@kaist.ac.kr
