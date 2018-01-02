@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   research in the School of Computing at KAIST. We build interactive systems
   that support interaction at scale.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kixlab.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 analytics: "UA-88966686-1"
 
@@ -29,7 +29,7 @@ permalink: /:categories/:title
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
