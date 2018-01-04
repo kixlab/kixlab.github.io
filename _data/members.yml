@@ -43,7 +43,7 @@ positions:
               img: sclee.png
               site: ''
 
-            - name: Jeanyoung Song
+            - name: Jean Young Song
               lastName: Song
               email: jyskwon@umich.edu
               career: Visiting Ph.D. Student
@@ -118,7 +118,7 @@ positions:
               career: Research Intern
               img: kyungje.jpg
               site: ''
-       
+
             - name: Hyunjong Lee
               lastName: Lee
               email: hyunjongL@kaist.ac.kr
@@ -131,21 +131,21 @@ positions:
               email: syeonlee@kaist.ac.kr
               career: Research Intern
               img: 'seayeon.jpg'
-              site: ''  
-              
+              site: ''
+
             - name: Tae Soo Kim
               lastName: Kim
               email: kimts0830@gmail.com
               career: Research Intern
               img: 'taesoo.jpg'
-              site: ''  
+              site: ''
 
             - name: Hyoungwook Jin
               lastName: Jin
               email: hyoungwookjin12@kaist.ac.kr
               career: Research Intern
               img: 'hyoungwook.jpg'
-              site: ''  
+              site: ''
 
         - positionName: Staff
           positionMembers:
