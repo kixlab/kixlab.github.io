@@ -5,6 +5,8 @@ courses:
     description: "This course introduces fundamental principles, techniques, and methods for designing, prototyping, and evaluating user interfaces."
     url: https://kixlab.org/courses/hci/
     editions:
+      - semester: "Spring 2018"
+        url: https://kixlab.org/courses/cs374-spring-2018/
       - semester: "Spring 2017"
         url: https://kixlab.org/courses/cs374-spring-2017/
   - title: "Crowdsourcing & Social Computing"
