@@ -53,7 +53,7 @@ positions:
             - name: Eunyoung Ko
               lastName: Ko
               email: eunyoung4444@gmail.com
-              career: Research Intern
+              career: M.S. Student
               img: 'eunyoung.jpg'
               site: ''
 
@@ -99,6 +99,13 @@ positions:
               career: M.S. Student
               img: kyungje.jpg
               site: 'kyungjejo.com'
+            
+            - name: Mercedes Huertas
+              lastName: Huertas
+              email: mdlm.huertas@unitn.it
+              career: Visiting Ph.D. Student
+              img: mercedes.jpg
+              site: 
 
 ## ---------------Undergraduates--------------------
 
