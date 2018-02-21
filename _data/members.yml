@@ -93,6 +93,13 @@ positions:
               img: arti.JPG
               site: ''
 
+            - name: Kyung Je Jo
+              lastName: Jo
+              email: kyungjejo@kaist.ac.kr
+              career: M.S. Student
+              img: kyungje.jpg
+              site: 'kyungjejo.com'
+
 ## ---------------Undergraduates--------------------
 
         - positionName: Undergraduate Students
@@ -110,13 +117,6 @@ positions:
               email: jiyounha@kaist.ac.kr
               career: Research Intern
               img: 'jiyoun.png'
-              site: ''
-
-            - name: Kyungje Jo
-              lastName: Jo
-              email: kyungjejo@kaist.ac.kr
-              career: Research Intern
-              img: kyungje.jpg
               site: ''
 
             - name: Hyunjong Lee
