@@ -98,14 +98,14 @@ positions:
               email: kyungjejo@kaist.ac.kr
               career: M.S. Student
               img: kyungje.jpg
-              site: 'kyungjejo.com'
+              site: 'http://kyungjejo.com'
             
             - name: Mercedes Huertas
               lastName: Huertas
               email: mdlm.huertas@unitn.it
               career: Visiting Ph.D. Student
               img: mercedes.jpg
-              site: 
+              site: ''
 
 ## ---------------Undergraduates--------------------
 
