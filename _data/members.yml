@@ -53,9 +53,9 @@ positions:
             - name: Eunyoung Ko
               lastName: Ko
               email: eunyoung4444@gmail.com
-              career: Research Intern
+              career: M.S. Student
               img: 'eunyoung.jpg'
-              site: ''
+              site: http://eunyoungko.net/
 
             - name: Hyungyu Shin
               lastName: Shin
@@ -98,7 +98,14 @@ positions:
               email: kyungjejo@kaist.ac.kr
               career: M.S. Student
               img: kyungje.jpg
-              site: 'kyungjejo.com'
+              site: 'http://kyungjejo.com'
+            
+            - name: Mercedes Huertas
+              lastName: Huertas
+              email: mdlm.huertas@unitn.it
+              career: Visiting Ph.D. Student
+              img: mercedes.jpg
+              site: ''
 
 ## ---------------Undergraduates--------------------
 
