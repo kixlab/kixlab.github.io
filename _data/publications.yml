@@ -9,12 +9,52 @@ topics:
 # List of all existing venue types
 types:
   - conference
+  - poster
   - workshop
-#  - poster
 #  - book
 #  - journal
 
 papers:
+  - title: "Micro-NGO: Tackling Wicked Social Problems with Problem Solving and Action Planning Support in Chat"
+    author: "_Sung-chul Lee_, Jihee Kim, _Juho Kim_"
+    venue: "CHI 2018 Extended Abstracts (Late Breaking Work, To appear)"
+    year: 2018
+    topics:
+      - civics
+    type: poster
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Detecting Personality Unobtrusively from Users' Online and Offline Workplace Behaviors"
+    author: "_Seoyoung Kim_, _Jiyoun Ha_, _Juho Kim_"
+    venue: "CHI 2018 Extended Abstracts (Late Breaking Work, To appear)"
+    year: 2018
+    topics:
+      - datamining
+    type: poster
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
+  - title: "Exprgram: A Language Learning Interface for Mastering Pragmatic Competence"
+    author: "_Kyungje Jo_, _John Joon Young Chung_, _Juho Kim_"
+    venue: "CHI 2018 Extended Abstracts (Late Breaking Work, To appear)"
+    year: 2018
+    topics:
+      - learning
+      - crowdsourcing
+    type: poster
+    materials:
+      - label:
+        url:
+    award: ""
+    link:
+
   - title: "Understanding the Effect of In-Video Prompting on Learners and Instructors"
     author: "_Hyungyu Shin_, _Eun Young Ko_, Joseph Jay Williams, _Juho Kim_"
     venue: "CHI 2018 (To appear)"
@@ -26,7 +66,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-Prompting.pdf"
 
   - title: "RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale"
     author: "_Minsuk Chang_, _Leonore Guillain_, _Hyeungshik Jung_, Vivian Hare, _Juho Kim_, Maneesh Agrawala"
@@ -39,7 +79,7 @@ papers:
       - label: "Project Website"
         url: "https://recipescape.kixlab.org"
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-RecipeScape.pdf"
 
   - title: "To Distort or Not to Distort: Distance Cartograms in the Wild"
     author: "_Sungsoo (Ray) Hong_, Minjoon Yoo, Bonnie Chinh, _Amy Han_, Sarah Battersby, _Juho Kim_"
@@ -52,7 +92,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-DC.pdf"
 
 
   - title: "Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making"
@@ -66,7 +106,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-CDQ.pdf"
 
   - title: "BebeCode: Collaborative Child Development Tracking System"
     author: "Seokwoo Song, _Juho Kim_, Bumsoo Kang, Wonjeong Park, John Kim"
@@ -79,7 +119,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-BebeCode.pdf"
 
   - title: "ConceptScape: Collaborative Concept Mapping for Video Learning"
     author: "_Ching Liu_, _Juho Kim_, Hao-Chuan Wang"
@@ -93,7 +133,7 @@ papers:
       - label:
         url:
     award: "Honourable Mention Award"
-    link:
+    link: "http://juhokim.com/files/CHI2018-ConceptScape.pdf"
 
   - title: "Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments"
     author: "Joseph Jay Williams, Anna Rafferty, Dustin Tingley, Andrew Ang, Walter Lasecki, _Juho Kim_"
@@ -106,11 +146,11 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-DynamicProblem.pdf"
 
   - title: "Two Tools are Better Than One: Tool Diversity as a Means of Improving Aggregate Crowd Performance"
     author: "_Jean Y. Song_, Raymond Fok, Alan Lundgard, Fan Yang, _Juho Kim_, and Walter S. Lasecki"
-    venue: "IUI 2018 (To apper)"
+    venue: "IUI 2018 (To appear)"
     year: 2018
     topics:
       - crowdsourcing
@@ -119,7 +159,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/IUI2018-FourEyes.pdf"
 
   - title: "Korero: Facilitating Complex Referencing of Visual Materials in Asynchronous Discussion Interface"
     author: "Soon Hau Chua, Toni-Jan Keith Monserrat, Dongwook Yoon, _Juho Kim_, Shengdong Zhao"
@@ -135,7 +175,7 @@ papers:
     link: "https://dl.acm.org/citation.cfm?id=3134669"
 
   - title: "Exprgram: A Video-based Language Learning Interface Powered by Learnersourced Video Annotations"
-    author: "_Kyungje Jo_, _John Jooyoung Chung_, _Juho Kim_"
+    author: "_Kyungje Jo_, _John Joon Young Chung_, _Juho Kim_"
     venue: "HCOMP 2017 Workshop on Human Computation for Image and Video Analysis"
     year: 2017
     topics:
@@ -168,7 +208,7 @@ papers:
     year: 2017
     topics:
       - datamining
-    type: conference
+    type: poster
     materials:
       - label:
         url:
@@ -181,7 +221,7 @@ papers:
     year: 2017
     topics:
       - crowdsourcing
-    type: conference
+    type: poster
     materials:
       - label:
         url:
@@ -194,7 +234,7 @@ papers:
     year: 2017
     topics:
       - learning
-    type: conference
+    type: poster
     materials:
       - label:
         url:
@@ -208,7 +248,7 @@ papers:
     topics:
       - crowdsourcing
       - learning
-    type: conference
+    type: poster
     materials:
       - label:
         url:
