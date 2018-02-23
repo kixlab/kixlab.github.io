@@ -38,4 +38,4 @@ exclude:
 sass:
     sass_dir: assets/style
 
-
+encoding: utf-8
