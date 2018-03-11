@@ -33,6 +33,17 @@
     align-items: stretch;
 }
 
+.position-alumni {
+    flex-direction: column;
+    .namecard {
+        margin-bottom: 0.5*$spacing;
+    }
+
+    .member-name, .member-career, .member-period, .member-now {
+        float: left;
+        padding-right: 10px;
+    }
+}
 
 .member-name {
     font-weight: bold;

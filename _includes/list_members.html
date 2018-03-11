@@ -1,7 +1,7 @@
 {% for position in site.data.members.positions %}
     <h2 class="position-title">{{ position.positionName}}</h3>
 
-    <div class="position-members {% if position.positionName == 'Alumni' %}position-alumni grid-4{% else %}grid-2{% endif %}">
+    <div class="position-members {% if position.positionName == 'Alumni' %}position-alumni{% else %}grid-2{% endif %}">
     
     {% if position.positionName != 'Alumni' %}
         {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}
@@ -13,7 +13,6 @@
             {% if position.positionName != 'Alumni' %}
             <div class='member-image' style="background-image: url({{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }})">
             </div>
-            {% endif %}
 
             <div class="namecard-content">
                 {% if member.site != '' %}
@@ -34,6 +33,31 @@
                 <p class="member-email">{{member.email}}</p>
                 {% endif %}
             </div>
+            
+            {% else %}
+
+            <div class="namecard-content">
+                {% if member.site != '' %}
+                <span class="member-name"><a href="{{member.site}}">{{member.name}}</a></span>
+                {% else %}
+                <span class="member-name">{{member.name}}</span>
+                {% endif %}
+
+                {% for career in member.career %}
+                <p class="member-career">{{career}}</p>
+                {% endfor %}
+
+                {% if member.period %}
+                <p class="member-period">{{member.period}}</p>
+                {% endif %}
+
+                {% if member.now %}
+                <p class="member-now">(now {{member.now}})</p>
+                {% endif %}
+            </div>
+
+            {% endif %}
+
         </div>
     {% endfor %}
     </div>

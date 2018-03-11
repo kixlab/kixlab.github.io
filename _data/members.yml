@@ -133,13 +133,6 @@ positions:
               img: 'hyunjong.jpeg'
               site: 'https://hyunjongl.github.io/'
 
-            - name: Seayeon Lee
-              lastName: Lee
-              email: syeonlee@kaist.ac.kr
-              career: Research Intern
-              img: 'seayeon.jpg'
-              site: ''
-
             - name: Tae Soo Kim
               lastName: Kim
               email: kimts0830@gmail.com
@@ -167,6 +160,14 @@ positions:
 
         - positionName: Alumni
           positionMembers:
+            - name: Seayeon Lee
+              lastName: Lee
+              email: syeonlee@kaist.ac.kr
+              career: Research Intern
+              img: 'seayeon.jpg'
+              site: ''            
+              period: Winter 2018
+              leavingDate: 2018.02.28
             - name: Ina Ryu
               lastName: Ryu
               email: ryu_ina@kaist.ac.kr
@@ -175,7 +176,7 @@ positions:
               site: ''
               period: Summer 2017–Fall 2017
               leavingDate: 2017.12.31
-
+              now: Software Engineer @ Naver
             - name: Beomsu Kim
               lastName: Kim
               email: 3141kbs@kaist.ac.kr
@@ -215,7 +216,7 @@ positions:
               site: ''
               period: Summer 2017
               leavingDate: 2017.08.25
-
+              now: MS student @ EPFL
             - name: Suhwan Jee
               lastName: Jee
               email: jsh56son@kaist.ac.kr
@@ -255,6 +256,7 @@ positions:
               site: ''
               period: Summer 2017
               leavingDate: 2017.08.25
+              now: Data Engineer @ Capital One
 
             - name: Hyunsung Cho
               lastName: Cho
@@ -265,6 +267,7 @@ positions:
               site: ''
               period: Fall 2016–Winter 2017
               leavingDate: 2017.02.28
+              now: MS student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
 
             - name: Jaesung Huh
               lastName: Huh
@@ -295,6 +298,7 @@ positions:
               site: ''
               period: Summer 2016–Fall 2016
               leavingDate: 2016.12.31
+              now: MS student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
 
             - name: Hyungwoo Kim
               lastName: Kim
@@ -324,6 +328,7 @@ positions:
               site: ''
               period: Fall 2016–Spring 2017
               leavingDate: 2017.06.30
+              now: MS student @ NTHU
 
             - name: Taekyung Park
               lastName: Park
@@ -345,6 +350,7 @@ positions:
               site: ''
               period: Summer 2016–Fall 2016
               leavingDate: 2016.12.31
+              now: MS student @ KAIST Business School
 
             - name: Soya Park
               lastName: Park
@@ -355,6 +361,7 @@ positions:
               site: 'https://soyapark45.github.io/soya/'
               period: Fall 2016–Winter 2017
               leavingDate: 2017.02.28
+              now: Ph.D. student @ MIT
 
             - name: Juho Sun
               lastName: Sun
@@ -365,6 +372,7 @@ positions:
               site: 'http://juhojuho.com'
               period: Fall 2016
               leavingDate: 2016.12.31
+              now: Founder @ <a href="https://meanit.me/">MeanIt</a>
 
 ## -------------Special----------------------------
 

@@ -74,7 +74,7 @@ h2 {
 }
 
 .page-title, .position-title {
-    margin-top: 0;
+    margin-top: $spacing;
     margin-bottom: 2*$spacing;
     font-family: 'Roboto Mono', monospace;
     font-weight: 400;
