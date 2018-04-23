@@ -3,7 +3,14 @@
 <div class="entry-item">
     <h3 class="entry-title">{{post.title}}</h3>
     <p class="entry-meta">{{ post.date | date_to_long_string }}</p>
-    {{ post.content }}
+    {% if post.summary %}
+        {{ post.summary | markdownify }}
+
+        <p><a href="{{ site.baseurl }}{{ post.url }}">Read more</a></p>
+    {% else %}
+        {{ post.content }}
+    {% endif %}
+
 </div>
 {% endfor %}
 
