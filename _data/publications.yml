@@ -26,7 +26,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-LBW-MicroNGO.pdf"
 
   - title: "Detecting Personality Unobtrusively from Users' Online and Offline Workplace Behaviors"
     author: "_Seoyoung Kim_, _Jiyoun Ha_, _Juho Kim_"
@@ -39,7 +39,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-LBW-Personality.pdf"
 
   - title: "Exprgram: A Language Learning Interface for Mastering Pragmatic Competence"
     author: "_Kyungje Jo_, _John Joon Young Chung_, _Juho Kim_"
@@ -53,7 +53,7 @@ papers:
       - label:
         url:
     award: ""
-    link:
+    link: "http://juhokim.com/files/CHI2018-LBW-Exprgram.pdf"
 
   - title: "Understanding the Effect of In-Video Prompting on Learners and Instructors"
     author: "_Hyungyu Shin_, _Eun Young Ko_, Joseph Jay Williams, _Juho Kim_"
