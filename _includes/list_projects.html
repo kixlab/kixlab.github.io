@@ -2,13 +2,26 @@
     {% for project in include.projects limit:include.limit %}
     <div class="project">
         <div class="project-text">
-            <h2 class="project-title">{{project.title}}</h2>
-            {% if project.website %}
+            <h2 class="project-title">
+                {% if project.single_page %}<a href="{{project.url}}">{{project.title}}</a>
+                {% else %}{{project.title}}{% endif %}
+            </h2>
+            
+            <p>
+                {% if project.single_page %}
+                    {{project.excerpt | remove: '<p>' | remove: '</p>'}}
+
+                    {% if project.excerpt != project.content %}
+                    <a href="{{project.url}}" class="read-more-btn">Read more</a>
+                    {% endif %}
+                {% else %}
+                    {{project.content}}
+                {% endif %}
+            </p>
+
+            <!--{% if project.website %}
             <p><a href="{{project.website}}" class="link-button">Project website</a></p>
-            {% endif %}
-            
-            {{project.content}}
-            
+            {% endif %}-->
         </div>
 
         <div class="project-image">

@@ -2,7 +2,10 @@
     <div class="area-item" onClick="this.children[0].children[1].children[0].click()">
         <div class="media area-blurp">
           <div class="media-image project-image" style="background-image: url({{ "/assets/img/projects/" | prepend: site.baseurl }}{{ project.img }});"></div>
-          <div class="media-title project-title"><a href="{{ site.baseurl }}/projects/">{{project.short_title}}</a></div>
+          <div class="media-title project-title">
+              {% if project.single_page %}<a href="{{project.url}}">{{project.short_title}}</a>
+              {% else %}<a href="{{ site.baseurl }}/projects/">{{project.short_title}}</a>{% endif %}
+            </div>
           <p class="project-description">{{project.oneline}}</p>
         </div>
     </div>

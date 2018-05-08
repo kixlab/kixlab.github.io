@@ -54,6 +54,11 @@ a.link-button {
     }
 }
 
+.read-more-btn {
+    text-transform: uppercase;
+    font-size: .85em;
+}
+
 /* Headlines */
 h1, h2, h3, h4 {
     line-height: 2rem;
@@ -93,6 +98,7 @@ h2 {
     font-size: 0.875em;
     color: #818181;
     margin: 0;
+    font-style: italic;
 
     & + p {
         margin-top: 0;
