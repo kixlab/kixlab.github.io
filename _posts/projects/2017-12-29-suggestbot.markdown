@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "Crowdsourcing Techniques for Annotating Context, Emotion, and Intention on Dialog Videos"
 short_title: "Crowdsourcing for Annotating Dialog Videos"
 oneline: "Building online crowdsourcing platform to collect contextual, emotional, and intentional labels on dialog videos"

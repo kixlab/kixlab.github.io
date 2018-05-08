@@ -1,6 +1,6 @@
 ---
-layout: projects
-title:  "Rally(아, 쫌!): A Data-driven Community Petition Platform"
+layout: project
+title:  "Rally (아, 쫌!): A Data-driven Community Petition Platform"
 date:   2017-04-12 00:00:00
 author: Admin
 categories:

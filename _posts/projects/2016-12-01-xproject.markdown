@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "Improving Government Transparency with Social Computing"
 date:   2016-12-01 00:00:00
 author: Admin

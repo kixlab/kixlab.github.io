@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "Winter 2017 Intern Projects"
 date:   2017-02-28 00:00:00
 author: Admin

@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "Micro-NGO: An Online Social Activism Platform with a Mediator Bot"
 date:   2017-08-01 00:00:00
 author: Admin
