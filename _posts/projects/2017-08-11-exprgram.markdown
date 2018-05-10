@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "Exprgram: Language Learning Interface for Development of Pragmatic Competence through Learnersourcing Video Annotation"
 short_title: "Exprgram"
 oneline: "Language Learning Interface for Development of Pragmatic Competence through Learnersourcing Video Annotation"

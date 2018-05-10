@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "2016 Summer Intern Projects"
 date:   2016-07-01 00:00:00
 author: Admin

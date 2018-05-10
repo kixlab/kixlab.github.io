@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "Interaction Techniques for Intelligent Agents Powered by Large-Scale Conversation Mining"
 short_title: "Interaction Techniques for Intelligent Agents"
 oneline: "Powered by Large-Scale Conversation Mining"

@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: project
 title:  "Enhancing Informal Communication in the Workplace with Online and Physical Data"
 short_title: "Data-Driven Personas"
 oneline: "Building data-driven personas in smart space by analyzing interactions at scale"

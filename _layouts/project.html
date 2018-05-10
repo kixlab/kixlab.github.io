@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="single-project">
+  <h1 class="page-title">{{ page.title }}</h1>
+
+  <p class="entry-meta">{{ page.authors }}</p>
+
+  <div class="project-content">
+    <div class="project-meta">
+      <ul class="links-list">
+        {% if page.website %}
+        <li class="external"><a href="{{page.website}}">Project website</a></li>
+        {% endif %}
+
+        {% for line in page.sidebar %}
+        <li>{{line | markdownify | remove: '<p>' | remove: '</p>'}}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="project-text">
+    {{ content }}
+    </div>
+  </div>
+</div>
