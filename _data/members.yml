@@ -147,6 +147,13 @@ positions:
               img: 'hyoungwook.jpg'
               site: ''
 
+            - name: Yoonseo Choi
+              lastName: Choi
+              email: yoon0u0@gmail.com
+              career: Research Intern
+              img: 'yoonseo.jpg'
+              site: ''
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
