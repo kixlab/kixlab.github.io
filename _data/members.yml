@@ -154,6 +154,14 @@ positions:
               img: 'yoonseo.jpg'
               site: ''
 
+            - name: Manav Rao
+              lastName: Rao    
+              email: rao.manav20@gmail.com
+              career: Research Intern
+              img: 'manav.jpg'
+              site: 'http://www.cse.iitd.ac.in/~cs1160523/'
+              
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
