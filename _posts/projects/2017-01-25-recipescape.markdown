@@ -14,6 +14,8 @@ authors: Minsuk Chang, Leonore Guillain, Hyeungshik Jung, Vivian Hare, Juho Kim,
 sidebar:
 - "_RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale_. CHI 2018. [PDF](https://recipescape.kixlab.org/RecipeScape_CHI_2018__Camera_Ready_.pdf). [ACM Citation](https://dl.acm.org/citation.cfm?id=3174025)"
 - "[Video preview](https://youtu.be/PslAojnaKnQ)"
+- "[RecipeScape in 전자신문](http://www.etnews.com/20180409000376)"
+- "[RecipeScape in Follow The Crowd](https://humancomputation.com/blog/?p=9862)"
 ---
 We explore how analyzing cooking recipes in aggregate and in scale helps discovering the core values in the collective cooking culture, and answer fundamental questions like ‘‘what makes a chocolate chip cookie a chocolate chip cookie’’.
 Aspiring cooks, professional chefs, and cooking hobbyists share their recipes online resulting in thousands of different procedural instructions towards a shared goal.
