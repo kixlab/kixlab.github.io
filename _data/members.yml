@@ -168,6 +168,12 @@ positions:
               img: 'saelyne.jpg'
               site: ''
               
+            - name: Rachel Kwak
+              lastName: Kwak   
+              email: kwakseo@mit.edu
+              career: Research Intern
+              img: 'rachel.jpg'
+              site: ''             
 
         - positionName: Staff
           positionMembers:
