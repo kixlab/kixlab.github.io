@@ -1,0 +1,17 @@
+/courses/cs374-spring-2018 /courses/cs374-spring-2018/index.html 301!
+/courses/cs374-spring-2018/* https://cs374-spring-2018.netlify.com/:splat 200
+
+/courses/cs374-spring-2017 /courses/cs374-spring-2017/index.html 301!
+/courses/cs374-spring-2017/* https://cs374-spring-2017.netlify.com/:splat 200
+
+/courses/cs492-fall-2017 /courses/cs492-fall-2017/index.html 301!
+/courses/cs492-fall-2017/* https://cs492-fall-2017.netlify.com/:splat 200
+
+/courses/cs492-fall-2016 /courses/cs492-fall-2016/index.html 301!
+/courses/cs492-fall-2016/* https://cs492-fall-2016.netlify.com/:splat 200
+
+/courses/cs408e /courses/cs408e/index.html 301!
+/courses/cs408e/* https://cs408e-spring-2018.netlify.com/:splat 200
+
+/courses/crowdsourcing /courses/crowdsourcing/index.html 301!
+/courses/crowdsourcing/* https://cs492-fall-2016.netlify.com/:splat 200

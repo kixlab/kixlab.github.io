@@ -16,7 +16,7 @@
 title: KIXLAB
 email: kixlab.kaist@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction 
+  KAIST Interaction Lab (KIXLAB) focuses on human-computer interaction
   research in the School of Computing at KAIST. We build interactive systems
   that support interaction at scale.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,8 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+include:
+  - _redirects
 exclude:
   - Gemfile
   - Gemfile.lock
