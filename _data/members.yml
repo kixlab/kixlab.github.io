@@ -175,6 +175,13 @@ positions:
               img: 'rachel.jpg'
               site: ''             
 
+            - name: Donghoon Han
+              lastName: Han   
+              email: hanuright@kaist.ac.kr
+              career: Research Intern
+              img: 'hoon.jpg'
+              site: ''    
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
