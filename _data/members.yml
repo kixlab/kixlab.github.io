@@ -99,13 +99,20 @@ positions:
               career: M.S. Student
               img: kyungje.jpg
               site: 'http://kyungjejo.com'
-            
+
             - name: Mercedes Huertas
               lastName: Huertas
               email: mdlm.huertas@unitn.it
               career: Visiting Ph.D. Student
               img: mercedes.jpg
               site: ''
+
+            - name: Evey Huang
+              lastName: Huang
+              email: jiaxinh.evey@gmail.com
+              career: Research Intern
+              img: evey.jpg
+              site: 'https://eveyhuang.myportfolio.com'
 
 ## ---------------Undergraduates--------------------
 
@@ -155,28 +162,28 @@ positions:
               site: ''
 
             - name: Manav Rao
-              lastName: Rao    
+              lastName: Rao
               email: rao.manav20@gmail.com
               career: Research Intern
               img: 'manav.jpg'
               site: 'http://www.cse.iitd.ac.in/~cs1160523/'
 
             - name: Saelyne Yang
-              lastName: Yang    
+              lastName: Yang
               email: lyne96@kaist.ac.kr
               career: Research Intern
               img: 'saelyne.jpg'
               site: ''
-              
+
             - name: Rachel Kwak
-              lastName: Kwak   
+              lastName: Kwak
               email: kwakseo@mit.edu
               career: Research Intern
               img: 'rachel.jpg'
-              site: ''             
+              site: ''
 
             - name: Donghoon Han
-              lastName: Han   
+              lastName: Han
               email: hanuright@kaist.ac.kr
               career: Research Intern
               img: 'hoon.jpg'
@@ -207,7 +214,7 @@ positions:
               email: syeonlee@kaist.ac.kr
               career: Research Intern
               img: 'seayeon.jpg'
-              site: ''            
+              site: ''
               period: Winter 2018
               leavingDate: 2018.02.28
             - name: Ina Ryu
