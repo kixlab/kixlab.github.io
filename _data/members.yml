@@ -181,6 +181,13 @@ positions:
               career: Research Intern
               img: 'hoon.jpg'
               site: ''    
+              
+            - name: Changyoon Lee
+              lastName: Lee   
+              email: cyoon47@kaist.ac.kr
+              career: Research Intern
+              img: 'changyoon.jpg'
+              site: ''    
 
         - positionName: Staff
           positionMembers:
