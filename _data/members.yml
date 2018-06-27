@@ -196,13 +196,20 @@ positions:
               img: 'hyuntak.jpeg'
               site: 'http://hyuntak.com'
 
+            - name: Seongho Park
+              lastName: Park
+              email: bluetosh7@gmail.com
+              career: Research Intern
+              img: 'seongho.jpg'
+              site: ''
+
             - name: Changyoon Lee
               lastName: Lee   
               email: cyoon47@kaist.ac.kr
               career: Research Intern
               img: 'changyoon.jpg'
-              site: ''    
-            
+              site: ''
+
 
         - positionName: Staff
           positionMembers:
