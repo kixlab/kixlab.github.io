@@ -189,12 +189,20 @@ positions:
               img: 'hoon.jpg'
               site: ''    
               
+            - name: Hyuntak Cha
+              lastName: Cha
+              email: chaht01@gmail.com
+              career: Resaerch Intern
+              img: 'hyuntak.jpeg'
+              site: 'http://hyuntak.com'
+
             - name: Changyoon Lee
               lastName: Lee   
               email: cyoon47@kaist.ac.kr
               career: Research Intern
               img: 'changyoon.jpg'
               site: ''    
+            
 
         - positionName: Staff
           positionMembers:
