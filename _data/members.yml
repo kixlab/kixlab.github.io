@@ -210,6 +210,7 @@ positions:
               img: 'changyoon.jpg'
               site: ''
 
+
         - positionName: Staff
           positionMembers:
             - name: Oaksil Kim
