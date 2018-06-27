@@ -173,6 +173,13 @@ positions:
               email: kwakseo@mit.edu
               career: Research Intern
               img: 'rachel.jpg'
+              site: '' 
+
+            - name: Seongho Park
+              lastName: Park
+              email: bluetosh7@gmail.com
+              career: Research Intern
+              img: 'seongho.jpg'
               site: ''             
 
         - positionName: Staff
