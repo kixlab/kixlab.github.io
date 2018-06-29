@@ -210,6 +210,12 @@ positions:
               img: 'changyoon.jpg'
               site: ''
 
+            - name: Nyoungwoo Lee
+              lastName: Lee
+              email: leenw2@kaist.ac.kr
+              carrer: Research Intern
+              img: 'nyoungwoo.jpg'
+              site: ''
 
         - positionName: Staff
           positionMembers:
