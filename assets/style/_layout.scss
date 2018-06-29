@@ -69,6 +69,10 @@ html {
 
         .footer-item {
             flex: 33%;
+
+            &:last-child {
+                text-align: right;
+            }
         }
     }
 }
