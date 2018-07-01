@@ -100,12 +100,6 @@ positions:
               img: kyungje.jpg
               site: 'http://kyungjejo.com'
 
-            - name: Mercedes Huertas
-              lastName: Huertas
-              email: mdlm.huertas@unitn.it
-              career: Visiting Ph.D. Student
-              img: mercedes.jpg
-              site: ''
 
             - name: Evey Huang
               lastName: Huang
@@ -119,26 +113,6 @@ positions:
         - positionName: Undergraduate Students
           positionMembers:
 
-            - name: John Chung
-              lastName: Chung
-              email: johnr0hol@gmail.com
-              career: Research Intern
-              img: 'john.jpg'
-              site: ''
-
-            - name: Jiyoun Ha
-              lastName: Ha
-              email: jiyounha@kaist.ac.kr
-              career: Research Intern
-              img: 'jiyoun.png'
-              site: ''
-
-            - name: Hyunjong Lee
-              lastName: Lee
-              email: hyunjongL@kaist.ac.kr
-              career: Research Intern
-              img: 'hyunjong.jpeg'
-              site: 'https://hyunjongl.github.io/'
 
             - name: Tae Soo Kim
               lastName: Kim
@@ -187,8 +161,8 @@ positions:
               email: hanuright@kaist.ac.kr
               career: Research Intern
               img: 'hoon.jpg'
-              site: ''    
-              
+              site: ''
+
             - name: Hyuntak Cha
               lastName: Cha
               email: chaht01@gmail.com
@@ -204,7 +178,7 @@ positions:
               site: ''
 
             - name: Changyoon Lee
-              lastName: Lee   
+              lastName: Lee
               email: cyoon47@kaist.ac.kr
               career: Research Intern
               img: 'changyoon.jpg'
@@ -224,6 +198,41 @@ positions:
 
         - positionName: Alumni
           positionMembers:
+            - name: John Chung
+              lastName: Chung
+              email: johnr0hol@gmail.com
+              career: Research Intern
+              img: 'john.jpg'
+              site: 'johnr0.github.io'
+              period: Spring 2017-Spring 2018
+              leavingDate: 2017.06.29
+              now: Ph.D Student @ University of Michigan
+            - name: Jiyoun Ha
+              lastName: Ha
+              email: jiyounha@kaist.ac.kr
+              career: Research Intern
+              img: 'jiyoun.png'
+              site: ''
+              period: Winter 2018-Spring 2018
+              leavingDate: 2017.06.29
+            - name: Hyunjong Lee
+              lastName: Lee
+              email: hyunjongL@kaist.ac.kr
+              career: Research Intern
+              img: 'hyunjong.jpeg'
+              site: 'https://hyunjongl.github.io/'
+              period: Winter 2018-Spring 2018
+              leavingDate: 2017.06.29
+            - name: Mercedes Huertas
+              lastName: Huertas
+              email: mdlm.huertas@unitn.it
+              career: Visiting Ph.D. Student
+              img: mercedes.jpg
+              site: ''
+              period: Spring 2018
+              leavingDate: 2017.06.29
+              now: Ph.D Student @ University of Trento
+
             - name: Seayeon Lee
               lastName: Lee
               email: syeonlee@kaist.ac.kr
