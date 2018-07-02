@@ -56,6 +56,15 @@ dummy
   background-color: #544b61;
   color: #fff;
 }
+
+/* Material label styles */
+.material {
+    margin: 0;
+    padding: 0 6px 0 2px; /* white space is 4px */
+}
+.material:not(:last-child) {
+    border-right: 1px solid #bfbfbf;
+}
 </style>
 
 <div id="publicationwrap" class="filtered-list">
@@ -88,7 +97,7 @@ dummy
             </div>
         </div>
     </div>
-    
+
     <ul class="publications">
     {% for paper in site.data.publications.papers %}
         <li class="filter-item {% for topic in paper.topics %} category-{{topic}} {% endfor %} type-{{paper.type}}">
