@@ -15,67 +15,90 @@ types:
 #  - journal
 
 papers:
+
+  - title: "Facilitating Document Reading by Linking Text and Tables"
+    author: "Dae Hyun Kim, Enamul Hoque, _Juho Kim_, Maneesh Agrawala"
+    venue: "UIST 2018 (conditionally accepted)"
+    year: 2018
+    topics:
+      - visualization
+      - datamining
+    type: conference
+    materials:
+    award: ""
+    link: ""
+
   - title: "Micro-NGO: Tackling Wicked Social Problems with Problem Solving and Action Planning Support in Chat"
     author: "_Sung-chul Lee_, Jihee Kim, _Juho Kim_"
-    venue: "CHI 2018 Extended Abstracts (Late Breaking Work, To appear)"
+    venue: "CHI 2018 Extended Abstracts (Late Breaking Work)"
     year: 2018
     topics:
       - civics
     type: poster
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3188564"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-MicroNGO.pdf"
 
   - title: "Detecting Personality Unobtrusively from Users' Online and Offline Workplace Behaviors"
     author: "_Seoyoung Kim_, _Jiyoun Ha_, _Juho Kim_"
-    venue: "CHI 2018 Extended Abstracts (Late Breaking Work, To appear)"
+    venue: "CHI 2018 Extended Abstracts (Late Breaking Work)"
     year: 2018
     topics:
       - datamining
     type: poster
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3188566"
+      - label: "video preview"
+        url: "https://youtu.be/MZ1kx3_S5Bk"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-Personality.pdf"
 
   - title: "Exprgram: A Language Learning Interface for Mastering Pragmatic Competence"
     author: "_Kyungje Jo_, _John Joon Young Chung_, _Juho Kim_"
-    venue: "CHI 2018 Extended Abstracts (Late Breaking Work, To appear)"
+    venue: "CHI 2018 Extended Abstracts (Late Breaking Work)"
     year: 2018
     topics:
       - learning
       - crowdsourcing
     type: poster
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3188582"
+      - label: "video preview"
+        url: "https://www.youtube.com/watch?v=Cs8CSz3-MK0"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-Exprgram.pdf"
 
   - title: "Understanding the Effect of In-Video Prompting on Learners and Instructors"
     author: "_Hyungyu Shin_, _Eun Young Ko_, Joseph Jay Williams, _Juho Kim_"
-    venue: "CHI 2018 (To appear)"
+    venue: "CHI 2018"
     year: 2018
     topics:
       - learning
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3173893"
+      - label: "video preview"
+        url: "https://www.youtube.com/watch?v=BLiR8jL8abA"
     award: ""
     link: "http://juhokim.com/files/CHI2018-Prompting.pdf"
 
   - title: "RecipeScape: An Interactive Tool for Analyzing Cooking Instructions at Scale"
     author: "_Minsuk Chang_, _Leonore Guillain_, _Hyeungshik Jung_, Vivian Hare, _Juho Kim_, Maneesh Agrawala"
-    venue: "CHI 2018 (To appear)"
+    venue: "CHI 2018"
     year: 2018
     topics:
       - datamining
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3174025"
+      - label: "video"
+        url: "https://www.youtube.com/watch?v=b1TccM1kN4U"
       - label: "Project Website"
         url: "https://recipescape.kixlab.org"
     award: ""
@@ -83,68 +106,80 @@ papers:
 
   - title: "To Distort or Not to Distort: Distance Cartograms in the Wild"
     author: "_Sungsoo (Ray) Hong_, Minjoon Yoo, Bonnie Chinh, _Amy Han_, Sarah Battersby, _Juho Kim_"
-    venue: "CHI 2018 (To appear)"
+    venue: "CHI 2018"
     year: 2018
     topics:
       - visualization
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3174202"
+      - label: "video"
+        url: "https://www.youtube.com/watch?v=kEJurLv86Vw"
     award: ""
     link: "http://juhokim.com/files/CHI2018-DC.pdf"
 
 
   - title: "Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making"
     author: "_Sungsoo (Ray) Hong_, Minhyang (Mia) Suh, Nathalie Henry Riche, _Jooyoung Lee_, _Juho Kim_, Mark Zachry"
-    venue: "CHI 2018 (To appear)"
+    venue: "CHI 2018"
     year: 2018
     topics:
       - visualization
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3173640"
+      - label: "video"
+        url: "https://www.youtube.com/watch?v=wQiVSXrOpa0"
     award: ""
     link: "http://juhokim.com/files/CHI2018-CDQ.pdf"
 
   - title: "BebeCode: Collaborative Child Development Tracking System"
     author: "Seokwoo Song, _Juho Kim_, Bumsoo Kang, Wonjeong Park, John Kim"
-    venue: "CHI 2018 (To appear)"
+    venue: "CHI 2018"
     year: 2018
     topics:
       - crowdsourcing
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3174114"
+      - label: "video preview"
+        url: "https://youtu.be/Dqr45SfpMiQ"
     award: ""
     link: "http://juhokim.com/files/CHI2018-BebeCode.pdf"
 
   - title: "ConceptScape: Collaborative Concept Mapping for Video Learning"
     author: "_Ching Liu_, _Juho Kim_, Hao-Chuan Wang"
-    venue: "CHI 2018 (To appear)"
+    venue: "CHI 2018"
     year: 2018
     topics:
       - crowdsourcing
       - learning
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3173961"
+      - label: "video preview"
+        url: "https://www.youtube.com/watch?v=c5YT4XXfh0k"
+      - label: "blog"
+        url: "https://humancomputation.com/blog/?p=9802"
     award: "Honourable Mention Award"
     link: "http://juhokim.com/files/CHI2018-ConceptScape.pdf"
 
   - title: "Enhancing Online Problems Through Instructor-Centered Tools for Randomized Experiments"
     author: "Joseph Jay Williams, Anna Rafferty, Dustin Tingley, Andrew Ang, Walter Lasecki, _Juho Kim_"
-    venue: "CHI 2018 (To appear)"
+    venue: "CHI 2018"
     year: 2018
     topics:
       - learning
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3173781"
+      - label: "video"
+        url: "https://www.youtube.com/watch?v=Q2rvRxtkL2I"
     award: ""
     link: "http://juhokim.com/files/CHI2018-DynamicProblem.pdf"
 
@@ -156,8 +191,10 @@ papers:
       - crowdsourcing
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3172944.3172948"
+      - label: "blog"
+        url: "https://humancomputation.com/blog/?p=9874"
     award: "Best Student Paper Honorable Mention"
     link: "http://juhokim.com/files/IUI2018-FourEyes.pdf"
 
