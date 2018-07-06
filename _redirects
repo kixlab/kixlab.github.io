@@ -10,6 +10,9 @@
 /courses/cs492-fall-2016 /courses/cs492-fall-2016/index.html 301!
 /courses/cs492-fall-2016/* https://cs492-fall-2016.netlify.com/:splat 200
 
+/courses/cs473-fall-2018 /courses/cs473-fall-2018/index.html 301!
+/courses/cs473-fall-2018/* https://cs473-fall-2018.netlify.com/:splat 200
+
 /courses/cs408e /courses/cs408e/index.html 301!
 /courses/cs408e/* https://cs408e-spring-2018.netlify.com/:splat 200
 
