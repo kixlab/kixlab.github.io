@@ -16,8 +16,8 @@
 /courses/cs408e /courses/cs408e/index.html 301!
 /courses/cs408e/* https://cs408e-spring-2018.netlify.com/:splat 200
 
-/courses/intro-to-research /courses/intro-to-research/index.html 301!
-/courses/intro-to-research/* https://intro-to-research.netlify.com/:splat 200
+/courses/i2r /courses/i2r/index.html 301!
+/courses/i2r/* https://i2r.netlify.com/:splat 200
 
 /courses/crowdsourcing /courses/crowdsourcing/index.html 301!
 /courses/crowdsourcing/* https://cs492-fall-2016.netlify.com/:splat 200
