@@ -15,6 +15,12 @@ positions:
               career: Assistant Professor
               img: juhokim.jpg
               site: http://juhokim.com/
+            - name: Simon Perrault
+              lastName: Perrault
+              email: simon.perrault@yale-nus.edu.sg
+              career: Visiting Assistant Professor
+              img: perrault.jpg
+              site: https://www.yale-nus.edu.sg/about/faculty/simon-perrault//
 
 ## --------------Graduate Students------------------
 
