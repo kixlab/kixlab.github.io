@@ -38,6 +38,15 @@ docker run --rm -p 4000:4000 -v "$(pwd):/src" -it zxzl/kixlab-homepage jekyll se
 
 Then visit `localhost:4000` in your browser.
 
+## How to host other websites under kixlab.org
+We have to update redirect rules defined in [`_redirects`](https://github.com/kixlab/kixlab.github.io/blob/master/_redirects).
+For example, to host `https://cs473-fall-2018.netlify.com` in `courses/cs473-fall-2018`,
+We have to add two lines to `_redirects`
+```
+/courses/cs473-fall-2018 /courses/cs473-fall-2018/index.html 301!
+/courses/cs473-fall-2018/* https://cs473-fall-2018.netlify.com/:splat 200
+```
+
 ## How to branch, commit and push
 
 Please don't commit directly to master, if you can avoid it.
