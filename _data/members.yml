@@ -133,13 +133,6 @@ positions:
               img: 'yoonseo.jpg'
               site: ''
 
-            - name: Manav Rao
-              lastName: Rao
-              email: rao.manav20@gmail.com
-              career: Research Intern
-              img: 'manav.jpg'
-              site: 'http://www.cse.iitd.ac.in/~cs1160523/'
-
             - name: Saelyne Yang
               lastName: Yang
               email: lyne96@kaist.ac.kr
@@ -202,6 +195,15 @@ positions:
 
         - positionName: Alumni
           positionMembers:
+            - name: Manav Rao
+              lastName: Rao
+              email: rao.manav20@gmail.com
+              career: Research Intern
+              img: 'manav.jpg'
+              site: 'http://www.cse.iitd.ac.in/~cs1160523/'
+              period: Summer 2018
+              leavingDate: 2018.07.11
+
             - name: Paul Grau
               lastName: Grau
               email: grau@kaist.ac.kr
