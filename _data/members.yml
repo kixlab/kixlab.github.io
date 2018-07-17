@@ -98,13 +98,20 @@ positions:
               img: kyungje.jpg
               site: 'http://kyungjejo.com'
 
-
             - name: Evey Huang
               lastName: Huang
               email: jiaxinh.evey@gmail.com
               career: Research Intern
               img: evey.jpg
               site: 'https://eveyhuang.myportfolio.com'
+
+            - name: Yi-Ching (Janet) Huang
+              lastname: Huang
+              email: janetyc@gmail.com
+              career: Research Scientist
+              img: janetyc.jpg
+              site: 'http://janetyc.github.io'
+
 
 ## ---------------Undergraduates--------------------
 
