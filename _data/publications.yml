@@ -200,7 +200,7 @@ papers:
       - label:
         url:
     award: ""
-    link: "http://dl.acm.org/citation.cfm?id=3053118"
+    link: "https://juhokim.com/files/TAICHI2017-VideoScape.pdf"
 
   - title: "RecipeScape: Mining and Analyzing Diverse Processes in Cooking Recipes"
     author: "_Minsuk Chang_, Vivian Hare, _Juho Kim_, Maneesh Agrawala"
