@@ -4,494 +4,492 @@
 ## Current members
 #
 positions:
+  ## --------------Faculty----------------------------
 
-## --------------Faculty----------------------------
+  - positionName: Faculty
+    positionMembers:
+      - name: Juho Kim
+        lastName: Kim
+        email: juhokim@kaist.ac.kr
+        career: Assistant Professor
+        img: juhokim.jpg
+        site: http://juhokim.com/
+      - name: Simon Perrault
+        lastName: Perrault
+        email: simon.perrault@yale-nus.edu.sg
+        career: Visiting Assistant Professor
+        img: perrault.jpg
+        site: https://www.yale-nus.edu.sg/about/faculty/simon-perrault//
 
-        - positionName: Faculty
-          positionMembers:
-            - name: Juho Kim
-              lastName: Kim
-              email: juhokim@kaist.ac.kr
-              career: Assistant Professor
-              img: juhokim.jpg
-              site: http://juhokim.com/
-            - name: Simon Perrault
-              lastName: Perrault
-              email: simon.perrault@yale-nus.edu.sg
-              career: Visiting Assistant Professor
-              img: perrault.jpg
-              site: https://www.yale-nus.edu.sg/about/faculty/simon-perrault//
+  ## --------------Graduate Students and Researchers ------------------
 
-## --------------Graduate Students and Researchers ------------------
+  - positionName: Graduate Students and Researchers
+    positionMembers:
+      - name: Minsuk Chang
+        lastname: Chang
+        email: minsuk@kaist.ac.kr
+        career: Ph.D. Candidate
+        img: minsuk.jpg
+        interest: Humans, Computers and Pizzas :)
+        site: https://minsukchang.com
 
-        - positionName: Graduate Students and Researchers
-          positionMembers:
-            - name: Minsuk Chang
-              lastname: Chang
-              email: minsuk@kaist.ac.kr
-              career: Ph.D. Candidate
-              img: minsuk.jpg
-              interest: Humans, Computers and Pizzas :)
-              site: https://minsukchang.com
+      - name: Sung-Chul Lee
+        lastName: Lee
+        email: leesungchul@kaist.ac.kr
+        career: Ph.D. Student
+        img: sclee.png
+        site: ""
 
-            - name: Sung-Chul Lee
-              lastName: Lee
-              email: leesungchul@kaist.ac.kr
-              career: Ph.D. Student
-              img: sclee.png
-              site: ''
+      - name: Jean Young Song
+        lastName: Song
+        email: jyskwon@umich.edu
+        career: Visiting Ph.D. Student
+        img: profile_jean.jpg
+        site: https://jyskwon.github.io/
 
-            - name: Jean Young Song
-              lastName: Song
-              email: jyskwon@umich.edu
-              career: Visiting Ph.D. Student
-              img: profile_jean.jpg
-              site: https://jyskwon.github.io/
+      - name: Eunyoung Ko
+        lastName: Ko
+        email: eunyoung4444@gmail.com
+        career: M.S. Student
+        img: "eunyoung.jpg"
+        site: http://eunyoungko.net/
 
-            - name: Eunyoung Ko
-              lastName: Ko
-              email: eunyoung4444@gmail.com
-              career: M.S. Student
-              img: 'eunyoung.jpg'
-              site: http://eunyoungko.net/
+      - name: Hyungyu Shin
+        lastName: Shin
+        email: hyungyu.sh@kaist.ac.kr
+        career: M.S. Student
+        interest: KIXLAB
+        img: hyungyu.jpg
+        site: "https://drive.google.com/open?id=0BzAN8v4bTN5HOFh1NG1Rd25abTA"
 
-            - name: Hyungyu Shin
-              lastName: Shin
-              email: hyungyu.sh@kaist.ac.kr
-              career: M.S. Student
-              interest: KIXLAB
-              img: hyungyu.jpg
-              site: 'https://drive.google.com/open?id=0BzAN8v4bTN5HOFh1NG1Rd25abTA'
+      - name: Hyeungshik Jung
+        lastName: Jung
+        email: hyeungshik.jung@kaist.ac.kr
+        career: M.S. Student
+        img: hyeungshik.jpg
+        site: "https://hyeungshikjung.com"
 
-            - name: Hyeungshik Jung
-              lastName: Jung
-              email: hyeungshik.jung@kaist.ac.kr
-              career: M.S. Student
-              img: hyeungshik.jpg
-              site: 'https://hyeungshikjung.com'
+      - name: Seoyoung Kim
+        lastName: Kim
+        email: youthskim@kaist.ac.kr
+        career: M.S. Student
+        img: seoyoung.jpg
+        site: "https://sites.google.com/view/seoyoung/"
 
-            - name: Seoyoung Kim
-              lastName: Kim
-              email: youthskim@kaist.ac.kr
-              career: M.S. Student
-              img: seoyoung.jpg
-              site: 'https://sites.google.com/view/seoyoung/'
+      - name: Hyunwoo Kim
+        lastName: Kim
+        email: khw0726@kaist.ac.kr
+        career: M.S. Student
+        img: "hyunwoo.png"
+        site: "http://hyunwoo.me"
 
-            - name: Hyunwoo Kim
-              lastName: Kim
-              email: khw0726@kaist.ac.kr
-              career: M.S. Student
-              img: 'hyunwoo.png'
-              site: 'http://hyunwoo.me'
+      - name: Arti Thakur
+        lastName: Thakur
+        email: athakur36@gmail.com
+        career: Research Intern
+        img: arti.JPG
+        site: ""
 
-            - name: Arti Thakur
-              lastName: Thakur
-              email: athakur36@gmail.com
-              career: Research Intern
-              img: arti.JPG
-              site: ''
+      - name: Kyung Je Jo
+        lastName: Jo
+        email: kyungjejo@kaist.ac.kr
+        career: M.S. Student
+        img: kyungje.jpg
+        site: "http://kyungjejo.com"
 
-            - name: Kyung Je Jo
-              lastName: Jo
-              email: kyungjejo@kaist.ac.kr
-              career: M.S. Student
-              img: kyungje.jpg
-              site: 'http://kyungjejo.com'
+      - name: Evey Huang
+        lastName: Huang
+        email: jiaxinh.evey@gmail.com
+        career: Research Intern
+        img: evey.jpg
+        site: "https://eveyhuang.myportfolio.com"
 
-            - name: Evey Huang
-              lastName: Huang
-              email: jiaxinh.evey@gmail.com
-              career: Research Intern
-              img: evey.jpg
-              site: 'https://eveyhuang.myportfolio.com'
+      - name: Yi-Ching (Janet) Huang
+        lastname: Huang
+        email: janetyc@gmail.com
+        career: Research Scientist
+        img: janetyc.jpg
+        site: "http://janetyc.github.io"
 
-            - name: Yi-Ching (Janet) Huang
-              lastname: Huang
-              email: janetyc@gmail.com
-              career: Research Scientist
-              img: janetyc.jpg
-              site: 'http://janetyc.github.io'
-              
-            - name: Naher Jibon
-              lastname: Jibon
-              email: jibon.naher09@gmail.com
-              career: M.S. Student
-              img: Jibon.jpg
-              site: ''
+      - name: Naher Jibon
+        lastname: Jibon
+        email: jibon.naher09@gmail.com
+        career: M.S. Student
+        img: Jibon.jpg
+        site: ""
 
+  ## ---------------Undergraduates--------------------
 
-## ---------------Undergraduates--------------------
+  - positionName: Undergraduate Students
+    positionMembers:
+      - name: Tae Soo Kim
+        lastName: Kim
+        email: kimts0830@gmail.com
+        career: Research Intern
+        img: "taesoo.jpg"
+        site: ""
 
-        - positionName: Undergraduate Students
-          positionMembers:
+      - name: Hyoungwook Jin
+        lastName: Jin
+        email: hyoungwookjin12@kaist.ac.kr
+        career: Research Intern
+        img: "hyoungwook.jpg"
+        site: ""
 
+      - name: Yoonseo Choi
+        lastName: Choi
+        email: yoon0u0@gmail.com
+        career: Research Intern
+        img: "yoonseo.jpg"
+        site: ""
 
-            - name: Tae Soo Kim
-              lastName: Kim
-              email: kimts0830@gmail.com
-              career: Research Intern
-              img: 'taesoo.jpg'
-              site: ''
+      - name: Saelyne Yang
+        lastName: Yang
+        email: lyne96@kaist.ac.kr
+        career: Research Intern
+        img: "saelyne.jpg"
+        site: ""
 
-            - name: Hyoungwook Jin
-              lastName: Jin
-              email: hyoungwookjin12@kaist.ac.kr
-              career: Research Intern
-              img: 'hyoungwook.jpg'
-              site: ''
+      - name: Donghoon Han
+        lastName: Han
+        email: hanuright@kaist.ac.kr
+        career: Research Intern
+        img: "hoon.jpg"
+        site: ""
 
-            - name: Yoonseo Choi
-              lastName: Choi
-              email: yoon0u0@gmail.com
-              career: Research Intern
-              img: 'yoonseo.jpg'
-              site: ''
+      - name: Hyuntak Cha
+        lastName: Cha
+        email: chaht01@gmail.com
+        career: Research Intern
+        img: "hyuntak.jpeg"
+        site: "http://hyuntak.com"
 
-            - name: Saelyne Yang
-              lastName: Yang
-              email: lyne96@kaist.ac.kr
-              career: Research Intern
-              img: 'saelyne.jpg'
-              site: ''
+      - name: Changyoon Lee
+        lastName: Lee
+        email: cyoon47@kaist.ac.kr
+        career: Research Intern
+        img: "changyoon.jpg"
+        site: ""
 
-            - name: Rachel Kwak
-              lastName: Kwak
-              email: kwakseo@mit.edu
-              career: Research Intern
-              img: 'rachel.jpg'
-              site: ''
+      - name: Nyoungwoo Lee
+        lastName: Lee
+        email: leenw2@kaist.ac.kr
+        carrer: Research Intern
+        img: "nyoungwoo.jpg"
+        site: ""
 
-            - name: Donghoon Han
-              lastName: Han
-              email: hanuright@kaist.ac.kr
-              career: Research Intern
-              img: 'hoon.jpg'
-              site: ''
+      - name: Seongho Park
+        lastName: Park
+        email: bluetosh7@gmail.com
+        career: Research Intern
+        img: "seongho.jpg"
+        site: ""
 
-            - name: Hyuntak Cha
-              lastName: Cha
-              email: chaht01@gmail.com
-              career: Resaerch Intern
-              img: 'hyuntak.jpeg'
-              site: 'http://hyuntak.com'
+  - positionName: Staff
+    positionMembers:
+      - name: Oaksil Kim
+        lastName: Kim
+        email: oaksil79@gmail.com
+        career: Administrative Staff
+        img: oaksil.jpg
+        site: ""
 
-            - name: Changyoon Lee
-              lastName: Lee
-              email: cyoon47@kaist.ac.kr
-              career: Research Intern
-              img: 'changyoon.jpg'
-              site: ''
+  ## --------------Alumni---------------------------
 
-            - name: Nyoungwoo Lee
-              lastName: Lee
-              email: leenw2@kaist.ac.kr
-              carrer: Research Intern
-              img: 'nyoungwoo.jpg'
-              site: ''
+  - positionName: Alumni
+    positionMembers:
+      - name: Rachel Kwak
+        lastName: Kwak
+        email: kwakseo@mit.edu
+        career: Research Intern
+        img: "rachel.jpg"
+        site: ""
+        period: Summer 2018
+        leavingDate: 2018.08.17
 
-            - name: Seongho Park
-              lastName: Park
-              email: bluetosh7@gmail.com
-              career: Research Intern
-              img: 'seongho.jpg'
-              site: ''
+      - name: Manav Rao
+        lastName: Rao
+        email: rao.manav20@gmail.com
+        career: Research Intern
+        img: "manav.jpg"
+        site: "http://www.cse.iitd.ac.in/~cs1160523/"
+        period: Summer 2018
+        leavingDate: 2018.07.11
 
-        - positionName: Staff
-          positionMembers:
-            - name: Oaksil Kim
-              lastName: Kim
-              email: oaksil79@gmail.com
-              career: Administrative Staff
-              img: oaksil.jpg
-              site: ''
+      - name: Paul Grau
+        lastName: Grau
+        email: grau@kaist.ac.kr
+        career: M.S. Student
+        img: paul.jpg
+        interest: Web Development and humans
+        site: http://graycoding.com
+        period: Fall 2016-Spring 2018
+        leavingDate: 2018.06.29
+        now: Research Engineer @ Blocko
+      - name: John Chung
+        lastName: Chung
+        email: johnr0hol@gmail.com
+        career: Research Intern
+        img: "john.jpg"
+        site: "http://johnr0.github.io"
+        period: Spring 2017-Spring 2018
+        leavingDate: 2018.06.29
+        now: Ph.D. Student @ University of Michigan
+      - name: Jiyoun Ha
+        lastName: Ha
+        email: jiyounha@kaist.ac.kr
+        career: Research Intern
+        img: "jiyoun.png"
+        site: ""
+        period: Winter 2018-Spring 2018
+        leavingDate: 2018.06.29
+      - name: Hyunjong Lee
+        lastName: Lee
+        email: hyunjongL@kaist.ac.kr
+        career: Research Intern
+        img: "hyunjong.jpeg"
+        site: "https://hyunjongl.github.io/"
+        period: Winter 2018-Spring 2018
+        leavingDate: 2018.06.29
+      - name: Mercedes Huertas
+        lastName: Huertas
+        email: mdlm.huertas@unitn.it
+        career: Visiting Ph.D. Student
+        img: mercedes.jpg
+        site: ""
+        period: Winter 2018-Spring 2018
+        leavingDate: 2018.06.29
+        now: Ph.D. Student @ University of Trento
 
-## --------------Alumni---------------------------
+      - name: Seayeon Lee
+        lastName: Lee
+        email: syeonlee@kaist.ac.kr
+        career: Research Intern
+        img: "seayeon.jpg"
+        site: ""
+        period: Winter 2018
+        leavingDate: 2018.02.28
+      - name: Ina Ryu
+        lastName: Ryu
+        email: ryu_ina@kaist.ac.kr
+        career: Research Intern
+        img: "ina.jpeg"
+        site: ""
+        period: Summer 2017–Fall 2017
+        leavingDate: 2017.12.31
+        now: Software Engineer @ Naver
+      - name: Beomsu Kim
+        lastName: Kim
+        email: 3141kbs@kaist.ac.kr
+        career:
+          - Research Intern
+        img: "beomsu.jpg"
+        site: ""
+        period: Summer 2017–Fall 2017
+        leavingDate: 2017.11.30
 
-        - positionName: Alumni
-          positionMembers:
-            - name: Manav Rao
-              lastName: Rao
-              email: rao.manav20@gmail.com
-              career: Research Intern
-              img: 'manav.jpg'
-              site: 'http://www.cse.iitd.ac.in/~cs1160523/'
-              period: Summer 2018
-              leavingDate: 2018.07.11
+      - name: Jonghyuk Jung
+        lastName: Jung
+        email: jonghyuk101@kaist.ac.kr
+        career:
+          - Research Intern
+        img: "jonghyuk.jpg"
+        site: "https://jonghyuk.info/"
+        period: Spring 2017–Fall 2017
+        leavingDate: 2017.10.30
+        now: UX designer @ Devsisters
 
-            - name: Paul Grau
-              lastName: Grau
-              email: grau@kaist.ac.kr
-              career: M.S. Student
-              img: paul.jpg
-              interest: Web Development and humans
-              site: http://graycoding.com
-              period: Fall 2016-Spring 2018
-              leavingDate: 2018.06.29
-              now: Research Engineer @ Blocko
-            - name: John Chung
-              lastName: Chung
-              email: johnr0hol@gmail.com
-              career: Research Intern
-              img: 'john.jpg'
-              site: 'http://johnr0.github.io'
-              period: Spring 2017-Spring 2018
-              leavingDate: 2018.06.29
-              now: Ph.D. Student @ University of Michigan
-            - name: Jiyoun Ha
-              lastName: Ha
-              email: jiyounha@kaist.ac.kr
-              career: Research Intern
-              img: 'jiyoun.png'
-              site: ''
-              period: Winter 2018-Spring 2018
-              leavingDate: 2018.06.29
-            - name: Hyunjong Lee
-              lastName: Lee
-              email: hyunjongL@kaist.ac.kr
-              career: Research Intern
-              img: 'hyunjong.jpeg'
-              site: 'https://hyunjongl.github.io/'
-              period: Winter 2018-Spring 2018
-              leavingDate: 2018.06.29
-            - name: Mercedes Huertas
-              lastName: Huertas
-              email: mdlm.huertas@unitn.it
-              career: Visiting Ph.D. Student
-              img: mercedes.jpg
-              site: ''
-              period: Winter 2018-Spring 2018
-              leavingDate: 2018.06.29
-              now: Ph.D. Student @ University of Trento
+      - name: Jooyoung Lee
+        lastName: Lee
+        email: leenoi3@kaist.ac.kr
+        career:
+          - Research Intern
+        img: "jooyoung.jpg"
+        site: ""
+        period: Summer 2017–Fall 2017
+        leavingDate: 2017.10.30
 
-            - name: Seayeon Lee
-              lastName: Lee
-              email: syeonlee@kaist.ac.kr
-              career: Research Intern
-              img: 'seayeon.jpg'
-              site: ''
-              period: Winter 2018
-              leavingDate: 2018.02.28
-            - name: Ina Ryu
-              lastName: Ryu
-              email: ryu_ina@kaist.ac.kr
-              career: Research Intern
-              img: 'ina.jpeg'
-              site: ''
-              period: Summer 2017–Fall 2017
-              leavingDate: 2017.12.31
-              now: Software Engineer @ Naver
-            - name: Beomsu Kim
-              lastName: Kim
-              email: 3141kbs@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'beomsu.jpg'
-              site: ''
-              period: Summer 2017–Fall 2017
-              leavingDate: 2017.11.30
+      - name: Leonore Guillain
+        lastName: Guillain
+        email: leonore.guillain@epfl.ch
+        career:
+          - Research Intern
+        img: "leonore.jpg"
+        site: ""
+        period: Summer 2017
+        leavingDate: 2017.08.25
+        now: MS student @ EPFL
+      - name: Suhwan Jee
+        lastName: Jee
+        email: jsh56son@kaist.ac.kr
+        career:
+          - Research Intern
+        img: "suhwan.jpeg"
+        site: "https://zeniuus.github.io"
+        period: Summer 2017
+        leavingDate: 2017.09.29
 
-            - name: Jonghyuk Jung
-              lastName: Jung
-              email: jonghyuk101@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'jonghyuk.jpg'
-              site: 'https://jonghyuk.info/'
-              period: Spring 2017–Fall 2017
-              leavingDate: 2017.10.30
-              now: UX designer @ Devsisters
+      - name: Hyunsuk Shin
+        lastName: Shin
+        email: wellshs@kaist.ac.kr
+        career:
+          - Research Intern
+        img: "hyunsuk.jpg"
+        site: ""
+        period: Summer 2017
+        leavingDate: 2017.09.29
 
-            - name: Jooyoung Lee
-              lastName: Lee
-              email: leenoi3@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'jooyoung.jpg'
-              site: ''
-              period: Summer 2017–Fall 2017
-              leavingDate: 2017.10.30
+      - name: Wookjae Byun
+        lastName: Byun
+        email: mecatos95d@kaist.ac.kr
+        career:
+          - Research Intern
+        img: "wookjae.jpg"
+        site: ""
+        period: Summer 2017
+        leavingDate: 2017.08.25
 
-            - name: Leonore Guillain
-              lastName: Guillain
-              email: leonore.guillain@epfl.ch
-              career:
-                - Research Intern
-              img: 'leonore.jpg'
-              site: ''
-              period: Summer 2017
-              leavingDate: 2017.08.25
-              now: MS student @ EPFL
-            - name: Suhwan Jee
-              lastName: Jee
-              email: jsh56son@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'suhwan.jpeg'
-              site: 'https://zeniuus.github.io'
-              period: Summer 2017
-              leavingDate: 2017.09.29
+      - name: Amy Han
+        lastName: Han
+        email: amy.s.han1717@gmail.com
+        career:
+          - Research Intern
+        img: "amy.jpg"
+        site: ""
+        period: Summer 2017
+        leavingDate: 2017.08.25
+        now: Data Engineer @ Capital One
 
-            - name: Hyunsuk Shin
-              lastName: Shin
-              email: wellshs@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'hyunsuk.jpg'
-              site: ''
-              period: Summer 2017
-              leavingDate: 2017.09.29
+      - name: Hyunsung Cho
+        lastName: Cho
+        email: hscho1226@gmail.com
+        career:
+          - URP Program
+        img: hyunsung.jpg
+        site: ""
+        period: Fall 2016–Winter 2017
+        leavingDate: 2017.02.28
+        now: MS student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
 
-            - name: Wookjae Byun
-              lastName: Byun
-              email: mecatos95d@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'wookjae.jpg'
-              site: ''
-              period: Summer 2017
-              leavingDate: 2017.08.25
+      - name: Jaesung Huh
+        lastName: Huh
+        email: gasop@snu.ac.kr
+        career:
+          - Research Intern
+        img: jaesung.jpg
+        site: ""
+        period: Winter 2017
+        leavingDate: 2017.02.28
+        now: Research Engineer @ Naver
 
-            - name: Amy Han
-              lastName: Han
-              email: amy.s.han1717@gmail.com
-              career:
-                - Research Intern
-              img: 'amy.jpg'
-              site: ''
-              period: Summer 2017
-              leavingDate: 2017.08.25
-              now: Data Engineer @ Capital One
+      - name: Deokseong Kim
+        lastName: Kim
+        email: stuzeakd@kaist.ac.kr
+        career:
+          - Research Intern
+        img: deokseong.jpg
+        site: ""
+        period: Winter 2017
+        leavingDate: 2017.02.28
 
-            - name: Hyunsung Cho
-              lastName: Cho
-              email: hscho1226@gmail.com
-              career:
-                - URP Program
-              img: hyunsung.jpg
-              site: ''
-              period: Fall 2016–Winter 2017
-              leavingDate: 2017.02.28
-              now: MS student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
+      - name: Dongkwan Kim
+        lastName: Kim
+        email: dong112d@kaist.ac.kr
+        career:
+          - Research Intern
+        img: dongkwan.jpg
+        site: ""
+        period: Summer 2016–Fall 2016
+        leavingDate: 2016.12.31
+        now: MS student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
 
-            - name: Jaesung Huh
-              lastName: Huh
-              email: gasop@snu.ac.kr
-              career:
-                - Research Intern
-              img: jaesung.jpg
-              site: ''
-              period: Winter 2017
-              leavingDate: 2017.02.28
-              now: Research Engineer @ Naver
+      - name: Hyungwoo Kim
+        lastName: Kim
+        email: erickim713@kaist.ac.kr
+        career:
+          - Research Intern
+        img: "hyungwoo.jpg"
+        site: ""
+        period: Spring 2017
+        leavingDate: 2017.06.30
 
-            - name: Deokseong Kim
-              lastName: Kim
-              email: stuzeakd@kaist.ac.kr
-              career:
-                - Research Intern
-              img: deokseong.jpg
-              site: ''
-              period: Winter 2017
-              leavingDate: 2017.02.28
+      - name: Yoo Jin Lim
+        lastName: Lim
+        email: yjlim@kaist.ac.kr
+        career: Ph.D. Student
+        img: yjlim.JPG
+        site: ""
+        period: Fall 2016–Winter 2017
+        leavingDate: 2017.02.28
 
-            - name: Dongkwan Kim
-              lastName: Kim
-              email: dong112d@kaist.ac.kr
-              career:
-                - Research Intern
-              img: dongkwan.jpg
-              site: ''
-              period: Summer 2016–Fall 2016
-              leavingDate: 2016.12.31
-              now: MS student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
+      - name: Ching Liu
+        lastName: Liu
+        email: liuching@kaist.ac.kr
+        career:
+          - Exchange Student
+        img: jean.jpg
+        site: ""
+        period: Fall 2016–Spring 2017
+        leavingDate: 2017.06.30
+        now: MS student @ NTHU
 
-            - name: Hyungwoo Kim
-              lastName: Kim
-              email: erickim713@kaist.ac.kr
-              career:
-                - Research Intern
-              img: 'hyungwoo.jpg'
-              site: ''
-              period: Spring 2017
-              leavingDate: 2017.06.30
+      - name: Taekyung Park
+        lastName: Park
+        email: kibi0620@gmail.com
+        career:
+          - Research Intern
+        img: taekyung.jpg
+        site: ""
+        period: Summer 2016
+        leavingDate: 2016.08.31
 
-            - name: Yoo Jin Lim
-              lastName: Lim
-              email: yjlim@kaist.ac.kr
-              career: Ph.D. Student
-              img: yjlim.JPG
-              site: ''
-              period: Fall 2016–Winter 2017
-              leavingDate: 2017.02.28
+      - name: Jiwoo Park
+        lastName: Park
+        email: shapley_aldebaran@kaist.ac.kr
+        career:
+          - Research Intern
+        interest: KIXLAB
+        img: jiwoo.jpg
+        site: ""
+        period: Summer 2016–Fall 2016
+        leavingDate: 2016.12.31
+        now: MS student @ KAIST Business School
 
-            - name: Ching Liu
-              lastName: Liu
-              email: liuching@kaist.ac.kr
-              career:
-                - Exchange Student
-              img: jean.jpg
-              site: ''
-              period: Fall 2016–Spring 2017
-              leavingDate: 2017.06.30
-              now: MS student @ NTHU
+      - name: Soya Park
+        lastName: Park
+        email: soya@kaist.ac.kr
+        career:
+          - Research Intern
+        img: soya2.jpg
+        site: "https://soyapark45.github.io/soya/"
+        period: Fall 2016–Winter 2017
+        leavingDate: 2017.02.28
+        now: Ph.D. student @ MIT
 
-            - name: Taekyung Park
-              lastName: Park
-              email: kibi0620@gmail.com
-              career:
-                - Research Intern
-              img: taekyung.jpg
-              site: ''
-              period: Summer 2016
-              leavingDate: 2016.08.31
+      - name: Juho Sun
+        lastName: Sun
+        email: soju@kaist.ac.kr
+        career:
+          - Research Intern
+        img: juhosun.png
+        site: "http://juhojuho.com"
+        period: Fall 2016
+        leavingDate: 2016.12.31
+        now: Founder @ <a href="https://meanit.me/">MeanIt</a>
 
-            - name: Jiwoo Park
-              lastName: Park
-              email: shapley_aldebaran@kaist.ac.kr
-              career:
-                - Research Intern
-              interest: KIXLAB
-              img: jiwoo.jpg
-              site: ''
-              period: Summer 2016–Fall 2016
-              leavingDate: 2016.12.31
-              now: MS student @ KAIST Business School
+  ## -------------Special----------------------------
 
-            - name: Soya Park
-              lastName: Park
-              email: soya@kaist.ac.kr
-              career:
-                - Research Intern
-              img: soya2.jpg
-              site: 'https://soyapark45.github.io/soya/'
-              period: Fall 2016–Winter 2017
-              leavingDate: 2017.02.28
-              now: Ph.D. student @ MIT
+  - positionName: Special Thanks To
+    positionMembers:
+      - name: Coffee Machine
+        img: CoffeeMachine.jpg
+        career:
+          - DeLongHi
+        site: ""
 
-            - name: Juho Sun
-              lastName: Sun
-              email: soju@kaist.ac.kr
-              career:
-                - Research Intern
-              img: juhosun.png
-              site: 'http://juhojuho.com'
-              period: Fall 2016
-              leavingDate: 2016.12.31
-              now: Founder @ <a href="https://meanit.me/">MeanIt</a>
-
-## -------------Special----------------------------
-
-        - positionName: Special Thanks To
-          positionMembers:
-            - name: Coffee Machine
-              img: CoffeeMachine.jpg
-              career:
-                - DeLongHi
-              site: ''
-
-            - name: Coffee Pot
-              email: CoffeePot@HotWater
-              img: CoffeePot.jpg
-              career:
-                - Russel Hobbs
-              site: ''
+      - name: Coffee Pot
+        email: CoffeePot@HotWater
+        img: CoffeePot.jpg
+        career:
+          - Russel Hobbs
+        site: ""
