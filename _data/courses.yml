@@ -9,14 +9,15 @@ courses:
         url: https://kixlab.org/courses/cs374-spring-2018/
       - semester: "Spring 2017"
         url: https://kixlab.org/courses/cs374-spring-2017/
-  - title: "Crowdsourcing & Social Computing"
-    code: "CS492"
+  - title: "Introduction to Social Computing"
+    code: "CS473"
     image: "cs492.png"
     description: "This course covers major design issues and computational techniques in building crowdsourcing and social computing systems."
     url: https://kixlab.org/courses/crowdsourcing/
     editions:
+      - semester: "Fall 2018"
+        url: https://kixlab.org/courses/cs473-fall-2018/
       - semester: "Fall 2017"
         url: https://kixlab.org/courses/cs492-fall-2017/
       - semester: "Fall 2016"
         url: https://kixlab.org/courses/cs492-fall-2016/
-      
