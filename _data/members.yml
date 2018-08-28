@@ -117,6 +117,14 @@ positions:
         career: M.S. Student
         img: Jibon.jpg
         site: ""
+        
+      - name: Yoonseo Choi
+        lastName: Choi
+        email: yoon0u0@gmail.com
+        career: Research Intern
+        img: "yoonseo.jpg"
+        site: ""
+
 
   ## ---------------Undergraduates--------------------
 
@@ -136,12 +144,6 @@ positions:
         img: "hyoungwook.jpg"
         site: ""
 
-      - name: Yoonseo Choi
-        lastName: Choi
-        email: yoon0u0@gmail.com
-        career: Research Intern
-        img: "yoonseo.jpg"
-        site: ""
 
       - name: Saelyne Yang
         lastName: Yang
