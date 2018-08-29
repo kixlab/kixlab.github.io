@@ -117,14 +117,13 @@ positions:
         career: M.S. Student
         img: Jibon.jpg
         site: ""
-        
+
       - name: Yoonseo Choi
         lastName: Choi
         email: yoon0u0@gmail.com
         career: Research Intern
         img: "yoonseo.jpg"
         site: ""
-
 
   ## ---------------Undergraduates--------------------
 
@@ -144,7 +143,6 @@ positions:
         img: "hyoungwook.jpg"
         site: ""
 
-
       - name: Saelyne Yang
         lastName: Yang
         email: lyne96@kaist.ac.kr
@@ -158,13 +156,6 @@ positions:
         career: Research Intern
         img: "hoon.jpg"
         site: ""
-
-      - name: Hyuntak Cha
-        lastName: Cha
-        email: chaht01@gmail.com
-        career: Research Intern
-        img: "hyuntak.jpeg"
-        site: "http://hyuntak.com"
 
       - name: Changyoon Lee
         lastName: Lee
@@ -200,6 +191,15 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Hyuntak Cha
+        lastName: Cha
+        email: chaht01@gmail.com
+        career: Research Intern
+        img: "hyuntak.jpeg"
+        site: "http://hyuntak.com"
+        period: Summer 2018
+        leavingDate: 2018.08.24
+
       - name: Rachel Kwak
         lastName: Kwak
         email: kwakseo@mit.edu
