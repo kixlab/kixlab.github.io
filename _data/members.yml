@@ -171,18 +171,18 @@ positions:
         img: "nyoungwoo.jpg"
         site: ""
 
-      - name: Yuna Seol
-        lastName: Seol
-        email: yunaseol@kaist.ac.kr
-        carrer: Research Intern
-        img: "yuna.jpg"
-        site: ""
-
       - name: Seongho Park
         lastName: Park
         email: bluetosh7@gmail.com
         career: Research Intern
         img: "seongho.jpg"
+        site: ""
+
+      - name: Yuna Seol
+        lastName: Seol
+        email: yunaseol@kaist.ac.kr
+        career: Research Intern
+        img: "yuna.jpg"
         site: ""
 
   - positionName: Staff
