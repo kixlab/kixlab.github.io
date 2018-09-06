@@ -12,13 +12,58 @@ types:
   - poster
   - workshop
 #  - book
-#  - journal
+  - journal
 
 papers:
 
+  - title: "Personalized Motivation-supportive Messages for Increasing Participation in Crowd-civic Systems"
+    author: "_Paul Grau_, Babak Naderi, _Juho Kim_"
+    venue: "CSCW 2018 (to appear)"
+    year: 2018
+    topics:
+      - civics
+      - crowdsourcing
+    type: conference
+    materials:
+    award: ""
+    link: "https://juhokim.com/files/CSCW2018-ManyIdeas.pdf"
+
+  - title: "FourEyes: Leveraging Tool Diversity as a Means to Improve Aggregate Accuracy in Crowdsourcing"
+    author: "_Jean Y. Song_, Raymond Fok, _Juho Kim_, Walter S. Lasecki"
+    venue: "ACM TIIS (in press)"
+    year: 2018
+    topics:
+      - crowdsourcing
+    type: journal
+    materials:
+    award: ""
+    link: "https://juhokim.com/files/TiiS-2018-FourEyes.pdf"
+
+  - title: "DynamicSlide: Reference-based Interaction Techniques for Slide-based Lecture Videos"
+    author: "_Hyeungshik Jung_, Valentina Hijung Shin, _Juho Kim_"
+    venue: "UIST 2018 poster (to appear)"
+    year: 2018
+    topics:
+      - learning
+    type: poster
+    materials:
+    award: ""
+    link: "https://juhokim.com/files/UIST2018-Poster-DynamicSlide.pdf"
+
+  - title: "DynamicSlide: Reference-based Interaction Techniques for Slide-based Lecture Videos"
+    author: "_Hyeungshik Jung_, Valentina Hijung Shin, _Juho Kim_"
+    venue: "MAHCI 2018 Workshop @ ACM Multimedia 2018 (to appear)"
+    year: 2018
+    topics:
+      - learning
+    type: workshop
+    materials:
+    award: ""
+    link: "https://juhokim.com/files/MM2018-Workshop-DynamicSlide.pdf"
+                
   - title: "Facilitating Document Reading by Linking Text and Tables"
     author: "Dae Hyun Kim, Enamul Hoque, _Juho Kim_, Maneesh Agrawala"
-    venue: "UIST 2018 (conditionally accepted)"
+    venue: "UIST 2018 (to appear)"
     year: 2018
     topics:
       - visualization
@@ -26,7 +71,7 @@ papers:
     type: conference
     materials:
     award: ""
-    link: ""
+    link: "https://juhokim.com/files/UIST2018-TextChartRef.pdf"
 
   - title: "Micro-NGO: Tackling Wicked Social Problems with Problem Solving and Action Planning Support in Chat"
     author: "_Sung-chul Lee_, Jihee Kim, _Juho Kim_"
