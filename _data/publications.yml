@@ -50,7 +50,7 @@ papers:
     award: ""
     link: "https://juhokim.com/files/UIST2018-Poster-DynamicSlide.pdf"
 
-  - title: "DynamicSlide: Reference-based Interaction Techniques for Slide-based Lecture Videos"
+  - title: "DynamicSlide: Exploring the Design Space of Reference-based Interaction Techniques for Slide-based Lecture Videos"
     author: "_Hyeungshik Jung_, Valentina Hijung Shin, _Juho Kim_"
     venue: "MAHCI 2018 Workshop @ ACM Multimedia 2018 (to appear)"
     year: 2018
