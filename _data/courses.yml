@@ -1,5 +1,5 @@
 courses:
-  - title: "Intro to HCI"
+  - title: "Introduction to HCI"
     code: "CS374"
     image: "cs374.png"
     description: "This course introduces fundamental principles, techniques, and methods for designing, prototyping, and evaluating user interfaces."
