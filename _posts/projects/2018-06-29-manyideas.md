@@ -6,7 +6,7 @@ oneline: "Motivation-supportive crowd-civic system for collecting issues, genera
 date:   2018-06-29 00:00:00
 author: Admin
 categories:
-- projects
+- projects-archive
 img: manyideas-screenshot.png
 website: 
 single_page: true

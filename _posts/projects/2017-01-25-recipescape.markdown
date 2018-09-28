@@ -6,7 +6,7 @@ oneline: "Mining and Analyzing Diverse Processes in Cooking Recipes"
 date:   2017-08-25 00:00:00
 author: Admin
 categories:
-- projects
+- projects-archive
 img: 2017-recipescape.png
 website: http://recipescape.kixlab.org
 single_page: true
