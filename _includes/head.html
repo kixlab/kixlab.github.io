@@ -1,9 +1,33 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <link rel="shortcut icon" href="{{ "/assets/ico/favicon.ico" | prepend: site.baseurl }}">
-    <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
-    <link href="{{ "/assets/style/main.css" | prepend: site.baseurl }}" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/ico/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/assets/ico/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/ico/favicon-16x16.png">
+  <link rel="shortcut icon" href="{{ "/assets/ico/favicon.ico" | prepend: site.baseurl }}">
+
+  <!-- Twitter cards and Open graph -->
+  <meta name="twitter:title" content="{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}">
+  <meta property="og:title" content="{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}" />
+  {% if page.summary %}
+  <meta name="twitter:description" content="{{ page.summary }}">
+  <meta property="og:description" content="{{ page.summary }}">
+  {% else %}
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta property="og:description" content="{{ site.description }}">
+  {% endif %}
+  {% if page.img %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ page.img | prepend: '/assets/img/projects/' }}">
+  <meta property="og:image" content="{{ page.img | prepend: '/assets/img/projects/' }}">
+  {% else %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:faviconimage" content="{{ site.title_image }}">
+  <meta property="og:image" content="{{ site.title_image }}">
+  {% endif %}
+  <!-- end of Twitter cards and Open graph-->
+
+  <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  <link href="{{ "/assets/style/main.css" | prepend: site.baseurl }}" rel="stylesheet">
 </head>
