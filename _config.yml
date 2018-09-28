@@ -21,6 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
   that support interaction at scale.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kixlab.org/" # the base hostname & protocol for your site, e.g. http://example.com
+title_image: "/assets/img/logo.png"
 
 analytics: "UA-88966686-1"
 
@@ -38,6 +39,6 @@ exclude:
   - Gemfile.lock
 
 sass:
-    sass_dir: assets/style
+  sass_dir: assets/style
 
 encoding: utf-8
