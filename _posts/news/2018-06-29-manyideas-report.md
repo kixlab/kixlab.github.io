@@ -4,8 +4,8 @@ title: "Many Ideas for KAIST: The Most Interesting Ideas"
 date: 2018-06-29 00:00:00
 author: Admin
 categories: news
-img: default.png
-thumb: default.png
+img: manyideas.png
+thumb: manyideas.png
 summary: In our Many Ideas platform, every member of KAIST can post and react to ideas. In this article, we summarize the initial results.
 ---
 
