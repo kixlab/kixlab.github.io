@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DynamicSlide paper accepted to UIST 2018 poster track && ACM MM workshop"
-date: 2018-08-08 00:00:00
+date: 2018-08-03 00:00:00
 author: Admin
 categories: news
 img: default.png
