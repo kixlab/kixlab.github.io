@@ -178,13 +178,6 @@ positions:
         img: "seongho.jpg"
         site: ""
 
-      - name: Yuna Seol
-        lastName: Seol
-        email: yunaseol@kaist.ac.kr
-        career: Research Intern
-        img: "yuna.jpg"
-        site: ""
-
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
@@ -197,7 +190,17 @@ positions:
   ## --------------Alumni---------------------------
 
   - positionName: Alumni
+
     positionMembers:
+      - name: Yuna Seol
+        lastName: Seol
+        email: yunaseol@kaist.ac.kr
+        career: Research Intern
+        img: "yuna.jpg"
+        site: ""
+        period: Fall 2018
+        leavingDate: 2018.09.28
+
       - name: Hyuntak Cha
         lastName: Cha
         email: chaht01@gmail.com
