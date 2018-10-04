@@ -15,6 +15,7 @@ summary: Many Ideas is a crowd-civic system in which members of a community enga
 sidebar:
 - "[kaist.manyideas.org](http://kaist.manyideas.org/) (App in Korean)"
 - "_[Many Ideas for KAIST: The Most Interesting Ideas](/news/manyideas-report)_. 2018-06-29"
+archived: true
 ---
 
 Many Ideas is a crowd-civic system in which members of a community engage with each other to collect issues, generate ideas, and discuss matters of concern.
