@@ -1,6 +1,8 @@
 ---
 layout: project
 title:  "Object-oriented interaction techniques for slide-based lecture video"
+short_title: "DynamicSlide"
+oneline: "How can we leverage the content of slide-based lecture video to improve learner's watching experience?"
 date:   2018-10-04 00:00:00
 author: Admin
 categories:
