@@ -8,5 +8,5 @@ img: default.png
 thumb: default.png
 ---
 
-We are looking for a few undergraduate research interns to join KIXLAB this summer. You can find the details on [Prof. Juho Kim's website](https://juhokim.com/2019-winter-internship-call.html).
+We are looking for a few undergraduate research interns to join KIXLAB this winter. You can find the details on [Prof. Juho Kim's website](https://juhokim.com/2019-winter-internship-call.html).
 
