@@ -41,35 +41,43 @@ papers:
 
   - title: "DynamicSlide: Reference-based Interaction Techniques for Slide-based Lecture Videos"
     author: "_Hyeungshik Jung_, Valentina Hijung Shin, _Juho Kim_"
-    venue: "UIST 2018 poster (to appear)"
+    venue: "UIST 2018 Poster"
     year: 2018
     topics:
       - learning
     type: poster
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3266089"
+      - label: "poster"
+        url: "https://www.dropbox.com/s/3tqc7c2vacsa8ne/uist2018-poster-dynamicslide-poster.pdf?dl=0"
     award: ""
     link: "https://juhokim.com/files/UIST2018-Poster-DynamicSlide.pdf"
 
   - title: "DynamicSlide: Exploring the Design Space of Reference-based Interaction Techniques for Slide-based Lecture Videos"
     author: "_Hyeungshik Jung_, Valentina Hijung Shin, _Juho Kim_"
-    venue: "MAHCI 2018 Workshop @ ACM Multimedia 2018 (to appear)"
+    venue: "MAHCI 2018 Workshop @ ACM Multimedia 2018"
     year: 2018
     topics:
       - learning
     type: workshop
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3264861"
     award: ""
     link: "https://juhokim.com/files/MM2018-Workshop-DynamicSlide.pdf"
                 
   - title: "Facilitating Document Reading by Linking Text and Tables"
     author: "Dae Hyun Kim, Enamul Hoque, _Juho Kim_, Maneesh Agrawala"
-    venue: "UIST 2018 (to appear)"
+    venue: "UIST 2018"
     year: 2018
     topics:
       - visualization
       - datamining
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3242617"
     award: ""
     link: "https://juhokim.com/files/UIST2018-TextChartRef.pdf"
 
