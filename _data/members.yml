@@ -104,13 +104,6 @@ positions:
         img: evey.jpg
         site: "https://eveyhuang.myportfolio.com"
 
-      - name: Yi-Ching (Janet) Huang
-        lastname: Huang
-        email: janetyc@gmail.com
-        career: Research Scientist
-        img: janetyc.jpg
-        site: "http://janetyc.github.io"
-
       - name: Naher Jibon
         lastname: Jibon
         email: jibon.naher09@gmail.com
@@ -192,6 +185,15 @@ positions:
   - positionName: Alumni
 
     positionMembers:
+      - name: Yi-Ching (Janet) Huang
+        lastname: Huang
+        email: janetyc@gmail.com
+        career: Research Scientist
+        img: janetyc.jpg
+        site: "http://janetyc.github.io"
+        period: Summer 2018 - Fall 2018
+        leavingDate: 2018.11.30
+
       - name: Yuna Seol
         lastName: Seol
         email: yunaseol@kaist.ac.kr
