@@ -11,20 +11,21 @@ types:
   - conference
   - poster
   - workshop
-#  - book
+  #  - book
   - journal
 
 papers:
-
   - title: "Personalized Motivation-supportive Messages for Increasing Participation in Crowd-civic Systems"
     author: "_Paul Grau_, Babak Naderi, _Juho Kim_"
-    venue: "CSCW 2018 (to appear)"
+    venue: "CSCW 2018"
     year: 2018
     topics:
       - civics
       - crowdsourcing
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?doid=3290265.3274329"
     award: ""
     link: "https://juhokim.com/files/CSCW2018-ManyIdeas.pdf"
 
@@ -64,9 +65,11 @@ papers:
     materials:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?id=3264861"
+      - label: "slide"
+        url: "https://www.dropbox.com/s/vy6ro2lbse2qjrf/mm2018-mahciworkshop-dynamicslide-slides.pdf?dl=0"
     award: ""
     link: "https://juhokim.com/files/MM2018-Workshop-DynamicSlide.pdf"
-                
+
   - title: "Facilitating Document Reading by Linking Text and Tables"
     author: "Dae Hyun Kim, Enamul Hoque, _Juho Kim_, Maneesh Agrawala"
     venue: "UIST 2018"
@@ -137,6 +140,8 @@ papers:
         url: "https://dl.acm.org/citation.cfm?id=3173893"
       - label: "video preview"
         url: "https://www.youtube.com/watch?v=BLiR8jL8abA"
+      - label: "slide"
+        url: "https://hyungyu.com/slides/CHI18-prompting-slide.pdf"
     award: ""
     link: "http://juhokim.com/files/CHI2018-Prompting.pdf"
 
@@ -171,7 +176,6 @@ papers:
         url: "https://www.youtube.com/watch?v=kEJurLv86Vw"
     award: ""
     link: "http://juhokim.com/files/CHI2018-DC.pdf"
-
 
   - title: "Collaborative Dynamic Queries: Supporting Distributed Small Group Decision-making"
     author: "_Sungsoo (Ray) Hong_, Minhyang (Mia) Suh, Nathalie Henry Riche, _Jooyoung Lee_, _Juho Kim_, Mark Zachry"
@@ -259,8 +263,8 @@ papers:
       - crowdsourcing
     type: conference
     materials:
-      - label:
-        url:
+      - label: "acm dl"
+        url: "https://dl.acm.org/citation.cfm?id=3134669"
     award: ""
     link: "https://dl.acm.org/citation.cfm?id=3134669"
 
@@ -276,7 +280,7 @@ papers:
       - label: "video"
         url: "https://www.youtube.com/watch?v=J0Y9tzJ-8xY"
     award: "Best Paper Runner-up"
-    link:
+    link: "https://kyungjejo.com/static/media/Exprgram_GroupSight2017.2d234b6f.pdf"
 
   - title: "VideoScape: Augmenting Video Learning Experience with Concept Map"
     author: "_Ching Liu_, Hao-Chuan Wang, _Juho Kim_"
@@ -384,7 +388,7 @@ papers:
     award: ""
     link: "http://juhokim.com/files/CSCW2017-Workshop-MicroNGO.pdf"
 
-  - title: "\"Don’t Bother Me. I’m Socializing!\": A Breakpoint-Based Smartphone Notification System"
+  - title: '"Don’t Bother Me. I’m Socializing!": A Breakpoint-Based Smartphone Notification System'
     author: "Chunjong Park, Junsung Lim, _Juho Kim_, Sung-Ju Lee, Dongman Lee"
     venue: "CSCW 2017"
     year: 2017
