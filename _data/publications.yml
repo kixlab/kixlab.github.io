@@ -26,6 +26,8 @@ papers:
     materials:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?doid=3290265.3274329"
+      - label: "slide"
+        url: "https://drive.google.com/open?id=1ehndOLf3cPa12kY_82gGlJ2RMHy0cQ_T"
     award: ""
     link: "https://juhokim.com/files/CSCW2018-ManyIdeas.pdf"
 
