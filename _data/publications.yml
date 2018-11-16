@@ -53,7 +53,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?id=3266089"
       - label: "poster"
-        url: "https://www.dropbox.com/s/3tqc7c2vacsa8ne/uist2018-poster-dynamicslide-poster.pdf?dl=0"
+        url: "https://drive.google.com/open?id=1hMsljBMunNP5gzwGpZrxmXLSLsKqwXTD"
     award: ""
     link: "https://juhokim.com/files/UIST2018-Poster-DynamicSlide.pdf"
 
@@ -68,7 +68,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?id=3264861"
       - label: "slide"
-        url: "https://www.dropbox.com/s/vy6ro2lbse2qjrf/mm2018-mahciworkshop-dynamicslide-slides.pdf?dl=0"
+        url: "https://drive.google.com/open?id=1xOXsHrzBRUxsLRYeqsjZyrNZBBzsGGLo"
     award: ""
     link: "https://juhokim.com/files/MM2018-Workshop-DynamicSlide.pdf"
 
@@ -96,6 +96,8 @@ papers:
     materials:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?id=3188564"
+      - label: "poster"
+        url: "https://drive.google.com/open?id=1014oJOthvz854AkDhtYyO-vomwNMYgaH"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-MicroNGO.pdf"
 
@@ -111,6 +113,8 @@ papers:
         url: "https://dl.acm.org/citation.cfm?id=3188566"
       - label: "video preview"
         url: "https://youtu.be/MZ1kx3_S5Bk"
+      - label: "poster"
+        url: "https://drive.google.com/open?id=1pAvuR_CPkc89PjV4_bC5EAu5JBrIRkRG"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-Personality.pdf"
 
@@ -127,6 +131,8 @@ papers:
         url: "https://dl.acm.org/citation.cfm?id=3188582"
       - label: "video preview"
         url: "https://www.youtube.com/watch?v=Cs8CSz3-MK0"
+      - label: "poster"
+        url: "https://drive.google.com/open?id=1Y-AeIg0kTzM2FVpXn_zhPgNLB47hvDFb"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-Exprgram.pdf"
 
