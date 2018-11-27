@@ -27,7 +27,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?doid=3290265.3274329"
       - label: "slide"
-        url: "https://www.kixlab.org/files/2018/cscw2018-motivation-slide.pdf"
+        url: "https://www.kixlab.org/files/2018/cscw2018-Motivation-slides.pdf"
     award: ""
     link: "https://juhokim.com/files/CSCW2018-ManyIdeas.pdf"
 
@@ -53,7 +53,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?id=3266089"
       - label: "poster"
-        url: "https://www.kixlab.org/files/2018/uist2018-poster-dynamicslide.pdf"
+        url: "https://www.kixlab.org/files/2018/uist2018-poster-DynamicSlide-poster.pdf"
     award: ""
     link: "https://juhokim.com/files/UIST2018-Poster-DynamicSlide.pdf"
 
@@ -68,7 +68,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?id=3264861"
       - label: "slide"
-        url: "https://www.kixlab.org/files/2018/mm2018-mahciworkshop-dynamicslide-slides.pdf"
+        url: "https://www.kixlab.org/files/2018/mm2018-workshop-DynamicSlide-slides.pdf"
     award: ""
     link: "https://juhokim.com/files/MM2018-Workshop-DynamicSlide.pdf"
 
@@ -97,7 +97,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/citation.cfm?id=3188564"
       - label: "poster"
-        url: "https://www.kixlab.org/files/2018/chi2018-lbw-poster-microngo.pdf"
+        url: "https://www.kixlab.org/files/2018/chi2018-lbw-MicroNGO-poster.pdf"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-MicroNGO.pdf"
 
@@ -114,7 +114,7 @@ papers:
       - label: "video preview"
         url: "https://youtu.be/MZ1kx3_S5Bk"
       - label: "poster"
-        url: "https://www.kixlab.org/files/2018/chi2018-lbw-poster-personality.pdf"
+        url: "https://www.kixlab.org/files/2018/chi2018-lbw-PersonalityDetection-poster.pdf"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-Personality.pdf"
 
@@ -132,7 +132,7 @@ papers:
       - label: "video preview"
         url: "https://www.youtube.com/watch?v=Cs8CSz3-MK0"
       - label: "poster"
-        url: "https://www.kixlab.org/files/2018/chi2018-lbw-poster-exprgram.pdf"
+        url: "https://www.kixlab.org/files/2018/chi2018-lbw-Exprgram-poster.pdf"
     award: ""
     link: "http://juhokim.com/files/CHI2018-LBW-Exprgram.pdf"
 
