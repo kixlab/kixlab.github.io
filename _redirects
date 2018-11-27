@@ -24,3 +24,5 @@
 
 /courses/hci /courses/hci/index.html 301!
 /courses/hci/* https://cs374-spring-2018.netlify.com/:splat 200
+
+/files/*  https://kixlab.github.io/website-files/:splat 200
