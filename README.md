@@ -23,7 +23,7 @@ Place the file at `assets/img/members/your_name.jpg` and reference it in `member
 
 1. Go to `_data/publications.yml`
 2. Append the list by copy-pasting one of the items and filling in your information.
-3. If you need to upload additional materials (e.g., paper, poster, slide) please upload files in [this folder](https://drive.google.com/open?id=1fUMWQZsZ1xXVH9U5i8fCk_URtvWExYSd) at the lab's Google Drive, and use the file's link shared by Google Drive.
+3. If you need to upload additional materials (e.g., paper, poster, slide) please upload files to [this repo](https://github.com/kixlab/website-files). Then the URL will be `https://www.kixlab.org/files/{path in the repo}`.
 
 ## How to check changes you made locally
 
