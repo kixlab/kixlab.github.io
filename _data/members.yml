@@ -171,6 +171,13 @@ positions:
         img: "seongho.jpg"
         site: ""
 
+      - name: Hyeonggeun Yun
+        lastName: Yun
+        email: yhg8423@gmail.com
+        career: Research Intern
+        img: "hyeonggeun.jpg"
+        site: "https://www.harooo.com/terminal"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
