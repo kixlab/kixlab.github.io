@@ -177,6 +177,13 @@ positions:
         career: Research Intern
         img: "hyeonggeun.jpg"
         site: "https://www.harooo.com/terminal"
+        
+      - name: Jaeyoon Song
+        lastName: Zong
+        email: song@jaeyoon.io
+        career: Research Intern
+        img: "jaeyoon.jpg"
+        site: "https://jaeyoon.io"
 
   - positionName: Staff
     positionMembers:
