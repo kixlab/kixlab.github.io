@@ -22,10 +22,7 @@
 /courses/i2r /courses/i2r/index.html 301!
 /courses/i2r/* https://i2r.netlify.com/:splat 200
 
-/courses/crowdsourcing /courses/crowdsourcing/index.html 301!
-/courses/crowdsourcing/* https://cs492-fall-2016.netlify.com/:splat 200
-
-/courses/hci /courses/hci/index.html 301!
+/courses/hci /courses/cs374-spring-2019/index.html 301!
 /courses/hci/* https://cs374-spring-2019.netlify.com/:splat 200
 
 /files/*  https://kixlab.github.io/website-files/:splat 200
