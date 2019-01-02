@@ -191,6 +191,13 @@ positions:
         career: Research Intern
         img: "keon.jpg"
         site: ""
+        
+      - name: Sunwoo Kwon
+        lastName: Kwon
+        email: swkwon.john@gmail.com
+        career: Research Intern
+        img: "sunwoo.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
