@@ -198,6 +198,13 @@ positions:
         career: Research Intern
         img: "sunwoo.jpg"
         site: ""
+      
+      - name: Juan Lee
+        lastName: Lee
+        email: juanlee@kaist.ac.kr
+        career: Research Intern
+        img: "juan.jpg"
+        site: "https://juanlee.icists.org"
 
   - positionName: Staff
     positionMembers:
