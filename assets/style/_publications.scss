@@ -37,3 +37,19 @@
         font-size: (14/16)*1rem;
     }
 }
+
+@media (max-width: 600px) {
+    .filter-label-list {
+        width: 100%;
+        .segmented-control {
+            display: flex;
+            width: 100%;
+            flex-direction: column;
+            flex-wrap: wrap;
+            label {
+                margin-left: 0;
+                border-radius: 0;
+            }
+        }
+    }
+}
