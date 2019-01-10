@@ -15,6 +15,28 @@ types:
   - journal
 
 papers:
+  - title: "How to Design Voice Based Navigation for How-To Videos"
+    author: "_Minsuk Chang_, Ahn Truong, Oliver Wang, Maneesh Agrawala, _Juho Kim_"
+    venue: "CHI 2019"
+    year: 2019
+    topics:
+      - learning
+    type: conference
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2019/chi2019-VoiceVideoNavigation-paper.pdf"
+
+  - title: "Popup: Reconstructing 3D Video Using Particle Filtering to Aggregate Crowd Responses"
+    author: "_Jean Y. Song_, Stephan J. Lemmer, Michael Xieyang Liu, Shiyan Yan, _Juho Kim_, Jason J. Corso, Walter S. Lasecki"
+    venue: "IUI 2019"
+    year: 2019
+    topics:
+      - crowdsourcing
+    type: conference
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2019/iui2019-2D3DReconstruction-paper.pdf"
+
   - title: "Personalized Motivation-supportive Messages for Increasing Participation in Crowd-civic Systems"
     author: "_Paul Grau_, Babak Naderi, _Juho Kim_"
     venue: "CSCW 2018"
