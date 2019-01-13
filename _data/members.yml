@@ -14,12 +14,6 @@ positions:
         career: Assistant Professor
         img: juhokim.jpg
         site: http://juhokim.com/
-      - name: Simon Perrault
-        lastName: Perrault
-        email: simon.perrault@yale-nus.edu.sg
-        career: Visiting Assistant Professor
-        img: perrault.jpg
-        site: https://www.yale-nus.edu.sg/about/faculty/simon-perrault//
 
   ## --------------Graduate Students and Researchers ------------------
 
@@ -139,7 +133,7 @@ positions:
       - name: Saelyne Yang
         lastName: Yang
         email: lyne96@kaist.ac.kr
-        career: Research Intern
+        career: Research Intern, URP
         img: "saelyne.jpg"
         site: "http://saelyne.com/"
 
@@ -162,13 +156,6 @@ positions:
         email: leenw2@kaist.ac.kr
         career: Research Intern
         img: "nyoungwoo.jpg"
-        site: ""
-
-      - name: Seongho Park
-        lastName: Park
-        email: bluetosh7@gmail.com
-        career: Research Intern
-        img: "seongho.jpg"
         site: ""
 
       - name: Hyeonggeun Yun
@@ -220,6 +207,24 @@ positions:
   - positionName: Alumni
 
     positionMembers:
+      - name: Simon Perrault
+        lastName: Perrault
+        email: simon.perrault@yale-nus.edu.sg
+        career: Visiting Assistant Professor
+        img: perrault.jpg
+        site: https://istd.sutd.edu.sg/people/faculty/simon-perrault
+        period: Summer 2018 - Fall 2018
+        leavingDate: 2018.12.31
+
+      - name: Seongho Park
+        lastName: Park
+        email: bluetosh7@gmail.com
+        career: Undergrad Research Intern (KAIST)
+        img: "seongho.jpg"
+        site: ""        
+        period: Summer 2018 - Fall 2018
+        leavingDate: 2018.12.31
+
       - name: Yi-Ching (Janet) Huang
         lastname: Huang
         email: janetyc@gmail.com
@@ -228,20 +233,12 @@ positions:
         site: "http://janetyc.github.io"
         period: Summer 2018 - Fall 2018
         leavingDate: 2018.11.30
-
-      - name: Yuna Seol
-        lastName: Seol
-        email: yunaseol@kaist.ac.kr
-        career: Research Intern
-        img: "yuna.jpg"
-        site: ""
-        period: Fall 2018
-        leavingDate: 2018.09.28
+        now: Postdoc at Eindhoven University of Technology
 
       - name: Hyuntak Cha
         lastName: Cha
         email: chaht01@gmail.com
-        career: Research Intern
+        career: Undergrad Research Intern (SNU)
         img: "hyuntak.jpeg"
         site: "http://hyuntak.com"
         period: Summer 2018
@@ -250,7 +247,7 @@ positions:
       - name: Rachel Kwak
         lastName: Kwak
         email: kwakseo@mit.edu
-        career: Research Intern
+        career: Undergrad Research Intern (MIT)
         img: "rachel.jpg"
         site: ""
         period: Summer 2018
@@ -259,7 +256,7 @@ positions:
       - name: Manav Rao
         lastName: Rao
         email: rao.manav20@gmail.com
-        career: Research Intern
+        career: Undergrad Research Intern (IIT Delhi)
         img: "manav.jpg"
         site: "http://www.cse.iitd.ac.in/~cs1160523/"
         period: Summer 2018
@@ -287,7 +284,7 @@ positions:
       - name: Jiyoun Ha
         lastName: Ha
         email: jiyounha@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Research Intern (KAIST), URP
         img: "jiyoun.png"
         site: ""
         period: Winter 2018-Spring 2018
@@ -295,7 +292,7 @@ positions:
       - name: Hyunjong Lee
         lastName: Lee
         email: hyunjongL@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "hyunjong.jpeg"
         site: "https://hyunjongl.github.io/"
         period: Winter 2018-Spring 2018
@@ -303,17 +300,16 @@ positions:
       - name: Mercedes Huertas
         lastName: Huertas
         email: mdlm.huertas@unitn.it
-        career: Visiting Ph.D. Student
+        career: Visiting Ph.D. Student (University of Trento)
         img: mercedes.jpg
         site: ""
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
-        now: Ph.D. Student @ University of Trento
 
       - name: Seayeon Lee
         lastName: Lee
         email: syeonlee@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "seayeon.jpg"
         site: ""
         period: Winter 2018
@@ -321,7 +317,7 @@ positions:
       - name: Ina Ryu
         lastName: Ryu
         email: ryu_ina@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "ina.jpeg"
         site: ""
         period: Summer 2017–Fall 2017
@@ -330,8 +326,7 @@ positions:
       - name: Beomsu Kim
         lastName: Kim
         email: 3141kbs@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "beomsu.jpg"
         site: ""
         period: Summer 2017–Fall 2017
@@ -340,8 +335,7 @@ positions:
       - name: Jonghyuk Jung
         lastName: Jung
         email: jonghyuk101@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "jonghyuk.jpg"
         site: "https://jonghyuk.info/"
         period: Spring 2017–Fall 2017
@@ -351,8 +345,7 @@ positions:
       - name: Jooyoung Lee
         lastName: Lee
         email: leenoi3@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "jooyoung.jpg"
         site: ""
         period: Summer 2017–Fall 2017
@@ -361,8 +354,7 @@ positions:
       - name: Leonore Guillain
         lastName: Guillain
         email: leonore.guillain@epfl.ch
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (EPFL)
         img: "leonore.jpg"
         site: ""
         period: Summer 2017
@@ -371,8 +363,7 @@ positions:
       - name: Suhwan Jee
         lastName: Jee
         email: jsh56son@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "suhwan.jpeg"
         site: "https://zeniuus.github.io"
         period: Summer 2017
@@ -381,8 +372,7 @@ positions:
       - name: Hyunsuk Shin
         lastName: Shin
         email: wellshs@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "hyunsuk.jpg"
         site: ""
         period: Summer 2017
@@ -391,8 +381,7 @@ positions:
       - name: Wookjae Byun
         lastName: Byun
         email: mecatos95d@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "wookjae.jpg"
         site: ""
         period: Summer 2017
@@ -401,8 +390,7 @@ positions:
       - name: Amy Han
         lastName: Han
         email: amy.s.han1717@gmail.com
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (Swarthmore College)
         img: "amy.jpg"
         site: ""
         period: Summer 2017
@@ -412,8 +400,7 @@ positions:
       - name: Hyunsung Cho
         lastName: Cho
         email: hscho1226@gmail.com
-        career:
-          - URP Program
+        career: Undergrad Research Intern (KAIST), URP
         img: hyunsung.jpg
         site: ""
         period: Fall 2016–Winter 2017
@@ -423,8 +410,7 @@ positions:
       - name: Jaesung Huh
         lastName: Huh
         email: gasop@snu.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (SNU)
         img: jaesung.jpg
         site: ""
         period: Winter 2017
@@ -434,8 +420,7 @@ positions:
       - name: Deokseong Kim
         lastName: Kim
         email: stuzeakd@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: deokseong.jpg
         site: ""
         period: Winter 2017
@@ -444,8 +429,7 @@ positions:
       - name: Dongkwan Kim
         lastName: Kim
         email: dong112d@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: dongkwan.jpg
         site: ""
         period: Summer 2016–Fall 2016
@@ -455,8 +439,7 @@ positions:
       - name: Hyungwoo Kim
         lastName: Kim
         email: erickim713@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: "hyungwoo.jpg"
         site: ""
         period: Spring 2017
@@ -474,8 +457,7 @@ positions:
       - name: Ching Liu
         lastName: Liu
         email: liuching@kaist.ac.kr
-        career:
-          - Exchange Student
+        career: Exchange Student
         img: jean.jpg
         site: ""
         period: Fall 2016–Spring 2017
@@ -485,8 +467,7 @@ positions:
       - name: Taekyung Park
         lastName: Park
         email: kibi0620@gmail.com
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (SNU)
         img: taekyung.jpg
         site: ""
         period: Summer 2016
@@ -495,8 +476,7 @@ positions:
       - name: Jiwoo Park
         lastName: Park
         email: shapley_aldebaran@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         interest: KIXLAB
         img: jiwoo.jpg
         site: ""
@@ -507,8 +487,7 @@ positions:
       - name: Soya Park
         lastName: Park
         email: soya@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: soya2.jpg
         site: "https://soyapark45.github.io/soya/"
         period: Fall 2016–Winter 2017
@@ -518,8 +497,7 @@ positions:
       - name: Juho Sun
         lastName: Sun
         email: soju@kaist.ac.kr
-        career:
-          - Research Intern
+        career: Undergrad Research Intern (KAIST)
         img: juhosun.png
         site: "http://juhojuho.com"
         period: Fall 2016

@@ -17,7 +17,7 @@ types:
 papers:
   - title: "How to Design Voice Based Navigation for How-To Videos"
     author: "_Minsuk Chang_, Ahn Truong, Oliver Wang, Maneesh Agrawala, _Juho Kim_"
-    venue: "CHI 2019"
+    venue: "CHI 2019 (to appear)"
     year: 2019
     topics:
       - learning
@@ -28,7 +28,7 @@ papers:
 
   - title: "Popup: Reconstructing 3D Video Using Particle Filtering to Aggregate Crowd Responses"
     author: "_Jean Y. Song_, Stephan J. Lemmer, Michael Xieyang Liu, Shiyan Yan, _Juho Kim_, Jason J. Corso, Walter S. Lasecki"
-    venue: "IUI 2019"
+    venue: "IUI 2019 (to appear)"
     year: 2019
     topics:
       - crowdsourcing
