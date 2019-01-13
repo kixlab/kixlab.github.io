@@ -8,4 +8,4 @@ img: default.png
 thumb: default.png
 ---
 
-Minsuk Chang started his research internship at Autodesk Research, working with Ben ben Lafreniere and Tovi Grossman (U of Toronto). 
+Minsuk Chang started his research internship at Autodesk Research, working with Ben Lafreniere and Tovi Grossman (U of Toronto). 
