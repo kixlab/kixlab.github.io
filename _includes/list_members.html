@@ -1,3 +1,13 @@
+<style>
+.material {
+  margin: 0;
+  padding: 0 6px 0 2px; /* white space is 4px */
+}
+.material:not(:last-child) {
+  border-right: 1px solid #bfbfbf;
+}
+</style>
+
 {% for position in site.data.members.positions %}
     <h2 class="position-title">{{ position.positionName}}</h3>
 
@@ -51,9 +61,18 @@
                 <p class="member-period">{{member.period}}</p>
                 {% endif %}
 
+                <p class="member-materials">
+                  {% for material in member.materials %}
+                    <a href="{{material.url}}" class="material">{{ material.label }}</a>
+                  {% endfor %}
+                </p>
+
                 {% if member.now %}
                 <p class="member-now">(now {{member.now}})</p>
                 {% endif %}
+
+
+
             </div>
 
             {% endif %}
