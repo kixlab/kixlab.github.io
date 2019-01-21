@@ -272,6 +272,10 @@ positions:
         period: Fall 2016-Spring 2018
         leavingDate: 2018.06.29
         now: Research Engineer @ Blocko
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2018-paul.pdf"
+
       - name: John Chung
         lastName: Chung
         email: johnr0hol@gmail.com
