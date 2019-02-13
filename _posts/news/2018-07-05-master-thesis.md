@@ -10,6 +10,6 @@ thumb: default.png
 
 Both <a href="https://sites.google.com/view/seoyoung/">Seoyoung</a> and <a href="http://graycoding.com/">Paul</a> successfully defended their Master thesis as first students to graduate from KIXLAB. Congrats!
 
-Seoyoung's thesis is titled "Automatic Workplace Personality Detection from Online and Offline Behavior Analysis".
+Seoyoung's thesis is titled <a href="https://www.kixlab.org/files/theses/thesis-ms-2018-seoyoung.pdf">"Automatic Workplace Personality Detection from Online and Offline Behavior Analysis"</a>.
 
-Paul's thesis is titled "Effects of Personalization on Participation in Crowd-civic Systems".
+Paul's thesis is titled <a href="https://www.kixlab.org/files/theses/thesis-ms-2018-paul.pdf">"Effects of Personalization on Participation in Crowd-civic Systems"</a>.
