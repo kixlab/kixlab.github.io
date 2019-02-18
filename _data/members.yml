@@ -112,6 +112,13 @@ positions:
         img: "saelyne.jpg"
         site: "http://saelyne.com/"
 
+      - name: Kabdo Choi
+        lastName: Choi
+        email: cyron1259@kaist.ac.kr
+        career: M.S. Student
+        img: "kabdo.jpg"
+        site: ""
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
