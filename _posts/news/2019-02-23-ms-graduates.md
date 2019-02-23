@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hyeungshik and Hyungyu graduate"
+title: "Hyeungshik & Hyungyu get their MS degrees; Hyungyu gets a thesis award!"
 date: 2019-02-23 00:00:00
 author: Admin
 categories: news
