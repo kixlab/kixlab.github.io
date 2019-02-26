@@ -119,6 +119,13 @@ positions:
         img: "kabdo.jpg"
         site: ""
 
+      - name: Donghoon Han
+        lastName: Han
+        email: hanuright@kaist.ac.kr
+        career: M.S. Student
+        img: "hoon.jpg"
+        site: ""
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
@@ -200,16 +207,6 @@ positions:
   - positionName: Alumni
 
     positionMembers:
-      - name: Donghoon Han
-        lastName: Han
-        email: hanuright@kaist.ac.kr
-        career: Undergrad Intern (KAIST)
-        img: "hoon.jpg"
-        site: ""
-        period: Summer 2018 - Winter 2019
-        leavingDate: 2019.02.15
-        now: MS student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
-
       - name: Hyeungshik Jung
         lastName: Jung
         email: hyeungshik.jung@kaist.ac.kr
