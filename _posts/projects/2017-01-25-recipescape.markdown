@@ -16,6 +16,7 @@ sidebar:
 - "[Video preview](https://youtu.be/PslAojnaKnQ)"
 - "[RecipeScape in 전자신문](http://www.etnews.com/20180409000376)"
 - "[RecipeScape in Follow The Crowd](https://humancomputation.com/blog/?p=9862)"
+- "[RecipeScape in KAIST School of Computing's Research Highlight](https://cs.kaist.ac.kr/board/view?bbs_id=research&bbs_sn=8662&page=1&skey=subject&svalue=&menu=258)"
 ---
 We explore how analyzing cooking recipes in aggregate and in scale helps discovering the core values in the collective cooking culture, and answer fundamental questions like ‘‘what makes a chocolate chip cookie a chocolate chip cookie’’.
 Aspiring cooks, professional chefs, and cooking hobbyists share their recipes online resulting in thousands of different procedural instructions towards a shared goal.
