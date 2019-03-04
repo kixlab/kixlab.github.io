@@ -6,7 +6,36 @@
 .material:not(:last-child) {
   border-right: 1px solid #bfbfbf;
 }
+
+#popup {
+  top: 0 !important;
+  left: 0 !important;
+  width: 100%;
+  height: 100%;
+  padding: 1em;
+  background-color: rgba(0,0,0,0.85);
+  will-change: opacity;
+  z-index: 1000;
+  position: fixed;
+}
+
+#popup iframe {
+  position: absolute;
+  z-index: 1001;
+  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
+}
+
 </style>
+
+<script type="text/javascript">
+  function onClick(id) {
+    var popup = document.getElementById('popup');
+    if (id === "link-video") popup.style.display = 'block';
+    else popup.style.display = 'none';
+  }
+  </script>
 
 {% for position in site.data.members.positions %}
     <h2 class="position-title">{{ position.positionName}}</h3>
@@ -20,6 +49,7 @@
     {% endif %}
     {% for member in sorted_members %}
         <div class='namecard'>
+            <!-- Current members -->
             {% if position.positionName != 'Alumni' %}
             <div class='member-image' style="background-image: url({{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }})">
             </div>
@@ -34,18 +64,23 @@
                 {% for career in member.career %}
                 <p class="member-career">{{career}}</p>
                 {% endfor %}
-
-                {% if member.period %}
-                <p class="member-period">{{member.period}}</p>
-                {% endif %}
                 
-                {% if position.positionName != 'Alumni' %}
+                {% if member.email %}
                 <p class="member-email">{{member.email}}</p>
+                {% endif %}
+
+                {% if member.video %}
+                <p class="member-video">
+                  <a id="link-video" href="" onclick="onClick(this.id)">link to video</a>
+                  <div id="popup" style="display: none;" onclick="onClick(this.id)">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ member.video }}" frameborder="0" allowfullscreen></iframe>
+                  </div>
+                </p>
                 {% endif %}
             </div>
             
+            <!-- Alumni -->
             {% else %}
-
             <div class="namecard-content">
                 {% if member.site != '' %}
                 <span class="member-name"><a href="{{member.site}}">{{member.name}}</a></span>
@@ -71,8 +106,6 @@
                 <p class="member-now">(now {{member.now}})</p>
                 {% endif %}
 
-
-
             </div>
 
             {% endif %}
@@ -81,4 +114,3 @@
     {% endfor %}
     </div>
 {% endfor %}
-
