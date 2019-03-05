@@ -166,20 +166,6 @@ positions:
         img: "hyeonggeun.jpg"
         site: "https://www.harooo.com/terminal"
 
-      - name: Jaeyoon Song
-        lastName: Song
-        email: song@jaeyoon.io
-        career: Research Intern
-        img: "jaeyoon.jpg"
-        site: "https://jaeyoon.io"
-
-      - name: Keon Lee
-        lastName: Lee
-        email: rjsdlwwkd@kaist.ac.kr
-        career: Research Intern
-        img: "keon.jpg"
-        site: ""
-
       - name: Sunwoo Kwon
         lastName: Kwon
         email: swkwon.john@gmail.com
@@ -206,8 +192,25 @@ positions:
   ## --------------Alumni---------------------------
 
   - positionName: Alumni
-
     positionMembers:
+      - name: Jaeyoon Song
+        lastName: Song
+        email: song@jaeyoon.io
+        career: Research Intern
+        img: "jaeyoon.jpg"
+        site: "https://jaeyoon.io"
+        period: Winter 2019
+        leavingDate: 2019.02.22
+
+      - name: Keon Lee
+        lastName: Lee
+        email: rjsdlwwkd@kaist.ac.kr
+        career: Research Intern
+        img: "keon.jpg"
+        site: ""
+        period: Winter 2019
+        leavingDate: 2019.02.15
+
       - name: Hyeungshik Jung
         lastName: Jung
         email: hyeungshik.jung@kaist.ac.kr
@@ -300,6 +303,7 @@ positions:
         period: Spring 2017-Spring 2018
         leavingDate: 2018.06.29
         now: Ph.D. Student @ University of Michigan
+
       - name: Jiyoun Ha
         lastName: Ha
         email: jiyounha@kaist.ac.kr
@@ -308,6 +312,7 @@ positions:
         site: ""
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
+
       - name: Hyunjong Lee
         lastName: Lee
         email: hyunjongL@kaist.ac.kr
@@ -316,6 +321,7 @@ positions:
         site: "https://hyunjongl.github.io/"
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
+
       - name: Mercedes Huertas
         lastName: Huertas
         email: mdlm.huertas@unitn.it
