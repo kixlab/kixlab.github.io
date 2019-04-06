@@ -32,8 +32,12 @@
 <script type="text/javascript">
   function onClick(id) {
     var popup = document.getElementById('popup');
-    if (id === "link-video") popup.style.display = 'block';
-    else popup.style.display = 'none';
+    if (id === "link-video") 
+      popup.style.display = 'block';
+    else {
+      popup.querySelector('iframe').contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
+      popup.style.display = 'none';
+    }
   }
   </script>
 
@@ -73,7 +77,7 @@
                 <p class="member-video">
                   <a id="link-video" onclick="onClick(this.id)" href="javascript:void(0);">1-min research overview</a>
                   <div id="popup" style="display: none;" onclick="onClick(this.id)">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ member.video }}" frameborder="0" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ member.video }}?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen></iframe>
                   </div>
                 </p>
                 {% endif %}
