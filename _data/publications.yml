@@ -17,7 +17,7 @@ types:
 papers:
   - title: "SolveDeep: A System for Supporting Subgoal Learning in Online Math Problem Solving"
     author: "_Hyoungwook Jin_, _Minsuk Chang_, _Juho Kim_"
-    venue: "CHI 2019 Extended Abstracts (Late Breaking Work, to appear)"
+    venue: "CHI 2019 Extended Abstracts (Late Breaking Work)"
     year: 2019
     topics:
       - learning
@@ -28,7 +28,7 @@ papers:
 
   - title: "Crowdsourcing Perspectives on Public Policy from Stakeholders"
     author: "_Hyunwoo Kim_, _Eun-young Ko_, _Donghoon Han_, _Sung-chul Lee_, _Simon Perrault_, _Jihee Kim_, _Juho Kim_"
-    venue: "CHI 2019 Extended Abstracts (Late Breaking Work, to appear)"
+    venue: "CHI 2019 Extended Abstracts (Late Breaking Work)"
     year: 2019
     topics:
       - civics
