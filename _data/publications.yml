@@ -17,29 +17,29 @@ types:
 papers:
   - title: "SolveDeep: A System for Supporting Subgoal Learning in Online Math Problem Solving"
     author: "_Hyoungwook Jin_, _Minsuk Chang_, _Juho Kim_"
-    venue: "CHI 2019 Extended Abstracts (Late Breaking Work, to appear)"
+    venue: "CHI 2019 Extended Abstracts (Late Breaking Work)"
     year: 2019
     topics:
       - learning
     type: poster
     materials:
     award: ""
-    link: ""
+    link: "https://www.kixlab.org/files/2019/chi2019-lbw-SolveDeep-paper.pdf"
 
   - title: "Crowdsourcing Perspectives on Public Policy from Stakeholders"
     author: "_Hyunwoo Kim_, _Eun-young Ko_, _Donghoon Han_, _Sung-chul Lee_, _Simon Perrault_, _Jihee Kim_, _Juho Kim_"
-    venue: "CHI 2019 Extended Abstracts (Late Breaking Work, to appear)"
+    venue: "CHI 2019 Extended Abstracts (Late Breaking Work)"
     year: 2019
     topics:
       - civics
     type: poster
     materials:
     award: ""
-    link: ""
+    link: "https://www.kixlab.org/files/2019/chi2019-lbw-PolicyScape-paper.pdf"
 
   - title: "How to Design Voice Based Navigation for How-To Videos"
     author: "_Minsuk Chang_, Ahn Truong, Oliver Wang, Maneesh Agrawala, _Juho Kim_"
-    venue: "CHI 2019 (to appear)"
+    venue: "CHI 2019"
     year: 2019
     topics:
       - learning
@@ -50,7 +50,7 @@ papers:
 
   - title: "Popup: Reconstructing 3D Video Using Particle Filtering to Aggregate Crowd Responses"
     author: "_Jean Y. Song_, Stephan J. Lemmer, Michael Xieyang Liu, Shiyan Yan, _Juho Kim_, Jason J. Corso, Walter S. Lasecki"
-    venue: "IUI 2019 (to appear)"
+    venue: "IUI 2019"
     year: 2019
     topics:
       - crowdsourcing
