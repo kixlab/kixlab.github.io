@@ -104,7 +104,7 @@ positions:
         email: yoon0u0@gmail.com
         career: M.S. Student
         img: "yoonseo.jpg"
-        site: ""
+        site: "https://yoonseochoi.com"
 
       - name: Saelyne Yang
         lastName: Yang
@@ -125,7 +125,7 @@ positions:
         email: hoonhan.d@kaist.ac.kr
         career: M.S. Student
         img: "hoon.jpg"
-        site: ""
+        site: "https://sites.google.com/view/hoonhan"
 
   ## ---------------Undergraduates--------------------
 
