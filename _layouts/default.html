@@ -2,7 +2,17 @@
 <html>
 
     {% include head.html %}
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        $(window).load(function() {
+            $('.flexslider').flexslider({
+                animation: "slide",
+                // controlNav: false,
+                animationLoop: false,
+                slideshow: false,
+            });
+        });
+    </script>
     <body class="site page-{{page.path | slugify}}">
         {% include header.html %}
 
