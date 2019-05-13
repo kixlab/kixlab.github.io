@@ -2,13 +2,13 @@
 
 .group-picture {
     max-width: 550px;
-    margin: 0 auto 1*$spacing;
+    margin: 0 auto 1*$spacing !important;
 
-    a {
+    a.photo {
         display: block;
         box-shadow: 0 0 5px rgba(0,0,0,0.5);
         border: 10px solid #fff;
-        transform: rotate(2deg);
+        // transform: rotate(2deg);
         text-decoration: none;
         color: inherit;
         font-size: (13/16)*1em;
