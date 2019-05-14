@@ -182,6 +182,10 @@ $font_family_1: "flexslider-icon";
 			display: none;
 			-webkit-backface-visibility: hidden;
 		}
+		>li:first-child {
+			display: block; 
+			-webkit-backface-visibility: visible;
+		}
 		img {
 			width: 100%;
 			display: block;
