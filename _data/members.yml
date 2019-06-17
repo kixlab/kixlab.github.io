@@ -179,6 +179,13 @@ positions:
         career: Research Intern
         img: "juan.jpg"
         site: "https://juanlee.kr"
+        
+      - name: Nikhil Prakash
+        lastName: Prakash
+        email: nikhil07prakash@gmail.com
+        career: Research Intern
+        img: "Nikhil.jpg"
+        site: "https://nix07.github.io/"
 
   - positionName: Staff
     positionMembers:
