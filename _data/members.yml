@@ -179,6 +179,13 @@ positions:
         career: Research Intern
         img: "juan.jpg"
         site: "https://juanlee.kr"
+      
+      - name: Taehyeon An
+        lastName: An
+        email: taeohy@kaist.ac.kr
+        career: Research Intern
+        img: "Taehyeon.jpg"
+        site: ""
         
       - name: Nikhil Prakash
         lastName: Prakash
