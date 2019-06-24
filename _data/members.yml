@@ -194,6 +194,13 @@ positions:
         img: "Nikhil.jpg"
         site: "https://nix07.github.io/"
 
+      - name: Yeonsu Kim
+        lastName: Kim
+        email: yeonsu.kim@kaist.ac.kr
+        career: Research Intern
+        img: "yeonsu.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
