@@ -207,6 +207,13 @@ positions:
         career: Research Intern
         img: "cheoljun.jpg"
         site: ""
+        
+      - name: Jaeyoon Song
+        lastName: Song
+        email: song@jaeyoon.io
+        career: Research Intern
+        img: "jaeyoon.jpg"
+        site: "https://jaeyoon.io"
 
   - positionName: Staff
     positionMembers:
@@ -221,14 +228,6 @@ positions:
 
   - positionName: Alumni
     positionMembers:
-      - name: Jaeyoon Song
-        lastName: Song
-        email: song@jaeyoon.io
-        career: Research Intern
-        img: "jaeyoon.jpg"
-        site: "https://jaeyoon.io"
-        period: Winter 2019
-        leavingDate: 2019.02.22
 
       - name: Keon Lee
         lastName: Lee
