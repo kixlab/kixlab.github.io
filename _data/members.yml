@@ -201,6 +201,13 @@ positions:
         img: "yeonsu.jpg"
         site: ""
 
+      - name: Cheoljun Cho
+        lastName: Cho
+        email: cjfwndnsl@gmail.com
+        career: Research Intern
+        img: "cheoljun.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
