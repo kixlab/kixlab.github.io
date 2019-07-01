@@ -214,7 +214,14 @@ positions:
         career: Research Intern
         img: "jaeyoon.jpg"
         site: "https://jaeyoon.io"
-
+        
+      - name: Yejun Kim
+        lastName: Kim
+        email: yejun.carl.kim@gmail.com
+        career: Research Intern
+        img: "yejun.jpg"
+        site: ""
+        
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
