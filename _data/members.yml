@@ -83,14 +83,7 @@ positions:
         career: M.S. Student
         img: kyungje.jpg
         site: "http://kyungjejo.com"
-        video: "Cs8CSz3-MK0"
-
-      - name: Evey Huang
-        lastName: Huang
-        email: jiaxinh.evey@gmail.com
-        career: Research Intern
-        img: evey.jpg
-        site: "https://eveyhuang.myportfolio.com"
+        # video: "Cs8CSz3-MK0"
 
       - name: Naher Jibon
         lastname: Jibon
@@ -138,13 +131,6 @@ positions:
         img: "taesoo.jpg"
         site: ""
 
-      - name: Hyoungwook Jin
-        lastName: Jin
-        email: hyoungwookjin12@kaist.ac.kr
-        career: Research Intern
-        img: "hyoungwook.jpg"
-        site: ""
-
       - name: Changyoon Lee
         lastName: Lee
         email: cyoon47@kaist.ac.kr
@@ -165,20 +151,6 @@ positions:
         career: Research Intern
         img: "hyeonggeun.jpg"
         site: "https://www.harooo.com/terminal"
-
-      - name: Sunwoo Kwon
-        lastName: Kwon
-        email: swkwon.john@gmail.com
-        career: Research Intern
-        img: "sunwoo.jpg"
-        site: ""
-
-      - name: Juan Lee
-        lastName: Lee
-        email: juanlee@kaist.ac.kr
-        career: Research Intern
-        img: "juan.jpg"
-        site: "https://juanlee.kr"
       
       - name: Taehyeon An
         lastName: An
@@ -235,6 +207,51 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Evey Huang
+        lastName: Huang
+        email: jiaxinh.evey@gmail.com
+        career: Research Intern
+        img: evey.jpg
+        site: "https://eveyhuang.myportfolio.com"
+        period: Summer 2018 - Spring 2019
+        leavingDate: 2019.06.18
+      
+      - name: Mathias Sixten Pedersen
+        lastName: Pedersen
+        email: msixten@kaist.ac.kr
+        career: M.S. Student
+        img:
+        site:
+        period: Winter 2019 - Spring 2019
+        leavingDate: 2019.06.18
+    
+      - name: Hyoungwook Jin
+        lastName: Jin
+        email: hyoungwookjin12@kaist.ac.kr
+        career: Research Intern
+        img: "hyoungwook.jpg"
+        site: ""
+        period: Winter 2018 - Spring 2019
+        leavingDate: 2019.05.31
+      
+      - name: Juan Lee
+        lastName: Lee
+        email: juanlee@kaist.ac.kr
+        career: Research Intern
+        img: "juan.jpg"
+        site: "https://juanlee.kr"
+        period: Winter 2019 - Spring 2019
+        leavingDate: 2019.05.31
+
+      - name: Sunwoo Kwon
+        lastName: Kwon
+        email: swkwon.john@gmail.com
+        career: Research Intern
+        img: "sunwoo.jpg"
+        site: ""
+        period: Winter 2019 - Spring 2019
+        leavingDate: 2019.05.31
 
       - name: Keon Lee
         lastName: Lee
