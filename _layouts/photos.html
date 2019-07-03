@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1 class="page-title">{{page.title}}</h1>
+
+<div class="group-picture-past grid-2">
+    {% for photo in site.data.groupphotos.photos %}
+    <div class="entry-item">
+        <a href="/assets/img/members/{{photo.filename}}.jpg" class="photo">
+            <img
+            src="{{ site.baseurl }}/assets/img/members/{{photo.filename}}.jpg"
+            alt="Photo of KIXLAB group, {{photo.description}}"
+            />
+            <span class="caption">{{photo.description}}</span>
+        </a>
+    </div>
+    {% endfor %}
+</div>
