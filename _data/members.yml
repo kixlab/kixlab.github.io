@@ -201,6 +201,13 @@ positions:
         img: "yejun.jpg"
         site: ""
 
+      - name: Jimmy Wei
+        lastName: Wei
+        email: chiehmin.wei@gmail.com
+        career: Research Intern
+        img: "jimmy.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
