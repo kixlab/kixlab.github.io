@@ -201,6 +201,13 @@ positions:
         img: "yejun.jpg"
         site: ""
 
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: Research Intern
+        img : "haesoo.png"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
