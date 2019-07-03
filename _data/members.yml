@@ -120,6 +120,13 @@ positions:
         img: "hoon.jpg"
         site: "https://www.hoonhan.io"
 
+      - name: Toni-Jan Keith
+        lastName: Monserrat
+        email: tpmonserrat@up.edu.ph
+        career: Visiting Ph.D. Student
+        img: "tjmonsi.jpg"
+
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
@@ -151,14 +158,14 @@ positions:
         career: Research Intern
         img: "hyeonggeun.jpg"
         site: "https://www.harooo.com/terminal"
-      
+
       - name: Taehyeon An
         lastName: An
         email: taeohy@kaist.ac.kr
         career: Research Intern
         img: "Taehyeon.jpg"
         site: ""
-        
+
       - name: Nikhil Prakash
         lastName: Prakash
         email: nikhil07prakash@gmail.com
@@ -179,21 +186,21 @@ positions:
         career: Research Intern
         img: "cheoljun.jpg"
         site: ""
-        
+
       - name: Jaeyoon Song
         lastName: Song
         email: song@jaeyoon.io
         career: Research Intern
         img: "jaeyoon.jpg"
         site: "https://jaeyoon.io"
-        
+
       - name: Yejun Kim
         lastName: Kim
         email: yejun.carl.kim@gmail.com
         career: Research Intern
         img: "yejun.jpg"
         site: ""
-        
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
@@ -217,7 +224,7 @@ positions:
         period: Summer 2018 - Spring 2019
         leavingDate: 2019.06.18
         now: Ph.D. at Northwestern University
-      
+
       - name: Mathias Sixten Pedersen
         lastName: Pedersen
         email: msixten@kaist.ac.kr
@@ -226,7 +233,7 @@ positions:
         site: ""
         period: Winter 2019 - Spring 2019
         leavingDate: 2019.06.18
-    
+
       - name: Hyoungwook Jin
         lastName: Jin
         email: hyoungwookjin12@kaist.ac.kr
@@ -235,7 +242,7 @@ positions:
         site: ""
         period: Winter 2018 - Spring 2019
         leavingDate: 2019.05.31
-      
+
       - name: Juan Lee
         lastName: Lee
         email: juanlee@kaist.ac.kr
