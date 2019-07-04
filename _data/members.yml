@@ -70,13 +70,6 @@ positions:
         img: "hyunwoo.png"
         site: "http://hyunwoo.me"
 
-      - name: Arti Thakur
-        lastName: Thakur
-        email: athakur36@gmail.com
-        career: Research Intern
-        img: arti.JPG
-        site: "https://sites.google.com/view/artithakur"
-
       - name: Kyung Je Jo
         lastName: Jo
         email: kyungjejo@kaist.ac.kr
@@ -222,6 +215,16 @@ positions:
   - positionName: Alumni
     positionMembers:
 
+      - name: Arti Thakur
+        lastName: Thakur
+        email: athakur36@gmail.com
+        career: Research Intern
+        img: arti.JPG
+        site: "https://sites.google.com/view/artithakur"
+        period: Fall 2017 - Spring 2019
+        leavingDate: 2019.06.30
+        now: Ph.D. Student @ UC Davis
+
       - name: Evey Huang
         lastName: Huang
         email: jiaxinh.evey@gmail.com
@@ -230,7 +233,7 @@ positions:
         site: "https://eveyhuang.myportfolio.com"
         period: Summer 2018 - Spring 2019
         leavingDate: 2019.06.18
-        now: Ph.D. at Northwestern University
+        now: Ph.D. Student @ Northwestern University
 
       - name: Mathias Sixten Pedersen
         lastName: Pedersen
@@ -267,6 +270,7 @@ positions:
         site: ""
         period: Winter 2019 - Spring 2019
         leavingDate: 2019.05.31
+        now: MS Student @ KAIST Graduate School of AI
 
       - name: Keon Lee
         lastName: Lee
@@ -285,7 +289,7 @@ positions:
         site: "https://hyeungshikjung.com"
         period: Summer 2016 - Winter 2019
         leavingDate: 2019.02.15
-        now: Software Engineer @ Naver
+        now: Software Engineer @ NAVER
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2019-hyeungshik.pdf"
@@ -298,7 +302,7 @@ positions:
         site: https://istd.sutd.edu.sg/people/faculty/simon-perrault
         period: Summer 2018 - Fall 2018
         leavingDate: 2018.12.31
-        now: Assistant Professor at Singapore University of Technology and Design
+        now: Assistant Professor @ Singapore University of Technology and Design
 
       - name: Seongho Park
         lastName: Park
@@ -317,7 +321,7 @@ positions:
         site: "http://janetyc.github.io"
         period: Summer 2018 - Fall 2018
         leavingDate: 2018.11.30
-        now: Postdoc at Eindhoven University of Technology
+        now: Postdoc @ Eindhoven University of Technology
 
       - name: Hyuntak Cha
         lastName: Cha
@@ -327,6 +331,7 @@ positions:
         site: "http://hyuntak.com"
         period: Summer 2018
         leavingDate: 2018.08.24
+        now: MS Student @ KAIST Graduate School of AI
 
       - name: Rachel Kwak
         lastName: Kwak
@@ -431,7 +436,7 @@ positions:
         site: "https://jonghyuk.info/"
         period: Spring 2017–Fall 2017
         leavingDate: 2017.10.30
-        now: UX designer @ Devsisters
+        now: UX Designer @ Devsisters
 
       - name: Jooyoung Lee
         lastName: Lee
@@ -450,7 +455,7 @@ positions:
         site: ""
         period: Summer 2017
         leavingDate: 2017.08.25
-        now: MS student @ EPFL
+        now: MS Student @ EPFL
       - name: Suhwan Jee
         lastName: Jee
         email: jsh56son@kaist.ac.kr
@@ -496,7 +501,7 @@ positions:
         site: ""
         period: Fall 2016–Winter 2017
         leavingDate: 2017.02.28
-        now: MS student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
+        now: MS Student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
 
       - name: Jaesung Huh
         lastName: Huh
@@ -525,7 +530,7 @@ positions:
         site: ""
         period: Summer 2016–Fall 2016
         leavingDate: 2016.12.31
-        now: MS student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
+        now: MS Student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
 
       - name: Hyungwoo Kim
         lastName: Kim
@@ -553,7 +558,7 @@ positions:
         site: ""
         period: Fall 2016–Spring 2017
         leavingDate: 2017.06.30
-        now: MS student @ NTHU
+        now: MS Student @ NTHU
 
       - name: Taekyung Park
         lastName: Park
@@ -573,24 +578,24 @@ positions:
         site: ""
         period: Summer 2016–Fall 2016
         leavingDate: 2016.12.31
-        now: MS student @ KAIST Business School
+        now: MS Student @ KAIST Business School
 
       - name: Soya Park
         lastName: Park
         email: soya@kaist.ac.kr
         career: Undergrad Intern (KAIST)
         img: soya2.jpg
-        site: "https://soyapark45.github.io/soya/"
+        site: "https://people.csail.mit.edu/soya/"
         period: Fall 2016–Winter 2017
         leavingDate: 2017.02.28
-        now: Ph.D. student @ MIT
+        now: Ph.D. Student @ MIT
 
       - name: Juho Sun
         lastName: Sun
         email: soju@kaist.ac.kr
         career: Undergrad Intern (KAIST)
         img: juhosun.png
-        site: "http://juhojuho.com"
+        site: ""
         period: Fall 2016
         leavingDate: 2016.12.31
         now: Founder @ <a href="https://meanit.me/">MeanIt</a>
