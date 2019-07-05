@@ -15,6 +15,17 @@ types:
   - journal
 
 papers:
+  - title:
+    author: "_Kyung Je Jo_, _Hyeonggeun Yun_, _Juho Kim_"
+    venue: "Learning @ Scale 2019 (Work-in-Progress)"
+    year: 2019
+    topics:
+      - learning
+    type: poster
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2019/l@s2019-FSIST-poster.pdf"
+
   - title: "User-Centered Graphical Models of Interaction"
     author: "_Minsuk Chang_, _Juho Kim_"
     venue: "CHI 2019 Workshop on Computational Modeling in Human-Computer Interaction (to appear)"
