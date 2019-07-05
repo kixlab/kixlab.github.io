@@ -78,8 +78,8 @@ positions:
         site: "http://kyungjejo.com"
         # video: "Cs8CSz3-MK0"
 
-      - name: Naher Jibon
-        lastname: Jibon
+      - name: Jibon Naher
+        lastname: Naher
         email: jibon.naher09@gmail.com
         career: M.S. Student
         img: Jibon.jpg
@@ -194,6 +194,14 @@ positions:
         img: "yejun.jpg"
         site: ""
 
+
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: Research Intern
+        img : "haesoo.png"
+        site: ""
+
       - name: Jimmy Wei
         lastName: Wei
         email: chiehmin.wei@gmail.com
@@ -247,7 +255,7 @@ positions:
       - name: Hyoungwook Jin
         lastName: Jin
         email: hyoungwookjin12@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "hyoungwook.jpg"
         site: ""
         period: Winter 2018 - Spring 2019
@@ -256,7 +264,7 @@ positions:
       - name: Juan Lee
         lastName: Lee
         email: juanlee@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "juan.jpg"
         site: "https://juanlee.kr"
         period: Winter 2019 - Spring 2019
@@ -265,17 +273,17 @@ positions:
       - name: Sunwoo Kwon
         lastName: Kwon
         email: swkwon.john@gmail.com
-        career: Research Intern
+        career: Undergrad Intern (CAU)
         img: "sunwoo.jpg"
         site: ""
         period: Winter 2019 - Spring 2019
         leavingDate: 2019.05.31
-        now: MS Student @ KAIST Graduate School of AI
+        now: M.S. Student @ KAIST Graduate School of AI
 
       - name: Keon Lee
         lastName: Lee
         email: rjsdlwwkd@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "keon.jpg"
         site: ""
         period: Winter 2019
@@ -331,7 +339,7 @@ positions:
         site: "http://hyuntak.com"
         period: Summer 2018
         leavingDate: 2018.08.24
-        now: MS Student @ KAIST Graduate School of AI
+        now: M.S. Student @ KAIST Graduate School of AI
 
       - name: Rachel Kwak
         lastName: Kwak
@@ -418,7 +426,7 @@ positions:
         site: ""
         period: Summer 2017–Fall 2017
         leavingDate: 2017.12.31
-        now: Software Engineer @ Naver
+        now: Software Engineer @ NAVER
       - name: Beomsu Kim
         lastName: Kim
         email: 3141kbs@kaist.ac.kr
@@ -455,7 +463,7 @@ positions:
         site: ""
         period: Summer 2017
         leavingDate: 2017.08.25
-        now: MS Student @ EPFL
+        now: M.S. Student @ EPFL
       - name: Suhwan Jee
         lastName: Jee
         email: jsh56son@kaist.ac.kr
@@ -501,7 +509,7 @@ positions:
         site: ""
         period: Fall 2016–Winter 2017
         leavingDate: 2017.02.28
-        now: MS Student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
+        now: M.S. Student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
 
       - name: Jaesung Huh
         lastName: Huh
@@ -511,7 +519,7 @@ positions:
         site: ""
         period: Winter 2017
         leavingDate: 2017.02.28
-        now: Research Engineer @ Naver
+        now: Research Engineer @ NAVER
 
       - name: Deokseong Kim
         lastName: Kim
@@ -530,7 +538,7 @@ positions:
         site: ""
         period: Summer 2016–Fall 2016
         leavingDate: 2016.12.31
-        now: MS Student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
+        now: M.S. Student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
 
       - name: Hyungwoo Kim
         lastName: Kim
@@ -558,7 +566,7 @@ positions:
         site: ""
         period: Fall 2016–Spring 2017
         leavingDate: 2017.06.30
-        now: MS Student @ NTHU
+        now: M.S. Student @ NTHU
 
       - name: Taekyung Park
         lastName: Park
@@ -578,7 +586,7 @@ positions:
         site: ""
         period: Summer 2016–Fall 2016
         leavingDate: 2016.12.31
-        now: MS Student @ KAIST Business School
+        now: M.S. Student @ KAIST Business School
 
       - name: Soya Park
         lastName: Park
