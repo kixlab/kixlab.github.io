@@ -254,10 +254,10 @@ positions:
 
       - name: Hyoungwook Jin
         lastName: Jin
-        email: hyoungwookjin12@kaist.ac.kr
+        email: jinhw@kaist.ac.kr
         career: Undergrad Intern (KAIST)
         img: "hyoungwook.jpg"
-        site: ""
+        site: "https://jhw123.github.io"
         period: Winter 2018 - Spring 2019
         leavingDate: 2019.05.31
 
