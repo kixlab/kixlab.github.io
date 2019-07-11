@@ -193,6 +193,13 @@ positions:
         career: Research Intern
         img: "yejun.jpg"
         site: ""
+
+      - name: Jeongyeon Kim
+        lastName: Kim
+        email: imurs4825@gmail.com
+        career: Research Intern
+        img: "jeongyeon.jpg"
+        site: ""
         
   - positionName: Staff
     positionMembers:
