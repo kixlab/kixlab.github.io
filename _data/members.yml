@@ -331,6 +331,16 @@ positions:
         leavingDate: 2018.11.30
         now: Postdoc @ Eindhoven University of Technology
 
+     - name: Ray Hong
+        lastName: Hong
+        email: rh3003@nyu.edu
+        career: Visiting Researcher (UW)
+        img: arti.JPG
+        site: "http://rayhong.net/"
+        period: Summer 2017, Summer 2018
+        leavingDate: 2018.08.31
+        now: Postdoc at NYU
+
       - name: Hyuntak Cha
         lastName: Cha
         email: chaht01@gmail.com
