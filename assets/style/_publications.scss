@@ -24,6 +24,12 @@
     .title {
         font-weight: bold;
     }
+
+    .year {
+        font-size: 130%;
+        margin: 20px 0 8px -20px;
+        color: $color-darkgray;
+    }
 }
 
 .filter-labels {
