@@ -7,10 +7,10 @@
 }
 /* Generate CSS filter rules */
 {% for topic in site.data.publications.topics %}
-#category-{{topic}}:checked ~ .publications > :not(.category-{{topic}}),
+#category-{{topic}}:checked ~ .publications > li:not(.category-{{topic}}),
 {% endfor %}
 {% for type in site.data.publications.types %}
-#type-{{type}}:checked ~ .publications > :not(.type-{{type}}),
+#type-{{type}}:checked ~ .publications > li:not(.type-{{type}}),
 {% endfor %}
 dummy
 {
