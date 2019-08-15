@@ -119,6 +119,9 @@ dummy
                 {% for material in paper.materials %}
                 <a href="{{material.url}}" class="material">{{ material.label }}</a>
                 {% endfor %}
+                {% if paper.link == "" or paper.link == undefined or paper.link == "<add link to your paper>" %}
+                    <span>(to appear)</span>
+                {% endif %}
             </div>
         </li>
     {% endfor %}
