@@ -20,7 +20,7 @@ papers:
     venue: "CSCW 2019"
     year: 2019
     topics:
-      - crowdsourcing
+      - visualization
     type: conference
     materials:
     award: ""
@@ -37,6 +37,16 @@ papers:
     award: ""
     link: ""
 
+  - title: "Data Structures for Designing Interactions with Contextual Task Support"
+    author: "Minsuk Chang"
+    venue: "UIST 2019 Doctoral Symposium"
+    year: 2019
+    topics:
+      - datamining
+    type: ""
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2019/uist2019-docsym-ds-paper.pdf"
 
   - title: "Supporting Instruction of Formulaic Sequences Using Videos at Scale"
     author: "_Kyung Je Jo_, _Hyeonggeun Yun_, _Juho Kim_"
