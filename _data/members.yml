@@ -113,12 +113,6 @@ positions:
         img: "hoon.jpg"
         site: "https://www.hoonhan.io"
 
-      - name: Toni-Jan Keith
-        lastName: Monserrat
-        email: tpmonserrat@up.edu.ph
-        career: Visiting Ph.D. Student
-        img: "tjmonsi.jpg"
-
 
   ## ---------------Undergraduates--------------------
 
@@ -138,75 +132,11 @@ positions:
         img: "changyoon.jpg"
         site: ""
 
-      - name: Nyoungwoo Lee
-        lastName: Lee
-        email: leenw2@kaist.ac.kr
-        career: Research Intern
-        img: "nyoungwoo.jpg"
-        site: ""
-
-      - name: Hyeonggeun Yun
-        lastName: Yun
-        email: yhg8423@gmail.com
-        career: Research Intern
-        img: "hyeonggeun.jpg"
-        site: "https://www.harooo.com/terminal"
-
       - name: Taehyeon An
         lastName: An
         email: taeohy@kaist.ac.kr
         career: Research Intern
         img: "Taehyeon.jpg"
-        site: ""
-
-      - name: Nikhil Prakash
-        lastName: Prakash
-        email: nikhil07prakash@gmail.com
-        career: Research Intern
-        img: "Nikhil.jpg"
-        site: "https://nix07.github.io/"
-
-      - name: Yeonsu Kim
-        lastName: Kim
-        email: yeonsu.kim@kaist.ac.kr
-        career: Research Intern
-        img: "yeonsu.jpg"
-        site: ""
-
-      - name: Cheoljun Cho
-        lastName: Cho
-        email: cjfwndnsl@gmail.com
-        career: Research Intern
-        img: "cheoljun.jpg"
-        site: ""
-
-      - name: Jaeyoon Song
-        lastName: Song
-        email: song@jaeyoon.io
-        career: Research Intern
-        img: "jaeyoon.jpg"
-        site: "https://jaeyoon.io"
-
-      - name: Yejun Kim
-        lastName: Kim
-        email: yejun.carl.kim@gmail.com
-        career: Research Intern
-        img: "yejun.jpg"
-        site: ""
-
-
-      - name: Haesoo Kim
-        lastName: Kim
-        email: haesoo1108@gmail.com
-        career: Research Intern
-        img : "haesoo.png"
-        site: ""
-
-      - name: Jimmy Wei
-        lastName: Wei
-        email: chiehmin.wei@gmail.com
-        career: Research Intern
-        img: "jimmy.jpg"
         site: ""
       
       - name: Jeongyeon Kim
@@ -229,6 +159,95 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Hyeonggeun Yun
+        lastName: Yun
+        email: yhg8423@gmail.com
+        career: Research Intern
+        img: "hyeonggeun.jpg"
+        site: "https://www.harooo.com/terminal"
+        period: Winter 2019 - Summer 2019
+        leavingDate: 2019.08.30
+
+      - name: Jaeyoon Song
+        lastName: Song
+        email: song@jaeyoon.io
+        career: Research Intern
+        img: "jaeyoon.jpg"
+        site: "https://jaeyoon.io"
+        period: Winter 2019 - Summer 2019
+        leavingDate: 2019.08.30
+
+      - name: Nikhil Prakash
+        lastName: Prakash
+        email: nikhil07prakash@gmail.com
+        career: Research Intern
+        img: "Nikhil.jpg"
+        site: "https://nix07.github.io/"
+        period: Summer 2019
+        leavingDate: 2019.08.02
+
+      - name: Yeonsu Kim
+        lastName: Kim
+        email: yeonsu.kim@kaist.ac.kr
+        career: Research Intern
+        img: "yeonsu.jpg"
+        site: ""
+        period: Summer 2019
+        leavingDate: 2019.08.30
+
+      - name: Cheoljun Cho
+        lastName: Cho
+        email: cjfwndnsl@gmail.com
+        career: Research Intern
+        img: "cheoljun.jpg"
+        site: ""
+        period: Summer 2019
+        leavingDate: 2019.08.16
+
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: Research Intern
+        img : "haesoo.png"
+        site: ""
+        period: Summer 2019
+        leavingDate: 2019.08.30
+
+      - name: Jimmy Wei
+        lastName: Wei
+        email: chiehmin.wei@gmail.com
+        career: Research Intern
+        img: "jimmy.jpg"
+        site: ""
+        period: Summer 2019
+        leavingDate: 2019.08.20
+
+      - name: Nyoungwoo Lee
+        lastName: Lee
+        email: leenw2@kaist.ac.kr
+        career: Research Intern
+        img: "nyoungwoo.jpg"
+        site: ""
+        period: Summer 2018 - Summer 2019
+        leavingDate: 2019.08.30
+
+      - name: Toni-Jan Keith
+        lastName: Monserrat
+        email: tpmonserrat@up.edu.ph
+        career: Visiting Ph.D. Student
+        img: "tjmonsi.jpg"
+        period: Summer 2019
+        leavingDate: 2019.08.16
+
+      - name: Yejun Kim
+        lastName: Kim
+        email: yejun.carl.kim@gmail.com
+        career: Research Intern
+        img: "yejun.jpg"
+        site: ""
+        period: Summer 2019
+        leavingDate: 2019.08.30
+        now: Software Engineer @ Scatter Lab
 
       - name: Arti Thakur
         lastName: Thakur
@@ -267,6 +286,7 @@ positions:
         site: "https://jhw123.github.io"
         period: Winter 2018 - Spring 2019
         leavingDate: 2019.05.31
+        now: Software Engineer @ VCNC
 
       - name: Juan Lee
         lastName: Lee
@@ -408,6 +428,7 @@ positions:
         site: "http://jiyounha.com"
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
+        now: Software Engineer @ Google
 
       - name: Hyunjong Lee
         lastName: Lee
@@ -417,6 +438,7 @@ positions:
         site: "https://hyunjongl.github.io/"
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
+        now: M.S. Student @ KAIST
 
       - name: Mercedes Huertas
         lastName: Huertas
