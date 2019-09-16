@@ -146,6 +146,13 @@ positions:
         img: "jeongyeon.jpg"
         site: ""
 
+      - name: Jeongeon Park
+        lastName: Park
+        email: "patricia021912@kaist.ac.kr"
+        career: Research Intern
+        img: "jeongeon.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
