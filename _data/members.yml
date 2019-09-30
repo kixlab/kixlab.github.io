@@ -112,6 +112,13 @@ positions:
         career: M.S. Student
         img: "hoon.jpg"
         site: "https://www.hoonhan.io"
+        
+      - name: Jisoo Lee 
+        lastName: Lee
+        email: "jisoolee@kaist.ac.kr"
+        career: Research Intern
+        img: "jisoo.jpg"
+        site: "https://jisoolee0123.github.io"
 
 
   ## ---------------Undergraduates--------------------
@@ -152,13 +159,6 @@ positions:
         career: Research Intern
         img: "jeongeon.jpg"
         site: ""
-        
-      - name: Jisoo Lee 
-        lastName: Lee
-        email: "jisoolee@kaist.ac.kr"
-        career: Research Intern
-        img: "jisoo.jpg"
-        site: "https://jisoolee0123.github.io"
 
   - positionName: Staff
     positionMembers:
