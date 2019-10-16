@@ -24,7 +24,7 @@ papers:
     type: conference
     materials:
     award: ""
-    link: ""
+    link: "https://www.kixlab.org/files/2019/cscw2019-ComeTogether-paper.pdf"
 
   - title: "Efficient Elicitation Approaches to Estimate Collective Crowd Answers"
     author: "_John Joon Young Chung_, _Jean Y. Song_, _Sindhu Kutty_, _Sungsoo (Ray) Hong_, _Juho Kim_, _Walter S. Lasecki_"
@@ -34,8 +34,10 @@ papers:
       - crowdsourcing
     type: conference
     materials:
-    award: ""
-    link: ""
+      - label: "blog post"
+        url: "https://medium.com/acm-cscw/efficient-elicitation-approaches-to-estimate-collective-crowd-answers-bd4c9adddb18"
+    award: "Best Paper Honorable Mention Award"
+    link: "https://www.kixlab.org/files/2019/cscw2019-ManyThoughts-paper.pdf"
 
   - title: "Data Structures for Designing Interactions with Contextual Task Support"
     author: "Minsuk Chang"
