@@ -17,7 +17,7 @@ types:
 papers:
   - title: "You are How You Behave in Your Group: Predicting Personality via Behaviors in a Co-located Group"
     author: "_Seoyoung Kim_, _Arti Thakur_, _Juho Kim_"
-    venue: "CSCW 2019"
+    venue: "CSCW 2019 Workshop on Learning from Team and Group Diversity"
     year: 2019
     topics:
       - datamining
