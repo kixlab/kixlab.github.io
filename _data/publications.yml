@@ -15,6 +15,17 @@ types:
   - journal
 
 papers:
+  - title: "You are How You Behave in Your Group: Predicting Personality via Behaviors in a Co-located Group"
+    author: "_Seoyoung Kim_, _Arti Thakur_, _Juho Kim_"
+    venue: "CSCW 2019"
+    year: 2019
+    topics:
+      - datamining
+    type: workshop
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2019/cscw2019-workshop-APA-paper.pdf"
+
   - title: "Design for Collaborative Information-Seeking: Understanding User Challenges and Deploying ComeTogether Using Collaborative Dynamic Queries"
     author: "_Sungsoo (Ray) Hong_, _Minhyang (Mia) Suh_, _Tae Soo Kim_, _Irina Smoke_, _Sang-Wha Sien_, _Janet Ng_, _Mark Zachry_, _Juho Kim_"
     venue: "CSCW 2019"
