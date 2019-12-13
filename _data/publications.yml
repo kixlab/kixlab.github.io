@@ -27,7 +27,7 @@ papers:
     link: "https://www.kixlab.org/files/2019/cscw2019-workshop-APA-paper.pdf"
 
   - title: "Improving Users’ Algorithmic Understandability and Trust in Content Moderation"
-    author: "_Jibon Naher_, _Taehyeon An_, _Nitesh Goyal_, _Juho Kim_" 
+    author: "_Jibon Naher_, _Taehyeon An_, _Juho Kim_" 
     venue: "CSCW 2019 Workshop on Contestability In Algorithmic Decision Making"
     year: 2019
     topics:
