@@ -66,9 +66,9 @@ positions:
       - name: Hyunwoo Kim
         lastName: Kim
         email: khw0726@kaist.ac.kr
-        career: M.S. Student
+        career: Ph. D. Student
         img: "hyunwoo.png"
-        site: "http://hyunwoo.me"
+        site: "https://hyunwoo.me"
 
       - name: Kyung Je Jo
         lastName: Jo
