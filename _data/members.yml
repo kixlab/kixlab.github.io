@@ -167,6 +167,13 @@ positions:
         img: "minakim.jpg"
         site: "https://coder-mina.github.io/"
 
+      - name: Sally
+        lastName: Chen
+        email: "sally_chen@brown.edu"
+        career: Research Intern
+        img: "sallychen.jpg"
+        site: "https://www.sallychen.me"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
