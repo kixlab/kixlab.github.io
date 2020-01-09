@@ -36,8 +36,8 @@ positions:
 
       - name: Jean Young Song
         lastName: Song
-        email: jyskwon@umich.edu
-        career: Visiting Ph.D. Student
+        email: jyskwon@kaist.ac.kr
+        career: Research Assistant Professor
         img: profile_jean.jpg
         site: https://jyskwon.github.io/
 
@@ -112,8 +112,8 @@ positions:
         career: M.S. Student
         img: "hoon.jpg"
         site: "https://www.hoonhan.io"
-        
-      - name: Jisoo Lee 
+
+      - name: Jisoo Lee
         lastName: Lee
         email: "jisoolee@kaist.ac.kr"
         career: Research Intern
@@ -145,7 +145,7 @@ positions:
         career: Research Intern
         img: "Taehyeon.jpg"
         site: ""
-      
+
       - name: Jeongyeon Kim
         lastName: Kim
         email: "imurs34@kaist.ac.kr"
@@ -159,7 +159,7 @@ positions:
         career: Research Intern
         img: "jeongeon.jpg"
         site: ""
-      
+
       - name: Min A Kim
         lastName: Kim
         email: "home537@kaist.ac.kr"
