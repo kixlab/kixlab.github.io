@@ -15,6 +15,14 @@ positions:
         img: juhokim.jpg
         site: http://juhokim.com/
 
+
+      - name: Jean Young Song
+        lastName: Song
+        email: jyskwon@kaist.ac.kr
+        career: Research Assistant Professor
+        img: profile_jean.jpg
+        site: https://jyskwon.github.io/        
+
   ## --------------Graduate Students and Researchers ------------------
 
   - positionName: Graduate Students and Researchers
@@ -33,13 +41,6 @@ positions:
         career: Ph.D. Student
         img: sclee.png
         site: ""
-
-      - name: Jean Young Song
-        lastName: Song
-        email: jyskwon@kaist.ac.kr
-        career: Research Assistant Professor
-        img: profile_jean.jpg
-        site: https://jyskwon.github.io/
 
       - name: Eunyoung Ko
         lastName: Ko
@@ -139,13 +140,6 @@ positions:
         img: "changyoon.jpg"
         site: ""
 
-      - name: Taehyeon An
-        lastName: An
-        email: taeohy@kaist.ac.kr
-        career: Research Intern
-        img: "Taehyeon.jpg"
-        site: ""
-
       - name: Jeongyeon Kim
         lastName: Kim
         email: "imurs34@kaist.ac.kr"
@@ -187,6 +181,15 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Taehyeon An
+        lastName: An
+        email: taeohy@kaist.ac.kr
+        career: Research Intern
+        img: "Taehyeon.jpg"
+        site: ""
+        period: Summer 2019 - Fall 2019
+        leavingDate: 2019.12.31
+
       - name: Hyeonggeun Yun
         lastName: Yun
         email: yhg8423@gmail.com
@@ -260,7 +263,7 @@ positions:
         leavingDate: 2019.08.30
         now: Software Engineer @ Scatter Lab
 
-      - name: Toni-Jan Keith
+      - name: Toni-Jan Keith Monserrat
         lastName: Monserrat
         email: tpmonserrat@up.edu.ph
         career: Visiting Ph.D. Student (UPLB)
