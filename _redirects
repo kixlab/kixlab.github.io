@@ -1,3 +1,6 @@
+/courses/cs374-spring-2020 /courses/cs374-spring-2020/index.html 301!
+/courses/cs374-spring-2020/* https://cs374-spring-2020.netlify.com/:splat 200
+
 /courses/cs374-spring-2019 /courses/cs374-spring-2019/index.html 301!
 /courses/cs374-spring-2019/* https://cs374-spring-2019.netlify.com/:splat 200
 
@@ -7,17 +10,17 @@
 /courses/cs374-spring-2017 /courses/cs374-spring-2017/index.html 301!
 /courses/cs374-spring-2017/* https://cs374-spring-2017.netlify.com/:splat 200
 
+/courses/cs473-fall-2019 /courses/cs473-fall-2019/index.html 301!
+/courses/cs473-fall-2019/* https://cs473-fall-2019.netlify.com/:splat 200
+
+/courses/cs473-fall-2018 /courses/cs473-fall-2018/index.html 301!
+/courses/cs473-fall-2018/* https://cs473-fall-2018.netlify.com/:splat 200
+
 /courses/cs492-fall-2017 /courses/cs492-fall-2017/index.html 301!
 /courses/cs492-fall-2017/* https://cs492-fall-2017.netlify.com/:splat 200
 
 /courses/cs492-fall-2016 /courses/cs492-fall-2016/index.html 301!
 /courses/cs492-fall-2016/* https://cs492-fall-2016.netlify.com/:splat 200
-
-/courses/cs473-fall-2018 /courses/cs473-fall-2018/index.html 301!
-/courses/cs473-fall-2018/* https://cs473-fall-2018.netlify.com/:splat 200
-
-/courses/cs473-fall-2019 /courses/cs473-fall-2019/index.html 301!
-/courses/cs473-fall-2019/* https://cs473-fall-2019.netlify.com/:splat 200
 
 /courses/cs408e /courses/cs408e/index.html 301!
 /courses/cs408e/* https://cs408e-spring-2018.netlify.com/:splat 200
@@ -30,9 +33,6 @@
 
 /courses/social /courses/cs473-fall-2019/index.html 301!
 /courses/social/* https://cs473-fall-2019.netlify.com/:splat 200
-
-/courses/cs374 /courses/cs374-spring-2019/index.html 301!
-/courses/cs374/* https://cs374-spring-2019.netlify.com/:splat 200
 
 /courses/cs374 /courses/cs374-spring-2020/index.html 301!
 /courses/cs374/* https://cs374-spring-2020.netlify.com/:splat 200
