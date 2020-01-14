@@ -167,13 +167,6 @@ positions:
         career: Research Intern
         img: "sallychen.jpg"
         site: "https://www.sallychen.me"
-      
-      - name: Mina Huh  
-        lastName: Huh
-        email: "minarainbow@kaist.ac.kr"
-        career: Research Intern
-        img: "minahuh.jpg"
-        site: ""
 
   - positionName: Staff
     positionMembers:
