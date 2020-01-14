@@ -175,6 +175,13 @@ positions:
         img: "minahuh.jpg"
         site: ""
 
+      - name: Nikhil Prakash  
+        lastName: Prakash
+        email: "nikhil07prakash@gmail.com"
+        career: Research Intern
+        img: "Nikhil.jpg"
+        site: "https://nix07.github.io/"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
@@ -214,15 +221,6 @@ positions:
         site: "https://jaeyoon.io"
         period: Winter 2019 - Summer 2019
         leavingDate: 2019.08.30
-
-      - name: Nikhil Prakash
-        lastName: Prakash
-        email: nikhil07prakash@gmail.com
-        career: Undergrad Intern (RV College of Eng.)
-        img: "Nikhil.jpg"
-        site: "https://nix07.github.io/"
-        period: Summer 2019
-        leavingDate: 2019.08.02
 
       - name: Yeonsu Kim
         lastName: Kim
