@@ -147,6 +147,13 @@ positions:
         img: "jeongyeon.jpg"
         site: ""
 
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: Research Intern
+        img : "haesoo.png"
+        site: "http://haesookim.info/"
+
       - name: Jeongeon Park
         lastName: Park
         email: "patricia021912@kaist.ac.kr"
@@ -239,15 +246,6 @@ positions:
         site: ""
         period: Summer 2019
         leavingDate: 2019.08.16
-
-      - name: Haesoo Kim
-        lastName: Kim
-        email: haesoo1108@gmail.com
-        career: Undergrad Intern (SNU)
-        img : "haesoo.png"
-        site: ""
-        period: Summer 2019
-        leavingDate: 2019.08.30
 
       - name: Jimmy Wei
         lastName: Wei
