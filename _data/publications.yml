@@ -15,6 +15,17 @@ types:
   - journal
 
 papers:
+  - title: "Understanding Users’ Perception Towards Automated Personality Detection with Group-specific Behavioral Data"
+    author: "_Seoyoung Kim_, _Arti Thakur_, _Juho Kim_"
+    venue: "CHI 2020"
+    year: 2020
+    topics:
+      - datamining
+    type: conference
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2020/chi2020-APA-paper.pdf"
+
   - title: "Snapstream: Snapshot-based Interaction in Live Streaming for Visual Art"
     author: "_Saelyne Yang_, _Changyoon Lee_, Hijung Valentina Shin, _Juho Kim_"
     venue: "CHI 2020"
