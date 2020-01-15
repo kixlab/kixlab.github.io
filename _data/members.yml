@@ -189,6 +189,13 @@ positions:
         img: "Nikhil.jpg"
         site: "https://nix07.github.io/"
 
+      - name: Eric Doh
+        lastName: Doh
+        email: "ericsunwoodoh@gmail.com"
+        career: Research Intern
+        img: "ericsdoh.jpg"
+        site: "https://www.ericsunwoodoh.myportfolio.com"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
