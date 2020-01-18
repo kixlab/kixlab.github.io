@@ -7,7 +7,7 @@ date: 2020-01-16 00:00:00
 author: Admin
 categories:
 - projects
-img: default.png
+img: 2020-protochat.jpeg
 website: 
 desc: ""
 ---
