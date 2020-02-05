@@ -195,6 +195,13 @@ positions:
         career: Research Intern
         img: "ericsdoh.jpg"
         site: "https://www.ericsunwoodoh.myportfolio.com"
+        
+      - name: Aitolkyn
+        lastName: Baigutanova
+        email: "baiaitolkyn@gmail.com"
+        career: Research Intern
+        img: "aitolkyn.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
