@@ -121,6 +121,12 @@ positions:
         img: "jisoo.jpg"
         site: "https://jisoolee0123.github.io"
 
+      - name: Yoonjoo Lee
+        lastName: Lee
+        email: "yjl7436@gmail.com"
+        career: Research Intern
+        img: "yoonjoo.jpg"
+        site: ""
 
   ## ---------------Undergraduates--------------------
 
@@ -201,13 +207,6 @@ positions:
         email: "baiaitolkyn@gmail.com"
         career: Research Intern
         img: "aitolkyn.jpg"
-        site: ""
-
-      - name: Yoonjoo Lee
-        lastName: Lee
-        email: "yjl7436@gmail.com"
-        career: Research Intern
-        img: "yoonjoo.jpg"
         site: ""
 
   - positionName: Staff
