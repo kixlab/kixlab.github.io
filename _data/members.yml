@@ -203,6 +203,13 @@ positions:
         img: "aitolkyn.jpg"
         site: ""
 
+      - name: Yoonjoo Lee
+        lastName: Lee
+        email: "yjl7436@gmail.com"
+        career: Research Intern
+        img: "yoonjoo.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
