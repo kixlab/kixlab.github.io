@@ -189,7 +189,7 @@ positions:
         period: Summer 2019 - Winter 2020
         leavingDate: 2020.02.29
 
-     - name: Haesoo Kim
+      - name: Haesoo Kim
         lastName: Kim
         email: haesoo1108@gmail.com
         career: Research Intern
@@ -198,7 +198,7 @@ positions:
         period: Summer 2019 - Winter 2020
         leavingDate: 2020.02.29
 
-     - name: Eric Doh
+      - name: Eric Doh
         lastName: Doh
         email: "ericsunwoodoh@gmail.com"
         career: Research Intern
@@ -207,7 +207,7 @@ positions:
         period: Winter 2020
         leavingDate: 2020.02.29
 
-     - name: Min A Kim
+      - name: Min A Kim
         lastName: Kim
         email: "home537@kaist.ac.kr"
         career: Research Intern
