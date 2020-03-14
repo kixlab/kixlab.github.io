@@ -166,6 +166,13 @@ positions:
         career: Research Intern
         img: "aitolkyn.jpg"
         site: ""
+        
+      - name: Hyunchang Oh
+        lastName: Hyunchang
+        email: "hyunchang@kaist.ac.kr"
+        career: Research Intern
+        img: "hyunchang.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
