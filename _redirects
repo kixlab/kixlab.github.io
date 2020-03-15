@@ -16,6 +16,9 @@
 /courses/cs473-fall-2018 /courses/cs473-fall-2018/index.html 301!
 /courses/cs473-fall-2018/* https://cs473-fall-2018.netlify.com/:splat 200
 
+/courses/cs492c-fall-2018 /courses/cs492c-fall-2018/index.html 301!
+/courses/cs492c-fall-2018/* https://i2r.netlify.com/:splat 200
+
 /courses/cs492-fall-2017 /courses/cs492-fall-2017/index.html 301!
 /courses/cs492-fall-2017/* https://cs492-fall-2017.netlify.com/:splat 200
 
@@ -25,8 +28,11 @@
 /courses/cs408e /courses/cs408e/index.html 301!
 /courses/cs408e/* https://cs408e-spring-2018.netlify.com/:splat 200
 
-/courses/i2r /courses/i2r/index.html 301!
-/courses/i2r/* https://i2r.netlify.com/:splat 200
+/courses/cs492d-spring-2020 /courses/cs492d-spring-2020/index.html 301!
+/courses/cs492d-spring-2020/* https://cs492d-spring-2020.netlify.com/:splat 200
+
+/courses/i2r /courses/cs492d-spring-2020/index.html 301!
+/courses/i2r/* https://cs492d-spring-2020.netlify.com/:splat 200
 
 /courses/hci /courses/cs374-spring-2020/index.html 301!
 /courses/hci/* https://cs374-spring-2020.netlify.com/:splat 200

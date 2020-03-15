@@ -121,59 +121,37 @@ positions:
         img: "jisoo.jpg"
         site: "https://jisoolee0123.github.io"
 
+      - name: Yoonjoo Lee
+        lastName: Lee
+        email: "yjl7436@gmail.com"
+        career: Research Intern
+        img: "yoonjoo.jpg"
+        site: ""
 
-  ## ---------------Undergraduates--------------------
-
-  - positionName: Undergraduate Students
-    positionMembers:
       - name: Tae Soo Kim
         lastName: Kim
         email: kimts0830@gmail.com
-        career: Research Intern
+        career: M.S. Student
         img: "taesoo.jpg"
-        site: ""
-
-      - name: Changyoon Lee
-        lastName: Lee
-        email: cyoon47@kaist.ac.kr
-        career: Research Intern
-        img: "changyoon.jpg"
         site: ""
 
       - name: Jeongyeon Kim
         lastName: Kim
         email: "imurs34@kaist.ac.kr"
-        career: Research Intern
+        career: M.S. Student
         img: "jeongyeon.jpg"
         site: ""
 
-      - name: Haesoo Kim
-        lastName: Kim
-        email: haesoo1108@gmail.com
-        career: Research Intern
-        img : "haesoo.png"
-        site: "http://haesookim.info/"
+  ## ---------------Undergraduates--------------------
 
+  - positionName: Undergraduate Students
+    positionMembers:
       - name: Jeongeon Park
         lastName: Park
         email: "patricia021912@kaist.ac.kr"
         career: Research Intern
         img: "jeongeon.jpg"
         site: ""
-
-      - name: Min A Kim
-        lastName: Kim
-        email: "home537@kaist.ac.kr"
-        career: Research Intern
-        img: "minakim.jpg"
-        site: "https://coder-mina.github.io/"
-
-      - name: Sally Chen
-        lastName: Chen
-        email: "sally_chen@brown.edu"
-        career: Research Intern
-        img: "sallychen.jpg"
-        site: "https://www.sallychen.me"
       
       - name: Mina Huh  
         lastName: Huh
@@ -181,20 +159,20 @@ positions:
         career: Research Intern
         img: "minahuh.jpg"
         site: ""
-
-      - name: Nikhil Prakash  
-        lastName: Prakash
-        email: "nikhil07prakash@gmail.com"
+        
+      - name: Aitolkyn Baigutanova
+        lastName: Baigutanova
+        email: "baiaitolkyn@gmail.com"
         career: Research Intern
-        img: "Nikhil.jpg"
-        site: "https://nix07.github.io/"
-
-      - name: Eric Doh
-        lastName: Doh
-        email: "ericsunwoodoh@gmail.com"
+        img: "aitolkyn.jpg"
+        site: ""
+        
+      - name: Hyunchang Oh
+        lastName: Hyunchang
+        email: "hyunchang@kaist.ac.kr"
         career: Research Intern
-        img: "ericsdoh.jpg"
-        site: "https://www.ericsunwoodoh.myportfolio.com"
+        img: "hyunchang.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
@@ -209,6 +187,60 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Nikhil Prakash  
+        lastName: Prakash
+        email: "nikhil07prakash@gmail.com"
+        career: Research Intern
+        img: "Nikhil.jpg"
+        site: "https://nix07.github.io/"
+        period: Summer 2019 - Winter 2020
+        leavingDate: 2020.02.29
+
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: Research Intern
+        img : "haesoo.png"
+        site: "http://haesookim.info/"
+        period: Summer 2019 - Winter 2020
+        leavingDate: 2020.02.29
+
+      - name: Eric Doh
+        lastName: Doh
+        email: "ericsunwoodoh@gmail.com"
+        career: Research Intern
+        img: "ericsdoh.jpg"
+        site: "https://www.ericsunwoodoh.myportfolio.com"
+        period: Winter 2020
+        leavingDate: 2020.02.29
+
+      - name: Min A Kim
+        lastName: Kim
+        email: "home537@kaist.ac.kr"
+        career: Research Intern
+        img: "minakim.jpg"
+        site: "https://coder-mina.github.io/"
+        period: Winter 2020
+        leavingDate: 2020.02.29
+
+      - name: Sally Chen
+        lastName: Chen
+        email: "sally_chen@brown.edu"
+        career: Research Intern
+        img: "sallychen.jpg"
+        site: "https://www.sallychen.me"
+        period: Winter 2020
+        leavingDate: 2020.02.29
+
+      - name: Changyoon Lee
+        lastName: Lee
+        email: cyoon47@kaist.ac.kr
+        career: Research Intern
+        img: "changyoon.jpg"
+        site: ""
+        period: Summer 2018 - Winter 2020
+        leavingDate: 2020.02.29
+
       - name: Taehyeon An
         lastName: An
         email: taeohy@kaist.ac.kr

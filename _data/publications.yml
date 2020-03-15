@@ -37,6 +37,19 @@ papers:
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-lbw-ProtoChat-poster.pdf"
 
+  - title: "SolutionChat: Real-time Moderator Support for Chat-based Structured Discussion"
+    author: "_Sung-Chul Lee_, _Jaeyoon Song_, _Eun-Young Ko_, _Seongho Park_, _Jihee Kim_, _Juho Kim_"
+    venue: "CHI 2020"
+    year: 2020
+    topics:
+      - civics
+    type: conference
+    materials:
+      - label: "video"
+        url: "https://youtu.be/vGZjtCHOUbc"
+    award: ""
+    link: "https://www.kixlab.org/files/2020/chi2020-SolutionChat-paper.pdf"
+
   - title: "Understanding Users’ Perception Towards Automated Personality Detection with Group-specific Behavioral Data"
     author: "_Seoyoung Kim_, _Arti Thakur_, _Juho Kim_"
     venue: "CHI 2020"
