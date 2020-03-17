@@ -37,6 +37,17 @@ papers:
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-lbw-ProtoChat-poster.pdf"
 
+  - title: "Consensus Building in Collaborative Sequencing with Visual Awareness"
+    author: "_Tae Soo Kim_, _Sungsoo (Ray) Hong_, _Nitesh Goyal_, _Jeongyeon Kim_, _Juho Kim_" 
+    venue: "CHI 2020 Extended Abstracts (Late Breaking Work)"
+    year: 2020
+    topics:
+      - visualization
+    type: poster
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2020/chi2020-lbw-CoSeq-paper.pdf"
+
   - title: "SolutionChat: Real-time Moderator Support for Chat-based Structured Discussion"
     author: "_Sung-Chul Lee_, _Jaeyoon Song_, _Eun-Young Ko_, _Seongho Park_, _Jihee Kim_, _Juho Kim_"
     venue: "CHI 2020"
