@@ -69,6 +69,12 @@ papers:
       - datamining
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3313831.3376250"
+      - label: "video presentation"
+        url: "https://youtu.be/XVSyashgaKY"
+      - label: "video preview"
+        url: "https://youtu.be/zLDqTBXRUbs"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-APA-paper.pdf"
 
