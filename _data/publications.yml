@@ -86,8 +86,14 @@ papers:
       - learning
     type: conference
     materials:
-      - label: "video"
-        url: "https://www.youtube.com/watch?v=x62vzVBD4N4"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3313831.3376390"
+      - label: "video presentation"
+        url: "https://youtu.be/Po6-Q5lJ0QY"
+      - label: "video preview"
+        url: "https://youtu.be/x62vzVBD4N4"
+      - label: "project website"
+        url: "https://saelyne.github.io/snapstream/"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-Snapstream-paper.pdf"
 
