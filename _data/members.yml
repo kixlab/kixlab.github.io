@@ -142,6 +142,13 @@ positions:
         img: "jeongyeon.jpg"
         site: ""
 
+      - name: Taewook Kim
+        lastName: Kim
+        email: "tw.kim@connect.ust.hk"
+        career: Visiting M.Phil Student
+        img: "taewook.jpg"
+        site: "https://hcikim.github.io/"
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
