@@ -155,6 +155,13 @@ positions:
         img: "taewook.jpg"
         site: "https://hcikim.github.io/"
 
+      - name: Eunseo Choi
+        lastName: Choi
+        email: "eschoie97@gmail.com"
+        career: Research Intern
+        img: "eunseo.jpg"
+        site: ""
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
