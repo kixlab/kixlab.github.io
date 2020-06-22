@@ -15,13 +15,12 @@ positions:
         img: juhokim.jpg
         site: http://juhokim.com/
 
-
       - name: Jean Young Song
         lastName: Song
         email: jyskwon@kaist.ac.kr
         career: Research Assistant Professor
         img: profile_jean.jpg
-        site: https://jyskwon.github.io/        
+        site: https://jyskwon.github.io/
 
   ## --------------Graduate Students and Researchers ------------------
 
@@ -77,8 +76,8 @@ positions:
         career: M.S. Student
         img: kyungje.jpg
         site: "http://kyungjejo.com"
-        # video: "Cs8CSz3-MK0"
 
+        # video: "Cs8CSz3-MK0"
       - name: Jibon Naher
         lastname: Naher
         email: jibon.naher09@gmail.com
@@ -142,6 +141,13 @@ positions:
         img: "jeongyeon.jpg"
         site: ""
 
+      - name: Eun Jeong Kang
+        lastName: Kang
+        email: "eunxkang@gmail.com"
+        career: Research Intern
+        img: "eun.jpg"
+        site: "https://ejjjjkang.github.io/"
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
@@ -152,21 +158,21 @@ positions:
         career: Research Intern
         img: "jeongeon.jpg"
         site: ""
-      
-      - name: Mina Huh  
+
+      - name: Mina Huh
         lastName: Huh
         email: "minarainbow@kaist.ac.kr"
         career: Research Intern
         img: "minahuh.jpg"
         site: ""
-        
+
       - name: Aitolkyn Baigutanova
         lastName: Baigutanova
         email: "baiaitolkyn@gmail.com"
         career: Research Intern
         img: "aitolkyn.jpg"
         site: ""
-        
+
       - name: Hyunchang Oh
         lastName: Hyunchang
         email: "hyunchang@kaist.ac.kr"
@@ -187,7 +193,7 @@ positions:
 
   - positionName: Alumni
     positionMembers:
-      - name: Nikhil Prakash  
+      - name: Nikhil Prakash
         lastName: Prakash
         email: "nikhil07prakash@gmail.com"
         career: Research Intern
@@ -200,7 +206,7 @@ positions:
         lastName: Kim
         email: haesoo1108@gmail.com
         career: Research Intern
-        img : "haesoo.png"
+        img: "haesoo.png"
         site: "http://haesookim.info/"
         period: Summer 2019 - Winter 2020
         leavingDate: 2020.02.29
