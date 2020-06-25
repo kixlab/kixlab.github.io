@@ -55,9 +55,15 @@ papers:
     topics:
       - civics
     type: conference
-    materials:
-      - label: "video"
-        url: "https://youtu.be/vGZjtCHOUbc"
+    materials:      
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3313831.3376609"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=fWSUhUEX3BU"
+      - label: "video preview"
+        url: "https://www.youtube.com/watch?v=MzUJzGOQXLI"
+      - label: "project website"
+        url: "http://solutionchat.kixlab.org/"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-SolutionChat-paper.pdf"
 
