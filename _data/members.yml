@@ -194,12 +194,6 @@ positions:
         img: "hyunchang.jpg"
         site: ""
 
-      - name: Seungsu Kim
-        lastName: Kim
-        email: seungsu0407@gmail.com
-        career: Research Intern
-        img: "seungsu.jpg"
-
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
