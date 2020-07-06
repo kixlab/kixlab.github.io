@@ -194,6 +194,13 @@ positions:
         img: "hyunchang.jpg"
         site: ""
 
+      - name: Anchit Tandon
+        lastname: Tandon
+        email: "anchit.tandon.iit.delhi@gmail.com"
+        career: Research Intern
+        img: "anchit.jpg"
+        site: ""
+        
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
