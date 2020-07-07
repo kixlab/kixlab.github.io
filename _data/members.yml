@@ -201,6 +201,14 @@ positions:
         img: "seungsu.jpg"
         site: ""
 
+      - name: Jihyeong Hong
+        lastName: Hong
+        email: z.hyeong@kaist.ac.kr
+        career: Research Intern
+        img: "jihyeong.jpg"
+        site: ""
+
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
