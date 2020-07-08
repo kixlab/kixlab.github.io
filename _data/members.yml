@@ -194,6 +194,13 @@ positions:
         img: "hyunchang.jpg"
         site: ""
         
+      - name: HyeonJeong Ha
+        lastName: Ha
+        email: "guswjd2103@kaist.ac.kr"
+        career: Research Intern
+        img: "hyeonjeong.jpg"
+        site: ""
+        
       - name: Seongha Eom
         lastName: Eom
         email: "seonghaaeom@gmail.com"
