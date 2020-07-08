@@ -193,6 +193,13 @@ positions:
         career: Research Intern
         img: "hyunchang.jpg"
         site: ""
+      
+      - name: Hyerim Lee
+        lastName: Lee
+        email: "hermioneee2@kaist.ac.kr"
+        career: Research Intern
+        img: "hyerim.jpg"
+        site: ""
         
       - name: HyeonJeong Ha
         lastName: Ha
