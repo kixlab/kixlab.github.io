@@ -193,6 +193,20 @@ positions:
         career: Research Intern
         img: "hyunchang.jpg"
         site: ""
+        
+      - name: HyeonJeong Ha
+        lastName: Ha
+        email: "guswjd2103@kaist.ac.kr"
+        career: Research Intern
+        img: "hyeonjeong.jpg"
+        site: ""
+        
+      - name: Seongha Eom
+        lastName: Eom
+        email: "seonghaaeom@gmail.com"
+        career: Research Intern
+        img: "seongha.jpg"
+        site: ""
 
       - name: Seungsu Kim
         lastName: Kim
@@ -207,8 +221,14 @@ positions:
         career: Research Intern
         img: "jihyeong.jpg"
         site: ""
-
-
+        
+      - name: Anchit Tandon
+        lastname: Tandon
+        email: "anchit.tandon.iit.delhi@gmail.com"
+        career: Research Intern
+        img: "anchit.jpg"
+        site: ""
+        
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
