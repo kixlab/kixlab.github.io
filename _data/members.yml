@@ -215,6 +215,13 @@ positions:
         img: "seungsu.jpg"
         site: ""
 
+      - name: Jihyeong Hong
+        lastName: Hong
+        email: z.hyeong@kaist.ac.kr
+        career: Research Intern
+        img: "jihyeong.jpg"
+        site: ""
+        
       - name: Anchit Tandon
         lastname: Tandon
         email: "anchit.tandon.iit.delhi@gmail.com"
