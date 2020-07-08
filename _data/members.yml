@@ -193,6 +193,13 @@ positions:
         career: Research Intern
         img: "hyunchang.jpg"
         site: ""
+        
+      - name: Seongha Eom
+        lastName: Eom
+        email: "seonghaaeom@gmail.com"
+        career: Research Intern
+        img: "seongha.jpg"
+        site: ""
 
       - name: Seungsu Kim
         lastName: Kim
