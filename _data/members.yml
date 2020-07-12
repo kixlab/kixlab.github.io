@@ -46,7 +46,7 @@ positions:
         email: eunyoung4444@gmail.com
         career: Ph.D. Student
         img: "eunyoung.jpg"
-        site: http://eunyoungko.net/
+        site: https://eunyoungko.com/
 
       - name: Hyungyu Shin
         lastName: Shin
@@ -250,7 +250,7 @@ positions:
       - name: Hyunchang Oh
         lastName: Hyunchang
         email: "hyunchang@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
+        career: Undergrad Intern (KAIST), URP
         img: "hyunchang.jpg"
         site: ""
         period: Winter 2019 - Spring 2020
