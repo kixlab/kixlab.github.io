@@ -113,13 +113,6 @@ positions:
         img: "hoon.jpg"
         site: "https://www.hoonhan.io"
 
-      - name: Jisoo Lee
-        lastName: Lee
-        email: "jisoolee@kaist.ac.kr"
-        career: Research Intern
-        img: "jisoo.jpg"
-        site: "https://jisoolee0123.github.io"
-
       - name: Yoonjoo Lee
         lastName: Lee
         email: "yjl7436@gmail.com"
@@ -166,13 +159,6 @@ positions:
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Jeongeon Park
-        lastName: Park
-        email: "jeongeon.park@kaist.ac.kr"
-        career: Research Intern
-        img: "jeongeon.jpg"
-        site: ""
-
       - name: Mina Huh
         lastName: Huh
         email: "minarainbow@kaist.ac.kr"
@@ -185,13 +171,6 @@ positions:
         email: "baiaitolkyn@gmail.com"
         career: Research Intern
         img: "aitolkyn.jpg"
-        site: ""
-
-      - name: Hyunchang Oh
-        lastName: Hyunchang
-        email: "hyunchang@kaist.ac.kr"
-        career: Research Intern
-        img: "hyunchang.jpg"
         site: ""
       
       - name: Hyerim Lee
@@ -249,10 +228,38 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Jisoo Lee
+        lastName: Lee
+        email: "jisoolee@kaist.ac.kr"
+        career: Research Intern
+        img: "jisoo.jpg"
+        site: "https://jisoolee0123.github.io"
+        period: Summer 2019 - Spring 2020
+        leavingDate: 2020.07.15
+
+      - name: Jeongeon Park
+        lastName: Park
+        email: "jeongeon.park@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jeongeon.jpg"
+        site: ""
+        period: Fall 2019 - Spring 2020
+        leavingDate: 2020.07.10
+
+      - name: Hyunchang Oh
+        lastName: Hyunchang
+        email: "hyunchang@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "hyunchang.jpg"
+        site: ""
+        period: Winter 2019 - Spring 2020
+        leavingDate: 2020.07.10
+
       - name: Nikhil Prakash
         lastName: Prakash
         email: "nikhil07prakash@gmail.com"
-        career: Research Intern
+        career: Undergrad Intern (R V College of Engineering, India)
         img: "Nikhil.jpg"
         site: "https://nix07.github.io/"
         period: Summer 2019 - Winter 2020
@@ -261,7 +268,7 @@ positions:
       - name: Haesoo Kim
         lastName: Kim
         email: haesoo1108@gmail.com
-        career: Research Intern
+        career: Undergrad Intern (SNU)
         img: "haesoo.png"
         site: "http://haesookim.info/"
         period: Summer 2019 - Winter 2020
@@ -270,7 +277,7 @@ positions:
       - name: Eric Doh
         lastName: Doh
         email: "ericsunwoodoh@gmail.com"
-        career: Research Intern
+        career: Undergrad Intern (Univ. of Sydney)
         img: "ericsdoh.jpg"
         site: "https://www.ericsunwoodoh.myportfolio.com"
         period: Winter 2020
@@ -279,16 +286,17 @@ positions:
       - name: Min A Kim
         lastName: Kim
         email: "home537@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "minakim.jpg"
         site: "https://coder-mina.github.io/"
         period: Winter 2020
         leavingDate: 2020.02.29
+        now: Software Engineer @ Kakao
 
       - name: Sally Chen
         lastName: Chen
         email: "sally_chen@brown.edu"
-        career: Research Intern
+        career: Undergrad Intern (Brown University)
         img: "sallychen.jpg"
         site: "https://www.sallychen.me"
         period: Winter 2020
@@ -297,16 +305,17 @@ positions:
       - name: Changyoon Lee
         lastName: Lee
         email: cyoon47@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "changyoon.jpg"
         site: ""
         period: Summer 2018 - Winter 2020
         leavingDate: 2020.02.29
+        now: M.S. Student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
 
       - name: Taehyeon An
         lastName: An
         email: taeohy@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "Taehyeon.jpg"
         site: ""
         period: Summer 2019 - Fall 2019
@@ -492,7 +501,7 @@ positions:
         site: "http://janetyc.github.io"
         period: Summer 2018 - Fall 2018
         leavingDate: 2018.11.30
-        now: Postdoc @ Eindhoven University of Technology
+        now: Assistant Professor @ Eindhoven University of Technology (TU/e)
 
       - name: Ray Hong
         lastName: Hong
@@ -502,7 +511,7 @@ positions:
         site: "http://rayhong.net/"
         period: Summer 2017, Summer 2018
         leavingDate: 2018.08.31
-        now: Postdoc at NYU
+        now: Assistant Professor at George Mason University
 
       - name: Hyuntak Cha
         lastName: Cha
