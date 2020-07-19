@@ -214,6 +214,13 @@ positions:
         career: Research Intern
         img: "anchit.jpg"
         site: ""
+      
+      - name: Nabila Sindi Listyo
+        lastName: Listyo
+        email: "biasindi.wulanfrom@gmail.com"
+        career: Research Intern
+        img: "nabila.jpg"
+        site: ""
         
   - positionName: Staff
     positionMembers:
