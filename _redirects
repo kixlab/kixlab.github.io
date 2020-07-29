@@ -10,11 +10,17 @@
 /courses/cs374-spring-2017 /courses/cs374-spring-2017/index.html 301!
 /courses/cs374-spring-2017/* https://cs374-spring-2017.netlify.app/:splat 200
 
+/courses/cs473-fall-2020 /courses/cs473-fall-2020/index.html 301!
+/courses/cs473-fall-2020/* https://cs473-fall-2020.netlify.app/:splat 200
+
 /courses/cs473-fall-2019 /courses/cs473-fall-2019/index.html 301!
 /courses/cs473-fall-2019/* https://cs473-fall-2019.netlify.app/:splat 200
 
 /courses/cs473-fall-2018 /courses/cs473-fall-2018/index.html 301!
 /courses/cs473-fall-2018/* https://cs473-fall-2018.netlify.app/:splat 200
+
+/courses/cs492-fall-2020 /courses/cs492-fall-2020/index.html 301!
+/courses/cs492-fall-2020/* https://cs492-fall-2020.netlify.app/:splat 200
 
 /courses/cs492c-fall-2018 /courses/cs492c-fall-2018/index.html 301!
 /courses/cs492c-fall-2018/* https://i2r.netlify.app/:splat 200
@@ -37,8 +43,11 @@
 /courses/hci /courses/cs374-spring-2020/index.html 301!
 /courses/hci/* https://cs374-spring-2020.netlify.app/:splat 200
 
-/courses/social /courses/cs473-fall-2019/index.html 301!
-/courses/social/* https://cs473-fall-2019.netlify.app/:splat 200
+/courses/social /courses/cs473-fall-2020/index.html 301!
+/courses/social/* https://cs473-fall-2020.netlify.app/:splat 200
+
+/courses/human-ai /courses/cs492-fall-2020/index.html 301!
+/courses/human-ai/* https://cs492-fall-2020.netlify.app/:splat 200
 
 /courses/cs374 /courses/cs374-spring-2020/index.html 301!
 /courses/cs374/* https://cs374-spring-2020.netlify.app/:splat 200
