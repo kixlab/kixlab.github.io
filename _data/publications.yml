@@ -15,6 +15,17 @@ types:
   - journal
 
 papers:
+  - title: "AlgoPlan: Supporting Planning in Algorithmic Problem-Solving with Subgoal Diagrams"
+    author: "_Kabdo Choi_, _Sally Chen_, _Hyungyu Shin_, _Jinho Son_, _Juho Kim_"
+    venue: "Learning @ Scale 2020 (Work-in-Progress)"
+    year: 2020
+    topics:
+      - learning
+    type: poster
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2020/l@s2020-AlgoPlan-poster.pdf"
+
   - title: "Leveraging the Crowd to Support the Conversation Design Process"
     author: "_Yoonseo Choi_, _Hyungyu Shin_, _Toni-Jan Keith Monserrat_, _Nyoungwoo Lee_, _Jeongeon Park_, _Juho Kim_" 
     venue: "CHI 2020 Workshop on CUI@CHI: Mapping Grand Challenges for the Conversational User Interface Community"
