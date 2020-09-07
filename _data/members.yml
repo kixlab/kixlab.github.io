@@ -229,6 +229,13 @@ positions:
         img: "umar.jpg"
         site: ""
         
+      - name: Youngjae Jang
+        lastname: Jang
+        email: "youngjae.c@kaist.ac.kr"
+        career: Research Intern
+        img: "youngjae.jpg"
+        site: ""
+        
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
@@ -805,6 +812,8 @@ positions:
         period: Fall 2016
         leavingDate: 2016.12.31
         now: Founder @ <a href="https://meanit.me/">MeanIt</a>
+        
+
 
   ## -------------Special----------------------------
 
