@@ -236,6 +236,13 @@ positions:
         img: "youngjae.jpg"
         site: ""
         
+    - name: Changgeon Ko
+        lastname: Ko
+        email: "pencaty@kaist.ac.kr"
+        career: Research Intern
+        img: "changgeon.jpg"
+        site: ""
+        
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
