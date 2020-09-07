@@ -228,6 +228,13 @@ positions:
         career: Research Intern
         img: "umar.jpg"
         site: ""
+
+        - name: Sangwook Lee
+          lastname: Sangwook
+          email: "leesang627@gmail.com"
+          career: Research Intern
+          img: "sangwook.jpg"
+          site: "https://woogler.netlify.app"
         
   - positionName: Staff
     positionMembers:
