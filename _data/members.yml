@@ -250,6 +250,13 @@ positions:
         img: "changgeon.jpg"
         site: ""
         
+      - name: Jeongeon Park
+        lastname: Park
+        email: "jeongeon.park@kaist.ac.kr"
+        career: Research Intern
+        img: "jeongeon.jpg"
+        site: ""
+        
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
@@ -272,15 +279,6 @@ positions:
         site: "https://jisoolee0123.github.io"
         period: Summer 2019 - Spring 2020
         leavingDate: 2020.07.15
-
-      - name: Jeongeon Park
-        lastName: Park
-        email: "jeongeon.park@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "jeongeon.jpg"
-        site: ""
-        period: Fall 2019 - Spring 2020
-        leavingDate: 2020.07.10
 
       - name: Hyunchang Oh
         lastName: Hyunchang
