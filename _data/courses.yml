@@ -17,8 +17,10 @@ courses:
     code: "CS473"
     image: "cs492.png"
     description: "This course covers major design issues and computational techniques in building crowdsourcing and social computing systems."
-    url: https://kixlab.org/courses/crowdsourcing/
+    url: https://kixlab.org/courses/social/
     editions:
+      - semester: "Fall 2020"
+        url: https://kixlab.org/courses/cs473-fall-2020/
       - semester: "Fall 2019"
         url: https://kixlab.org/courses/cs473-fall-2019/
       - semester: "Fall 2018"
@@ -27,3 +29,23 @@ courses:
         url: https://kixlab.org/courses/cs492-fall-2017/
       - semester: "Fall 2016"
         url: https://kixlab.org/courses/cs492-fall-2016/
+  - title: "Human-AI Interaction"
+    code: "CS492"
+    image: "cs492.png"
+    description: "This course explores various human, machine, and social issues crucial in designing successful human-AI interaction."
+    url: https://kixlab.org/courses/human-ai/
+    editions:
+      - semester: "Fall 2020"
+        url: https://kixlab.org/courses/cs492-fall-2020/
+  - title: "Introduction to Research"
+    code: "CS492"
+    image: "cs492.png"
+    description: "This course covers various topics centered around what research is, how academia works, what academics do, and how we might do good research."
+    url: http://intro2research.org/
+    editions:
+      - semester: "Spring 2020"
+        url: https://www.kixlab.org/courses/cs492d-spring-2020/
+      - semester: "Spring 2019"
+        url: https://nmsl.kaist.ac.kr/courses/i2r/index.html
+      - semester: "Spring 2018"
+        url: https://www.kixlab.org/courses/cs492c-fall-2018/index.html
