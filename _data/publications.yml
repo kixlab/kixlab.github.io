@@ -26,6 +26,8 @@ papers:
     materials:
       - label: "acm dl"
         url: ""
+      - label: "project website"
+        url: "http://protochat.kixlab.org/"
     award: ""
     link: "https://www.kixlab.org/files/2020/cscw2020-Protochat-paper.pdf"
 
