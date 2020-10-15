@@ -27,7 +27,7 @@ papers:
       - label: "acm dl"
         url: ""
     award: ""
-    link: "https://www.kixlab.org/files/2020/cscw2020-protochat-paper.pdf"
+    link: "https://www.kixlab.org/files/2020/cscw2020-Protochat-paper.pdf"
 
   - title: "C-Reference: Improving 2D to 3D Object Pose Estimation Accuracy via Crowdsourced Joint Object Estimation"
     author: "_Jean Y. Song_, _John Joon Young Chung_, _David F. Fouhey_, _Walter S. Lasecki_"
