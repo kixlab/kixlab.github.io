@@ -15,6 +15,33 @@ types:
   - journal
 
 papers:
+  - title: "ProtoChat: Supporting the Conversation Design Process with Crowd Feedback"
+    author: "_Yoonseo Choi_, _Toni-Jan Keith Monserrat_, _Jeongeon Park_, _Hyungyu Shin_, _Nyoungwoo Lee_, _Juho Kim_"
+    venue: "CSCW 2020"
+    year: 2020
+    topics:
+      - crowdsourcing
+      - visualization
+    type: conference
+    materials:
+      - label: "acm dl"
+        url: ""
+    award: ""
+    link: "https://www.kixlab.org/files/2020/cscw2020-protochat-paper.pdf"
+
+  - title: "C-Reference: Improving 2D to 3D Object Pose Estimation Accuracy via Crowdsourced Joint Object Estimation"
+    author: "_Jean Y. Song_, _John Joon Young Chung_, _David F. Fouhey_, _Walter S. Lasecki_"
+    venue: "CSCW 2020"
+    year: 2020
+    topics:
+      - crowdsourcing
+    type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3392858"
+    award: ""
+    link: "https://www.kixlab.org/files/2020/cscw2020-CReference-paper.pdf"
+
   - title: "AlgoPlan: Supporting Planning in Algorithmic Problem-Solving with Subgoal Diagrams"
     author: "_Kabdo Choi_, _Sally Chen_, _Hyungyu Shin_, _Jinho Son_, _Juho Kim_"
     venue: "Learning @ Scale 2020 (Work-in-Progress)"
