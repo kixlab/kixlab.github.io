@@ -78,12 +78,6 @@ positions:
         site: "http://kyungjejo.com"
 
         # video: "Cs8CSz3-MK0"
-      - name: Jibon Naher
-        lastname: Naher
-        email: jibon.naher09@gmail.com
-        career: M.S. Student
-        img: Jibon.jpg
-        site: "https://jibonnaher.github.io/"
 
       - name: Yoonseo Choi
         lastName: Choi
@@ -116,7 +110,7 @@ positions:
       - name: Yoonjoo Lee
         lastName: Lee
         email: "yjl7436@gmail.com"
-        career: Research Intern
+        career: Ph.D. Student
         img: "yoonjoo.jpg"
         site: ""
 
@@ -141,20 +135,6 @@ positions:
         img: "eun.jpg"
         site: "https://ejjjjkang.github.io/"
 
-      - name: Taewook Kim
-        lastName: Kim
-        email: "tw.kim@connect.ust.hk"
-        career: Visiting M.Phil Student
-        img: "taewook.jpg"
-        site: "https://hcikim.github.io/"
-
-      - name: Eunseo Choi
-        lastName: Choi
-        email: "eschoie97@gmail.com"
-        career: Research Intern
-        img: "eunseo.jpg"
-        site: ""
-
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
@@ -164,13 +144,6 @@ positions:
         email: "minarainbow@kaist.ac.kr"
         career: Research Intern
         img: "minahuh.jpg"
-        site: ""
-
-      - name: Aitolkyn Baigutanova
-        lastName: Baigutanova
-        email: "baiaitolkyn@gmail.com"
-        career: Research Intern
-        img: "aitolkyn.jpg"
         site: ""
       
       - name: Hyerim Lee
@@ -192,13 +165,6 @@ positions:
         email: "seonghaaeom@gmail.com"
         career: Research Intern
         img: "seongha.jpg"
-        site: ""
-
-      - name: Seungsu Kim
-        lastName: Kim
-        email: seungsu0407@gmail.com
-        career: Research Intern
-        img: "seungsu.jpg"
         site: ""
 
       - name: Jihyeong Hong
@@ -270,6 +236,55 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Jibon Naher
+        lastname: Naher
+        email: jibon.naher09@gmail.com
+        career: M.S. Student
+        img: Jibon.jpg
+        site: "https://jibonnaher.github.io/"
+        period: Fall 2018 - Summer 2020
+        leavingDate: 2020.08.31
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2020-jibon.pdf"
+        
+      - name: Taewook Kim
+        lastName: Kim
+        email: "tw.kim@connect.ust.hk"
+        career: Visiting M.Phil Student
+        img: "taewook.jpg"
+        site: "https://hcikim.github.io/"
+        period: Summer 2020
+        leavingDate: 2020.09.15
+
+      - name: Eunseo Choi
+        lastName: Choi
+        email: "eschoie97@gmail.com"
+        career: Research Intern
+        img: "eunseo.jpg"
+        site: ""
+        period: Summer 2020
+        leavingDate: 2020.09.15
+        now: M.S. student at MIT
+
+      - name: Aitolkyn Baigutanova
+        lastName: Baigutanova
+        email: "baiaitolkyn@gmail.com"
+        career: Undergrad Intern (KAIST)
+        img: "aitolkyn.jpg"
+        site: ""
+        period: Summer 2020
+        leavingDate: 2020.09.15
+
+      - name: Seungsu Kim
+        lastName: Kim
+        email: seungsu0407@gmail.com
+        career: Undergrad Intern (KAIST)
+        img: "seungsu.jpg"
+        site: ""
+        period: Summer 2020
+        leavingDate: 2020.08.31
 
       - name: Jisoo Lee
         lastName: Lee
@@ -371,6 +386,7 @@ positions:
         site: "https://jaeyoon.io"
         period: Winter 2019 - Summer 2019
         leavingDate: 2019.08.30
+        now: Ph.D. student at MIT
 
       - name: Yeonsu Kim
         lastName: Kim

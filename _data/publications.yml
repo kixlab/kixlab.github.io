@@ -102,21 +102,18 @@ papers:
     award: "Honorable Mention"
     link: "https://www.kixlab.org/files/2020/dis2020-AIMirror-paper.pdf"
 
-  - title: "ProtoChat: Supporting the Conversation Design Process with Crowd Feedback"
-    author: "_Yoonseo Choi_, _Toni-Jan Keith Monserrat_, _Jeongeon Park_, _Hyungyu Shin_, _Nyoungwoo Lee_, _Juho Kim_"
-    venue: "CSCW 2020"
+  - title: "No More One Liners: Bringing Context into Emoji Recommendations"
+    author: "Joon-Gyum Kim, Taesik Gong, Bogoan Kim, JaeYeon Park, Woojeong Kim, _Evey Huang_, Kyungsik Han, _Juho Kim_, JeongGil Ko, Sung-Ju Lee"
+    venue: "ACM Transactions on Social Computing (TSC) Vol. 3, Article 9 (Apr 2020)"
     year: 2020
     topics:
-      - crowdsourcing
-      - visualization
+      - social
     type: conference
     materials:
       - label: "acm dl"
-        url: ""
-      - label: "project website"
-        url: "http://protochat.kixlab.org/"
+        url: "https://dl.acm.org/doi/abs/10.1145/3373146"
     award: ""
-    link: "https://www.kixlab.org/files/2020/cscw2020-Protochat-paper.pdf"
+    link: "https://www.kixlab.org/files/2020/tsc2020-Reeboc-paper.pdf"
 
   - title: "AlgoPlan: Supporting Planning in Algorithmic Problem-Solving with Subgoal Diagrams"
     author: "_Kabdo Choi_, _Sally Chen_, _Hyungyu Shin_, Jinho Son, _Juho Kim_"
