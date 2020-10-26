@@ -29,7 +29,7 @@ positions:
       - name: Minsuk Chang
         lastname: Chang
         email: minsuk@kaist.ac.kr
-        career: Ph.D. Candidate
+        career: Ph.D. Student
         img: minsuk.jpg
         interest: Humans, Computers and Pizzas :)
         site: https://www.minsukchang.com
@@ -73,7 +73,7 @@ positions:
       - name: Kyung Je Jo
         lastName: Jo
         email: kyungjejo@kaist.ac.kr
-        career: M.S. Student
+        career: Ph. D. Student
         img: kyungje.jpg
         site: "http://kyungjejo.com"
 
@@ -119,7 +119,7 @@ positions:
         email: kimts0830@gmail.com
         career: M.S. Student
         img: "taesoo.jpg"
-        site: ""
+        site: "https://www.taesookim.com"
 
       - name: Jeongyeon Kim
         lastName: Kim
@@ -221,7 +221,7 @@ positions:
         email: "jeongeon.park@kaist.ac.kr"
         career: Research Intern
         img: "jeongeon.jpg"
-        site: ""
+        site: "https://jeongeon.me"
         
   - positionName: Staff
     positionMembers:

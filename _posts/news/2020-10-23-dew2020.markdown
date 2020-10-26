@@ -1,0 +1,11 @@
+---
+layout: post
+title: "A paper accepted to DEW 2020 @ HCOMP"
+date: 2020-10-23
+author: Admin
+categories: news
+img: default.png
+thumb: default.png
+---
+
+"Reducing Annotation Artifacts in Crowdsourcing Datasets for Natural Language Processing" led by Hoon is accepted to [DEW(Data Excellence Workshop) 2020](http://eval.how/dew2020/).

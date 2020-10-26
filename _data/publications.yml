@@ -30,6 +30,8 @@ papers:
         url: ""
       - label: "project website"
         url: "http://protochat.kixlab.org/"
+      - label: "presentation video"
+        url: "https://www.youtube.com/watch?v=oIBt3EkH-eE"  
     award: ""
     link: "https://www.kixlab.org/files/2020/cscw2020-Protochat-paper.pdf"
 
@@ -63,6 +65,21 @@ papers:
     award: ""
     link: "https://www.kixlab.org/files/2020/cscw2020-MyButler-paper.pdf"
 
+
+  - title: "ProtoChat: Supporting the Conversation Design Process with Crowd Feedback"
+    author: "_Yoonseo Choi_, _Toni-Jan Keith Monserrat_, _Jeongeon Park_, _Hyungyu Shin_, _Nyoungwoo Lee_, _Juho Kim_"
+    venue: "CSCW 2020 Demonstrations"
+    year: 2020
+    topics:
+      - crowdsourcing
+      - visualization
+    type: conference
+    materials:
+      - label: "demo video"
+        url: "https://youtu.be/x_nYnn8S3u8"  
+    award: ""
+    link: "https://www.kixlab.org/files/2020/cscw2020-Protochat-demo.pdf"
+    
   - title: "Messaging Beyond Texts with Real-time Image Suggestions"
     author: "Joon-Gyum Kim, Taesik Gong, Kyungsik Han, _Juho Kim_, JeongGil Ko, Sung-Ju Lee"
     venue: "MobileHCI 2020"
@@ -134,6 +151,8 @@ papers:
       - crowdsourcing
     type: workshop
     materials:
+        - label: "acm dl"
+          url: "https://dl.acm.org/doi/10.1145/3405755.3406155"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-workshop-ProtoChat-poster.pdf"
 
@@ -145,6 +164,8 @@ papers:
       - crowdsourcing
     type: poster
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3334480.3382951"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-lbw-ProtoChat-poster.pdf"
 
