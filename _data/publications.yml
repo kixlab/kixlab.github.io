@@ -17,6 +17,18 @@ types:
   - journal
 
 papers:
+  - title: "Reducing Annotation Artifacts in Crowdsourcing Datasets for Natural Language Processing"
+    author: "_Donghoon Han_, _Juho Kim_, Alice Oh" 
+    venue: "1st Data Excellence Workshop (DEW 2020) @ HCOMP 2020"
+    year: 2020
+    topics:
+      - crowdsourcing
+      - human-ai-interaction
+    type: workshop
+    materials:
+    award: ""
+    link: "https://www.kixlab.org/files/2020/dew2020-annotation-artifact-paper.pdf"
+    
   - title: "ProtoChat: Supporting the Conversation Design Process with Crowd Feedback"
     author: "_Yoonseo Choi_, _Toni-Jan Keith Monserrat_, _Jeongeon Park_, _Hyungyu Shin_, _Nyoungwoo Lee_, _Juho Kim_"
     venue: "CSCW 2020"
