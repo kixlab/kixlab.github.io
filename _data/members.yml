@@ -237,6 +237,15 @@ positions:
   - positionName: Alumni
     positionMembers:
 
+      - name: Jisu Yim
+        lastName: Jisu
+        email: "yimjisu99@gmail.com"
+        career: Undergrad Intern (KAIST)
+        img: "jisu.jpg"
+        site: ""
+        period: Winter 2020
+        leavingDate: 
+
       - name: Jibon Naher
         lastname: Naher
         email: jibon.naher09@gmail.com
