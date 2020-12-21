@@ -222,6 +222,13 @@ positions:
         career: Research Intern
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
+
+      - name: Bekzat
+        lastname: Tilekbay
+        email: "tlekbay.b@gmail.com"
+        career: Undergrad Intern
+        img: "bekzat_tilekbay.jpg"
+        site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
         
   - positionName: Staff
     positionMembers:
