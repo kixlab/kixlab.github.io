@@ -222,6 +222,13 @@ positions:
         career: Research Intern
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
+
+      - name: Juhoon Lee
+        lastname: Lee
+        email: "juhoonlee@kaist.ac.kr"
+        career: Research Intern
+        img: "juhoon.jpg"
+        site: ""
         
   - positionName: Staff
     positionMembers:
