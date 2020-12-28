@@ -139,6 +139,13 @@ positions:
 
   - positionName: Undergraduate Students
     positionMembers:
+      - name: Euicheon Lee
+        lastName: Lee
+        email: "no1eclee@kaist.ac.kr"
+        career: Research Intern
+        img: "euicheon.jpg"
+        site: ""
+      
       - name: Mina Huh
         lastName: Huh
         email: "minarainbow@kaist.ac.kr"
