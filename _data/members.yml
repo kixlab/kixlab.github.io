@@ -244,6 +244,13 @@ positions:
         img: "daeun.jpg"
         site: ""
 
+      - name: Jisu Choi
+        lastname: Choi
+        email: "wltn0029@kaist.ac.kr"
+        career: Research Intern
+        img: "jisuchoi.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
