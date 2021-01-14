@@ -39,7 +39,7 @@ papers:
     type: conference
     materials:
       - label: "acm dl"
-        url: ""
+        url: "https://dl.acm.org/doi/10.1145/3432924"
       - label: "project website"
         url: "https://protochat.kixlab.org/"
       - label: "presentation video"
