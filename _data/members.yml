@@ -257,6 +257,13 @@ positions:
         career: Research Intern
         img: "sanghyeon.jpg"
         site: ""
+        
+      - name: Jaeryoung
+        lastname: 
+        email: ""
+        career: Research Intern
+        img: "nebjuok.jpg"
+        site: https://shuloco.blogspot.com/"
 
   - positionName: Staff
     positionMembers:
