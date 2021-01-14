@@ -18,7 +18,7 @@ types:
 
 papers:
   - title: "Reducing Annotation Artifacts in Crowdsourcing Datasets for Natural Language Processing"
-    author: "_Donghoon Han_, _Juho Kim_, Alice Oh" 
+    author: "_Donghoon Han_, _Juho Kim_, Alice Oh"
     venue: "1st Data Excellence Workshop (DEW 2020) @ HCOMP 2020"
     year: 2020
     topics:
@@ -28,7 +28,7 @@ papers:
     materials:
     award: ""
     link: "https://www.kixlab.org/files/2020/dew2020-annotation-artifact-paper.pdf"
-    
+
   - title: "ProtoChat: Supporting the Conversation Design Process with Crowd Feedback"
     author: "_Yoonseo Choi_, _Toni-Jan Keith Monserrat_, _Jeongeon Park_, _Hyungyu Shin_, _Nyoungwoo Lee_, _Juho Kim_"
     venue: "CSCW 2020"
@@ -41,9 +41,9 @@ papers:
       - label: "acm dl"
         url: ""
       - label: "project website"
-        url: "http://protochat.kixlab.org/"
+        url: "https://protochat.kixlab.org/"
       - label: "presentation video"
-        url: "https://www.youtube.com/watch?v=oIBt3EkH-eE"  
+        url: "https://www.youtube.com/watch?v=oIBt3EkH-eE"
     award: ""
     link: "https://www.kixlab.org/files/2020/cscw2020-Protochat-paper.pdf"
 
@@ -73,10 +73,9 @@ papers:
       - label: "project website"
         url: "https://nmsl.kaist.ac.kr/projects/mybutler/"
       - label: "video"
-        url: "https://www.youtube.com/watch?v=hUmjE5giPC0&feature=youtu.be"  
+        url: "https://www.youtube.com/watch?v=hUmjE5giPC0&feature=youtu.be"
     award: ""
     link: "https://www.kixlab.org/files/2020/cscw2020-MyButler-paper.pdf"
-
 
   - title: "ProtoChat: Supporting the Conversation Design Process with Crowd Feedback"
     author: "_Yoonseo Choi_, _Toni-Jan Keith Monserrat_, _Jeongeon Park_, _Hyungyu Shin_, _Nyoungwoo Lee_, _Juho Kim_"
@@ -88,10 +87,10 @@ papers:
     type: conference
     materials:
       - label: "demo video"
-        url: "https://youtu.be/x_nYnn8S3u8"  
+        url: "https://youtu.be/x_nYnn8S3u8"
     award: ""
     link: "https://www.kixlab.org/files/2020/cscw2020-Protochat-demo.pdf"
-    
+
   - title: "Messaging Beyond Texts with Real-time Image Suggestions"
     author: "Joon-Gyum Kim, Taesik Gong, Kyungsik Han, _Juho Kim_, JeongGil Ko, Sung-Ju Lee"
     venue: "MobileHCI 2020"
@@ -156,20 +155,20 @@ papers:
     link: "https://www.kixlab.org/files/2020/l@s2020-wip-AlgoPlan-poster.pdf"
 
   - title: "Leveraging the Crowd to Support the Conversation Design Process"
-    author: "_Yoonseo Choi_, _Hyungyu Shin_, _Toni-Jan Keith Monserrat_, _Nyoungwoo Lee_, _Jeongeon Park_, _Juho Kim_" 
+    author: "_Yoonseo Choi_, _Hyungyu Shin_, _Toni-Jan Keith Monserrat_, _Nyoungwoo Lee_, _Jeongeon Park_, _Juho Kim_"
     venue: "CHI 2020 Workshop on CUI@CHI: Mapping Grand Challenges for the Conversational User Interface Community"
     year: 2020
     topics:
       - crowdsourcing
     type: workshop
     materials:
-        - label: "acm dl"
-          url: "https://dl.acm.org/doi/10.1145/3405755.3406155"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3405755.3406155"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-workshop-ProtoChat-poster.pdf"
 
   - title: "Supporting an Iterative Conversation Design Process"
-    author: "_Yoonseo Choi_, _Hyungyu Shin_, _Toni-Jan Keith Monserrat_, _Nyoungwoo Lee_, _Jeongeon Park_, _Juho Kim_" 
+    author: "_Yoonseo Choi_, _Hyungyu Shin_, _Toni-Jan Keith Monserrat_, _Nyoungwoo Lee_, _Jeongeon Park_, _Juho Kim_"
     venue: "CHI 2020 Extended Abstracts (Late Breaking Work)"
     year: 2020
     topics:
@@ -182,7 +181,7 @@ papers:
     link: "https://www.kixlab.org/files/2020/chi2020-lbw-ProtoChat-poster.pdf"
 
   - title: "Consensus Building in Collaborative Sequencing with Visual Awareness"
-    author: "_Tae Soo Kim_, _Sungsoo (Ray) Hong_, Nitesh Goyal, _Jeongyeon Kim_, _Juho Kim_" 
+    author: "_Tae Soo Kim_, _Sungsoo (Ray) Hong_, Nitesh Goyal, _Jeongyeon Kim_, _Juho Kim_"
     venue: "CHI 2020 Extended Abstracts (Late Breaking Work)"
     year: 2020
     topics:
@@ -202,7 +201,7 @@ papers:
       - social
       - human-ai-interaction
     type: conference
-    materials:      
+    materials:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/abs/10.1145/3313831.3376609"
       - label: "video presentation"
@@ -247,7 +246,7 @@ papers:
       - label: "video preview"
         url: "https://youtu.be/x62vzVBD4N4"
       - label: "project website"
-        url: "https://saelyne.github.io/snapstream/"
+        url: "https://snapstream.kixlab.org/"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-Snapstream-paper.pdf"
 
@@ -263,7 +262,7 @@ papers:
     link: "https://www.kixlab.org/files/2019/cscw2019-workshop-APA-paper.pdf"
 
   - title: "Improving Users’ Algorithmic Understandability and Trust in Content Moderation"
-    author: "_Jibon Naher_, _Taehyeon An_, _Juho Kim_" 
+    author: "_Jibon Naher_, _Taehyeon An_, _Juho Kim_"
     venue: "CSCW 2019 Workshop on Contestability In Algorithmic Decision Making"
     year: 2019
     topics:
