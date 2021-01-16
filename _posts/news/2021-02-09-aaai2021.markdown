@@ -1,0 +1,11 @@
+---
+layout: post
+title: "A paper accepted to AAAI 2021 Workshop"
+date: 2021-02-09
+author: Admin
+categories: news
+img: default.png
+thumb: default.png
+---
+
+“FitVid: Towards Development of Responsive and Fluid Video Content Adaptation” led by Jeongyeon is accepted to [AAAI 2021 Workshop on Imagining Post-COVID Education with AI](https://sites.google.com/view/tipce-2021).
