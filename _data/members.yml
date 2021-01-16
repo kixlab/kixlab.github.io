@@ -11,7 +11,7 @@ positions:
       - name: Juho Kim
         lastName: Kim
         email: juhokim@kaist.ac.kr
-        career: Assistant Professor
+        career: Associate Professor
         img: juhokim.jpg
         site: http://juhokim.com/
 
@@ -181,13 +181,6 @@ positions:
         img: "nabila.jpg"
         site: ""
 
-      - name: Umar Taufiqulhakim
-        lastname: Taufiqulhakim
-        email: "umartaufiqul@gmail.com"
-        career: Research Intern
-        img: "umar.jpg"
-        site: ""
-
       - name: Sangwook Lee
         lastname: Sangwook
         email: "leesang627@gmail.com"
@@ -251,7 +244,7 @@ positions:
         img: "sanghyeon.jpg"
         site: ""
         
-      - name: Jaeryoung
+      - name: Jaeryoung Ka
         lastname: 
         email: ""
         career: Research Intern
@@ -280,11 +273,20 @@ positions:
         site: ""
         period: Summer 2020 - Fall 2020
         leavingDate: 2021.01.15
-        
+ 
+      - name: Umar Taufiqulhakim
+        lastname: Taufiqulhakim
+        email: "umartaufiqul@gmail.com"
+        career: Undergrad Intern (KAIST)
+        img: "umar.jpg"
+        site: ""
+        period: Fall 2020
+        leavingDate: 2020.12.31
+
       - name: HyeonJeong Ha
         lastName: Ha
         email: "guswjd2103@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "hyeonjeong.jpg"
         site: ""
         period: Summer 2020 - Fall 2020
