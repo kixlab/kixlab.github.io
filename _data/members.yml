@@ -160,13 +160,6 @@ positions:
         img: "hyerim.jpg"
         site: ""
 
-      - name: HyeonJeong Ha
-        lastName: Ha
-        email: "guswjd2103@kaist.ac.kr"
-        career: Research Intern
-        img: "hyeonjeong.jpg"
-        site: ""
-
       - name: Seongha Eom
         lastName: Eom
         email: "seonghaaeom@gmail.com"
@@ -179,13 +172,6 @@ positions:
         email: z.hyeong@kaist.ac.kr
         career: Research Intern
         img: "jihyeong.jpg"
-        site: ""
-
-      - name: Anchit Tandon
-        lastname: Tandon
-        email: "anchit.tandon.iit.delhi@gmail.com"
-        career: Research Intern
-        img: "anchit.jpg"
         site: ""
 
       - name: Nabila Sindi Listyo
@@ -230,6 +216,13 @@ positions:
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
 
+      - name: Bekzat Tilekbay
+        lastname: Tilekbay
+        email: "tlekbay.b@gmail.com"
+        career: Research Intern
+        img: "bekzat_tilekbay.jpg"
+        site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
+        
       - name: Juhoon Lee
         lastname: Lee
         email: "juhoonlee@kaist.ac.kr"
@@ -271,6 +264,25 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Anchit Tandon
+        lastname: Tandon
+        email: "anchit.tandon.iit.delhi@gmail.com"
+        career: Undergrad Intern (IIT Delhi)
+        img: "anchit.jpg"
+        site: ""
+        period: Summer 2020 - Fall 2020
+        leavingDate: 2021.01.15
+        
+      - name: HyeonJeong Ha
+        lastName: Ha
+        email: "guswjd2103@kaist.ac.kr"
+        career: Research Intern
+        img: "hyeonjeong.jpg"
+        site: ""
+        period: Summer 2020 - Fall 2020
+        leavingDate: 2020.12.31
+        
       - name: Jibon Naher
         lastname: Naher
         email: jibon.naher09@gmail.com
