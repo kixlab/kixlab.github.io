@@ -1,8 +1,8 @@
 ---
 layout: project
-title:  "Supporting an Iterative Conversation Design Process"
-short_title: "Iterative Conversation Design"
-oneline: "Supporting an Iterative Conversation Design Process"
+title:  "ProtoChat: Supporting the Conversation Design Process with Crowd Feedback"
+short_title: "ProtoChat"
+oneline: "Supporting the Conversation Design Process with Crowd Feedback"
 date: 2020-01-16 00:00:00
 author: Admin
 categories:
