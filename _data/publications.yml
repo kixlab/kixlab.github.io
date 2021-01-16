@@ -17,6 +17,18 @@ types:
   - journal
 
 papers:
+  - title: "FitVid: Towards Development of Responsive and Fluid Video Content Adaptation"
+    author: "_Jeongyeon Kim_, _Juho Kim_"
+    venue: "AAAI 2021 Workshop on Imagining Post-COVID Education with AI"
+    year: 2021
+    topics:
+      - learning
+      - human-ai-interaction
+    type: workshop
+    materials:
+    award: ""
+    link: "https://kixlab.github.io/website-files/2021/aaai2021-workshop-FitVid-paper.pdf"
+
   - title: "Reducing Annotation Artifacts in Crowdsourcing Datasets for Natural Language Processing"
     author: "_Donghoon Han_, _Juho Kim_, Alice Oh"
     venue: "1st Data Excellence Workshop (DEW 2020) @ HCOMP 2020"
