@@ -15,4 +15,3 @@ Yoonseo's thesis is titled <a href = "https://www.kixlab.org/files/theses/thesis
 Saelyne and Yoonseo are continuing as a Ph.D. student in KIXLAB.
 
 Hoon's thesis is titled <a href = "https://www.kixlab.org/files/theses/thesis-ms-2021-hoon.pdf">"Reducing Annotation Artifacts in Crowdsourcing Datasets for Natural Language Processing"</a>. 
-Hoon is going to graduate. 
