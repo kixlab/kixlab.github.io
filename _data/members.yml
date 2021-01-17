@@ -215,12 +215,19 @@ positions:
         career: Research Intern
         img: "bekzat_tilekbay.jpg"
         site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
-        
+
       - name: Juhoon Lee
         lastname: Lee
         email: "juhoonlee@kaist.ac.kr"
         career: Research Intern
         img: "juhoon.jpg"
+        site: ""
+
+      - name: Seokhun Jeong
+        lastname: Jeong
+        email: "kunjeong99@naver.com"
+        career: Research Intern
+        img: seokhun.jpg
         site: ""
 
       - name: DaEun Choi
@@ -236,16 +243,16 @@ positions:
         career: Research Intern
         img: "jisuchoi.jpg"
         site: ""
-      
+
       - name: Sanghyeon Lee
         lastname: Lee
         email: "lsh1107@kaist.ac.kr"
         career: Research Intern
         img: "sanghyeon.jpg"
         site: ""
-        
+
       - name: Jaeryoung Ka
-        lastname: 
+        lastname:
         email: ""
         career: Research Intern
         img: "nebjuok.jpg"
@@ -273,7 +280,7 @@ positions:
         site: ""
         period: Summer 2020 - Fall 2020
         leavingDate: 2021.01.15
- 
+
       - name: Umar Taufiqulhakim
         lastname: Taufiqulhakim
         email: "umartaufiqul@gmail.com"
@@ -291,7 +298,7 @@ positions:
         site: ""
         period: Summer 2020 - Fall 2020
         leavingDate: 2020.12.31
-        
+
       - name: Jibon Naher
         lastname: Naher
         email: jibon.naher09@gmail.com
