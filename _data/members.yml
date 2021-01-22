@@ -135,6 +135,14 @@ positions:
         img: "eun.jpg"
         site: "https://ejjjjkang.github.io/"
 
+      - name: Taewook Kim
+        lastName: Kim
+        email: "tkimam@connect.ust.hk"
+        career: Researcher
+        img: "taewook.jpg"
+        site: "https://hcikim.github.io/"
+
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
@@ -320,8 +328,8 @@ positions:
 
       - name: Taewook Kim
         lastName: Kim
-        email: "tw.kim@connect.ust.hk"
-        career: Visiting M.Phil Student (HKUST)
+        email: "tkimam@connect.ust.hk"
+        career: Visiting Student (HKUST)
         img: "taewook.jpg"
         site: "https://hcikim.github.io/"
         period: Summer 2020
