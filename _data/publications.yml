@@ -17,7 +17,7 @@ types:
   - journal
 
 papers:
-- title: "Personalizing Ambience and Illusionary Presence: How People Use “Study with me” Videos to Create Effective Studying Environments"
+  - title: "Personalizing Ambience and Illusionary Presence: How People Use “Study with me” Videos to Create Effective Studying Environments"
     author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Jean Y. Song_, _Minsuk Chang_, _Juho Kim_"
     venue: "CHI 2021"
     year: 2021
