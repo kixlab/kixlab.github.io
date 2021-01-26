@@ -27,6 +27,17 @@ papers:
     materials:
     award: ""
     link: "https://kixlab.github.io/website-files/2021/chi2021-Studywithme-paper.pdf"
+
+  - title: "Personalizing Ambience and Illusionary Presence: How People Use “Study with me” Videos to Create Effective Studying Environments"
+    author: "_Tae Soo Kim_, _Seungsu Kim_, _Yoonseo Choi_, _Juho Kim_"
+    venue: "CHI 2021"
+    year: 2021
+    topics:
+      - social
+    type: conference
+    materials:
+    award: ""
+    link: "https://kixlab.github.io/website-files/2021/chi2021-Winder-paper.pdf"
     
   - title: "FitVid: Towards Development of Responsive and Fluid Video Content Adaptation"
     author: "_Jeongyeon Kim_, _Juho Kim_"
