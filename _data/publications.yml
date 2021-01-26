@@ -17,6 +17,32 @@ types:
   - journal
 
 papers:
+
+  - title: "Supporting Collaborative Sequencing of Small Groups through Visual Awareness"
+    author: "_Tae Soo Kim_, Nitesh Goyal, _Jeongyeon Kim_, _Juho Kim_, Sungsoo Ray Hong"
+    venue: "CSCW 2021"
+    year: 2021
+    topics:
+      - social
+    type: conference
+    materials:
+      - label: "project website"
+        url: ""
+    award: ""
+    link: ""
+
+  - title: "StarryThoughts: Facilitating Diverse Opinion Exploration on Social Issues"
+    author: "_Hyunwoo Kim_, _Haesoo Kim_, _Kyung Je Jo_, _Juho Kim_"
+    venue: "CSCW 2021"
+    year: 2021
+    topics:
+      - civics
+    materials:
+      - label: "project website"
+        url: "https://www.byulbyul.kr"
+    award: ""
+    link: ""
+
   - title: "FitVid: Towards Development of Responsive and Fluid Video Content Adaptation"
     author: "_Jeongyeon Kim_, _Juho Kim_"
     venue: "AAAI 2021 Workshop on Imagining Post-COVID Education with AI"
