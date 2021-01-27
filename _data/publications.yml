@@ -44,6 +44,17 @@ papers:
     award: ""
     link: ""
 
+  - title: "RubySlippers: Supporting Content-based Voice Navigation for How-to Videos"
+    author: "_Minsuk Chang_, _Mina Huh_, _Juho Kim_"
+    venue: "CHI 2021"
+    year: 2021
+    topics:
+      - learning
+    type: conference
+    materials:
+    award: ""
+    link: "https://kixlab.github.io/website-files/2021/chi2021-RubySlippers-paper.pdf"
+
   - title: "Personalizing Ambience and Illusionary Presence: How People Use “Study with me” Videos to Create Effective Studying Environments"
     author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Jean Y. Song_, _Minsuk Chang_, _Juho Kim_"
     venue: "CHI 2021"
