@@ -17,6 +17,33 @@ types:
   - journal
 
 papers:
+
+  - title: "Supporting Collaborative Sequencing of Small Groups through Visual Awareness"
+    author: "_Tae Soo Kim_, Nitesh Goyal, _Jeongyeon Kim_, _Juho Kim_, Sungsoo Ray Hong"
+    venue: "CSCW 2021"
+    year: 2021
+    topics:
+      - social
+      - visualization
+    type: conference
+    materials:
+      - label: "project website"
+        url: "https://coseq.kixlab.org"
+    award: ""
+    link: ""
+
+  - title: "StarryThoughts: Facilitating Diverse Opinion Exploration on Social Issues"
+    author: "_Hyunwoo Kim_, _Haesoo Kim_, _Kyung Je Jo_, _Juho Kim_"
+    venue: "CSCW 2021"
+    year: 2021
+    topics:
+      - civics
+    materials:
+      - label: "project website"
+        url: "https://www.byulbyul.kr"
+    award: ""
+    link: ""
+
   - title: "Personalizing Ambience and Illusionary Presence: How People Use “Study with me” Videos to Create Effective Studying Environments"
     author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Jean Y. Song_, _Minsuk Chang_, _Juho Kim_"
     venue: "CHI 2021"
