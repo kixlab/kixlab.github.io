@@ -50,30 +50,18 @@
     .member-name, .member-career, .member-period, .member-now, .member-materials {
         float: left;
         padding-right: 10px;
+        font-size: 0.9em;
     }
 }
 
 .member-name {
     font-weight: bold;
     line-height: 1.5rem;
-    font-size: 0.9em;
-}
-
-.member-career {
-    font-size: 0.9em;
 }
 
 .member-period {
     color: $color-faded-text;
     font-size: 0.8em;
-}
-
-.member-now {
-    font-size: 0.9em;
-}
-
-.member-materials {
-    font-size: 0.9em;
 }
 
 .namecard {
