@@ -8,7 +8,7 @@ Our lab's website. We are using Jekyll, a static website generator.
 
 1. Go to `_data/members.yml`
 2. Edit or add what you want
-3. You can add your name, email, homepage
+3. You can add your name, email, homepage, and research interest
 
 For the picture, please choose an image with 1:1 aspect ratio like the others. (Suggested size: 600x600px)
 Place the file at `assets/img/members/your_name.jpg` and reference it in `members.yml` with just `your_name.jpg`.
