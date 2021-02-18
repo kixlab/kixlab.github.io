@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minsuk, Saelyne, and Yoonseo win the department’s Outstanding Thesis Award
+title: Minsuk, Saelyne, and Yoonseo won the department’s Outstanding Thesis Award
 date: 2021-01-29
 author: Admin
 categories: news
