@@ -8,4 +8,4 @@ img: default.png
 thumb: default.png
 ---
 
-Hyungyu was selected as an Outstanding TA of SoC in fall 2020. He had done excellent work on CS492 course.
+Hyungyu worked excellently as a TA in the CS492 course, and was selected as an Outstanding TA of SoC in fall 2020.
