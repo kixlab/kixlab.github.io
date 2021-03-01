@@ -100,13 +100,6 @@ positions:
         img: "kabdo.jpg"
         site: "https://kabdochoi.com"
 
-      - name: Donghoon Han
-        lastName: Han
-        email: hoonhan.d@kaist.ac.kr
-        career: M.S. Student
-        img: "hoon.jpg"
-        site: "https://www.hoonhan.io"
-
       - name: Yoonjoo Lee
         lastName: Lee
         email: "yjl7436@gmail.com"
@@ -286,6 +279,13 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Donghoon Han
+        lastName: Han
+        email: hoonhan.d@kaist.ac.kr
+        career: M.S. Student
+        period: Summer 2018 - Winter 2021
+        leavingDate: 2021.02.28
 
       - name: Anchit Tandon
         lastname: Tandon
