@@ -195,20 +195,6 @@ positions:
         img: "sangwook.jpg"
         site: "https://woogler.netlify.app"
 
-      - name: Youngjae Jang
-        lastname: Jang
-        email: "youngjae.c@kaist.ac.kr"
-        career: Research Intern
-        img: "youngjae.jpg"
-        site: ""
-
-      - name: Changgeon Ko
-        lastname: Ko
-        email: "pencaty@kaist.ac.kr"
-        career: Research Intern
-        img: "changgeon.jpg"
-        site: ""
-
       - name: Jeongeon Park
         lastname: Park
         email: "jeongeon.park@kaist.ac.kr"
@@ -285,6 +271,22 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Youngjae Jang
+        lastname: Jang
+        email: "youngjae.c@kaist.ac.kr"
+        career: Undergrad Intern
+        site: ""
+        period: Fall 2020 - Winter 2021
+        leavingDate: 2021.02.28
+
+      - name: Changgeon Ko
+        lastname: Ko
+        email: "pencaty@kaist.ac.kr"
+        career: Undergrad Intern
+        site: ""
+        period: Fall 2020 - Winter 2021
+        leavingDate: 2021.02.28
 
       - name: Donghoon Han
         lastName: Han
