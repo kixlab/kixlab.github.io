@@ -26,13 +26,6 @@ positions:
 
   - positionName: Graduate Students and Researchers
     positionMembers:
-      - name: Minsuk Chang
-        lastname: Chang
-        email: minsuk@kaist.ac.kr
-        career: Ph.D. Student
-        img: minsuk.jpg
-        interest: Humans, Computers and Pizzas :)
-        site: https://www.minsukchang.com
 
       - name: Sung-Chul Lee
         lastName: Lee
@@ -69,15 +62,6 @@ positions:
         career: Ph. D. Student
         img: "hyunwoo.png"
         site: "https://hyunwoo.me"
-
-      - name: Kyung Je Jo
-        lastName: Jo
-        email: kyungjejo@kaist.ac.kr
-        career: Ph. D. Student
-        img: kyungje.jpg
-        site: "http://kyungjejo.com"
-
-        # video: "Cs8CSz3-MK0"
 
       - name: Yoonseo Choi
         lastName: Choi
@@ -265,6 +249,28 @@ positions:
   - positionName: Alumni
     positionMembers:
 
+      - name: Kyung Je Jo
+        lastName: Jo
+        email: kyungjejo@kaist.ac.kr
+        career: M.S. Student
+        # img: kyungje.jpg
+        site: "http://kyungjejo.com"
+        period: Spring 2018 - Winter 2021
+        leavingDate: 2021.02.28
+        now: Software Engineer at Peoplefund
+        # video: "Cs8CSz3-MK0"
+
+      - name: Minsuk Chang
+        lastname: Chang
+        email: minsuk@kaist.ac.kr
+        career: Ph.D. Student
+        # img: minsuk.jpg
+        interest: Humans, Computers and Pizzas :)
+        site: https://www.minsukchang.com
+        period: Summer 2016 - Winter 2021
+        leavingDate: 2021.02.28
+        now: Research Scientist at Naver AI Lab
+
       - name: Jisu Choi
         lastname: Choi
         email: "wltn0029@kaist.ac.kr"
@@ -295,6 +301,7 @@ positions:
         career: M.S. Student
         period: Summer 2018 - Winter 2021
         leavingDate: 2021.02.28
+        now: Machine Learning Engineer at Superb AI
 
       - name: Anchit Tandon
         lastname: Tandon
