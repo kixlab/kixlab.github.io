@@ -135,6 +135,12 @@ positions:
         img: "taewook.jpg"
         site: "https://hcikim.github.io/"
 
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: M.S Student
+        img : "haesoo.png"
+        site: "https://haesookim.info/"
 
   ## ---------------Undergraduates--------------------
 
