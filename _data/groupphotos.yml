@@ -1,4 +1,10 @@
 photos:
+  - filename: group_2020_nov
+    description: November, 2020
+  - filename: group_2020_mar
+    description: March, 2020
+  - filename: group_2020_feb
+    description: Feburary, 2020
   - filename: group_2019_aug
     description: August, 2019
   - filename: group_2019_jun
