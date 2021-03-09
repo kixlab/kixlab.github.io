@@ -35,10 +35,10 @@ courses:
     description: "This course explores various human, machine, and social issues crucial in designing successful human-AI interaction."
     url: https://kixlab.org/courses/human-ai/
     editions:
-      - semester: "Fall 2020"
-        url: https://kixlab.org/courses/cs492-fall-2020/
       - semester: "Spring 2021"
         url: https://human-ai.kixlab.org/
+      - semester: "Fall 2020"
+        url: https://kixlab.org/courses/cs492-fall-2020/
   - title: "Introduction to Research"
     code: "CS492"
     image: "cs492.png"
