@@ -37,6 +37,8 @@ courses:
     editions:
       - semester: "Fall 2020"
         url: https://kixlab.org/courses/cs492-fall-2020/
+      - semester: "Spring 2021"
+        url: https://human-ai.kixlab.org/
   - title: "Introduction to Research"
     code: "CS492"
     image: "cs492.png"
