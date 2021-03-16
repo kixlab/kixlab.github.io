@@ -42,7 +42,7 @@ papers:
       - label: "project website"
         url: "https://www.byulbyul.kr"
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2021/cscw2021-StarryThoughts-paper.pdf"
 
   - title: "RubySlippers: Supporting Content-based Voice Navigation for How-to Videos"
     author: "_Minsuk Chang_, _Mina Huh_, _Juho Kim_"
