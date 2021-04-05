@@ -237,11 +237,11 @@ positions:
         site: ""
 
       - name: Intizar
-      lastname: Tashov
-      email: "intizar.tashov@kaist.ac.kr"
-      career: Research Intern
-      img: "intizar.png"
-      site: "https://drive.google.com/file/d/1eRoMy9Urym-LObluYl2PJVmtNYncFZ1c/view?usp=sharing"
+        lastname: Tashov
+        email: "intizar.tashov@kaist.ac.kr"
+        career: Research Intern
+        img: "intizar.png"
+        site: "https://drive.google.com/file/d/1eRoMy9Urym-LObluYl2PJVmtNYncFZ1c/view?usp=sharing"
 
 
 
