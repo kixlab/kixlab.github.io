@@ -30,7 +30,7 @@ papers:
       - label: "project website"
         url: "https://coseq.kixlab.org"
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2021/cscw2021-CoSeq-paper.pdf"
 
   - title: "StarryThoughts: Facilitating Diverse Opinion Exploration on Social Issues"
     author: "_Hyunwoo Kim_, _Haesoo Kim_, _Kyung Je Jo_, _Juho Kim_"
