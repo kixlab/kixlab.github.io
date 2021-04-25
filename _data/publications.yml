@@ -27,6 +27,8 @@ papers:
       - visualization
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3449250"
       - label: "project website"
         url: "https://coseq.kixlab.org"
     award: ""
@@ -39,6 +41,8 @@ papers:
     topics:
       - civics
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3449140"
       - label: "project website"
         url: "https://www.byulbyul.kr"
     award: ""
