@@ -66,21 +66,21 @@ positions:
       - name: Hyunwoo Kim
         lastName: Kim
         email: khw0726@kaist.ac.kr
-        career: Ph. D. Student
+        career: Ph.D. Student
         img: "hyunwoo.png"
         site: "https://hyunwoo.me"
 
       - name: Yoonseo Choi
         lastName: Choi
         email: yoon0u0@gmail.com
-        career: M.S. Student
+        career: Ph.D. Student
         img: "yoonseo.jpg"
         site: "https://yoonseochoi.com"
 
       - name: Saelyne Yang
         lastName: Yang
         email: saelyne@kaist.ac.kr
-        career: M.S. Student
+        career: Ph.D. Student
         img: "saelyne.jpg"
         site: "http://saelyne.com/"
 
