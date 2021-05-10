@@ -105,7 +105,7 @@ papers:
         url: "https://dl.acm.org/doi/10.1145/3411763.3451725"
       - label: "poster"
         url: "https://www.kixlab.org/files/2021/chi2021-lbw-MobileGuideline-poster.pdf"
-      - label: "video preview"
+      - label: "video presentation"
         url: "https://youtu.be/UFmspprrtlg"
     award: ""
     link: "https://www.kixlab.org/files/2021/chi2021-lbw-MobileGuideline-paper.pdf"
@@ -119,6 +119,8 @@ papers:
       - human-ai-interaction
     type: workshop
     materials:
+      - label: "video presentation"
+        url: "https://youtu.be/xcl9S_hTOq4"
     award: ""
     link: "https://kixlab.github.io/website-files/2021/aaai2021-workshop-FitVid-paper.pdf"
 
