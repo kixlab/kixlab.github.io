@@ -89,6 +89,23 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2021/chi2021-Winder-paper.pdf"
     
+  - title: "Guideline-Based Evaluation and Design Opportunities for Mobile Video-based Learning"
+    author: "_Jeongyeon Kim_, _Juho Kim_"
+    venue: "CHI 2021 Extended Abstracts (Late Breaking Work)"
+    year: 2021
+    topics:
+      - learning
+    type: poster
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3411763.3451725"
+      - label: “poster”
+        url: "https://www.kixlab.org/files/2021/chi2021-lbw-MobileGuideline-poster.pdf"
+      - label: "video preview"
+        url: "https://youtu.be/UFmspprrtlg"
+    award: ""
+    link: "https://www.kixlab.org/files/2021/chi2021-lbw-MobileGuideline-paper.pdf"
+    
   - title: "FitVid: Towards Development of Responsive and Fluid Video Content Adaptation"
     author: "_Jeongyeon Kim_, _Juho Kim_"
     venue: "AAAI 2021 Workshop on Imagining Post-COVID Education with AI"
