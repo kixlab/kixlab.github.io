@@ -80,6 +80,10 @@ papers:
     materials:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/10.1145/3411764.3445686"
+      - label: "video presentation"
+        url: "https://drive.google.com/file/d/1Iw-GVOpkdJn7SZqjIMyAKRFRz4b5F-Yi/view"
+      - label: "video preview"
+        url: "https://www.youtube.com/watch?v=eLczDRjKC5o"
       - label: "project website"
         url: "https://winder.kixlab.org/"
     award: ""
