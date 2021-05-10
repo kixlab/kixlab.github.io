@@ -67,6 +67,10 @@ papers:
       - learning
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3411764.3445222"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=jm8jTmhHbwI"
     award: ""
     link: "https://kixlab.github.io/website-files/2021/chi2021-Studywithme-paper.pdf"
 
