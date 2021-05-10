@@ -99,7 +99,7 @@ papers:
     materials:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/10.1145/3411763.3451725"
-      - label: “poster”
+      - label: "poster"
         url: "https://www.kixlab.org/files/2021/chi2021-lbw-MobileGuideline-poster.pdf"
       - label: "video preview"
         url: "https://youtu.be/UFmspprrtlg"
