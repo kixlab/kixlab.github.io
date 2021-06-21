@@ -255,6 +255,13 @@ positions:
         img: "ejung.png"
         site: "https://www.notion.so/ingddo/Elliot-Dohyun-Jung-a1dfc805e0fe4a71acf58e5b75f81bb4"
 
+      - name: Junho Myung
+        lastname: Myung
+        email: "junho00211@kaist.ac.kr"
+        career: Research Intern
+        img: "junhomyung.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
