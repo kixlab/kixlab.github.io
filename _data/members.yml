@@ -33,7 +33,6 @@ positions:
 
   - positionName: Graduate Students and Researchers
     positionMembers:
-
       - name: Sung-Chul Lee
         lastName: Lee
         email: leesungchul@kaist.ac.kr
@@ -130,14 +129,13 @@ positions:
         lastName: Kim
         email: haesoo1108@gmail.com
         career: M.S. Student
-        img : "haesoo.png"
+        img: "haesoo.png"
         site: "https://haesookim.info/"
 
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
     positionMembers:
-    
       - name: Euicheon Lee
         lastName: Lee
         email: "no1eclee@kaist.ac.kr"
@@ -235,7 +233,7 @@ positions:
         career: Research Intern
         img: "nebjuok.jpg"
         site: https://shuloco.blogspot.com/"
-        
+
       - name: Jisu Yim
         lastname: Yim
         email: "yimjisu99@kaist.ac.kr"
@@ -250,7 +248,12 @@ positions:
         img: "intizar.png"
         site: "https://drive.google.com/file/d/1eRoMy9Urym-LObluYl2PJVmtNYncFZ1c/view?usp=sharing"
 
-
+      - name: Elliot Jung
+        lastname: Jung
+        email: "2ngddo@gmail.com"
+        career: Research Intern
+        img: "ejung.png"
+        site: "https://www.notion.so/ingddo/Elliot-Dohyun-Jung-a1dfc805e0fe4a71acf58e5b75f81bb4"
 
   - positionName: Staff
     positionMembers:
@@ -265,7 +268,6 @@ positions:
 
   - positionName: Alumni
     positionMembers:
-
       - name: Kyung Je Jo
         lastName: Jo
         email: kyungjejo@kaist.ac.kr
@@ -292,7 +294,7 @@ positions:
         lastname: Choi
         email: "wltn0029@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
-        site: ""        
+        site: ""
         period: Winter 2021
         leavingDate: 2021.02.28
 
