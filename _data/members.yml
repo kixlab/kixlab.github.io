@@ -241,13 +241,6 @@ positions:
         img: "jisuyim.jpg"
         site: ""
 
-      - name: Intizar
-        lastname: Tashov
-        email: "intizar.tashov@kaist.ac.kr"
-        career: Research Intern
-        img: "intizar.png"
-        site: "https://drive.google.com/file/d/1eRoMy9Urym-LObluYl2PJVmtNYncFZ1c/view?usp=sharing"
-
       - name: Elliot Jung
         lastname: Jung
         email: "2ngddo@gmail.com"
@@ -275,6 +268,16 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Intizar Tashov
+        lastname: Tashov
+        email: intizar.tashov@kaist.ac.kr
+        career: Undergrad Intern (KAIST)
+        # img: "intizar.png"
+        period: Spring 2021
+        leavingDate: 2021.06.18
+        site: "https://drive.google.com/file/d/1eRoMy9Urym-LObluYl2PJVmtNYncFZ1c/view?usp=sharing"
+
       - name: Kyung Je Jo
         lastName: Jo
         email: kyungjejo@kaist.ac.kr
