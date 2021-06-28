@@ -255,6 +255,13 @@ positions:
         img: "junhomyung.jpg"
         site: ""
 
+      - name: Subeen Park
+        lastname: Park
+        email: "psbpsu@snu.ac.kr"
+        career: Research Intern
+        img: "subeen.jpg"
+        site: "subeen.io"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
