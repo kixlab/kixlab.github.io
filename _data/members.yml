@@ -260,7 +260,7 @@ positions:
         email: "psbpsu@snu.ac.kr"
         career: Research Intern
         img: "subeen.jpg"
-        site: "subeen.io"
+        site: "http://subeen.io/"
 
   - positionName: Staff
     positionMembers:
