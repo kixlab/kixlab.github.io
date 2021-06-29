@@ -262,6 +262,13 @@ positions:
         img: "subeen.jpg"
         site: "http://subeen.io/"
 
+      - name: Nicole Lee
+        lastname: Lee
+        email: "nicolelee2001@kaist.ac.kr"
+        career: Research Intern
+        img: "nicolelee.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
