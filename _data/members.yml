@@ -199,13 +199,6 @@ positions:
         img: "bekzat_tilekbay.jpg"
         site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
 
-      - name: Juhoon Lee
-        lastname: Lee
-        email: "juhoonlee@kaist.ac.kr"
-        career: Research Intern
-        img: "juhoon.jpg"
-        site: ""
-
       - name: Seokhun Jeong
         lastname: Jeong
         email: "kunjeong99@naver.com"
@@ -303,6 +296,15 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Juhoon Lee
+        lastname: Lee
+        email: "juhoonlee@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        # img: "juhoon.jpg"
+        period: Winter 2021 - Spring 2021
+        leavingDate: 2021.06.28
+        site: ""
 
       - name: Intizar Tashov
         lastname: Tashov
