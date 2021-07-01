@@ -276,6 +276,13 @@ positions:
         img: "inhwa.jpg"
         site: "https://www.notion.so/greenina/Inhwa-Song-CV-0cb769c9a9314e358cf728c0fe3b1e74"
 
+      - name: Jeanne Choi
+        lastname: Choi
+        email: "jeannechoi@kaist.ac.kr"
+        career: Research Intern
+        img: "jeanne.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
