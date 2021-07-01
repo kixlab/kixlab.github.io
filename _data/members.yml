@@ -282,6 +282,13 @@ positions:
         career: Research Intern
         img: "jeanne.jpg"
         site: ""
+      
+      - name: Mehmet Hamza Erol
+        lastname: Erol
+        email: "mhamzaerol@kaist.ac.kr"
+        career: Research Intern
+        img: "hamza.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
