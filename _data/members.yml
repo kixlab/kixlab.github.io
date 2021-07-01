@@ -269,6 +269,13 @@ positions:
         img: "nicolelee.jpg"
         site: ""
 
+      - name: Inhwa Song
+        lastname: Song
+        email: "igreen0485@kaist.ac.kr"
+        career: Research Intern
+        img: "inhwa.jpg"
+        site: "https://www.notion.so/greenina/Inhwa-Song-CV-0cb769c9a9314e358cf728c0fe3b1e74"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
