@@ -289,6 +289,13 @@ positions:
         career: Research Intern
         img: "sangkyung.jpg"
         site: ""
+        
+      - name: Nurlykhan Kopenov
+        lastname: Kopenov
+        email: "knurlykhan@kaist.ac.kr"
+        career: Research Intern
+        img: "Nurlykhan.jpg"
+        site: "
 
   - positionName: Staff
     positionMembers:
@@ -298,6 +305,7 @@ positions:
         career: Administrative Staff
         img: oaksil.jpg
         site: ""
+ 
 
   ## --------------Alumni---------------------------
 
