@@ -275,26 +275,33 @@ positions:
         career: Research Intern
         img: "jeanne.jpg"
         site: ""
-      
+
       - name: Mehmet Hamza Erol
         lastname: Erol
         email: "mhamzaerol@kaist.ac.kr"
         career: Research Intern
         img: "hamza.jpg"
         site: ""
-        
+
       - name: Sangkyung Kwak
         lastname: Kwak
         email: "skkwak9806@kaist.ac.kr"
         career: Research Intern
         img: "sangkyung.jpg"
         site: ""
-        
+
       - name: Nurlykhan Kopenov
         lastname: Kopenov
         email: "knurlykhan@kaist.ac.kr"
         career: Research Intern
         img: "Nurlykhan.jpg"
+        site: ""
+
+      - name: June Suk Choi
+        lastname: Choi
+        email: "wchoi403@gmail.com"
+        career: Research Intern
+        img: "junseok.jpg"
         site: ""
 
   - positionName: Staff
@@ -305,13 +312,11 @@ positions:
         career: Administrative Staff
         img: oaksil.jpg
         site: ""
- 
 
   ## --------------Alumni---------------------------
 
   - positionName: Alumni
     positionMembers:
-
       - name: Juhoon Lee
         lastname: Lee
         email: "juhoonlee@kaist.ac.kr"
@@ -339,8 +344,8 @@ positions:
         period: Spring 2018 - Winter 2021
         leavingDate: 2021.02.28
         now: Software Engineer at Peoplefund
-        # video: "Cs8CSz3-MK0"
 
+        # video: "Cs8CSz3-MK0"
       - name: Minsuk Chang
         lastname: Chang
         email: minsuk@kaist.ac.kr
