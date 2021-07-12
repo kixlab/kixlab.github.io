@@ -15,13 +15,6 @@ positions:
         img: juhokim.jpg
         site: http://juhokim.com/
 
-      - name: Jean Young Song
-        lastName: Song
-        email: jyskwon@kaist.ac.kr
-        career: Research Assistant Professor
-        img: profile_jean.jpg
-        site: https://jyskwon.github.io/
-
       - name: Meng Xia
         lastName: Xia
         email: iris.xia@connect.ust.hk
@@ -317,6 +310,16 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Jean Young Song
+        lastName: Song
+        email: jyskwon@kaist.ac.kr
+        career: Research Assistant Professor
+        period: Winter 2016 - Spring 2021
+        leavingDate: 2021.06.30
+        #img: profile_jean.jpg
+        site: https://jyskwon.github.io/
+        now: Professor at DGIST
+        
       - name: Juhoon Lee
         lastname: Lee
         email: "juhoonlee@kaist.ac.kr"
