@@ -111,13 +111,6 @@ positions:
         img: "eun.jpg"
         site: "https://ejjjjkang.github.io/"
 
-      - name: Taewook Kim
-        lastName: Kim
-        email: "tkimam@connect.ust.hk"
-        career: Researcher
-        img: "taewook.jpg"
-        site: "https://hcikim.github.io/"
-
       - name: Haesoo Kim
         lastName: Kim
         email: haesoo1108@gmail.com
@@ -310,6 +303,17 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Taewook Kim
+        lastName: Kim
+        email: "taewook@u.northwestern.edu"
+        career: Researcher
+        period: Summer 2020, Winter 2021 - Summer 2021
+        leavingDate: 2021.07.15
+        # img: "taewook.jpg"
+        site: "https://hcikim.github.io/"
+        now: Ph.D. Student @ Northwestern University
+
       - name: Jean Young Song
         lastName: Song
         email: jyskwon@kaist.ac.kr
@@ -430,15 +434,6 @@ positions:
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2020-jibon.pdf"
-
-      - name: Taewook Kim
-        lastName: Kim
-        email: "tkimam@connect.ust.hk"
-        career: Visiting Student (HKUST)
-        img: "taewook.jpg"
-        site: "https://hcikim.github.io/"
-        period: Summer 2020
-        leavingDate: 2020.09.15
 
       - name: Eunseo Choi
         lastName: Choi
