@@ -143,13 +143,6 @@ positions:
         img: "hyerim.jpg"
         site: ""
 
-      - name: Seongha Eom
-        lastName: Eom
-        email: "seonghaaeom@gmail.com"
-        career: Research Intern
-        img: "seongha.jpg"
-        site: ""
-
       - name: Jihyeong Hong
         lastName: Hong
         email: z.hyeong@kaist.ac.kr
@@ -304,6 +297,15 @@ positions:
   - positionName: Alumni
     positionMembers:
 
+      - name: Seongha Eom
+        lastName: Eom
+        email: "seonghaaeom@gmail.com"
+        career: Undergrad Intern (KAIST)
+        period: Summer 2020 - Summer 2021
+        leavingDate: 2021.07.16
+        # img: "seongha.jpg"
+        site: ""
+        
       - name: Taewook Kim
         lastName: Kim
         email: "taewook@u.northwestern.edu"
