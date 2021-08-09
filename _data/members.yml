@@ -46,7 +46,7 @@ positions:
         career: Ph.D. Student
         interest: KIXLAB
         img: hyungyu.jpg
-        site: "https://drive.google.com/open?id=0BzAN8v4bTN5HOFh1NG1Rd25abTA"
+        site: "https://hyungyu.com/"
 
       - name: Seoyoung Kim
         lastName: Kim
@@ -88,7 +88,7 @@ positions:
         email: "yjl7436@gmail.com"
         career: Ph.D. Student
         img: "yoonjoo.jpg"
-        site: ""
+        site: "https://yoonjoolee.com/"
 
       - name: Tae Soo Kim
         lastName: Kim
@@ -324,7 +324,7 @@ positions:
         leavingDate: 2021.06.30
         #img: profile_jean.jpg
         site: https://jyskwon.github.io/
-        now: Professor at DGIST
+        now: Assistant Professor @ DGIST
         
       - name: Juhoon Lee
         lastname: Lee
@@ -352,7 +352,11 @@ positions:
         site: "http://kyungjejo.com"
         period: Spring 2018 - Winter 2021
         leavingDate: 2021.02.28
-        now: Software Engineer at Peoplefund
+        now: Software Engineer @ Peoplefund
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2020-kyungje.pdf"
+        
 
         # video: "Cs8CSz3-MK0"
       - name: Minsuk Chang
@@ -364,7 +368,10 @@ positions:
         site: https://www.minsukchang.com
         period: Summer 2016 - Winter 2021
         leavingDate: 2021.02.28
-        now: Research Scientist at Naver AI Lab
+        now: Research Scientist @ Naver AI Lab
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-phd-2021-minsuk.pdf"
 
       - name: Jisu Choi
         lastname: Choi
@@ -396,7 +403,10 @@ positions:
         career: M.S. Student
         period: Summer 2018 - Winter 2021
         leavingDate: 2021.02.28
-        now: Machine Learning Engineer at Superb AI
+        now: Machine Learning Engineer @ Superb AI
+        materials:
+          - label: "thesis"
+            url: "https://www.kixlab.org/files/theses/thesis-ms-2021-hoon.pdf"
 
       - name: Anchit Tandon
         lastname: Tandon
@@ -445,7 +455,7 @@ positions:
         site: ""
         period: Summer 2020
         leavingDate: 2020.09.15
-        now: M.S. student at MIT
+        now: M.S. student @ MIT
 
       - name: Aitolkyn Baigutanova
         lastName: Baigutanova
@@ -473,6 +483,7 @@ positions:
         site: "https://jisoolee0123.github.io"
         period: Summer 2019 - Spring 2020
         leavingDate: 2020.07.15
+        now: Engineer @ Krafton
 
       - name: Hyunchang Oh
         lastName: Hyunchang
@@ -492,14 +503,15 @@ positions:
         period: Summer 2019 - Winter 2020
         leavingDate: 2020.02.29
 
-      - name: Haesoo Kim
-        lastName: Kim
-        email: haesoo1108@gmail.com
-        career: Undergrad Intern (SNU)
-        img: "haesoo.png"
-        site: "http://haesookim.info/"
-        period: Summer 2019 - Winter 2020
-        leavingDate: 2020.02.29
+      # - name: Haesoo Kim
+      #   lastName: Kim
+      #   email: haesoo1108@gmail.com
+      #   career: Undergrad Intern (SNU)
+      #   img: "haesoo.png"
+      #   site: "http://haesookim.info/"
+      #   period: Summer 2019 - Winter 2020
+      #   leavingDate: 2020.02.29
+      #   now: M.S. student at KIXLAB
 
       - name: Eric Doh
         lastName: Doh
@@ -528,6 +540,7 @@ positions:
         site: "https://www.sallychen.me"
         period: Winter 2020
         leavingDate: 2020.02.29
+        now: Master's Students @ CMU
 
       - name: Changyoon Lee
         lastName: Lee
@@ -565,7 +578,7 @@ positions:
         site: "https://jaeyoon.io"
         period: Winter 2019 - Summer 2019
         leavingDate: 2019.08.30
-        now: Ph.D. student at MIT
+        now: Ph.D. Student @ MIT
 
       - name: Yeonsu Kim
         lastName: Kim
@@ -575,6 +588,7 @@ positions:
         site: ""
         period: Summer 2019
         leavingDate: 2019.08.30
+        now: M.S. Student @ HCI Lab, KAIST
 
       - name: Cheoljun Cho
         lastName: Cho
@@ -584,6 +598,7 @@ positions:
         site: ""
         period: Summer 2019
         leavingDate: 2019.08.16
+        now: Ph.D. Student @ UC Berkeley
 
       - name: Jimmy Wei
         lastName: Wei
@@ -593,6 +608,7 @@ positions:
         site: ""
         period: Summer 2019
         leavingDate: 2019.08.20
+        now: Master's Student @ Cornell Tech
 
       - name: Nyoungwoo Lee
         lastName: Lee
@@ -602,7 +618,7 @@ positions:
         site: ""
         period: Summer 2018 - Summer 2019
         leavingDate: 2019.08.30
-        now: Software Engineer @ Scatter Lab
+        now: M.S. Student @ KAIST
 
       - name: Toni-Jan Keith Monserrat
         lastName: Monserrat
@@ -650,6 +666,9 @@ positions:
         site: ""
         period: Winter 2019 - Spring 2019
         leavingDate: 2019.06.18
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2019-mathias.pdf"
 
       - name: Hyoungwook Jin
         lastName: Jin
@@ -688,6 +707,7 @@ positions:
         site: ""
         period: Winter 2019
         leavingDate: 2019.02.15
+        now: M.S. Student @ KAIST
 
       - name: Hyeungshik Jung
         lastName: Jung
@@ -739,7 +759,7 @@ positions:
         site: "http://rayhong.net/"
         period: Summer 2017, Summer 2018
         leavingDate: 2018.08.31
-        now: Assistant Professor at George Mason University
+        now: Assistant Professor @ George Mason University
 
       - name: Hyuntak Cha
         lastName: Cha
