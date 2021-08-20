@@ -297,7 +297,7 @@ positions:
   - positionName: Alumni
     positionMembers:
 
-      - name: Seong Hee
+      - name: Seong Hee Lee
         lastName: Lee
         email: "sl994@cornell.edu"
         career: Undergrad Intern (Cornell University)
@@ -305,7 +305,7 @@ positions:
         leavingDate: 2021.08.13
         site: ""
 
-      - name: Yubin
+      - name: Yubin Choi
         lastName: Choi
         email: "yubinc@kaist.ac.kr"
         career: Undergrad Intern (UNIST)
