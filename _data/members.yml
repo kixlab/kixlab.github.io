@@ -76,13 +76,6 @@ positions:
         img: "saelyne.jpg"
         site: "http://saelyne.com/"
 
-      - name: Kabdo Choi
-        lastName: Choi
-        email: kabdo.choi@kaist.ac.kr
-        career: M.S. Student
-        img: "kabdo.jpg"
-        site: "https://kabdochoi.com"
-
       - name: Yoonjoo Lee
         lastName: Lee
         email: "yjl7436@gmail.com"
@@ -117,6 +110,13 @@ positions:
         career: M.S. Student
         img: "haesoo.png"
         site: "https://haesookim.info/"
+      
+        - name: Jeongeon Park
+        lastname: Park
+        email: "jeongeon.park@kaist.ac.kr"
+        career: M.S. Student
+        img: "jeongeon.jpg"
+        site: "https://jeongeon.me"        
 
   ## ---------------Undergraduates--------------------
 
@@ -128,13 +128,6 @@ positions:
         career: Research Intern
         img: "minahuh.jpg"
         site: "https://minarainbow.github.io/"
-
-      - name: Hyerim Lee
-        lastName: Lee
-        email: "hermioneee2@kaist.ac.kr"
-        career: Research Intern
-        img: "hyerim.jpg"
-        site: ""
 
       - name: Jihyeong Hong
         lastName: Hong
@@ -149,13 +142,6 @@ positions:
         career: Research Intern
         img: "sangwook.jpg"
         site: "https://woogler.netlify.app"
-
-      - name: Jeongeon Park
-        lastname: Park
-        email: "jeongeon.park@kaist.ac.kr"
-        career: Research Intern
-        img: "jeongeon.jpg"
-        site: "https://jeongeon.me"
 
       - name: Bekzat Tilekbay
         lastname: Tilekbay
@@ -255,12 +241,6 @@ positions:
         img: "Nurlykhan.jpg"
         site: ""
 
-      - name: June Suk Choi
-        lastname: Choi
-        email: "wchoi403@gmail.com"
-        career: Research Intern
-        img: "junseok.jpg"
-        site: ""
 
   - positionName: Staff
     positionMembers:
@@ -275,6 +255,33 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Kabdo Choi
+        lastName: Choi
+        email: kabdo.choi@kaist.ac.kr
+        career: M.S. Student
+        img: "kabdo.jpg"
+        leavingDate: 2021.08.30
+        site: "https://kabdochoi.com"
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2021-kabdo.pdf"        
+
+      - name: Hyerim Lee
+        lastName: Lee
+        email: "hermioneee2@kaist.ac.kr"
+        career: Research Intern
+        img: "hyerim.jpg"
+        site: ""
+        leavingDate: 2021.08.30
+
+      - name: June Suk Choi
+        lastname: Choi
+        email: "wchoi403@gmail.com"
+        career: Research Intern
+        img: "junseok.jpg"
+        site: ""
+        leavingDate: 2021.08.30
 
       - name: Nabila Sindi Listyo
         lastName: Listyo
