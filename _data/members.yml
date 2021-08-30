@@ -150,13 +150,6 @@ positions:
         img: "jihyeong.jpg"
         site: ""
 
-      - name: Nabila Sindi Listyo
-        lastName: Listyo
-        email: "biasindi.wulanfrom@gmail.com"
-        career: Research Intern
-        img: "nabila.jpg"
-        site: ""
-
       - name: Sangwook Lee
         lastname: Sangwook
         email: "leesang627@gmail.com"
@@ -296,6 +289,14 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+
+      - name: Nabila Sindi Listyo
+        lastName: Listyo
+        email: "biasindi.wulanfrom@gmail.com"
+        career: Undergrad Intern (KAIST)
+        period: Summer 2020 - Summer 2021
+        leavingDate: 2021.08.30
+        site: ""
 
       - name: Seong Hee Lee
         lastName: Lee
