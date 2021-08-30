@@ -260,6 +260,7 @@ positions:
         lastName: Choi
         email: kabdo.choi@kaist.ac.kr
         career: M.S. Student
+        period: Spring 2019 - Summer 2021
         img: "kabdo.jpg"
         leavingDate: 2021.08.30
         site: "https://kabdochoi.com"
@@ -271,6 +272,7 @@ positions:
         lastName: Lee
         email: "hermioneee2@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
+        period: Summer 2020 - Summer 2021
         img: "hyerim.jpg"
         site: ""
         leavingDate: 2021.08.30
@@ -279,6 +281,7 @@ positions:
         lastname: Choi
         email: "wchoi403@gmail.com"
         career: Undergrad Intern (KAIST)
+        period: Summer 2021
         img: "junseok.jpg"
         site: ""
         leavingDate: 2021.08.30
