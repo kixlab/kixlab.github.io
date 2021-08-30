@@ -111,7 +111,7 @@ positions:
         img: "haesoo.png"
         site: "https://haesookim.info/"
       
-        - name: Jeongeon Park
+      - name: Jeongeon Park
         lastname: Park
         email: "jeongeon.park@kaist.ac.kr"
         career: M.S. Student
@@ -270,7 +270,7 @@ positions:
       - name: Hyerim Lee
         lastName: Lee
         email: "hermioneee2@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "hyerim.jpg"
         site: ""
         leavingDate: 2021.08.30
@@ -278,7 +278,7 @@ positions:
       - name: June Suk Choi
         lastname: Choi
         email: "wchoi403@gmail.com"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "junseok.jpg"
         site: ""
         leavingDate: 2021.08.30
