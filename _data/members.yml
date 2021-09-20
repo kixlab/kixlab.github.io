@@ -249,6 +249,15 @@ positions:
   - positionName: Alumni
     positionMembers:
 
+      - name: Sangwook Lee
+        lastName: Lee
+        email: "sangwooklee@kaist.ac.kr"
+        career: Undergrad Intern (POSTECH)
+        period: Fall 2020 - Summer 2021
+        leavingDate: 2021.09.12
+        site: "https://www.linkedin.com/in/sangwook-lee/"
+        now: M.S. Student @ <a href="http://cps.kaist.ac.kr//">CPS Lab</a>, KAIST
+
       - name: Kabdo Choi
         lastName: Choi
         email: kabdo.choi@kaist.ac.kr
