@@ -221,6 +221,13 @@ positions:
         img: "Nurlykhan.jpg"
         site: ""
 
+      - name: Seulgi Choi
+        lastname: Choi
+        email: "igules8925@gmail.com"
+        career: Research Intern
+        img: "seulgi.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
