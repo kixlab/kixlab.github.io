@@ -122,13 +122,7 @@ positions:
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Mina Huh
-        lastName: Huh
-        email: "mina1004h@gmail.com"
-        career: Research Intern
-        img: "minahuh.jpg"
-        site: "https://minarainbow.github.io/"
-
+      
       - name: Jihyeong Hong
         lastName: Hong
         email: z.hyeong@kaist.ac.kr
@@ -163,13 +157,6 @@ positions:
         career: Research Intern
         img: "nebjuok.jpg"
         site: https://shuloco.blogspot.com/"
-
-      - name: Jisu Yim
-        lastname: Yim
-        email: "yimjisu99@kaist.ac.kr"
-        career: Research Intern
-        img: "jisuyim.jpg"
-        site: ""
 
       - name: Elliot Jung
         lastname: Jung
@@ -234,7 +221,6 @@ positions:
         img: "Nurlykhan.jpg"
         site: ""
 
-
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
@@ -249,12 +235,28 @@ positions:
   - positionName: Alumni
     positionMembers:
 
+      - name: Mina Huh
+        lastName: Huh
+        email: "mina1004h@gmail.com"
+        career: Undergrad Intern & Researcher (KAIST)
+        period: Winter 2020 - Summer 2021
+        leavingDate: 2021.09.17
+        site: "https://minarainbow.github.io/"
+        
+      - name: Jisu Yim
+        lastname: Yim
+        email: "yimjisu99@kaist.ac.kr"
+        career: Research Intern
+        period: Winter 2021 - Summer 2021
+        leavingDate: 2021.09.10
+        site: ""
+        
       - name: Sangwook Lee
         lastName: Lee
         email: "sangwooklee@kaist.ac.kr"
         career: Undergrad Intern (POSTECH)
         period: Fall 2020 - Summer 2021
-        leavingDate: 2021.09.12
+        leavingDate: 2021.09.10
         site: "https://www.linkedin.com/in/sangwook-lee/"
         now: M.S. Student @ <a href="http://cps.kaist.ac.kr//">CPS Lab</a>, KAIST
 
