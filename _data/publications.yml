@@ -17,6 +17,16 @@ types:
   - journal
 
 papers:
+  - title: "Supporting Dynamic Construction of Datasets through Crowd Suggestions"
+    author: "_Jeongeon Park_, _Eunyoung Ko_, Donghoon Han, Jinyeong Yim, _Juho Kim_"
+    venue: "HCOMP 2021 WiP (Works-in-Progress)"
+    year: 2021
+    topics:
+      - crowdsourcing
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2021/hcomp2021-wip-dynamiclabels-paper.pdf"
+    
   - title: "Improving Readers’ Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions"
     author: "Taewook Kim, _Hyunwoo Kim_, _Juho Kim_, Xiaojuan Ma"
     venue: "CSCW 2021 Posters"
