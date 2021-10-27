@@ -139,10 +139,10 @@ positions:
 
       - name: DaEun Choi
         lastname: Choi
-        email: "cde1103@kaist.ac.kr"
+        email: "daeun.choi@kaist.ac.kr"
         career: Research Intern
         img: "daeun.jpg"
-        site: ""
+        site: "https://cheddarchoi.github.io/"
 
       - name: Jaeryoung Ka
         lastname:
