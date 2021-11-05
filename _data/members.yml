@@ -213,7 +213,14 @@ positions:
         career: Research Intern
         img: "Nurlykhan.jpg"
         site: ""
-
+        
+      - name: Elliot Jung
+        lastname: Jung
+        email: "jungdhyun@kaist.ac.kr"
+        career: Research Intern
+        img: "ejung.png"
+        site: ""
+        
       - name: Seulgi Choi
         lastname: Choi
         email: "igules8925@gmail.com"
