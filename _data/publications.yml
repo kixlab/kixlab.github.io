@@ -22,7 +22,7 @@ papers:
     venue: "NeurIPS 2021 Workshop on Human Centered AI"
     year: 2021
     topics:
-      - Human-ai-interaction
+      - human-ai-interaction
     type: paper
     award: ""
     link: "https://kixlab.github.io/website-files/2021/neurips2021-workshop-HumanCenteredExplanation-paper.pdf"
