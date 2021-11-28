@@ -17,6 +17,16 @@ types:
   - journal
 
 papers:
+  - title: "How Does Netflix \"Understand\" Me?: Exploring End-user Needs to Design Human-centered Explanations"
+    author: "_Yoonseo Choi_, _Eun Jeong Kang_, _Juho Kim_"
+    venue: "NeurIPS 2021 Workshop on Human Centered AI"
+    year: 2021
+    topics:
+      - human-ai-interaction
+    type: paper
+    award: ""
+    link: "https://kixlab.github.io/website-files/2021/neurips2021-workshop-HumanCenteredExplanation-paper.pdf"
+    
   - title: "Supporting Dynamic Construction of Datasets through Crowd Suggestions"
     author: "_Jeongeon Park_, _Eunyoung Ko_, Donghoon Han, Jinyeong Yim, _Juho Kim_"
     venue: "HCOMP 2021 WiP (Works-in-Progress)"

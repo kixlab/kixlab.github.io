@@ -144,13 +144,6 @@ positions:
         img: "daeun.jpg"
         site: "https://cheddarchoi.github.io/"
 
-      - name: Jaeryoung Ka
-        lastname:
-        email: ""
-        career: Research Intern
-        img: "nebjuok.jpg"
-        site: https://shuloco.blogspot.com/"
-
       - name: Elliot Jung
         lastname: Jung
         email: "2ngddo@gmail.com"
@@ -242,6 +235,13 @@ positions:
   - positionName: Alumni
     positionMembers:
 
+      - name: Jaeryoung Ka
+        lastname:
+        email: ""
+        career: Research Intern
+        img: "nebjuok.jpg"
+        site: https://shuloco.blogspot.com/"
+        
       - name: Jihyeong Hong
         lastName: Hong
         email: z.hyeong@kaist.ac.kr
