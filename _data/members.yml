@@ -236,10 +236,11 @@ positions:
     positionMembers:
 
       - name: Jaeryoung Ka
-        lastname:
+        lastName: Ka
         email: ""
-        career: Research Intern
-        img: "nebjuok.jpg"
+        career: Undergrad Intern (KAIST)
+        period: Winter 2021 - Fall 2021
+        leavingDate: 2021.11.19
         site: https://shuloco.blogspot.com/"
         
       - name: Jihyeong Hong
