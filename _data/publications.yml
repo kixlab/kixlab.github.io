@@ -19,7 +19,7 @@ types:
 papers:
   - title: "XDesign: Integrating Interface Design into Explainable AI Education"
     author: "_Hyungyu Shin_, _Nabila Sindi_, _Yoonjoo Lee_, _Jean Y. Song_, _Juho Kim_"
-    venue: "SIGCSE 2022 Posters"
+    venue: "SIGCSE TS 2022 Posters"
     year: 2022
     topics:
       - human-ai-interaction
