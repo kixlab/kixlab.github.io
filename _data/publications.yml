@@ -17,6 +17,17 @@ types:
   - journal
 
 papers:
+  - title: "XDesign: Integrating Interface Design into Explainable AI Education"
+    author: "_Hyungyu Shin_, _Nabila Sindi_, _Yoonjoo Lee_, _Jean Y. Song_, _Juho Kim_"
+    venue: "SIGCSE 2022 Posters"
+    year: 2022
+    topics:
+      - human-ai-interaction
+      - learning
+    type: poster
+    award: ""
+    link: "https://kixlab.github.io/website-files/2022/sigcse2022-poster-XDesign-paper.pdf"
+
   - title: "How Does Netflix \"Understand\" Me?: Exploring End-user Needs to Design Human-centered Explanations"
     author: "_Yoonseo Choi_, _Eun Jeong Kang_, _Juho Kim_"
     venue: "NeurIPS 2021 Workshop on Human Centered AI"
