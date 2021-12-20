@@ -144,13 +144,6 @@ positions:
         img: "daeun.jpg"
         site: "https://cheddarchoi.github.io/"
 
-      - name: Elliot Jung
-        lastname: Jung
-        email: "2ngddo@gmail.com"
-        career: Research Intern
-        img: "ejung.png"
-        site: "https://www.notion.so/ingddo/Elliot-Dohyun-Jung-a1dfc805e0fe4a71acf58e5b75f81bb4"
-
       - name: Junho Myung
         lastname: Myung
         email: "junho00211@kaist.ac.kr"
@@ -234,6 +227,14 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+    
+      - name: Elliot Jung
+        lastname: Jung
+        email: "jungdhyun@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: Summer 2021 - Fall 2021
+        leavingDate: 2021.12.17
+        site: ""
 
       - name: Jaeryoung Ka
         lastName: Ka
@@ -241,7 +242,7 @@ positions:
         career: Undergrad Intern (KAIST)
         period: Winter 2021 - Fall 2021
         leavingDate: 2021.11.19
-        site: https://shuloco.blogspot.com/"
+        site: "https://shuloco.blogspot.com/"
         
       - name: Jihyeong Hong
         lastName: Hong
