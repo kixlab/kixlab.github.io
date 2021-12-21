@@ -17,6 +17,16 @@ types:
   - journal
 
 papers:
+  - title: "Stylette: Styling the Web with Natural Language"
+    author: "_Tae Soo Kim_, _DaEun Choi_, _Yoonseo Choi_, _Juho Kim_"
+    venue: "CHI 2022"
+    year: 2022
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+    
   - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
     author: "_Saelyne Yang_, _Jisu Yim_, _Aitolkyn Baigutanova_, _Seoyoung Kim_, _Minsuk Chang_, _Juho Kim_"
     venue: "IUI 2022"
