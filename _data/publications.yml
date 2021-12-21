@@ -17,6 +17,17 @@ types:
   - journal
 
 papers:
+  - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
+    author: "_Saelyne Yang_, _Jisu Yim_, _Aitolkyn Baigutanova_, _Seoyoung Kim_, _Minsuk Chang_, _Juho Kim_"
+    venue: "IUI 2022"
+    year: 2022
+    topics:
+      - datamining
+      - learning
+    type: conference
+    award: ""
+    link: ""
+
   - title: "XDesign: Integrating Interface Design into Explainable AI Education"
     author: "_Hyungyu Shin_, _Nabila Sindi_, _Yoonjoo Lee_, _Jaeryoung Ka_, _Jean Y. Song_, _Juho Kim_"
     venue: "SIGCSE TS 2022 Posters"
@@ -28,7 +39,7 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2022/sigcse2022-poster-XDesign-paper.pdf"
 
-  - title: "How Does Netflix \"Understand\" Me?: Exploring End-user Needs to Design Human-centered Explanations"
+  - title: 'How Does Netflix "Understand" Me?: Exploring End-user Needs to Design Human-centered Explanations'
     author: "_Yoonseo Choi_, _Eun Jeong Kang_, _Juho Kim_"
     venue: "NeurIPS 2021 Workshop on Human Centered AI"
     year: 2021
@@ -37,7 +48,7 @@ papers:
     type: paper
     award: ""
     link: "https://kixlab.github.io/website-files/2021/neurips2021-workshop-HumanCenteredExplanation-paper.pdf"
-    
+
   - title: "Supporting Dynamic Construction of Datasets through Crowd Suggestions"
     author: "_Jeongeon Park_, _Eunyoung Ko_, Donghoon Han, Jinyeong Yim, _Juho Kim_"
     venue: "HCOMP 2021 WiP (Works-in-Progress)"
@@ -47,7 +58,7 @@ papers:
     type: poster
     award: ""
     link: "https://kixlab.github.io/website-files/2021/hcomp2021-wip-dynamiclabels-paper.pdf"
-    
+
   - title: "Improving Readers’ Awareness of Divergent Viewpoints by Displaying Agendas of Comments in Online News Discussions"
     author: "Taewook Kim, _Hyunwoo Kim_, _Juho Kim_, Xiaojuan Ma"
     venue: "CSCW 2021 Posters"
@@ -138,7 +149,7 @@ papers:
         url: "https://winder.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2021/chi2021-Winder-paper.pdf"
-    
+
   - title: "Guideline-Based Evaluation and Design Opportunities for Mobile Video-based Learning"
     author: "_Jeongyeon Kim_, _Juho Kim_"
     venue: "CHI 2021 Extended Abstracts (Late Breaking Work)"
@@ -155,7 +166,7 @@ papers:
         url: "https://youtu.be/UFmspprrtlg"
     award: ""
     link: "https://www.kixlab.org/files/2021/chi2021-lbw-MobileGuideline-paper.pdf"
-    
+
   - title: "FitVid: Towards Development of Responsive and Fluid Video Content Adaptation"
     author: "_Jeongyeon Kim_, _Juho Kim_"
     venue: "AAAI 2021 Workshop on Imagining Post-COVID Education with AI"
