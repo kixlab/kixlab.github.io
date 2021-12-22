@@ -27,6 +27,17 @@ papers:
     type: conference
     award: ""
     link: ""
+   
+  - title: "Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Hybrid Knowledge Graph Annotation"
+    author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Tae Soo Kim_, _Jean Y Song_, _Juho Kim_"
+    venue: "CHI 2022"
+    year: 2022
+    topics:
+      - learning
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
 
   - title: "Stylette: Styling the Web with Natural Language"
     author: "_Tae Soo Kim_, _DaEun Choi_, _Yoonseo Choi_, _Juho Kim_"
