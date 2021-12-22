@@ -38,6 +38,27 @@ papers:
     award: ""
     link: ""
     
+  - title: "FitVid: Responsive and Flexible Video Content Adaptation"
+    author: "_Jeongyeon Kim_, _Yubin Choi_, Minsuk Kahng, _Juho Kim_"
+    venue: "CHI 2022"
+    year: 2022
+    topics:
+      - learning
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+    
+  - title: "Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities"
+    author: "_Jeongyeon Kim_, _Yubin Choi_, _Meng Xia_, _Juho Kim_"
+    venue: "CHI 2022"
+    year: 2022
+    topics:
+      - learning
+    type: conference
+    award: ""
+    link: ""
+    
   - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
     author: "_Saelyne Yang_, _Jisu Yim_, _Aitolkyn Baigutanova_, _Seoyoung Kim_, _Minsuk Chang_, _Juho Kim_"
     venue: "IUI 2022"
