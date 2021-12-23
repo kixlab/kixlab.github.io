@@ -130,13 +130,6 @@ positions:
         img: "bekzat_tilekbay.jpg"
         site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
 
-      - name: Seokhun Jeong
-        lastname: Jeong
-        email: "kunjeong99@naver.com"
-        career: Research Intern
-        img: seokhun.jpg
-        site: ""
-
       - name: DaEun Choi
         lastname: Choi
         email: "daeun.choi@kaist.ac.kr"
@@ -221,6 +214,14 @@ positions:
   - positionName: Alumni
     positionMembers:
     
+      - name: Seokhun Jeong
+        lastname: Jeong
+        email: "kunjeong99@naver.com"
+        career: Research Intern
+        period: Winter 2021 - Fall 2021
+        leavingDate: 2021.12.17
+        site: ""
+
       - name: Elliot Jung
         lastname: Jung
         email: "jungdhyun@kaist.ac.kr"
