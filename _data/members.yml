@@ -110,19 +110,18 @@ positions:
         career: M.S. Student
         img: "haesoo.png"
         site: "https://haesookim.info/"
-      
+
       - name: Jeongeon Park
         lastName: Park
         email: "jeongeon.park@kaist.ac.kr"
         career: M.S. Student
         img: "jeongeon.jpg"
-        site: "https://jeongeon.me"        
+        site: "https://jeongeon.me"
 
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
     positionMembers:
-
       - name: Bekzat Tilekbay
         lastname: Tilekbay
         email: "tlekbay.b@gmail.com"
@@ -192,12 +191,19 @@ positions:
         career: Research Intern
         img: "Nurlykhan.jpg"
         site: ""
-        
+
       - name: Seulgi Choi
         lastname: Choi
         email: "igules8925@gmail.com"
         career: Research Intern
         img: "seulgi.jpg"
+        site: ""
+
+      - name: Jung In Rhee
+        lastname: Rhee
+        email: "ysrheee@kaist.ac.kr"
+        career: Research Intern
+        img: "jungin.jpg"
         site: ""
 
   - positionName: Staff
@@ -213,7 +219,6 @@ positions:
 
   - positionName: Alumni
     positionMembers:
-    
       - name: Seokhun Jeong
         lastname: Jeong
         email: "kunjeong99@naver.com"
@@ -237,7 +242,7 @@ positions:
         period: Winter 2021 - Fall 2021
         leavingDate: 2021.11.19
         site: "https://shuloco.blogspot.com/"
-        
+
       - name: Jihyeong Hong
         lastName: Hong
         email: z.hyeong@kaist.ac.kr
@@ -253,7 +258,7 @@ positions:
         period: Winter 2020 - Summer 2021
         leavingDate: 2021.09.17
         site: "https://minarainbow.github.io/"
-        
+
       - name: Jisu Yim
         lastname: Yim
         email: "yimjisu99@kaist.ac.kr"
@@ -261,7 +266,7 @@ positions:
         period: Winter 2021 - Summer 2021
         leavingDate: 2021.09.10
         site: ""
-        
+
       - name: Sangwook Lee
         lastName: Lee
         email: "sangwooklee@kaist.ac.kr"
@@ -281,7 +286,7 @@ positions:
         site: "https://kabdochoi.com"
         materials:
           - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2021-kabdo.pdf"        
+            url: "http://kixlab.org/files/theses/thesis-ms-2021-kabdo.pdf"
 
       - name: Hyerim Lee
         lastName: Lee
@@ -349,7 +354,7 @@ positions:
         leavingDate: 2021.07.16
         # img: "seongha.jpg"
         site: ""
-        
+
       - name: Taewook Kim
         lastName: Kim
         email: "taewook@u.northwestern.edu"
@@ -369,7 +374,7 @@ positions:
         #img: profile_jean.jpg
         site: https://jyskwon.github.io/
         now: Assistant Professor @ DGIST
-        
+
       - name: Juhoon Lee
         lastname: Lee
         email: "juhoonlee@kaist.ac.kr"
@@ -400,7 +405,6 @@ positions:
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2020-kyungje.pdf"
-        
 
         # video: "Cs8CSz3-MK0"
       - name: Minsuk Chang
