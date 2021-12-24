@@ -37,6 +37,16 @@ papers:
     type: conference
     award: ""
     link: ""
+    
+  - title: "Cocomix: Utilizing Comments to Improve Non-Visual Webtoon Accessibility"
+    author: "_Mina Huh_, _Yunjung Lee_, _Dasom Choi_, _Haesoo Kim_, _Uran Oh_, _Juho Kim_"
+    venue: "CHI 2022"
+    year: 2022
+    topics:
+      - crowdsourcing
+    type: conference
+    award: ""
+    link: ""
 
   - title: "Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Hybrid Knowledge Graph Annotation"
     author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Tae Soo Kim_, _Jean Y Song_, _Juho Kim_"
