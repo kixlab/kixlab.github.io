@@ -205,6 +205,13 @@ positions:
         career: Research Intern
         img: "jungin.jpg"
         site: ""
+      
+      - name: Yohan Yun
+        lastname: Yun
+        email: "yohanme@kaist.ac.kr"
+        career: Research Intern
+        img: "yohan.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
