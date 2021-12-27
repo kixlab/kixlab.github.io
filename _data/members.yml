@@ -171,13 +171,6 @@ positions:
         img: "jeanne.jpg"
         site: ""
 
-      - name: Mehmet Hamza Erol
-        lastname: Erol
-        email: "mhamzaerol@kaist.ac.kr"
-        career: Research Intern
-        img: "hamza.jpg"
-        site: ""
-
       - name: Sangkyung Kwak
         lastname: Kwak
         email: "skkwak9806@kaist.ac.kr"
@@ -219,6 +212,14 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Mehmet Hamza Erol
+        lastname: Erol
+        email: "mhamzaerol@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: Summer 2021 - Fall 2021
+        leavingDate: 2021.12.17
+        site: ""
+
       - name: Seokhun Jeong
         lastname: Jeong
         email: "kunjeong99@naver.com"
