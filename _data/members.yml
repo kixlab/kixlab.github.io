@@ -164,13 +164,6 @@ positions:
         img: "inhwa.jpg"
         site: "https://www.notion.so/greenina/Inhwa-Song-CV-0cb769c9a9314e358cf728c0fe3b1e74"
 
-      - name: Jeanne Choi
-        lastname: Choi
-        email: "jeannechoi@kaist.ac.kr"
-        career: Research Intern
-        img: "jeanne.jpg"
-        site: ""
-
       - name: Sangkyung Kwak
         lastname: Kwak
         email: "skkwak9806@kaist.ac.kr"
@@ -219,6 +212,14 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Jeanne Choi
+        lastname: Choi
+        email: "jeannechoi@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: Summer 2021 - Fall 2021
+        leavingDate: 2021.12.31
+        site: ""
+
       - name: Mehmet Hamza Erol
         lastname: Erol
         email: "mhamzaerol@kaist.ac.kr"
