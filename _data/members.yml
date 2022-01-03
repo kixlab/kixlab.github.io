@@ -198,6 +198,13 @@ positions:
         career: Research Intern
         img: "yohan.jpg"
         site: ""
+      
+      - name: JeongYoon Shin
+        lastname: Shin
+        email: "jugipalace@kaist.ac.kr"
+        career: Research Intern
+        img: "jeongyoon.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
