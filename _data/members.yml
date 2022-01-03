@@ -171,13 +171,6 @@ positions:
         img: "sangkyung.jpg"
         site: ""
 
-      - name: Nurlykhan Kopenov
-        lastname: Kopenov
-        email: "knurlykhan@kaist.ac.kr"
-        career: Research Intern
-        img: "Nurlykhan.jpg"
-        site: ""
-
       - name: Seulgi Choi
         lastname: Choi
         email: "igules8925@gmail.com"
@@ -219,6 +212,14 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Nurlykhan Kopenov
+        lastname: Kopenov
+        email: "knurlykhan@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: Summer 2021 - Fall 2021
+        leavingDate: 2021.12.31
+        site: ""
+        
       - name: Jeanne Choi
         lastname: Choi
         email: "jeannechoi@kaist.ac.kr"
