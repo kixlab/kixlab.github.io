@@ -118,6 +118,13 @@ positions:
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
 
+      - name: Dae Hyun Kim
+        lastName: Kim
+        email: "dhkim16@cs.stanford.edu"
+        career: Postdoctoral Fellow
+        img: "daehyun.jpg"
+        site: "https://dhkim16.github.io/"
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
