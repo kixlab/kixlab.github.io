@@ -212,6 +212,13 @@ positions:
         career: Research Intern
         img: "yoojin.jpg"
         site: ""
+      
+      - name: Jisu Kim
+        lastname: Kim
+        email: "klog104@kaist.ac.kr"
+        career: Research Intern
+        img: "jisu.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
