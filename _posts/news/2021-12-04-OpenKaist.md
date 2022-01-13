@@ -1,3 +1,4 @@
+---
 layout: post
 title: This year KIXLAB is representing the School of Computing in Open KAIST event!
 date: 2021-12-04
