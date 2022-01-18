@@ -6,7 +6,7 @@
 positions:
   ## --------------Faculty----------------------------
 
-  - positionName: Faculty
+  - positionName: Faculty and Postdocs
     positionMembers:
       - name: Juho Kim
         lastName: Kim
@@ -44,7 +44,6 @@ positions:
         lastName: Shin
         email: hyungyu.sh@kaist.ac.kr
         career: Ph.D. Student
-        interest: KIXLAB
         img: hyungyu.jpg
         site: "https://hyungyu.com/"
 
@@ -226,8 +225,9 @@ positions:
 
   ## --------------Alumni---------------------------
 
-  - positionName: Alumni
+  - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
     positionMembers:
+
       - name: Meng Xia
         lastName: Xia
         email: iris.xia@connect.ust.hk
@@ -236,6 +236,221 @@ positions:
         leavingDate: 2021.12.31
         site: https://www.xiameng.org/
         now: Postdoc @ CMU
+
+      - name: Mina Huh
+        lastName: Huh
+        email: "mina1004h@gmail.com"
+        career: Undergrad Intern & Researcher (KAIST)
+        period: Winter 2020 - Summer 2021
+        leavingDate: 2021.09.17
+        site: "https://minarainbow.github.io/"
+
+      - name: Kabdo Choi
+        lastName: Choi
+        email: kabdo.choi@kaist.ac.kr
+        career: M.S. Student
+        period: Spring 2019 - Summer 2021
+        img: "kabdo.jpg"
+        leavingDate: 2021.08.30
+        site: "https://kabdochoi.com"
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2021-kabdo.pdf"
+
+      - name: Taewook Kim
+        lastName: Kim
+        email: "taewook@u.northwestern.edu"
+        career: Researcher
+        period: Summer 2020, Winter 2021 - Summer 2021
+        leavingDate: 2021.07.15
+        # img: "taewook.jpg"
+        site: "https://hcikim.github.io/"
+        now: Ph.D. Student @ Northwestern University
+
+      - name: Jean Young Song
+        lastName: Song
+        email: jyskwon@kaist.ac.kr
+        career: Research Assistant Professor
+        period: Winter 2016 - Spring 2021
+        leavingDate: 2021.06.30
+        #img: profile_jean.jpg
+        site: https://jyskwon.github.io/
+        now: Assistant Professor @ DGIST     
+
+      - name: Kyung Je Jo
+        lastName: Jo
+        email: kyungjejo@kaist.ac.kr
+        career: M.S. Student
+        # img: kyungje.jpg
+        site: "http://kyungjejo.com"
+        period: Spring 2018 - Winter 2021
+        leavingDate: 2021.02.28
+        now: Software Engineer @ Peoplefund
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2020-kyungje.pdf"
+
+        # video: "Cs8CSz3-MK0"
+      - name: Minsuk Chang
+        lastname: Chang
+        email: minsuk@kaist.ac.kr
+        career: Ph.D. Student
+        # img: minsuk.jpg
+        interest: Humans, Computers and Pizzas :)
+        site: https://www.minsukchang.com
+        period: Summer 2016 - Winter 2021
+        leavingDate: 2021.02.28
+        now: Research Scientist @ Naver AI Lab
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-phd-2021-minsuk.pdf"   
+
+      - name: Donghoon Han
+        lastName: Han
+        email: hoonhan.d@kaist.ac.kr
+        career: M.S. Student
+        period: Summer 2018 - Winter 2021
+        leavingDate: 2021.02.28
+        now: Machine Learning Engineer @ Superb AI
+        materials:
+          - label: "thesis"
+            url: "https://www.kixlab.org/files/theses/thesis-ms-2021-hoon.pdf"
+
+      - name: Jibon Naher
+        lastname: Naher
+        email: jibon.naher09@gmail.com
+        career: M.S. Student
+        img: Jibon.jpg
+        site: "https://jibonnaher.github.io/"
+        period: Fall 2018 - Summer 2020
+        leavingDate: 2020.08.31
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2020-jibon.pdf"
+
+      - name: Jisoo Lee
+        lastName: Lee
+        email: "jisoolee@kaist.ac.kr"
+        career: Research Intern
+        img: "jisoo.jpg"
+        site: "https://jisoolee0123.github.io"
+        period: Summer 2019 - Spring 2020
+        leavingDate: 2020.07.15
+        now: Engineer @ Krafton
+
+      - name: Arti Thakur
+        lastName: Thakur
+        email: athakur36@gmail.com
+        career: Research Intern
+        img: arti.JPG
+        site: "https://sites.google.com/view/artithakur"
+        period: Fall 2017 - Spring 2019
+        leavingDate: 2019.06.30
+        now: Ph.D. Student @ UC Davis
+
+      - name: Evey Huang
+        lastName: Huang
+        email: jiaxinh.evey@gmail.com
+        career: Research Intern
+        img: evey.jpg
+        site: "https://eveyhuang.myportfolio.com"
+        period: Summer 2018 - Spring 2019
+        leavingDate: 2019.06.18
+        now: Ph.D. Student @ Northwestern University
+
+      - name: Mathias Sixten Pedersen
+        lastName: Pedersen
+        email: msixten@kaist.ac.kr
+        career: M.S. Student
+        img: ""
+        site: ""
+        period: Winter 2019 - Spring 2019
+        leavingDate: 2019.06.18
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2019-mathias.pdf"
+
+      - name: Hyeungshik Jung
+        lastName: Jung
+        email: hyeungshik.jung@kaist.ac.kr
+        career: M.S. Student
+        img: hyeungshik.jpg
+        site: "https://hyeungshikjung.com"
+        period: Summer 2016 - Winter 2019
+        leavingDate: 2019.02.15
+        now: Software Engineer @ NAVER
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2019-hyeungshik.pdf"
+
+      - name: Simon Perrault
+        lastName: Perrault
+        email: simon.perrault@yale-nus.edu.sg
+        career: Visiting Assistant Professor
+        img: perrault.jpg
+        site: https://istd.sutd.edu.sg/people/faculty/simon-perrault
+        period: Summer 2018 - Fall 2018
+        leavingDate: 2018.12.31
+        now: Assistant Professor @ Singapore University of Technology and Design
+
+      - name: Yi-Ching (Janet) Huang
+        lastname: Huang
+        email: janetyc@gmail.com
+        career: Research Scientist
+        img: janetyc.jpg
+        site: "http://janetyc.github.io"
+        period: Summer 2018 - Fall 2018
+        leavingDate: 2018.11.30
+        now: Assistant Professor @ Eindhoven University of Technology (TU/e)
+
+      - name: Ray Hong
+        lastName: Hong
+        email: rh3003@nyu.edu
+        career: Visiting Researcher (UW)
+        img: arti.JPG
+        site: "http://rayhong.net/"
+        period: Summer 2017, Summer 2018
+        leavingDate: 2018.08.31
+        now: Assistant Professor @ George Mason University
+
+      - name: Paul Grau
+        lastName: Grau
+        email: grau@kaist.ac.kr
+        career: M.S. Student
+        img: paul.jpg
+        interest: Web Development and humans
+        site: http://graycoding.com
+        period: Fall 2016-Spring 2018
+        leavingDate: 2018.06.29
+        now: Frontend Engineer @ Superb AI
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2018-paul.pdf"
+
+      - name: John Chung
+        lastName: Chung
+        email: johnr0hol@gmail.com
+        career: Undergrad Intern (SNU)
+        img: "john.jpg"
+        site: "http://johnr0.github.io"
+        period: Spring 2017-Spring 2018
+        leavingDate: 2018.06.29
+        now: Ph.D. Student @ University of Michigan
+      
+      - name: Yoo Jin Lim
+        lastName: Lim
+        email: yjlim@kaist.ac.kr
+        career: Ph.D. Student
+        img: yjlim.JPG
+        site: ""
+        period: Fall 2016–Winter 2017
+        leavingDate: 2017.02.28
+
+
+
+
+  - positionName: Alumni (Interns)
+    positionMembers:
 
       - name: Nurlykhan Kopenov
         lastname: Kopenov
@@ -294,14 +509,6 @@ positions:
         leavingDate: 2021.10.08
         site: "https://harmonious-prune-381.notion.site/Jihyeong-Hong-44f4f7033cbb480e944eeaf8fb22b30a"
 
-      - name: Mina Huh
-        lastName: Huh
-        email: "mina1004h@gmail.com"
-        career: Undergrad Intern & Researcher (KAIST)
-        period: Winter 2020 - Summer 2021
-        leavingDate: 2021.09.17
-        site: "https://minarainbow.github.io/"
-
       - name: Jisu Yim
         lastname: Yim
         email: "yimjisu99@kaist.ac.kr"
@@ -318,18 +525,6 @@ positions:
         leavingDate: 2021.09.10
         site: "https://www.linkedin.com/in/sangwook-lee/"
         now: M.S. Student @ <a href="http://cps.kaist.ac.kr//">CPS Lab</a>, KAIST
-
-      - name: Kabdo Choi
-        lastName: Choi
-        email: kabdo.choi@kaist.ac.kr
-        career: M.S. Student
-        period: Spring 2019 - Summer 2021
-        img: "kabdo.jpg"
-        leavingDate: 2021.08.30
-        site: "https://kabdochoi.com"
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2021-kabdo.pdf"
 
       - name: Hyerim Lee
         lastName: Lee
@@ -398,26 +593,6 @@ positions:
         # img: "seongha.jpg"
         site: ""
 
-      - name: Taewook Kim
-        lastName: Kim
-        email: "taewook@u.northwestern.edu"
-        career: Researcher
-        period: Summer 2020, Winter 2021 - Summer 2021
-        leavingDate: 2021.07.15
-        # img: "taewook.jpg"
-        site: "https://hcikim.github.io/"
-        now: Ph.D. Student @ Northwestern University
-
-      - name: Jean Young Song
-        lastName: Song
-        email: jyskwon@kaist.ac.kr
-        career: Research Assistant Professor
-        period: Winter 2016 - Spring 2021
-        leavingDate: 2021.06.30
-        #img: profile_jean.jpg
-        site: https://jyskwon.github.io/
-        now: Assistant Professor @ DGIST
-
       - name: Juhoon Lee
         lastname: Lee
         email: "juhoonlee@kaist.ac.kr"
@@ -435,34 +610,6 @@ positions:
         period: Spring 2021
         leavingDate: 2021.06.18
         site: "https://drive.google.com/file/d/1eRoMy9Urym-LObluYl2PJVmtNYncFZ1c/view?usp=sharing"
-
-      - name: Kyung Je Jo
-        lastName: Jo
-        email: kyungjejo@kaist.ac.kr
-        career: M.S. Student
-        # img: kyungje.jpg
-        site: "http://kyungjejo.com"
-        period: Spring 2018 - Winter 2021
-        leavingDate: 2021.02.28
-        now: Software Engineer @ Peoplefund
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2020-kyungje.pdf"
-
-        # video: "Cs8CSz3-MK0"
-      - name: Minsuk Chang
-        lastname: Chang
-        email: minsuk@kaist.ac.kr
-        career: Ph.D. Student
-        # img: minsuk.jpg
-        interest: Humans, Computers and Pizzas :)
-        site: https://www.minsukchang.com
-        period: Summer 2016 - Winter 2021
-        leavingDate: 2021.02.28
-        now: Research Scientist @ Naver AI Lab
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-phd-2021-minsuk.pdf"
 
       - name: Jisu Choi
         lastname: Choi
@@ -487,17 +634,6 @@ positions:
         site: ""
         period: Fall 2020 - Winter 2021
         leavingDate: 2021.02.28
-
-      - name: Donghoon Han
-        lastName: Han
-        email: hoonhan.d@kaist.ac.kr
-        career: M.S. Student
-        period: Summer 2018 - Winter 2021
-        leavingDate: 2021.02.28
-        now: Machine Learning Engineer @ Superb AI
-        materials:
-          - label: "thesis"
-            url: "https://www.kixlab.org/files/theses/thesis-ms-2021-hoon.pdf"
 
       - name: Anchit Tandon
         lastname: Tandon
@@ -526,18 +662,6 @@ positions:
         period: Summer 2020 - Fall 2020
         leavingDate: 2020.12.31
 
-      - name: Jibon Naher
-        lastname: Naher
-        email: jibon.naher09@gmail.com
-        career: M.S. Student
-        img: Jibon.jpg
-        site: "https://jibonnaher.github.io/"
-        period: Fall 2018 - Summer 2020
-        leavingDate: 2020.08.31
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2020-jibon.pdf"
-
       - name: Eunseo Choi
         lastName: Choi
         email: "eschoie97@gmail.com"
@@ -565,16 +689,6 @@ positions:
         site: ""
         period: Summer 2020
         leavingDate: 2020.08.31
-
-      - name: Jisoo Lee
-        lastName: Lee
-        email: "jisoolee@kaist.ac.kr"
-        career: Research Intern
-        img: "jisoo.jpg"
-        site: "https://jisoolee0123.github.io"
-        period: Summer 2019 - Spring 2020
-        leavingDate: 2020.07.15
-        now: Engineer @ Krafton
 
       - name: Hyunchang Oh
         lastName: Hyunchang
@@ -729,38 +843,6 @@ positions:
         leavingDate: 2019.08.30
         now: Software Engineer @ Scatter Lab
 
-      - name: Arti Thakur
-        lastName: Thakur
-        email: athakur36@gmail.com
-        career: Research Intern
-        img: arti.JPG
-        site: "https://sites.google.com/view/artithakur"
-        period: Fall 2017 - Spring 2019
-        leavingDate: 2019.06.30
-        now: Ph.D. Student @ UC Davis
-
-      - name: Evey Huang
-        lastName: Huang
-        email: jiaxinh.evey@gmail.com
-        career: Research Intern
-        img: evey.jpg
-        site: "https://eveyhuang.myportfolio.com"
-        period: Summer 2018 - Spring 2019
-        leavingDate: 2019.06.18
-        now: Ph.D. Student @ Northwestern University
-
-      - name: Mathias Sixten Pedersen
-        lastName: Pedersen
-        email: msixten@kaist.ac.kr
-        career: M.S. Student
-        img: ""
-        site: ""
-        period: Winter 2019 - Spring 2019
-        leavingDate: 2019.06.18
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2019-mathias.pdf"
-
       - name: Hyoungwook Jin
         lastName: Jin
         email: jinhw@kaist.ac.kr
@@ -800,29 +882,6 @@ positions:
         leavingDate: 2019.02.15
         now: M.S. Student @ KAIST
 
-      - name: Hyeungshik Jung
-        lastName: Jung
-        email: hyeungshik.jung@kaist.ac.kr
-        career: M.S. Student
-        img: hyeungshik.jpg
-        site: "https://hyeungshikjung.com"
-        period: Summer 2016 - Winter 2019
-        leavingDate: 2019.02.15
-        now: Software Engineer @ NAVER
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2019-hyeungshik.pdf"
-
-      - name: Simon Perrault
-        lastName: Perrault
-        email: simon.perrault@yale-nus.edu.sg
-        career: Visiting Assistant Professor
-        img: perrault.jpg
-        site: https://istd.sutd.edu.sg/people/faculty/simon-perrault
-        period: Summer 2018 - Fall 2018
-        leavingDate: 2018.12.31
-        now: Assistant Professor @ Singapore University of Technology and Design
-
       - name: Seongho Park
         lastName: Park
         email: bluetosh7@gmail.com
@@ -831,26 +890,6 @@ positions:
         site: ""
         period: Summer 2018 - Fall 2018
         leavingDate: 2018.12.31
-
-      - name: Yi-Ching (Janet) Huang
-        lastname: Huang
-        email: janetyc@gmail.com
-        career: Research Scientist
-        img: janetyc.jpg
-        site: "http://janetyc.github.io"
-        period: Summer 2018 - Fall 2018
-        leavingDate: 2018.11.30
-        now: Assistant Professor @ Eindhoven University of Technology (TU/e)
-
-      - name: Ray Hong
-        lastName: Hong
-        email: rh3003@nyu.edu
-        career: Visiting Researcher (UW)
-        img: arti.JPG
-        site: "http://rayhong.net/"
-        period: Summer 2017, Summer 2018
-        leavingDate: 2018.08.31
-        now: Assistant Professor @ George Mason University
 
       - name: Hyuntak Cha
         lastName: Cha
@@ -879,30 +918,6 @@ positions:
         site: "http://www.cse.iitd.ac.in/~cs1160523/"
         period: Summer 2018
         leavingDate: 2018.07.11
-
-      - name: Paul Grau
-        lastName: Grau
-        email: grau@kaist.ac.kr
-        career: M.S. Student
-        img: paul.jpg
-        interest: Web Development and humans
-        site: http://graycoding.com
-        period: Fall 2016-Spring 2018
-        leavingDate: 2018.06.29
-        now: Frontend Engineer @ Superb AI
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2018-paul.pdf"
-
-      - name: John Chung
-        lastName: Chung
-        email: johnr0hol@gmail.com
-        career: Undergrad Intern (SNU)
-        img: "john.jpg"
-        site: "http://johnr0.github.io"
-        period: Spring 2017-Spring 2018
-        leavingDate: 2018.06.29
-        now: Ph.D. Student @ University of Michigan
 
       - name: Jiyoun Ha
         lastName: Ha
@@ -941,6 +956,7 @@ positions:
         site: ""
         period: Winter 2018
         leavingDate: 2018.02.28
+
       - name: Ina Ryu
         lastName: Ryu
         email: ryu_ina@kaist.ac.kr
@@ -950,6 +966,7 @@ positions:
         period: Summer 2017–Fall 2017
         leavingDate: 2017.12.31
         now: Software Engineer @ NAVER
+
       - name: Beomsu Kim
         lastName: Kim
         email: 3141kbs@kaist.ac.kr
@@ -987,6 +1004,7 @@ positions:
         period: Summer 2017
         leavingDate: 2017.08.25
         now: M.S. Student @ EPFL
+
       - name: Suhwan Jee
         lastName: Jee
         email: jsh56son@kaist.ac.kr
@@ -1071,15 +1089,6 @@ positions:
         site: ""
         period: Spring 2017
         leavingDate: 2017.06.30
-
-      - name: Yoo Jin Lim
-        lastName: Lim
-        email: yjlim@kaist.ac.kr
-        career: Ph.D. Student
-        img: yjlim.JPG
-        site: ""
-        period: Fall 2016–Winter 2017
-        leavingDate: 2017.02.28
 
       - name: Ching Liu
         lastName: Liu
