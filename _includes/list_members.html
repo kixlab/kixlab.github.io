@@ -44,7 +44,7 @@
 {% for position in site.data.members.positions %}
     <h2 class="position-title">{{ position.positionName}}</h3>
 
-    <div class="position-members {% if position.positionName == 'Alumni' %}position-alumni{% else %}grid-2{% endif %}">
+    <div class="position-members {% if position.positionName contains 'Alumni' %}position-alumni{% else %}grid-2{% endif %}">
     
     {% if position.positionName != 'Alumni' %}
         {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}
@@ -80,7 +80,7 @@
               <p class="member-now">(now {{member.now}})</p>
               {% endif %}
 
-          </div>
+            </div>
             
             
             <!-- Current members -->
