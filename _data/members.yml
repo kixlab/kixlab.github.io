@@ -15,12 +15,12 @@ positions:
         img: juhokim.jpg
         site: http://juhokim.com/
 
-      - name: Meng Xia
-        lastName: Xia
-        email: iris.xia@connect.ust.hk
+      - name: Dae Hyun Kim
+        lastName: Kim
+        email: "dhkim16@cs.stanford.edu"
         career: Postdoctoral Fellow
-        img: mengxia.jpg
-        site: https://www.xiameng.org/
+        img: "daehyun.jpg"
+        site: "https://dhkim16.github.io/"        
 
   ## --------------Graduate Students and Researchers ------------------
 
@@ -118,12 +118,7 @@ positions:
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
 
-      - name: Dae Hyun Kim
-        lastName: Kim
-        email: "dhkim16@cs.stanford.edu"
-        career: Postdoctoral Fellow
-        img: "daehyun.jpg"
-        site: "https://dhkim16.github.io/"
+
 
   ## ---------------Undergraduates--------------------
 
@@ -233,6 +228,15 @@ positions:
 
   - positionName: Alumni
     positionMembers:
+      - name: Meng Xia
+        lastName: Xia
+        email: iris.xia@connect.ust.hk
+        career: Postdoctoral Fellow
+        period: Winter 2021 - Fall 2021
+        leavingDate: 2021.12.31
+        site: https://www.xiameng.org/
+        now: Postdoc @ CMU
+
       - name: Nurlykhan Kopenov
         lastname: Kopenov
         email: "knurlykhan@kaist.ac.kr"
@@ -272,6 +276,7 @@ positions:
         period: Summer 2021 - Fall 2021
         leavingDate: 2021.12.17
         site: ""
+        now: HayanMind
 
       - name: Jaeryoung Ka
         lastName: Ka
