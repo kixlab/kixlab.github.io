@@ -366,6 +366,7 @@ positions:
         site: ""
         period: Winter 2019 - Spring 2019
         leavingDate: 2019.06.18
+        now: Co-founder & CTO @ NordInsight
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2019-mathias.pdf"
@@ -491,7 +492,7 @@ positions:
         period: Summer 2021 - Fall 2021
         leavingDate: 2021.12.17
         site: ""
-        now: HayanMind
+        now: @ HayanMind
 
       - name: Jaeryoung Ka
         lastName: Ka

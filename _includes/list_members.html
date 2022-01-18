@@ -46,10 +46,10 @@
 
     <div class="position-members {% if position.positionName contains 'Alumni' %}position-alumni{% else %}grid-2{% endif %}">
     
-    {% if position.positionName != 'Alumni' %}
-        {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}
-    {% else %}
+    {% if position.positionName contains 'Alumni' %}
         {% assign sorted_members = (position.positionMembers | sort: 'leavingDate' | reverse %}
+    {% else %}
+        {% assign sorted_members = (position.positionMembers | sort: 'lastName' %}  
     {% endif %}
     {% for member in sorted_members %}
         <div class='namecard'>
