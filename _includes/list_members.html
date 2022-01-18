@@ -53,8 +53,38 @@
     {% endif %}
     {% for member in sorted_members %}
         <div class='namecard'>
+            <!-- Alumni -->
+            {% if position.positionName contains 'Alumni' %}
+            <div class="namecard-content">
+              {% if member.site != '' %}
+              <span class="member-name"><a href="{{member.site}}">{{member.name}}</a></span>
+              {% else %}
+              <span class="member-name">{{member.name}}</span>
+              {% endif %}
+
+              {% for career in member.career %}
+              <p class="member-career">{{career}}</p>
+              {% endfor %}
+
+              {% if member.period %}
+              <p class="member-period">{{member.period}}</p>
+              {% endif %}
+
+              <p class="member-materials">
+                {% for material in member.materials %}
+                  <a href="{{material.url}}" class="material">{{ material.label }}</a>
+                {% endfor %}
+              </p>
+
+              {% if member.now %}
+              <p class="member-now">(now {{member.now}})</p>
+              {% endif %}
+
+          </div>
+            
+            
             <!-- Current members -->
-            {% if position.positionName != 'Alumni' %}
+            {% else %}
             <div class='member-image' style="background-image: url({{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }})">
             </div>
 
@@ -85,37 +115,7 @@
                   </div>
                 </p>
                 {% endif %}
-            </div>
-            
-            <!-- Alumni -->
-            {% else %}
-            <div class="namecard-content">
-                {% if member.site != '' %}
-                <span class="member-name"><a href="{{member.site}}">{{member.name}}</a></span>
-                {% else %}
-                <span class="member-name">{{member.name}}</span>
-                {% endif %}
-
-                {% for career in member.career %}
-                <p class="member-career">{{career}}</p>
-                {% endfor %}
-
-                {% if member.period %}
-                <p class="member-period">{{member.period}}</p>
-                {% endif %}
-
-                <p class="member-materials">
-                  {% for material in member.materials %}
-                    <a href="{{material.url}}" class="material">{{ material.label }}</a>
-                  {% endfor %}
-                </p>
-
-                {% if member.now %}
-                <p class="member-now">(now {{member.now}})</p>
-                {% endif %}
-
-            </div>
-
+            </div>            
             {% endif %}
 
         </div>
