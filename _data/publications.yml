@@ -17,6 +17,15 @@ types:
   - journal
 
 papers:
+  - title: "Capturing Diverse and Precise Reactions to a Comment with User-Generated Labels"
+    author: "_Eun-Young Ko_, _Eunseo Choi_, _Jeong-woo Jang_, _Juho Kim_"
+    venue: "TheWebConf 2022"
+    year: 2022
+    topics:
+      - social
+    type: conference
+    award: ""
+    link: ""
 
   - title: "Understanding Distributed Tutorship in Online Language Tutoring"
     author: "_Meng Xia_, _Yankun Zhao_, _Mehmet Hamza Erol_, _Jihyeong Hong_, _Juho Kim_"
