@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “One more CHI 2022 paper accepted"
+title: One more CHI 2022 paper accepted
 date: 2022-02-08 00:00:00
 author: Admin
 categories: news
