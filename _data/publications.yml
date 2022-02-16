@@ -76,7 +76,7 @@ papers:
       - human-ai-interaction
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-stylette-paper.pdf"
     
   - title: "FitVid: Responsive and Flexible Video Content Adaptation"
     author: "_Jeongyeon Kim_, _Yubin Choi_, Minsuk Kahng, _Juho Kim_"
