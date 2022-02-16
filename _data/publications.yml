@@ -648,7 +648,7 @@ papers:
 
   - title: "FourEyes: Leveraging Tool Diversity as a Means to Improve Aggregate Accuracy in Crowdsourcing"
     author: "_Jean Y. Song_, Raymond Fok, _Juho Kim_, Walter S. Lasecki"
-    venue: "ACM TIIS (in press)"
+    venue: "ACM TIIS"
     year: 2018
     topics:
       - crowdsourcing
