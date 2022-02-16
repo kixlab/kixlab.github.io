@@ -66,7 +66,7 @@ papers:
       - human-ai-interaction
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-promptiverse-paper.pdf"
 
   - title: "Stylette: Styling the Web with Natural Language"
     author: "_Tae Soo Kim_, _DaEun Choi_, _Yoonseo Choi_, _Juho Kim_"
