@@ -25,7 +25,7 @@ papers:
       - social
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/www2022-user-generated-labels-paper.pdf"
 
   - title: "Understanding Distributed Tutorship in Online Language Tutoring"
     author: "_Meng Xia_, _Yankun Zhao_, _Mehmet Hamza Erol_, _Jihyeong Hong_, _Juho Kim_"
