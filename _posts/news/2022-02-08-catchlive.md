@@ -8,4 +8,4 @@ img: default.png
 thumb: default.png
 ---
 
-One more KIXLAB paper “CatchLive: Real-time Summarization of Live Streams with Stream Content and Interaction Data” (led by Saelyne) has been accepted to <a href="https://chi2022.acm.org/">CHI 2022</a>.
+One more KIXLAB paper “CatchLive: Real-time Summarization of Live Streams with Stream Content and Interaction Data” led by Saelyne has been accepted to <a href="https://chi2022.acm.org/">CHI 2022</a>.

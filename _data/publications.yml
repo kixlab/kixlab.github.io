@@ -37,6 +37,17 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2022/lak2022-distributed-tutorship-paper.pdf"
    
+ - title: "“CatchLive: Real-time Summarization of Live Streams with Stream Content and Interaction Data"
+    author: "_Saelyne Yang_, _Jisu Yim_, _Juho Kim_, Hijung Valentina Shin"
+    venue: "CHI 2022"
+    year: 2022
+    topics:
+      - learning
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
   - title: "AlgoSolve: Supporting Subgoal Learning in Algorithmic Problem-Solving with Learnersourced Microtasks"
     author: "_Kabdo Choi_, _Hyungyu Shin_, _Meng Xia_, _Juho Kim_"
     venue: "CHI 2022"
