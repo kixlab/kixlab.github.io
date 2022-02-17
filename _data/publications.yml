@@ -37,7 +37,7 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2022/lak2022-distributed-tutorship-paper.pdf"
    
- - title: "“CatchLive: Real-time Summarization of Live Streams with Stream Content and Interaction Data"
+ - title: "CatchLive: Real-time Summarization of Live Streams with Stream Content and Interaction Data"
     author: "_Saelyne Yang_, _Jisu Yim_, _Juho Kim_, Hijung Valentina Shin"
     venue: "CHI 2022"
     year: 2022
@@ -119,7 +119,7 @@ papers:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/iui2022-SoftVideo-paper.pdf"
 
   - title: "XDesign: Integrating Interface Design into Explainable AI Education"
     author: "_Hyungyu Shin_, _Nabila Sindi_, _Yoonjoo Lee_, _Jaeryoung Ka_, _Jean Y. Song_, _Juho Kim_"
