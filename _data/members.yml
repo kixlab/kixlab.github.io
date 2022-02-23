@@ -117,7 +117,12 @@ positions:
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
 
-
+      - name: Yoonsu Kim
+        lastName: Kim
+        email: "yoonsu16@kaist.ac.kr"
+        career: M.S. Student
+        img: "yoonsu.jpg"
+        site: ""
 
   ## ---------------Undergraduates--------------------
 
