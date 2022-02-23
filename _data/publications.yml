@@ -98,7 +98,7 @@ papers:
       - human-ai-interaction
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-FitVid-paper.pdf "
 
   - title: "Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities"
     author: "_Jeongyeon Kim_, _Yubin Choi_, _Meng Xia_, _Juho Kim_"
@@ -108,7 +108,7 @@ papers:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-mMOOC-paper.pdf"
 
   - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
     author: "_Saelyne Yang_, _Jisu Yim_, _Aitolkyn Baigutanova_, _Seoyoung Kim_, _Minsuk Chang_, _Juho Kim_"
