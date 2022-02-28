@@ -66,7 +66,7 @@ papers:
       - crowdsourcing
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-Cocomix-paper.pdf"
 
   - title: "Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Hybrid Knowledge Graph Annotation"
     author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Tae Soo Kim_, _Jean Y Song_, _Juho Kim_"
