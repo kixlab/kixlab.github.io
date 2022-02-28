@@ -122,6 +122,19 @@ positions:
         email: "yoonsu16@kaist.ac.kr"
         career: M.S. Student
         img: "yoonsu.jpg"
+
+      - name: Kihoon Son
+        lastName: Son
+        email: "gnswn000@gmail.com"
+        career: Research Intern
+        img: "kihoon.jpg"
+        site: "https://kihoonson.com"
+      
+      - name: Seulgi Choi
+        lastname: Choi
+        email: "igules8925@gmail.com"
+        career: M.S. Student
+        img: "seulgi.jpg"
         site: ""
 
   ## ---------------Undergraduates--------------------
@@ -175,13 +188,6 @@ positions:
         email: "skkwak9806@kaist.ac.kr"
         career: Research Intern
         img: "sangkyung.jpg"
-        site: ""
-
-      - name: Seulgi Choi
-        lastname: Choi
-        email: "igules8925@gmail.com"
-        career: Research Intern
-        img: "seulgi.jpg"
         site: ""
 
       - name: Jung In Rhee
