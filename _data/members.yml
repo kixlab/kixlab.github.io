@@ -138,6 +138,13 @@ positions:
         img: "seulgi.jpg"
         site: ""
 
+      - name: Juhoon Lee
+        lastname: Lee
+        email: "juhoonlee@kaist.ac.kr"
+        career: M.S. Student
+        img: "juhoon.jpg"
+        site: ""
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
