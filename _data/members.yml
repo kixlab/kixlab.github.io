@@ -144,6 +144,13 @@ positions:
         career: M.S. Student
         img: "juhoon.jpg"
         site: ""
+        
+      - name: DaEun Choi
+        lastname: Choi
+        email: "daeun.choi@kaist.ac.kr"
+        career: Research Intern
+        img: "daeun.jpg"
+        site: "https://cheddarchoi.github.io/"
 
   ## ---------------Undergraduates--------------------
 
@@ -155,13 +162,6 @@ positions:
         career: Research Intern
         img: "bekzat_tilekbay.jpg"
         site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
-
-      - name: DaEun Choi
-        lastname: Choi
-        email: "daeun.choi@kaist.ac.kr"
-        career: Research Intern
-        img: "daeun.jpg"
-        site: "https://cheddarchoi.github.io/"
 
       - name: Junho Myung
         lastname: Myung
