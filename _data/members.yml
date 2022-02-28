@@ -117,7 +117,12 @@ positions:
         img: "jeongeon.jpg"
         site: "https://jeongeon.me"
 
-
+      - name: Kihoon Son
+        lastName: Son
+        email: "gnswn000@gmail.com"
+        career: Research Intern
+        img: "kihoon.jpg"
+        site: "https://kihoonson.com"
 
   ## ---------------Undergraduates--------------------
 
