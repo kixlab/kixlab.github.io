@@ -115,6 +115,12 @@
                   </div>
                 </p>
                 {% endif %}
+
+                <p class="member-materials">
+                  {% for material in member.materials %}
+                    <a href="{{material.url}}" class="material">{{ material.label }}</a>
+                  {% endfor %}
+                </p>
             </div>            
             {% endif %}
 

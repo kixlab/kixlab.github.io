@@ -136,21 +136,21 @@ positions:
         site: "https://kihoonson.com"
       
       - name: Seulgi Choi
-        lastname: Choi
+        lastName: Choi
         email: "igules8925@gmail.com"
         career: M.S. Student
         img: "seulgi.jpg"
         site: ""
 
       - name: Juhoon Lee
-        lastname: Lee
+        lastName: Lee
         email: "juhoonlee@kaist.ac.kr"
         career: M.S. Student
         img: "juhoon.jpg"
         site: ""
         
       - name: DaEun Choi
-        lastname: Choi
+        lastName: Choi
         email: "daeun.choi@kaist.ac.kr"
         career: M.S. Student
         img: "daeun.jpg"
