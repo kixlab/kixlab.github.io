@@ -49,7 +49,7 @@
     {% if position.positionName contains 'Alumni' %}
       {% assign sorted_members = (position.positionMembers | sort: 'leavingDate' | reverse %}
     {% else %}
-      {% assign sorted_members = (position.positionMembers | sort: 'lastName' 'name'%}  
+      {% assign sorted_members = (position.positionMembers | sort: 'lastName' 'name' %}  
     {% endif %}
     {% for member in sorted_members %}
         <div class='namecard'>
