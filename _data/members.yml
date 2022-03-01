@@ -29,7 +29,7 @@ positions:
       - name: Sung-Chul Lee
         lastName: Lee
         email: leesungchul@kaist.ac.kr
-        career: Ph.D. Student
+        career: Ph.D. Student (co-advised by Prof. Jihee Kim)
         img: sclee.png
         site: ""
 
@@ -110,7 +110,7 @@ positions:
       - name: Haesoo Kim
         lastName: Kim
         email: haesoo1108@gmail.com
-        career: M.S. Student
+        career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
         img: "haesoo.png"
         site: "https://haesookim.info/"
 
@@ -145,7 +145,7 @@ positions:
       - name: Juhoon Lee
         lastName: Lee
         email: "juhoonlee@kaist.ac.kr"
-        career: M.S. Student
+        career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
         img: "juhoon.jpg"
         site: ""
         
@@ -345,7 +345,7 @@ positions:
       - name: Donghoon Han
         lastName: Han
         email: hoonhan.d@kaist.ac.kr
-        career: M.S. Student
+        career: M.S. Student (co-advised by Prof. Alice Oh)
         period: Summer 2018 - Winter 2021
         leavingDate: 2021.02.28
         now: Machine Learning Engineer @ Superb AI
