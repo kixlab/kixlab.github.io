@@ -161,63 +161,63 @@ positions:
   - positionName: Undergraduate Students
     positionMembers:
       - name: Bekzat Tilekbay
-        lastname: Tilekbay
+        lastName: Tilekbay
         email: "tlekbay.b@gmail.com"
         career: Undergrad Intern (KAIST)
         img: "bekzat_tilekbay.jpg"
         site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
 
       - name: Junho Myung
-        lastname: Myung
+        lastName: Myung
         email: "junho00211@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "junhomyung.jpg"
         site: ""
 
       - name: Subeen Park
-        lastname: Park
+        lastName: Park
         email: "psbpsu@snu.ac.kr"
         career: Undergrad Intern (SNU)
         img: "subeen.jpg"
         site: "http://subeen.io/"
 
       - name: Nicole Lee
-        lastname: Lee
+        lastName: Lee
         email: "nicolelee2001@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "nicolelee.jpg"
         site: ""
 
       - name: Inhwa Song
-        lastname: Song
+        lastName: Song
         email: "igreen0485@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "inhwa.jpg"
         site: "https://www.notion.so/greenina/Inhwa-Song-CV-0cb769c9a9314e358cf728c0fe3b1e74"
 
       - name: Sangkyung Kwak
-        lastname: Kwak
+        lastName: Kwak
         email: "skkwak9806@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "sangkyung.jpg"
         site: ""
 
       - name: Yohan Yun
-        lastname: Yun
+        lastName: Yun
         email: "yohanme@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "yohan.jpg"
         site: ""
 
       - name: Yoojin Hong
-        lastname: Hong
+        lastName: Hong
         email: "dbwk18@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "yoojin.jpg"
         site: ""
       
       - name: Jisu Kim
-        lastname: Kim
+        lastName: Kim
         email: "klog104@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "jisu.jpg"
@@ -329,7 +329,7 @@ positions:
 
         # video: "Cs8CSz3-MK0"
       - name: Minsuk Chang
-        lastname: Chang
+        lastName: Chang
         email: minsuk@kaist.ac.kr
         career: Ph.D. Student
         # img: minsuk.jpg
@@ -354,7 +354,7 @@ positions:
             url: "https://www.kixlab.org/files/theses/thesis-ms-2021-hoon.pdf"
 
       - name: Jibon Naher
-        lastname: Naher
+        lastName: Naher
         email: jibon.naher09@gmail.com
         career: M.S. Student
         img: Jibon.jpg
@@ -440,7 +440,7 @@ positions:
         now: Assistant Professor @ Singapore University of Technology and Design
 
       - name: Yi-Ching (Janet) Huang
-        lastname: Huang
+        lastName: Huang
         email: janetyc@gmail.com
         career: Research Scientist
         img: janetyc.jpg
@@ -509,7 +509,7 @@ positions:
 
         
       - name: JeongYoon Shin
-        lastname: Shin
+        lastName: Shin
         email: "jugipalace@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "jeongyoon.jpg"
@@ -518,7 +518,7 @@ positions:
         site: ""
 
       - name: Jung In Rhee
-        lastname: Rhee
+        lastName: Rhee
         email: "ysrheee@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "jungin.jpg"
@@ -527,7 +527,7 @@ positions:
         site: ""
 
       - name: Nurlykhan Kopenov
-        lastname: Kopenov
+        lastName: Kopenov
         email: "knurlykhan@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         period: Summer 2021 - Fall 2021
@@ -535,7 +535,7 @@ positions:
         site: ""
 
       - name: Jeanne Choi
-        lastname: Choi
+        lastName: Choi
         email: "jeannechoi@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         period: Summer 2021 - Fall 2021
@@ -543,7 +543,7 @@ positions:
         site: ""
 
       - name: Mehmet Hamza Erol
-        lastname: Erol
+        lastName: Erol
         email: "mhamzaerol@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         period: Summer 2021 - Fall 2021
@@ -551,7 +551,7 @@ positions:
         site: ""
 
       - name: Seokhun Jeong
-        lastname: Jeong
+        lastName: Jeong
         email: "kunjeong99@naver.com"
         career: Undergrad Intern (KAIST)
         period: Winter 2021 - Fall 2021
@@ -559,7 +559,7 @@ positions:
         site: ""
 
       - name: Elliot Jung
-        lastname: Jung
+        lastName: Jung
         email: "jungdhyun@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         period: Summer 2021 - Fall 2021
@@ -584,7 +584,7 @@ positions:
         site: "https://harmonious-prune-381.notion.site/Jihyeong-Hong-44f4f7033cbb480e944eeaf8fb22b30a"
 
       - name: Jisu Yim
-        lastname: Yim
+        lastName: Yim
         email: "yimjisu99@kaist.ac.kr"
         career: Research Intern
         period: Winter 2021 - Summer 2021
@@ -610,7 +610,7 @@ positions:
         leavingDate: 2021.08.30
 
       - name: June Suk Choi
-        lastname: Choi
+        lastName: Choi
         email: "wchoi403@gmail.com"
         career: Undergrad Intern (KAIST)
         period: Summer 2021
@@ -635,7 +635,7 @@ positions:
         site: ""
 
       - name: Sanghyeon Lee
-        lastname: Lee
+        lastName: Lee
         email: "lsh1107@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         period: Winter 2021 - Summer 2021
@@ -667,17 +667,17 @@ positions:
         # img: "seongha.jpg"
         site: ""
 
-      - name: Juhoon Lee
-        lastname: Lee
-        email: "juhoonlee@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        # img: "juhoon.jpg"
-        period: Winter 2021 - Spring 2021
-        leavingDate: 2021.06.28
-        site: ""
+      # - name: Juhoon Lee
+      #   lastName: Lee
+      #   email: "juhoonlee@kaist.ac.kr"
+      #   career: Undergrad Intern (KAIST)
+      #   # img: "juhoon.jpg"
+      #   period: Winter 2021 - Spring 2021
+      #   leavingDate: 2021.06.28
+      #   site: ""
 
       - name: Intizar Tashov
-        lastname: Tashov
+        lastName: Tashov
         email: intizar.tashov@kaist.ac.kr
         career: Undergrad Intern (KAIST)
         # img: "intizar.png"
@@ -686,7 +686,7 @@ positions:
         site: "https://drive.google.com/file/d/1eRoMy9Urym-LObluYl2PJVmtNYncFZ1c/view?usp=sharing"
 
       - name: Jisu Choi
-        lastname: Choi
+        lastName: Choi
         email: "wltn0029@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         site: ""
@@ -694,7 +694,7 @@ positions:
         leavingDate: 2021.02.28
 
       - name: Youngjae Jang
-        lastname: Jang
+        lastName: Jang
         email: "youngjae.c@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         site: ""
@@ -702,7 +702,7 @@ positions:
         leavingDate: 2021.02.28
 
       - name: Changgeon Ko
-        lastname: Ko
+        lastName: Ko
         email: "pencaty@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         site: ""
@@ -710,7 +710,7 @@ positions:
         leavingDate: 2021.02.28
 
       - name: Anchit Tandon
-        lastname: Tandon
+        lastName: Tandon
         email: "anchit.tandon.iit.delhi@gmail.com"
         career: Undergrad Intern (IIT Delhi)
         img: "anchit.jpg"
@@ -719,7 +719,7 @@ positions:
         leavingDate: 2021.01.15
 
       - name: Umar Taufiqulhakim
-        lastname: Taufiqulhakim
+        lastName: Taufiqulhakim
         email: "umartaufiqul@gmail.com"
         career: Undergrad Intern (KAIST)
         img: "umar.jpg"
