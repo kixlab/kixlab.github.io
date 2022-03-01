@@ -46,6 +46,9 @@ positions:
         career: Ph.D. Student
         img: hyungyu.jpg
         site: "https://hyungyu.com/"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2019-hyungyu.pdf"
 
       - name: Seoyoung Kim
         lastName: Kim
@@ -53,6 +56,9 @@ positions:
         career: Ph.D. Student
         img: seoyoung.jpg
         site: "https://sites.google.com/view/seoyoung/"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2018-seoyoung.pdf"
 
       - name: Hyunwoo Kim
         lastName: Kim
@@ -60,6 +66,9 @@ positions:
         career: Ph.D. Student
         img: "hyunwoo.png"
         site: "https://hyunwoo.me"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2019-hyunwoo.pdf"        
 
       - name: Yoonseo Choi
         lastName: Choi
@@ -67,6 +76,9 @@ positions:
         career: Ph.D. Student
         img: "yoonseo.jpg"
         site: "https://yoonseochoi.com"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2021-yoonseo.pdf"        
 
       - name: Saelyne Yang
         lastName: Yang
@@ -74,6 +86,9 @@ positions:
         career: Ph.D. Student
         img: "saelyne.jpg"
         site: "http://saelyne.com/"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2021-saelyne.pdf"        
 
       - name: Yoonjoo Lee
         lastName: Lee
@@ -85,23 +100,12 @@ positions:
       - name: Tae Soo Kim
         lastName: Kim
         email: kimts0830@gmail.com
-        career: M.S. Student
+        career: Ph.D. Student
         img: "taesoo.jpg"
         site: "https://taesookim.com"
-
-      - name: Jeongyeon Kim
-        lastName: Kim
-        email: "imurs34@kaist.ac.kr"
-        career: M.S. Student
-        img: "jeongyeon.jpg"
-        site: "https://www.jeongyeon.kim/"
-
-      - name: Eun Jeong Kang
-        lastName: Kang
-        email: "eunxkang@gmail.com"
-        career: Research Intern
-        img: "eun.jpg"
-        site: "https://ejjjjkang.github.io/"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"        
 
       - name: Haesoo Kim
         lastName: Kim
@@ -127,7 +131,7 @@ positions:
       - name: Kihoon Son
         lastName: Son
         email: "gnswn000@gmail.com"
-        career: Research Intern
+        career: Graduate Intern (Hanyang University)
         img: "kihoon.jpg"
         site: "https://kihoonson.com"
       
@@ -148,7 +152,7 @@ positions:
       - name: DaEun Choi
         lastname: Choi
         email: "daeun.choi@kaist.ac.kr"
-        career: Research Intern
+        career: M.S. Student
         img: "daeun.jpg"
         site: "https://cheddarchoi.github.io/"
 
@@ -159,84 +163,70 @@ positions:
       - name: Bekzat Tilekbay
         lastname: Tilekbay
         email: "tlekbay.b@gmail.com"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "bekzat_tilekbay.jpg"
         site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
 
       - name: Junho Myung
         lastname: Myung
         email: "junho00211@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "junhomyung.jpg"
         site: ""
 
       - name: Subeen Park
         lastname: Park
         email: "psbpsu@snu.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (SNU)
         img: "subeen.jpg"
         site: "http://subeen.io/"
 
       - name: Nicole Lee
         lastname: Lee
         email: "nicolelee2001@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "nicolelee.jpg"
         site: ""
 
       - name: Inhwa Song
         lastname: Song
         email: "igreen0485@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "inhwa.jpg"
         site: "https://www.notion.so/greenina/Inhwa-Song-CV-0cb769c9a9314e358cf728c0fe3b1e74"
 
       - name: Sangkyung Kwak
         lastname: Kwak
         email: "skkwak9806@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "sangkyung.jpg"
-        site: ""
-
-      - name: Jung In Rhee
-        lastname: Rhee
-        email: "ysrheee@kaist.ac.kr"
-        career: Research Intern
-        img: "jungin.jpg"
         site: ""
 
       - name: Yohan Yun
         lastname: Yun
         email: "yohanme@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "yohan.jpg"
-        site: ""
-
-      - name: JeongYoon Shin
-        lastname: Shin
-        email: "jugipalace@kaist.ac.kr"
-        career: Research Intern
-        img: "jeongyoon.jpg"
         site: ""
 
       - name: Yoojin Hong
         lastname: Hong
         email: "dbwk18@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "yoojin.jpg"
         site: ""
       
       - name: Jisu Kim
         lastname: Kim
         email: "klog104@kaist.ac.kr"
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "jisu.jpg"
         site: ""
 
       - name: Hyoungwook Jin
         lastName: Jin
         email: jinhw@kaist.ac.kr
-        career: Research Intern
+        career: Undergrad Intern (KAIST)
         img: "hyoungwook.jpg"
         site: "https://jhw123.github.io"
 
@@ -254,6 +244,27 @@ positions:
   - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
     positionMembers:
 
+      - name: Jeongyeon Kim
+        lastName: Kim
+        email: "imurs34@kaist.ac.kr"
+        career: Researcher & M.S. Student
+        img: "jeongyeon.jpg"
+        site: "https://www.jeongyeon.kim/"
+        period: Summer 2019 - Winter 2022
+        leavingDate: 2022.02.28
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2022-jeongyeon.pdf"
+
+      - name: Eun Jeong Kang
+        lastName: Kang
+        email: "eunxkang@gmail.com"
+        career: M.S.Intern & Researcher
+        img: "eun.jpg"
+        site: "https://ejjjjkang.github.io/"
+        period: Summer 2020 - Winter 2022
+        leavingDate: 2022.02.28
+
       - name: Meng Xia
         lastName: Xia
         email: iris.xia@connect.ust.hk
@@ -266,7 +277,7 @@ positions:
       - name: Mina Huh
         lastName: Huh
         email: "mina1004h@gmail.com"
-        career: Undergrad Intern & Researcher (KAIST)
+        career: Undergrad Intern (KAIST) & Researcher
         period: Winter 2020 - Summer 2021
         leavingDate: 2021.09.17
         site: "https://minarainbow.github.io/"
@@ -357,17 +368,25 @@ positions:
       - name: Jisoo Lee
         lastName: Lee
         email: "jisoolee@kaist.ac.kr"
-        career: Research Intern
+        career: Researcher
         img: "jisoo.jpg"
         site: "https://jisoolee0123.github.io"
         period: Summer 2019 - Spring 2020
         leavingDate: 2020.07.15
         now: Engineer @ Krafton
 
+      - name: Toni-Jan Keith Monserrat
+        lastName: Monserrat
+        email: tpmonserrat@up.edu.ph
+        career: Visiting Ph.D. Researcher (UPLB)
+        img: "tjmonsi.jpg"
+        period: Summer 2019
+        leavingDate: 2019.08.16
+
       - name: Arti Thakur
         lastName: Thakur
         email: athakur36@gmail.com
-        career: Research Intern
+        career: Researcher
         img: arti.JPG
         site: "https://sites.google.com/view/artithakur"
         period: Fall 2017 - Spring 2019
@@ -377,7 +396,7 @@ positions:
       - name: Evey Huang
         lastName: Huang
         email: jiaxinh.evey@gmail.com
-        career: Research Intern
+        career: Researcher
         img: evey.jpg
         site: "https://eveyhuang.myportfolio.com"
         period: Summer 2018 - Spring 2019
@@ -433,12 +452,21 @@ positions:
       - name: Ray Hong
         lastName: Hong
         email: rh3003@nyu.edu
-        career: Visiting Researcher (UW)
+        career: Visiting Ph.D. Researcher (UW)
         img: arti.JPG
         site: "http://rayhong.net/"
         period: Summer 2017, Summer 2018
         leavingDate: 2018.08.31
         now: Assistant Professor @ George Mason University
+
+      - name: Mercedes Huertas
+        lastName: Huertas
+        email: mdlm.huertas@unitn.it
+        career: Visiting Ph.D. Researcher (University of Trento)
+        img: mercedes.jpg
+        site: ""
+        period: Winter 2018-Spring 2018
+        leavingDate: 2018.06.29
 
       - name: Paul Grau
         lastName: Grau
@@ -457,7 +485,7 @@ positions:
       - name: John Chung
         lastName: Chung
         email: johnr0hol@gmail.com
-        career: Undergrad Intern (SNU)
+        career: Undergrad Intern (SNU) & Researcher
         img: "john.jpg"
         site: "http://johnr0.github.io"
         period: Spring 2017-Spring 2018
@@ -478,6 +506,26 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+
+        
+      - name: JeongYoon Shin
+        lastname: Shin
+        email: "jugipalace@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jeongyoon.jpg"
+        period: Winter 2022
+        leavingDate: 2022.03.11
+        site: ""
+
+      - name: Jung In Rhee
+        lastname: Rhee
+        email: "ysrheee@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jungin.jpg"
+        period: Winter 2022
+        leavingDate: 2022.02.28
+        site: ""
+
       - name: Nurlykhan Kopenov
         lastname: Kopenov
         email: "knurlykhan@kaist.ac.kr"
@@ -691,7 +739,7 @@ positions:
       - name: Eunseo Choi
         lastName: Choi
         email: "eschoie97@gmail.com"
-        career: Research Intern
+        career: Graduate Intern
         img: "eunseo.jpg"
         site: ""
         period: Summer 2020
@@ -851,14 +899,6 @@ positions:
         leavingDate: 2019.08.30
         now: M.S. Student @ KAIST
 
-      - name: Toni-Jan Keith Monserrat
-        lastName: Monserrat
-        email: tpmonserrat@up.edu.ph
-        career: Visiting Ph.D. Student (UPLB)
-        img: "tjmonsi.jpg"
-        period: Summer 2019
-        leavingDate: 2019.08.16
-
       - name: Yejun Kim
         lastName: Kim
         email: yejun.carl.kim@gmail.com
@@ -954,15 +994,6 @@ positions:
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
         now: M.S. Student @ KAIST
-
-      - name: Mercedes Huertas
-        lastName: Huertas
-        email: mdlm.huertas@unitn.it
-        career: Visiting Ph.D. Student (University of Trento)
-        img: mercedes.jpg
-        site: ""
-        period: Winter 2018-Spring 2018
-        leavingDate: 2018.06.29
 
       - name: Seayeon Lee
         lastName: Lee
