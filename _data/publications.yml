@@ -56,7 +56,7 @@ papers:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-AlgoSolve-paper.pdf"
 
   - title: "Cocomix: Utilizing Comments to Improve Non-Visual Webtoon Accessibility"
     author: "_Mina Huh_, _Yunjung Lee_, _Dasom Choi_, _Haesoo Kim_, _Uran Oh_, _Juho Kim_"
@@ -66,7 +66,7 @@ papers:
       - crowdsourcing
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-Cocomix-paper.pdf"
 
   - title: "Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Hybrid Knowledge Graph Annotation"
     author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Tae Soo Kim_, _Jean Y Song_, _Juho Kim_"
@@ -98,7 +98,7 @@ papers:
       - human-ai-interaction
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-FitVid-paper.pdf "
 
   - title: "Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities"
     author: "_Jeongyeon Kim_, _Yubin Choi_, _Meng Xia_, _Juho Kim_"
@@ -108,7 +108,7 @@ papers:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-mMOOC-paper.pdf"
 
   - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
     author: "_Saelyne Yang_, _Jisu Yim_, _Aitolkyn Baigutanova_, _Seoyoung Kim_, _Minsuk Chang_, _Juho Kim_"
