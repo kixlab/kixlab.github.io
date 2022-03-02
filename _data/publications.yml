@@ -56,7 +56,7 @@ papers:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-AlgoSolve-paper.pdf"
 
   - title: "Cocomix: Utilizing Comments to Improve Non-Visual Webtoon Accessibility"
     author: "_Mina Huh_, _Yunjung Lee_, _Dasom Choi_, _Haesoo Kim_, _Uran Oh_, _Juho Kim_"
