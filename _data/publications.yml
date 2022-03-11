@@ -17,6 +17,18 @@ types:
   - journal
 
 papers:
+  - title: "ReviewAid: A Scaffolded Approach to Supporting Readers’ Evaluation of Health News"
+    author: "_Eun-Young Ko_, _Yeonsu Kim_, _Juho Kim_"
+    venue: "ICLS 2022"
+    year: 2022
+    topics:
+      - learning
+      - social
+      - civics
+    type: conference
+    award: ""
+    link: ""
+
   - title: "Capturing Diverse and Precise Reactions to a Comment with User-Generated Labels"
     author: "_Eun-Young Ko_, _Eunseo Choi_, _Jeong-woo Jang_, _Juho Kim_"
     venue: "TheWebConf 2022"
