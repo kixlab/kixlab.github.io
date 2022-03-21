@@ -17,6 +17,16 @@ types:
   - journal
 
 papers:
+  - title: "Techniques for Semantic Search and Comparison for Robotic Surgery Videos"
+    author: "_Jeongyeon Kim_, _DaEun Choi_, _Matthew Beane_, _Juho Kim_"
+    venue: "CHI 2022 Workshop on Integration of Human Factors in Surgery: Interdisciplinary Collaboration in Design, Development, and Evaluation of Surgical Technologies"
+    year: 2022
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: ""
+
   - title: "ReviewAid: A Scaffolded Approach to Supporting Readers’ Evaluation of Health News"
     author: "_Eun-Young Ko_, _Yeonsu Kim_, _Juho Kim_"
     venue: "ICLS 2022"
