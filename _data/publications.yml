@@ -17,6 +17,17 @@ types:
   - journal
 
 papers:
+
+  - title: "RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship"
+    author: "_Meng Xia_, _Yankun Zhao_, _Jihyeong Hong_, _Mehmet Hamza Erol_, _Taewook Kim_, _Juho Kim_"
+    venue: "Learning at Scale 2022"
+    year: 2022
+    topics:
+      - learning
+    type: conference
+    award: ""
+    link: ""
+
   - title: "Techniques for Semantic Search and Comparison for Robotic Surgery Videos"
     author: "_Jeongyeon Kim_, _DaEun Choi_, _Matthew Beane_, _Juho Kim_"
     venue: "CHI 2022 Workshop on Integration of Human Factors in Surgery: Interdisciplinary Collaboration in Design, Development, and Evaluation of Surgical Technologies"
@@ -424,7 +435,7 @@ papers:
 
   - title: "AlgoPlan: Supporting Planning in Algorithmic Problem-Solving with Subgoal Diagrams"
     author: "_Kabdo Choi_, _Sally Chen_, _Hyungyu Shin_, Jinho Son, _Juho Kim_"
-    venue: "Learning @ Scale 2020 (Work-in-Progress)"
+    venue: "Learning at Scale 2020 (Work-in-Progress)"
     year: 2020
     topics:
       - learning
@@ -588,7 +599,7 @@ papers:
 
   - title: "Supporting Instruction of Formulaic Sequences Using Videos at Scale"
     author: "_Kyung Je Jo_, _Hyeonggeun Yun_, _Juho Kim_"
-    venue: "Learning @ Scale 2019 (Work-in-Progress)"
+    venue: "Learning at Scale 2019 (Work-in-Progress)"
     year: 2019
     topics:
       - learning
