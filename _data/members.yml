@@ -174,13 +174,6 @@ positions:
         img: "junhomyung.jpg"
         site: ""
 
-      - name: Subeen Park
-        lastName: Park
-        email: "psbpsu@snu.ac.kr"
-        career: Undergrad Intern (SNU)
-        img: "subeen.jpg"
-        site: "http://subeen.io/"
-
       - name: Nicole Lee
         lastName: Lee
         email: "nicolelee2001@kaist.ac.kr"
@@ -506,7 +499,12 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
-
+      - name: Subeen Park
+        lastName: Park
+        email: "psbpsu@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "subeen.jpg"
+        site: "http://subeen.io/"
         
       - name: JeongYoon Shin
         lastName: Shin
