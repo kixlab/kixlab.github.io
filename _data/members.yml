@@ -503,7 +503,8 @@ positions:
         lastName: Park
         email: "psbpsu@snu.ac.kr"
         career: Undergrad Intern (SNU)
-        img: "subeen.jpg"
+        period: Summer 2021 - Spring 2022
+        leavingDate: 2022.03.25
         site: "http://subeen.io/"
         
       - name: JeongYoon Shin
