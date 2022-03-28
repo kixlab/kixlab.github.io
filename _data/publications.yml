@@ -17,7 +17,6 @@ types:
   - journal
 
 papers:
-
   - title: "RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship"
     author: "_Meng Xia_, _Yankun Zhao_, _Jihyeong Hong_, _Mehmet Hamza Erol_, _Taewook Kim_, _Juho Kim_"
     venue: "Learning at Scale 2022"
@@ -79,7 +78,7 @@ papers:
       - human-ai-interaction
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-CatchLive-paper.pdf"
 
   - title: "AlgoSolve: Supporting Subgoal Learning in Algorithmic Problem-Solving with Learnersourced Microtasks"
     author: "_Kabdo Choi_, _Hyungyu Shin_, _Meng Xia_, _Juho Kim_"
