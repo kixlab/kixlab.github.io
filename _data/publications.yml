@@ -87,6 +87,9 @@ papers:
       - learning
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "project website"
+        url: "https://catchlive.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-CatchLive-paper.pdf"
 
@@ -160,6 +163,9 @@ papers:
       - datamining
       - learning
     type: conference
+    materials:
+      - label: "project website"
+        url: "https://softvideo.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/iui2022-SoftVideo-paper.pdf"
 
