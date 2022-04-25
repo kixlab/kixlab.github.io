@@ -121,6 +121,9 @@ papers:
       - learning
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "project website"
+        url: "https://promptiverse.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-promptiverse-paper.pdf"
 
