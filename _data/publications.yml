@@ -27,7 +27,7 @@ papers:
       - civics
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/icls2022-ReviewAid-paper.pdf"
 
   - title: "Capturing Diverse and Precise Reactions to a Comment with User-Generated Labels"
     author: "_Eun-Young Ko_, _Eunseo Choi_, _Jeong-woo Jang_, _Juho Kim_"
