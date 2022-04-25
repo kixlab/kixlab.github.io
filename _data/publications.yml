@@ -17,6 +17,36 @@ types:
   - journal
 
 papers:
+  - title: "Improving Video Interfaces by Presenting Informational Units of Videos"
+    author: "_Saelyne Yang_, _Sangkyung Kwak_, _Tae Soo Kim_, _Juho Kim_"
+    venue: "CHI 2022 Workshop on Computational Approaches for Understanding, Generating, and Adapting User Interfaces"
+    year: 2022
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-workshop-StarLab-paper.pdf"
+
+  - title: "RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship"
+    author: "_Meng Xia_, _Yankun Zhao_, _Jihyeong Hong_, _Mehmet Hamza Erol_, _Taewook Kim_, _Juho Kim_"
+    venue: "Learning at Scale 2022"
+    year: 2022
+    topics:
+      - learning
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "Techniques for Semantic Search and Comparison for Robotic Surgery Videos"
+    author: "_Jeongyeon Kim_, _DaEun Choi_, _Matthew Beane_, _Juho Kim_"
+    venue: "CHI 2022 Workshop on Integration of Human Factors in Surgery: Interdisciplinary Collaboration in Design, Development, and Evaluation of Surgical Technologies"
+    year: 2022
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: ""
+
   - title: "ReviewAid: A Scaffolded Approach to Supporting Readers’ Evaluation of Health News"
     author: "_Eun-Young Ko_, _Yeonsu Kim_, _Juho Kim_"
     venue: "ICLS 2022"
@@ -57,8 +87,11 @@ papers:
       - learning
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "project website"
+        url: "https://catchlive.kixlab.org/"
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-CatchLive-paper.pdf"
 
   - title: "AlgoSolve: Supporting Subgoal Learning in Algorithmic Problem-Solving with Learnersourced Microtasks"
     author: "_Kabdo Choi_, _Hyungyu Shin_, _Meng Xia_, _Juho Kim_"
@@ -98,7 +131,7 @@ papers:
     topics:
       - human-ai-interaction
     type: conference
-    award: ""
+    award: "Honorable Mention"
     link: "https://kixlab.github.io/website-files/2022/chi2022-stylette-paper.pdf"
 
   - title: "FitVid: Responsive and Flexible Video Content Adaptation"
@@ -119,7 +152,7 @@ papers:
     topics:
       - learning
     type: conference
-    award: ""
+    award: "Best Paper"
     link: "https://kixlab.github.io/website-files/2022/chi2022-mMOOC-paper.pdf"
 
   - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
@@ -130,6 +163,9 @@ papers:
       - datamining
       - learning
     type: conference
+    materials:
+      - label: "project website"
+        url: "https://softvideo.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/iui2022-SoftVideo-paper.pdf"
 
@@ -414,7 +450,7 @@ papers:
 
   - title: "AlgoPlan: Supporting Planning in Algorithmic Problem-Solving with Subgoal Diagrams"
     author: "_Kabdo Choi_, _Sally Chen_, _Hyungyu Shin_, Jinho Son, _Juho Kim_"
-    venue: "Learning @ Scale 2020 (Work-in-Progress)"
+    venue: "Learning at Scale 2020 (Work-in-Progress)"
     year: 2020
     topics:
       - learning
@@ -578,7 +614,7 @@ papers:
 
   - title: "Supporting Instruction of Formulaic Sequences Using Videos at Scale"
     author: "_Kyung Je Jo_, _Hyeonggeun Yun_, _Juho Kim_"
-    venue: "Learning @ Scale 2019 (Work-in-Progress)"
+    venue: "Learning at Scale 2019 (Work-in-Progress)"
     year: 2019
     topics:
       - learning

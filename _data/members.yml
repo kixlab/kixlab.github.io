@@ -119,7 +119,7 @@ positions:
         email: "jeongeon.park@kaist.ac.kr"
         career: M.S. Student
         img: "jeongeon.jpg"
-        site: "https://jeongeon.me"
+        site: "https://jeongeonpark.com"
 
       - name: Yoonsu Kim
         lastName: Kim
@@ -173,13 +173,6 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "junhomyung.jpg"
         site: ""
-
-      - name: Subeen Park
-        lastName: Park
-        email: "psbpsu@snu.ac.kr"
-        career: Undergrad Intern (SNU)
-        img: "subeen.jpg"
-        site: "http://subeen.io/"
 
       - name: Nicole Lee
         lastName: Lee
@@ -506,7 +499,13 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
-
+      - name: Subeen Park
+        lastName: Park
+        email: "psbpsu@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        period: Summer 2021 - Spring 2022
+        leavingDate: 2022.03.25
+        site: "http://subeen.io/"
         
       - name: JeongYoon Shin
         lastName: Shin
