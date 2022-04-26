@@ -28,7 +28,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2022/chi2022-workshop-StarLab-paper.pdf"
 
   - title: "RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship"
-    author: "_Meng Xia_, _Yankun Zhao_, _Jihyeong Hong_, _Mehmet Hamza Erol_, _Taewook Kim_, _Juho Kim_"
+    author: "_Meng Xia_, Yankun Zhao, _Jihyeong Hong_, _Mehmet Hamza Erol_, _Taewook Kim_, _Juho Kim_"
     venue: "Learning at Scale 2022"
     year: 2022
     topics:
@@ -38,7 +38,7 @@ papers:
     link: ""
 
   - title: "Techniques for Semantic Search and Comparison for Robotic Surgery Videos"
-    author: "_Jeongyeon Kim_, _DaEun Choi_, _Matthew Beane_, _Juho Kim_"
+    author: "_Jeongyeon Kim_, _DaEun Choi_, Matthew Beane, _Juho Kim_"
     venue: "CHI 2022 Workshop on Integration of Human Factors in Surgery: Interdisciplinary Collaboration in Design, Development, and Evaluation of Surgical Technologies"
     year: 2022
     topics:
@@ -60,7 +60,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2022/icls2022-ReviewAid-paper.pdf"
 
   - title: "Capturing Diverse and Precise Reactions to a Comment with User-Generated Labels"
-    author: "_Eun-Young Ko_, _Eunseo Choi_, _Jeong-woo Jang_, _Juho Kim_"
+    author: "_Eun-Young Ko_, _Eunseo Choi_, Jeong-woo Jang, _Juho Kim_"
     venue: "TheWebConf 2022"
     year: 2022
     topics:
@@ -70,7 +70,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2022/www2022-user-generated-labels-paper.pdf"
 
   - title: "Understanding Distributed Tutorship in Online Language Tutoring"
-    author: "_Meng Xia_, _Yankun Zhao_, _Mehmet Hamza Erol_, _Jihyeong Hong_, _Juho Kim_"
+    author: "_Meng Xia_, Yankun Zhao, _Mehmet Hamza Erol_, _Jihyeong Hong_, _Juho Kim_"
     venue: "LAK 2022"
     year: 2022
     topics:
@@ -104,7 +104,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2022/chi2022-AlgoSolve-paper.pdf"
 
   - title: "Cocomix: Utilizing Comments to Improve Non-Visual Webtoon Accessibility"
-    author: "_Mina Huh_, _Yunjung Lee_, _Dasom Choi_, _Haesoo Kim_, _Uran Oh_, _Juho Kim_"
+    author: "_Mina Huh_, Yunjung Lee, Dasom Choi, _Haesoo Kim_, Uran Oh, _Juho Kim_"
     venue: "CHI 2022"
     year: 2022
     topics:
@@ -114,7 +114,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2022/chi2022-Cocomix-paper.pdf"
 
   - title: "Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Hybrid Knowledge Graph Annotation"
-    author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Tae Soo Kim_, _Jean Y Song_, _Juho Kim_"
+    author: "_Yoonjoo Lee_, John Joon Young Chung, _Tae Soo Kim_, Jean Y Song, _Juho Kim_"
     venue: "CHI 2022"
     year: 2022
     topics:
