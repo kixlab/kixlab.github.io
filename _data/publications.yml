@@ -134,6 +134,9 @@ papers:
     topics:
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "project website"
+        url: "https://stylette.kixlab.org/"
     award: "Honorable Mention"
     link: "https://kixlab.github.io/website-files/2022/chi2022-stylette-paper.pdf"
 
