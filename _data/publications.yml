@@ -127,6 +127,8 @@ papers:
       - human-ai-interaction
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3491102.3502087"
       - label: "project website"
         url: "https://promptiverse.kixlab.org/"
     award: ""
@@ -140,6 +142,8 @@ papers:
       - human-ai-interaction
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3491102.3501931"
       - label: "project website"
         url: "https://stylette.kixlab.org/"
     award: "Honorable Mention"
