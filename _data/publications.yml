@@ -88,8 +88,13 @@ papers:
       - human-ai-interaction
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3491102.3517461"
       - label: "project website"
         url: "https://catchlive.kixlab.org/"
+      - label: "video presentation"
+        url: "https://youtu.be/M7AOIPKDc20"
+
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-CatchLive-paper.pdf"
 
@@ -170,6 +175,8 @@ papers:
       - learning
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3490099.3511106"
       - label: "project website"
         url: "https://softvideo.kixlab.org/"
     award: ""
