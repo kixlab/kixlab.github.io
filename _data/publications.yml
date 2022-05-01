@@ -66,6 +66,11 @@ papers:
     topics:
       - social
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"
+      - label: "project website"
+        url: "https://reaction.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/www2022-user-generated-labels-paper.pdf"
 
