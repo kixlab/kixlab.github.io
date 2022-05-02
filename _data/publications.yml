@@ -83,6 +83,9 @@ papers:
     topics:
       - learning
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"    
     award: ""
     link: "https://kixlab.github.io/website-files/2022/lak2022-distributed-tutorship-paper.pdf"
 
@@ -101,7 +104,6 @@ papers:
         url: "https://catchlive.kixlab.org/"
       - label: "video presentation"
         url: "https://youtu.be/M7AOIPKDc20"
-
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-CatchLive-paper.pdf"
 
@@ -112,6 +114,11 @@ papers:
     topics:
       - learning
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3501917"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=ATUML6ry3ng"    
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-AlgoSolve-paper.pdf"
 
@@ -122,6 +129,11 @@ papers:
     topics:
       - crowdsourcing
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3502081"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=Oj7K7AAGudc"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-Cocomix-paper.pdf"
 
@@ -138,6 +150,8 @@ papers:
         url: "https://dl.acm.org/doi/10.1145/3491102.3502087"
       - label: "project website"
         url: "https://promptiverse.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=jvtsD73-Hqw"        
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-promptiverse-paper.pdf"
 
@@ -153,7 +167,9 @@ papers:
         url: "https://dl.acm.org/doi/10.1145/3491102.3501931"
       - label: "project website"
         url: "https://stylette.kixlab.org/"
-    award: "Honorable Mention"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=7ZJZpIW9FHc"     
+    award: "Honorable Mention Award"
     link: "https://kixlab.github.io/website-files/2022/chi2022-stylette-paper.pdf"
 
   - title: "FitVid: Responsive and Flexible Video Content Adaptation"
@@ -164,6 +180,13 @@ papers:
       - learning
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3501948"
+      - label: "project website"
+        url: "https://fitvid.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=UvPo2A_jvK8"         
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-FitVid-paper.pdf "
 
@@ -174,7 +197,14 @@ papers:
     topics:
       - learning
     type: conference
-    award: "Best Paper"
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3502054"
+      - label: "project website"
+        url: "https://mobilemooc.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=G7RDBplEP6Y"        
+    award: "Best Paper Award"
     link: "https://kixlab.github.io/website-files/2022/chi2022-mMOOC-paper.pdf"
 
   - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
@@ -201,6 +231,13 @@ papers:
       - human-ai-interaction
       - learning
     type: poster
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3478432.3499052"
+      - label: "project website"
+        url: "https://xdesign.kixlab.org/"  
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=SPPaYUM1nrA"               
     award: ""
     link: "https://kixlab.github.io/website-files/2022/sigcse2022-poster-XDesign-paper.pdf"
 
