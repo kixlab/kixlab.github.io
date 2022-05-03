@@ -35,7 +35,7 @@ papers:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/l@s2022-RLens-paper.pdf"
 
   - title: "Techniques for Semantic Search and Comparison for Robotic Surgery Videos"
     author: "_Jeongyeon Kim_, _DaEun Choi_, Matthew Beane, _Juho Kim_"
@@ -85,7 +85,9 @@ papers:
     type: conference
     materials:
       - label: "acm dl"
-        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"    
+        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"   
+      - label: "video presentation"
+        url: "https://youtu.be/hcPImSUs8cQ"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/lak2022-distributed-tutorship-paper.pdf"
 
