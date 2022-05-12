@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+    <body class="site teachersday-event page-{{page.path | slugify}}">
+        {% include header.html %}
+
+        <main class="main teachersday-event">
+            <div class="wrap">
+                <div class="teachersday-banner">
+                    <img 
+                    class="lazy img-responsive photo"
+                    src="{{ site.baseurl }}/assets/img/banner.png"
+                    alt="Photo of Juho in a carnation"/>
+                    <span class="caption">With love, from KIXLAB</span>
+
+                </div>
+                
+                {% include teachersday2022.html %}
+            </div>
+        </main>
+
+        
+        {% include footer.html %}
+
+        {% include js.html %}
+    </body>
+</html>
+

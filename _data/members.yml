@@ -14,6 +14,7 @@ positions:
         career: Associate Professor
         img: juhokim.jpg
         site: http://juhokim.com/
+        message: "Supreme Leader at KIXLAB <br/> Our single most best amazing advisor"
 
       - name: Dae Hyun Kim
         lastName: Kim
@@ -96,6 +97,7 @@ positions:
         career: Ph.D. Student
         img: "yoonjoo.jpg"
         site: "https://yoonjoolee.com/"
+        message: Another test message
 
       - name: Tae Soo Kim
         lastName: Kim
@@ -106,6 +108,7 @@ positions:
         materials:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"
+        message: "test message to see if this works"
 
       - name: Haesoo Kim
         lastName: Kim
@@ -113,6 +116,7 @@ positions:
         career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
         img: "haesoo.png"
         site: "https://haesookim.info/"
+        message: "Best advisor 2k22 (and in all the other years as well ;)) WE MISS YOU DEARLY!! Thanks so much for all the support and love you've shown us throughout the years!!"
 
       - name: Jeongeon Park
         lastName: Park
