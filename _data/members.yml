@@ -20,7 +20,7 @@ positions:
         email: "dhkim16@cs.stanford.edu"
         career: Postdoctoral Fellow
         img: "daehyun.jpg"
-        site: "https://dhkim16.github.io/"        
+        site: "https://dhkim16.github.io/"
 
   ## --------------Graduate Students and Researchers ------------------
 
@@ -68,7 +68,7 @@ positions:
         site: "https://hyunwoo.me"
         materials:
           - label: "M.S. thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2019-hyunwoo.pdf"        
+            url: "http://kixlab.org/files/theses/thesis-ms-2019-hyunwoo.pdf"
 
       - name: Yoonseo Choi
         lastName: Choi
@@ -78,7 +78,7 @@ positions:
         site: "https://yoonseochoi.com"
         materials:
           - label: "M.S. thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2021-yoonseo.pdf"        
+            url: "http://kixlab.org/files/theses/thesis-ms-2021-yoonseo.pdf"
 
       - name: Saelyne Yang
         lastName: Yang
@@ -88,7 +88,8 @@ positions:
         site: "http://saelyne.com/"
         materials:
           - label: "M.S. thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2021-saelyne.pdf"        
+            url: "http://kixlab.org/files/theses/thesis-ms-2021-saelyne.pdf"
+          - label: "Hello how are you happy teacher's day! Hello how are you happy teacher's day!"
 
       - name: Yoonjoo Lee
         lastName: Lee
@@ -105,7 +106,7 @@ positions:
         site: "https://taesookim.com"
         materials:
           - label: "M.S. thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"        
+            url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"
 
       - name: Haesoo Kim
         lastName: Kim
@@ -134,7 +135,7 @@ positions:
         career: Graduate Intern (Hanyang University)
         img: "kihoon.jpg"
         site: "https://kihoonson.com"
-      
+
       - name: Seulgi Choi
         lastName: Choi
         email: "igules8925@gmail.com"
@@ -148,7 +149,7 @@ positions:
         career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
         img: "juhoon.jpg"
         site: ""
-        
+
       - name: DaEun Choi
         lastName: Choi
         email: "daeun.choi@kaist.ac.kr"
@@ -208,7 +209,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "yoojin.jpg"
         site: ""
-      
+
       - name: Jisu Kim
         lastName: Kim
         email: "klog104@kaist.ac.kr"
@@ -236,7 +237,6 @@ positions:
 
   - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
     positionMembers:
-
       - name: Jeongyeon Kim
         lastName: Kim
         email: "imurs34@kaist.ac.kr"
@@ -305,7 +305,7 @@ positions:
         leavingDate: 2021.06.30
         #img: profile_jean.jpg
         site: https://jyskwon.github.io/
-        now: Assistant Professor @ DGIST     
+        now: Assistant Professor @ DGIST
 
       - name: Kyung Je Jo
         lastName: Jo
@@ -333,7 +333,7 @@ positions:
         now: Research Scientist @ Naver AI Lab
         materials:
           - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-phd-2021-minsuk.pdf"   
+            url: "http://kixlab.org/files/theses/thesis-phd-2021-minsuk.pdf"
 
       - name: Donghoon Han
         lastName: Han
@@ -484,7 +484,7 @@ positions:
         period: Spring 2017-Spring 2018
         leavingDate: 2018.06.29
         now: Ph.D. Student @ University of Michigan
-      
+
       - name: Yoo Jin Lim
         lastName: Lim
         email: yjlim@kaist.ac.kr
@@ -493,9 +493,6 @@ positions:
         site: ""
         period: Fall 2016–Winter 2017
         leavingDate: 2017.02.28
-
-
-
 
   - positionName: Alumni (Interns)
     positionMembers:
@@ -506,7 +503,7 @@ positions:
         period: Summer 2021 - Spring 2022
         leavingDate: 2022.03.25
         site: "http://subeen.io/"
-        
+
       - name: JeongYoon Shin
         lastName: Shin
         email: "jugipalace@kaist.ac.kr"
