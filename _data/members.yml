@@ -161,13 +161,6 @@ positions:
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Bekzat Tilekbay
-        lastName: Tilekbay
-        email: "tlekbay.b@gmail.com"
-        career: Undergrad Intern (KAIST)
-        img: "bekzat_tilekbay.jpg"
-        site: "https://drive.google.com/file/d/1zBUWe56MP4QkGU50V-s9Mo7_a2b_zN65/view?usp=sharing"
-
       - name: Junho Myung
         lastName: Myung
         email: "junho00211@kaist.ac.kr"
@@ -496,6 +489,14 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Bekzat Tilekbay
+        lastName: Tilekbay
+        email: "tlekbay.b@gmail.com"
+        career: Undergrad Intern (KAIST)
+        img: "bekzat_tilekbay.jpg"
+        period: Winter 2021 - Spring 2022
+        leavingDate: 2022.04.25
+
       - name: Subeen Park
         lastName: Park
         email: "psbpsu@snu.ac.kr"
