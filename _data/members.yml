@@ -14,6 +14,7 @@ positions:
         career: Associate Professor
         img: juhokim.jpg
         site: http://juhokim.com/
+        message: "Supreme Leader at KIXLAB <br/> Our single most best amazing advisor"
 
       - name: Dae Hyun Kim
         lastName: Kim
@@ -21,6 +22,7 @@ positions:
         career: Postdoctoral Fellow
         img: "daehyun.jpg"
         site: "https://dhkim16.github.io/"
+        message: "Thank you for your continued support throughout my career, ever since our first encounter in 2015-16. Very fortunate that our paths crossed -- I continue to learn a lot from your mentorship and have no doubt that I will learn a lot from you in the coming days ahead."
 
   ## --------------Graduate Students and Researchers ------------------
 
@@ -32,6 +34,7 @@ positions:
         career: Ph.D. Student (co-advised by Prof. Jihee Kim)
         img: sclee.png
         site: ""
+        message: "Thank you, Juho!"
 
       - name: Eunyoung Ko
         lastName: Ko
@@ -39,6 +42,7 @@ positions:
         career: Ph.D. Student
         img: "eunyoung.jpg"
         site: https://eunyoungko.com/
+        message: "Thank you, Juho!"
 
       - name: Hyungyu Shin
         lastName: Shin
@@ -49,6 +53,7 @@ positions:
         materials:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2019-hyungyu.pdf"
+        message: "I cannot live wihout Juho"
 
       - name: Seoyoung Kim
         lastName: Kim
@@ -59,6 +64,7 @@ positions:
         materials:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2018-seoyoung.pdf"
+        message: "Always thank you for your caring and attention despite the tons of things you have to do! I feel lucky to be advised by you and be in KIXLAB!!"
 
       - name: Hyunwoo Kim
         lastName: Kim
@@ -69,6 +75,7 @@ positions:
         materials:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2019-hyunwoo.pdf"
+        message: "Thank you so much for supporting and mentoring us! It's so fortunate to have you as my advisor!"
 
       - name: Yoonseo Choi
         lastName: Choi
@@ -79,6 +86,7 @@ positions:
         materials:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2021-yoonseo.pdf"
+        message: "Not only as a research advisor, it is lucky to meet you as my "life mentor". Always thanks for caring about me and all kixlabers. Take good care of your health :)"
 
       - name: Saelyne Yang
         lastName: Yang
@@ -89,6 +97,7 @@ positions:
         materials:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2021-saelyne.pdf"
+        message: "Thank you for your never-ending support for us! We truly appreciate your dedication. Please take good care of your health!"
 
       - name: Yoonjoo Lee
         lastName: Lee
@@ -96,6 +105,7 @@ positions:
         career: Ph.D. Student
         img: "yoonjoo.jpg"
         site: "https://yoonjoolee.com/"
+        message: "Hi Juho! Thank you for all the support you gave us. I am so lucky to have you as my advisor on a long, tough, but funny journey:)"
 
       - name: Tae Soo Kim
         lastName: Kim
@@ -106,6 +116,7 @@ positions:
         materials:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"
+        message: "Beyond all the great research insights, always thankful for your patience and understanding."
 
       - name: Haesoo Kim
         lastName: Kim
@@ -113,6 +124,7 @@ positions:
         career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
         img: "haesoo.png"
         site: "https://haesookim.info/"
+        message: "Best advisor 2k22 (and in all the other years as well ;)) WE MISS YOU DEARLY!! Thanks so much for all the support and love you've shown us throughout the years!!"
 
       - name: Jeongeon Park
         lastName: Park
@@ -120,6 +132,7 @@ positions:
         career: M.S. Student
         img: "jeongeon.jpg"
         site: "https://jeongeonpark.com"
+        message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
 
       - name: Yoonsu Kim
         lastName: Kim
@@ -127,6 +140,7 @@ positions:
         career: M.S. Student
         img: "yoonsu.jpg"
         site: ""
+        message: "Happy Teacher's Day! Juho, I always appreciate your helpful and outstanding instruction.  (Physically) Miss you!!"
 
       - name: Kihoon Son
         lastName: Son
@@ -134,6 +148,7 @@ positions:
         career: Graduate Intern (Hanyang University)
         img: "kihoon.jpg"
         site: "https://kihoonson.com"
+        message: "It is not a long time since I have joined KIXLAB,  I love and enjoy my research life here because of you, Juho! Appreciate your effort for the lab and members, and hope to be a happy teacher's day 🙂."
 
       - name: Seulgi Choi
         lastName: Choi
@@ -141,6 +156,7 @@ positions:
         career: M.S. Student
         img: "seulgi.jpg"
         site: ""
+        message: "Hello Juho! Thank you for always leading and caring us!😊  It was very fortunate to meet you as my advisor and I really appreciate that you always motivate me to do my best. May you have a memorable Teacher's day✨"
 
       - name: Juhoon Lee
         lastName: Lee
@@ -148,6 +164,7 @@ positions:
         career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
         img: "juhoon.jpg"
         site: ""
+        message: "I am always inspired by your dedication to everything you do. Thank you, you're the best teacher I've ever had :)"
 
       - name: DaEun Choi
         lastName: Choi
@@ -155,6 +172,7 @@ positions:
         career: M.S. Student
         img: "daeun.jpg"
         site: "https://cheddarchoi.github.io/"
+        message: "I'm very lucky to work with you! Always thank you for your support and encouragement! Happy teacher's day :)"
 
   ## ---------------Undergraduates--------------------
 
@@ -166,6 +184,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "junhomyung.jpg"
         site: ""
+        message: "안녕하세요 교수님! 교수님의 재미있는 수업들 덕분에 그 이전에는 한번도 꿈꾸지 않았던 연구자의 꿈을 갖게 되었습니다. 처음으로 저에게 명확한 꿈을 갖게 해주신 교수님께 항상 감사드리고, 또 항상 저희를 좋은 방향으로 이끌어주시려 노력해주셔서 감사합니다! 가족들과 함께 행복한 안식년 보내시길 바랍니다!!"
 
       - name: Nicole Lee
         lastName: Lee
@@ -173,6 +192,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "nicolelee.jpg"
         site: ""
+        message: "Happy teacher's day! Thank you for all the experiences I have had and will have at KIXLAB, and for all the great classes. You are the best professor :)"
 
       - name: Inhwa Song
         lastName: Song
@@ -180,6 +200,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "inhwa.jpg"
         site: "https://www.notion.so/greenina/Inhwa-Song-CV-0cb769c9a9314e358cf728c0fe3b1e74"
+        message: "Always feel sooo grateful to have such a generous, thoughtful, insightful, (so much to add) person like you as my research advisor. As a person, you are my most wannabe, thank you always ❤️ "
 
       - name: Sangkyung Kwak
         lastName: Kwak
@@ -187,6 +208,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "sangkyung.jpg"
         site: ""
+        message: "Thank you so much for guiding, inspiring and giving motivation! Lucky to have a chance working with you :)"
 
       - name: Yohan Yun
         lastName: Yun
@@ -194,6 +216,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "yohan.jpg"
         site: ""
+        message: "Happy Teacher's Day! Wish you and your family's ever happiness and your lab stays productive and welcoming forever :D "
 
       - name: Yoojin Hong
         lastName: Hong
@@ -201,6 +224,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "yoojin.jpg"
         site: ""
+        message: "Hi Juho, have a wonderful Teacher’s day! Thanks for your advise and always learning a lot! I’m really happy having a chance to grow up here, and hope you have a nice (and safe!) sabbatical year!"
 
       - name: Jisu Kim
         lastName: Kim
@@ -208,6 +232,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "jisu.jpg"
         site: ""
+        message: "Juho, happy teacher's day! I'm happy to do research together, and I'm learning a lot. I will continue to do research with joy and passion. Thank you so much for taking care of everyone, even though you're always busy. Thank you."
 
       - name: Hyoungwook Jin
         lastName: Jin
@@ -215,6 +240,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "hyoungwook.jpg"
         site: "https://jhw123.github.io"
+        message: "Thanks for introducing me to HCI! I am proud to have taken your class in 2017."
 
   - positionName: Staff
     positionMembers:
