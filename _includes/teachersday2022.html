@@ -54,9 +54,11 @@
 
 {% if position.positionName contains 'Alumni' %}
 {% else %}
+
 {% assign sorted_members = position.positionMembers | sort: 'lastName' %}
 {% endif %}
     
+{% if position.positionName contains 'Faculty' %}
 <div
     class="position-members grid-2">
     {% for member in sorted_members %}
@@ -86,8 +88,16 @@
 
         </div>
     </div>
+    {% endif %}
+    {% endfor %}
+</div>
 
-    {% elsif member.message %}
+{% else %}
+
+<div class="position-members grid-2">
+    {% for member in sorted_members %}
+
+    {% if member.message %}
     <div class='namecard'>
 
         <!-- Current members -->
@@ -139,5 +149,45 @@
     </div>
     {% endif %}
     {% endfor %}
+    
 </div>
+
+{% endif %}
+
 {% endfor %}
+
+<div class="position-members grid-2"></div>
+<div class="namecard">
+
+    <!-- Current members -->
+    <div class="member-image" style="background-image: url(/assets/img/members/daehyun.jpg)">
+    </div>
+
+    <div class="namecard-content">
+        
+        <h3 class="member-name"><a href="https://dhkim16.github.io/">Dae Hyun Kim</a></h3>
+        
+
+        <!-- 
+        <p class="member-career">Postdoctoral Fellow</p>
+        
+
+        
+        <p class="member-email">dhkim16@cs.stanford.edu</p>
+         -->
+
+        
+        <p class="member-message">Thank you for your continued support throughout my career, ever since our first encounter in 2015-16. Very fortunate that our paths crossed -- I continue to learn a lot from your mentorship and have no doubt that I will learn a lot from you in the coming days ahead.</p>
+        
+
+        <!-- 
+
+        
+
+        <p class="member-materials">
+        
+        </p> -->
+        
+    </div>
+</div>
+</div>
