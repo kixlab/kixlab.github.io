@@ -85,7 +85,7 @@ papers:
     type: conference
     materials:
       - label: "acm dl"
-        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"   
+        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"
       - label: "video presentation"
         url: "https://youtu.be/hcPImSUs8cQ"
     award: ""
@@ -120,7 +120,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/abs/10.1145/3491102.3501917"
       - label: "video presentation"
-        url: "https://www.youtube.com/watch?v=ATUML6ry3ng"    
+        url: "https://www.youtube.com/watch?v=ATUML6ry3ng"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-AlgoSolve-paper.pdf"
 
@@ -153,7 +153,7 @@ papers:
       - label: "project website"
         url: "https://promptiverse.kixlab.org/"
       - label: "video presentation"
-        url: "https://www.youtube.com/watch?v=jvtsD73-Hqw"        
+        url: "https://www.youtube.com/watch?v=jvtsD73-Hqw"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-promptiverse-paper.pdf"
 
@@ -170,7 +170,7 @@ papers:
       - label: "project website"
         url: "https://stylette.kixlab.org/"
       - label: "video presentation"
-        url: "https://www.youtube.com/watch?v=7ZJZpIW9FHc"     
+        url: "https://www.youtube.com/watch?v=7ZJZpIW9FHc"
     award: "Honorable Mention Award"
     link: "https://kixlab.github.io/website-files/2022/chi2022-stylette-paper.pdf"
 
@@ -188,7 +188,7 @@ papers:
       - label: "project website"
         url: "https://fitvid.kixlab.org/"
       - label: "video presentation"
-        url: "https://www.youtube.com/watch?v=UvPo2A_jvK8"         
+        url: "https://www.youtube.com/watch?v=UvPo2A_jvK8"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-FitVid-paper.pdf "
 
@@ -205,7 +205,7 @@ papers:
       - label: "project website"
         url: "https://mobilemooc.kixlab.org/"
       - label: "video presentation"
-        url: "https://www.youtube.com/watch?v=G7RDBplEP6Y"        
+        url: "https://www.youtube.com/watch?v=G7RDBplEP6Y"
     award: "Best Paper Award"
     link: "https://kixlab.github.io/website-files/2022/chi2022-mMOOC-paper.pdf"
 
@@ -237,9 +237,9 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/abs/10.1145/3478432.3499052"
       - label: "project website"
-        url: "https://xdesign.kixlab.org/"  
+        url: "https://xdesign.kixlab.org/"
       - label: "video presentation"
-        url: "https://www.youtube.com/watch?v=SPPaYUM1nrA"               
+        url: "https://www.youtube.com/watch?v=SPPaYUM1nrA"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/sigcse2022-poster-XDesign-paper.pdf"
 
@@ -617,6 +617,17 @@ papers:
         url: "https://snapstream.kixlab.org/"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-Snapstream-paper.pdf"
+
+  - title: "What Makes It Hard for Users to Follow Software Tutorial Videos?"
+    author: "_Saelyne Yang_, _Juho Kim_"
+    venue: "HCI Korea 2020"
+    year: 2020
+    topics:
+      - learning
+    type: conference
+    materials: ""
+    award: ""
+    link: "https://www.kixlab.org/files/2020/hcik2020-SoftwareTutorial-paper.pdf"
 
   - title: "You are How You Behave in Your Group: Predicting Personality via Behaviors in a Co-located Group"
     author: "_Seoyoung Kim_, _Arti Thakur_, _Juho Kim_"
