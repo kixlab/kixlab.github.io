@@ -45,7 +45,7 @@ papers:
       - learning
     type: workshop
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-workshop-Surch-paper.pdf"
 
   - title: "ReviewAid: A Scaffolded Approach to Supporting Readers’ Evaluation of Health News"
     author: "_Eun-Young Ko_, _Yeonsu Kim_, _Juho Kim_"
