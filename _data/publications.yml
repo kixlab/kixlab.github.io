@@ -17,6 +17,15 @@ types:
   - journal
 
 papers:
+  - title: "When Does it Become Harassment?: An Investigation of Online Criticism and Calling Out in Twitter"
+    author: "_Haesoo Kim_, Haeeun Kim, _Juho Kim_, Jeong-woo Jang"
+    venue: "CSCW 2022"
+    topics:
+      - social
+    type: conference
+    link: "https://kixlab.github.io/website-files/2022/cscw2022-callout-paper.pdf"
+    
+  
   - title: "Learnersourcing Modular and Dynamic Multiple Choice Questions"
     author: "_Haesoo Kim_, _Inhwa Song_, _Juho Kim_"
     venue: "L@S 2022 Workshop on Learnersourcing: Student-generated Content @ Scale"
