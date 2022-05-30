@@ -19,6 +19,7 @@ types:
 papers:
   - title: "When Does it Become Harassment?: An Investigation of Online Criticism and Calling Out in Twitter"
     author: "_Haesoo Kim_, Haeeun Kim, _Juho Kim_, Jeong-woo Jang"
+    year: 2022
     venue: "CSCW 2022"
     topics:
       - social
