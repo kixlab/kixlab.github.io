@@ -48,7 +48,7 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2022/l@s2022-workshop-Subgoal-paper.pdf"
     
- - title: "Interactive Children’s Story Rewriting Through Parent-Children Interaction"
+ -  title: "Interactive Children’s Story Rewriting Through Parent-Children Interaction"
     author: "_Yoonjoo Lee_, _Tae Soo Kim, Minsuk Chang, _Juho Kim_"
     year: 2022
     venue: "ACL 2022 Workshop on Intelligent and Interactive Writing Assistants"
