@@ -17,6 +17,15 @@ types:
   - journal
 
 papers:
+  - title: "Interactive Children’s Story Rewriting Through Parent-Children Interaction”
+    author: "_Yoonjoo Lee_, _Tae Soo Kim, _Minsuk Chang_, _Juho Kim_"
+    year: 2022
+    venue: "ACL 2022 Workshop on Intelligent and Interactive Writing Assistants"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    link: "https://kixlab.github.io/website-files/2022/acl2022-workshop-childrenstory-paper.pdf"
+    
   - title: "When Does it Become Harassment?: An Investigation of Online Criticism and Calling Out in Twitter"
     author: "_Haesoo Kim_, Haeeun Kim, _Juho Kim_, Jeong-woo Jang"
     year: 2022
