@@ -88,6 +88,17 @@ positions:
             url: "http://kixlab.org/files/theses/thesis-ms-2021-yoonseo.pdf"
         message: "Not only as a research advisor, it is lucky to meet you as my LIFE MENTOR. Always thanks for caring about me and all kixlabers. Take good care of your health :)"
 
+      - name: Hyung-Kwon Ko
+        lastName: Ko
+        email: hyungkwonko@gmail.com
+        career: Researcher
+        img: "hkko.jpg"
+        site: "https://hyungkwonko.info"
+        materials:
+          - label: "M.S. thesis"
+            url: "https://s-space.snu.ac.kr/handle/10371/177831"
+        message: "Thank you for your support professor Juho!"
+
       - name: Saelyne Yang
         lastName: Yang
         email: saelyne@kaist.ac.kr
