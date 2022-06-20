@@ -253,6 +253,14 @@ positions:
         site: "https://jhw123.github.io"
         message: "Thanks for introducing me to HCI! I am proud to have taken your class in 2017."
 
+      - name: Myeongkyun Cho
+        lastName: Cho
+        email: myeongkyuncho@kaist.ac.kr
+        career: Undergrad Intern (KAIST)
+        img: "myeongkyun.jpg"
+        site: ""
+        message: "Thank you for your support for us!"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
