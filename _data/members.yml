@@ -261,6 +261,14 @@ positions:
         site: ""
         message: "Thank you for your support for us!"
 
+      - name: Yeon Su Park
+        lastName: Park
+        email: yeonsupark@kaist.ac.kr
+        career: Undergrad Intern (KAIST)
+        img: "yeonsupark.jpg"
+        site: ""
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
