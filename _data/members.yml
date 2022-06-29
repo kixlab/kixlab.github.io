@@ -269,6 +269,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Honggi Lee
+        lastName: Lee
+        email: alexhonggi@kaist.ac.kr
+        career: Undergrad Intern (KAIST)
+        img: "honggi.jpg"
+        site: ""
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
