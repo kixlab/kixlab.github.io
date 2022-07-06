@@ -277,6 +277,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Heeju Choi
+        lastName: Choi
+        email: 02heeju@kaist.ac.kr
+        career: Undergrad Intern (KAIST)
+        img: "heejuchoi.jpg"
+        site: ""
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
