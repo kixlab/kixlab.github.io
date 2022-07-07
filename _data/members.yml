@@ -284,6 +284,14 @@ positions:
         img: "heejuchoi.jpg"
         site: ""
         message: ""
+         
+      - name: Dakyeom Ahn
+        lastName: Ahn
+        email: adklys@snu.ac.kr
+        career: Undergrad Intern (Seoul National University)
+        img: "dakyeom.jpg"
+        site: ""
+        message: ""
 
   - positionName: Staff
     positionMembers:
