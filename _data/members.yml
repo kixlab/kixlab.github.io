@@ -394,6 +394,7 @@ positions:
         career: M.S. Student (co-advised by Prof. Alice Oh)
         period: Summer 2018 - Winter 2021
         leavingDate: 2021.02.28
+        site: ""
         now: Machine Learning Engineer @ Superb AI
         materials:
           - label: "thesis"
@@ -426,6 +427,7 @@ positions:
         email: tpmonserrat@up.edu.ph
         career: Visiting Ph.D. Researcher (UPLB)
         img: "tjmonsi.jpg"
+        site: ""
         period: Summer 2019
         leavingDate: 2019.08.16
 
@@ -555,6 +557,7 @@ positions:
         career: Undergrad Intern (KAIST)
         period: Winter 2022 - Summer 2022
         leavingDate: 2022.08.15
+        site: ""
       
       - name: Yohan Yun
         lastName: Yun
@@ -562,6 +565,7 @@ positions:
         career: Undergrad Intern (KAIST)
         period: Fall 2021 - Summer 2022
         leavingDate: 2022.07.31
+        site: ""
         
       - name: Bekzat Tilekbay
         lastName: Tilekbay
@@ -570,6 +574,7 @@ positions:
         img: "bekzat_tilekbay.jpg"
         period: Winter 2021 - Spring 2022
         leavingDate: 2022.04.25
+        site: ""
 
       - name: Subeen Park
         lastName: Park
