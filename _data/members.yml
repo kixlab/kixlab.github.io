@@ -221,14 +221,6 @@ positions:
         site: ""
         message: "Thank you so much for guiding, inspiring and giving motivation! Lucky to have a chance working with you :)"
 
-      - name: Yohan Yun
-        lastName: Yun
-        email: "yohanme@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "yohan.jpg"
-        site: ""
-        message: "Happy Teacher's Day! Wish you and your family's ever happiness and your lab stays productive and welcoming forever :D "
-
       - name: Yoojin Hong
         lastName: Hong
         email: "dbwk18@kaist.ac.kr"
@@ -236,14 +228,6 @@ positions:
         img: "yoojin.jpg"
         site: ""
         message: "Hi Juho, have a wonderful Teacher’s day! Thanks for your advise and always learning a lot! I’m really happy having a chance to grow up here, and hope you have a nice (and safe!) sabbatical year!"
-
-      - name: Jisu Kim
-        lastName: Kim
-        email: "klog104@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "jisu.jpg"
-        site: ""
-        message: "Juho, happy teacher's day! I'm happy to do research together, and I'm learning a lot. I will continue to do research with joy and passion. Thank you so much for taking care of everyone, even though you're always busy. Thank you."
 
       - name: Hyoungwook Jin
         lastName: Jin
@@ -565,6 +549,20 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Jisu Kim
+        lastName: Kim
+        email: "klog104@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: Winter 2022 - Summer 2022
+        leavingDate: 2022.08.15
+      
+      - name: Yohan Yun
+        lastName: Yun
+        email: "yohanme@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: Fall 2021 - Summer 2022
+        leavingDate: 2022.07.31
+        
       - name: Bekzat Tilekbay
         lastName: Tilekbay
         email: "tlekbay.b@gmail.com"
