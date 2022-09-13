@@ -253,6 +253,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Seungho Baek
+        laskName: Back
+        email: sk_and_mc@kaist.ac.kr
+        career: Undergrad Intern (KAIST)
+        img: "seungho.jpeg"
+        site: "https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3"
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
