@@ -213,14 +213,6 @@ positions:
         site: "https://www.notion.so/greenina/Inhwa-Song-CV-0cb769c9a9314e358cf728c0fe3b1e74"
         message: "Always feel sooo grateful to have such a generous, thoughtful, insightful, (so much to add) person like you as my research advisor. As a person, you are my most wannabe, thank you always ❤️ "
 
-      - name: Sangkyung Kwak
-        lastName: Kwak
-        email: "skkwak9806@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "sangkyung.jpg"
-        site: ""
-        message: "Thank you so much for guiding, inspiring and giving motivation! Lucky to have a chance working with you :)"
-
       - name: Yoojin Hong
         lastName: Hong
         email: "dbwk18@kaist.ac.kr"
@@ -535,6 +527,14 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Sangkyung Kwak
+        lastName: Kwak
+        email: "skkwak9806@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: "Summer 2021 - Summer 2022"
+        leavingDate: 2022.09.16
+        site: ""
+
       - name: Honggi Lee
         lastName: Lee
         email: "alexhonggi@kaist.ac.kr"
