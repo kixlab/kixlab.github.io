@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saelyne received a NAVER PhD Fellowship Award"
-date: 2022-11-08 00:00:00
+date: 2022-12-13 00:00:00
 author: Admin
 categories: news
 img: default.png
