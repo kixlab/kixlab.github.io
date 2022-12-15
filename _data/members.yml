@@ -192,6 +192,13 @@ positions:
         img: "alex.webp"
         message: "It's an honor to be working under you. Thank you for your inspiring work and mentorship!"
 
+      - name: Gionnieve Lim
+        lastName: Lim
+        email: "gionnievelim@gmail.com"
+        career: Visiting Ph.D. Student
+        img: "gionnieve.jpg"
+        message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
