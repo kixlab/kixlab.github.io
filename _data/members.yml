@@ -235,21 +235,13 @@ positions:
         img: "yeonsupark.jpg"
         site: ""
         message: ""
-         
+
       - name: Dakyeom Ahn
         lastName: Ahn
         email: adklys@snu.ac.kr
         career: Undergrad Intern (Seoul National University)
         img: "dakyeom.jpg"
         site: ""
-        message: ""
-
-      - name: Seungho Baek
-        laskName: Back
-        email: sk_and_mc@kaist.ac.kr
-        career: Undergrad Intern (KAIST)
-        img: "seungho.jpeg"
-        site: "https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3"
         message: ""
 
   - positionName: Staff
@@ -265,6 +257,16 @@ positions:
 
   - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
     positionMembers:
+
+      - name: Seungho Baek
+        laskName: Back
+        email: sk_and_mc@kaist.ac.kr
+        career: Undergrad Intern (KAIST)
+        img: "seungho.jpeg"
+        site: "https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3"
+        message: ""
+        period: Fall 2022
+
       - name: Jeongyeon Kim
         lastName: Kim
         email: "imurs34@kaist.ac.kr"
@@ -565,7 +567,7 @@ positions:
         period: Summer 2022
         leavingDate: 2022.08.26
         site: ""
-    
+
       - name: Myeongkyun Cho
         lastName: Cho
         email: "myeongkyuncho@kaist.ac.kr"
@@ -581,7 +583,7 @@ positions:
         period: Winter 2022 - Summer 2022
         leavingDate: 2022.08.15
         site: ""
-      
+
       - name: Yohan Yun
         lastName: Yun
         email: "yohanme@kaist.ac.kr"
@@ -589,7 +591,7 @@ positions:
         period: Fall 2021 - Summer 2022
         leavingDate: 2022.07.31
         site: ""
-        
+
       - name: Bekzat Tilekbay
         lastName: Tilekbay
         email: "tlekbay.b@gmail.com"
