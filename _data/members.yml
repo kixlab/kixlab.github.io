@@ -190,13 +190,15 @@ positions:
         email: "alextio@kaist.ac.kr"
         career: M.S. Student
         img: "alex.webp"
+        site: ""
         message: "It's an honor to be working under you. Thank you for your inspiring work and mentorship!"
 
       - name: Gionnieve Lim
         lastName: Lim
         email: "gionnievelim@gmail.com"
-        career: Visiting Ph.D. Student
+        career: Visiting Ph.D. Student (SUTD)
         img: "gionnieve.jpg"
+        site: ""
         message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
 
   ## ---------------Undergraduates--------------------
@@ -211,7 +213,6 @@ positions:
         img: "soyeongmin.jpg"
         site: "https://minsso0.github.io/portfolio/"
         message: "Hello, this is my first time of HCI and I'm really glad to work with you in this winter."
-
 
       - name: Junho Myung
         lastName: Myung
@@ -261,7 +262,7 @@ positions:
         site: ""
         message: ""
 
-      - name: Nathan Mekuria
+      - name: Nathan Mekuria Haile
         lastName: Haile
         email: "nathanmekuria@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
