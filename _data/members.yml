@@ -206,7 +206,7 @@ positions:
   - positionName: Undergraduate Students
     positionMembers:
       - name: Soyeong Min
-        lastname: Min
+        lastName: Min
         email: "ueaw@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "soyeongmin.jpg"
