@@ -254,6 +254,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Nathan Mekuria
+        lastName: Haile
+        email: "nathanmekuria@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "nathan.jpg"
+        site: ""
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
