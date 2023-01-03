@@ -196,6 +196,16 @@ positions:
 
   - positionName: Undergraduate Students
     positionMembers:
+
+      - name: Soyeong Min
+        lastname: Min
+        email: "ueaw@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "soyeongmin.jpg"
+        site: "https://minsso0.github.io/portfolio/"
+        message: "Hello, this is my first time of HCI and I'm really glad to work with you in this winter."
+
+
       - name: Junho Myung
         lastName: Myung
         email: "junho00211@kaist.ac.kr"
