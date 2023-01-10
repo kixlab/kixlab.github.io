@@ -17,6 +17,17 @@ types:
   - journal
 
 papers:
+
+  - title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
+    author: "_Hyung-Kwon Ko_, Gwanmo Park, Hyeon Jeon, Jaemin Jo, _Juho Kim_, Jinwook Seo"
+    year: 2023
+    venue: "IUI 2023"
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/iui2023-LTGMs-paper.pdf"
+    
     
   - title: "When Does it Become Harassment?: An Investigation of Online Criticism and Calling Out in Twitter"
     author: "_Haesoo Kim_, Haeeun Kim, _Juho Kim_, Jeong-woo Jang"
@@ -26,7 +37,6 @@ papers:
       - social
     type: conference
     link: "https://kixlab.github.io/website-files/2022/cscw2022-callout-paper.pdf"
-    
   
   - title: "Learnersourcing Modular and Dynamic Multiple Choice Questions"
     author: "_Haesoo Kim_, _Inhwa Song_, _Juho Kim_"
