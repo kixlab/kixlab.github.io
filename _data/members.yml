@@ -277,6 +277,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Arghya Sarkar
+        lastName: Sarkar
+        email: "arghya@nyu.edu"
+        career: Undergrad Intern (New York University)
+        img: "arghya.jpg"
+        site: ""
+        message: "Excited to be a part of this lab!"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
