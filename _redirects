@@ -1,4 +1,10 @@
-/courses/cs374-spring-2021/* https://hci.kixlab.org/ 301!
+/courses/cs374-spring-2023/* https://hci.kixlab.org/ 301!
+
+/courses/cs374-spring-2023 /courses/cs374-spring-2023/index.html 301!
+/courses/cs374-spring-2023/* https://cs374-spring-2023.netlify.app/:splat 200
+
+/courses/cs374-spring-2021 /courses/cs374-spring-2021/index.html 301!
+/courses/cs374-spring-2021/* https://cs374-spring-2021.netlify.app/:splat 200
 
 /courses/cs374-spring-2020 /courses/cs374-spring-2020/index.html 301!
 /courses/cs374-spring-2020/* https://cs374-spring-2020.netlify.app/:splat 200
@@ -11,6 +17,9 @@
 
 /courses/cs374-spring-2017 /courses/cs374-spring-2017/index.html 301!
 /courses/cs374-spring-2017/* https://cs374-spring-2017.netlify.app/:splat 200
+
+/courses/cs473-fall-2021 /courses/cs473-fall-2021/index.html 301!
+/courses/cs473-fall-2021/* https://cs473-fall-2021.netlify.app/:splat 200
 
 /courses/cs473-fall-2020 /courses/cs473-fall-2020/index.html 301!
 /courses/cs473-fall-2020/* https://cs473-fall-2020.netlify.app/:splat 200
@@ -42,16 +51,13 @@
 /courses/i2r /courses/cs492d-spring-2020/index.html 301!
 /courses/i2r/* https://cs492d-spring-2020.netlify.app/:splat 200
 
-/courses/hci /courses/cs374-spring-2020/index.html 301!
-/courses/hci/* https://cs374-spring-2020.netlify.app/:splat 200
+/courses/hci /courses/cs374-spring-2023/index.html 301!
+/courses/hci/* https://cs374-spring-2023.netlify.app/:splat 200
 
-/courses/social /courses/cs473-fall-2020/index.html 301!
-/courses/social/* https://cs473-fall-2020.netlify.app/:splat 200
+/courses/social /courses/cs473-fall-2021/index.html 301!
+/courses/social/* https://cs473-fall-2021.netlify.app/:splat 200
 
-/courses/human-ai /courses/cs492-fall-2020/index.html 301!
-/courses/human-ai/* https://cs492-fall-2020.netlify.app/:splat 200
-
-/courses/cs374 /courses/cs374-spring-2020/index.html 301!
-/courses/cs374/* https://cs374-spring-2020.netlify.app/:splat 200
+/courses/human-ai /courses/cs492-spring-2021/index.html 301!
+/courses/human-ai/* https://cs492-spring-2021.netlify.app/:splat 200
 
 /files/*  https://kixlab.github.io/website-files/:splat 301
