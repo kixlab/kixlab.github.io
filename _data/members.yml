@@ -201,6 +201,14 @@ positions:
         site: ""
         message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
 
+      - name: Haechan Kim
+        lastName: Kim
+        email: "rlagocks1125@gmail.com"
+        career: Visiting Researcher (Ringle)
+        img: "haechan.jpg"
+        site: ""
+        message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
