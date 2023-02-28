@@ -17,6 +17,15 @@ types:
   - journal
 
 papers:
+  - title: "Beyond Instructions: A Taxonomy of Information Types in How-to Videos"
+    author: "_Saelyne Yang_, _Sangkyung Kwak*_, _Juhoon Lee*_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - learning
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-videomap-paper.pdf"
 
   - title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
     author: "_Hyung-Kwon Ko_, Gwanmo Park, Hyeon Jeon, Jaemin Jo, _Juho Kim_, Jinwook Seo"
