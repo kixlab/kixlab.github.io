@@ -292,6 +292,16 @@ positions:
         img: "arghya.png"
         site: ""
         message: "Excited to be a part of this lab!"
+        
+      - name: Jisu Kim
+        lastName: Kim
+        email: "klog104@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        period: Winter 2022 - Summer 2022
+        img: "jisu.jpg"
+        leavingDate: 2022.08.15
+        site: ""
+
 
   - positionName: Staff
     positionMembers:
@@ -625,14 +635,6 @@ positions:
         career: Undergrad Intern (KAIST)
         period: Summer 2022
         leavingDate: 2022.08.26
-        site: ""
-
-      - name: Jisu Kim
-        lastName: Kim
-        email: "klog104@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        period: Winter 2022 - Summer 2022
-        leavingDate: 2022.08.15
         site: ""
 
       - name: Yohan Yun
