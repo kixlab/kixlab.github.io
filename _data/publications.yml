@@ -18,6 +18,17 @@ types:
 
 papers:
   - title: "Beyond Instructions: A Taxonomy of Information Types in How-to Videos"
+    author: "_Seoyoung Kim_, _Donghoon Shin_, _Jeongyeon Kim_, _Soonwoo Kwon_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - learning
+      - datamining
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-olderadults-paper.pdf"
+
+  - title: "Beyond Instructions: A Taxonomy of Information Types in How-to Videos"
     author: "_Saelyne Yang_, _Sangkyung Kwak*_, _Juhoon Lee*_, _Juho Kim_"
     year: 2023
     venue: "CHI 2023"
