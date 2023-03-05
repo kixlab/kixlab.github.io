@@ -208,27 +208,39 @@ positions:
         img: "haechan.jpg"
         site: ""
         message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
+        
+      - name: Hyoungwook Jin
+        lastName: Jin
+        email: jinhw@kaist.ac.kr
+        career: M.S. Student
+        img: "hyoungwook.jpg"
+        site: "https://jhw123.github.io"
+        message: "Thanks for introducing me to HCI! I am proud to have taken your class in 2017."
+        
+      - name: Jihyeong Hong
+        lastName: Hong
+        email: z.hyeong@kaist.ac.kr
+        career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
+        img: "jihyeong.jpg"
+        site: "https://harmonious-prune-381.notion.site/Jihyeong-Hong-44f4f7033cbb480e944eeaf8fb22b30a"
+        message: ""
+        
+      - name: Junho Myung
+        lastName: Myung
+        email: "junho00211@kaist.ac.kr"
+        career: M.S. Student (co-advised by Prof. Alice Oh)
+        img: "junhomyung.jpg"
+        site: ""
+        message: "안녕하세요 교수님! 교수님의 재미있는 수업들 덕분에 그 이전에는 한번도 꿈꾸지 않았던 연구자의 꿈을 갖게 되었습니다. 처음으로 저에게 명확한 꿈을 갖게 해주신 교수님께 항상 감사드리고, 또 항상 저희를 좋은 방향으로 이끌어주시려 노력해주셔서 감사합니다! 가족들과 함께 행복한 안식년 보내시길 바랍니다!!"
+
+        
+        
 
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Soyeong Min
-        lastName: Min
-        email: "ueaw@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "soyeongmin.jpg"
-        site: "https://minsso0.github.io/portfolio/"
-        message: "Hello, this is my first time of HCI and I'm really glad to work with you in this winter."
-
-      - name: Junho Myung
-        lastName: Myung
-        email: "junho00211@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "junhomyung.jpg"
-        site: ""
-        message: "안녕하세요 교수님! 교수님의 재미있는 수업들 덕분에 그 이전에는 한번도 꿈꾸지 않았던 연구자의 꿈을 갖게 되었습니다. 처음으로 저에게 명확한 꿈을 갖게 해주신 교수님께 항상 감사드리고, 또 항상 저희를 좋은 방향으로 이끌어주시려 노력해주셔서 감사합니다! 가족들과 함께 행복한 안식년 보내시길 바랍니다!!"
-
+    
       - name: Nicole Lee
         lastName: Lee
         email: "nicolelee2001@kaist.ac.kr"
@@ -244,14 +256,6 @@ positions:
         img: "yoojin.jpg"
         site: ""
         message: "Hi Juho, have a wonderful Teacher’s day! Thanks for your advise and always learning a lot! I’m really happy having a chance to grow up here, and hope you have a nice (and safe!) sabbatical year!"
-
-      - name: Hyoungwook Jin
-        lastName: Jin
-        email: jinhw@kaist.ac.kr
-        career: Undergrad Intern (KAIST)
-        img: "hyoungwook.jpg"
-        site: "https://jhw123.github.io"
-        message: "Thanks for introducing me to HCI! I am proud to have taken your class in 2017."
 
       - name: Yeon Su Park
         lastName: Park
@@ -285,13 +289,6 @@ positions:
         site: ""
         message: ""
 
-      - name: Arghya Sarkar
-        lastName: Sarkar
-        email: "arghya@nyu.edu"
-        career: Undergrad Intern (New York University)
-        img: "arghya.png"
-        site: ""
-        message: "Excited to be a part of this lab!"
 
   - positionName: Staff
     positionMembers:
@@ -572,6 +569,26 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+    
+      - name: Soyeong Min
+        lastName: Min
+        email: "ueaw@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "soyeongmin.jpg"
+        site: "https://minsso0.github.io/portfolio/"
+        message: "Hello, this is my first time of HCI and I'm really glad to work with you in this winter."
+        period: Winter 2023
+        leavingDate: 2023.02.24
+
+      - name: Arghya Sarkar
+        lastName: Sarkar
+        email: "arghya@nyu.edu"
+        career: Undergrad Intern (New York University)
+        img: "arghya.png"
+        site: ""
+        message: "Excited to be a part of this lab!"
+        period: Winter 2023
+        leavingDate: 2023.02.15
 
       - name: Seungho Baek
         laskName: Back
