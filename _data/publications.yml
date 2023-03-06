@@ -17,7 +17,7 @@ types:
   - journal
 
 papers:
-  - title: "DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Qestions"
+  - title: "DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions"
     author: "_Yoonjoo Lee_, _Tae Soo Kim_, _Sungdong Kim_, _Yohan Yun_, _Juho Kim_"
     year: 2023
     venue: "CHI 2023"
