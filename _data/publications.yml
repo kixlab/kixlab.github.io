@@ -17,6 +17,17 @@ types:
   - journal
 
 papers:
+
+  - title: "Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms"
+    author: "_Yoonseo Choi_, Eun Jeong Kang, Min Kyung Lee, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-creatorfriendly-paper.pdf"
+    
   - title: "DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions"
     author: "_Yoonjoo Lee_, _Tae Soo Kim_, Sungdong Kim, _Yohan Yun_, _Juho Kim_"
     year: 2023
