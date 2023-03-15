@@ -61,7 +61,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2023/chi2023-childQA-paper.pdf"
 
   - title: "Surch: Enabling Structural Search and Comparison for Surgical Videos"
-    author: _Jeongyeon Kim_, _DaEun Choi_, _Nicole Lee_, Matt Beane, _Juho Kim_"
+    author: "_Jeongyeon Kim_, _DaEun Choi_, _Nicole Lee_, Matt Beane, _Juho Kim_"
     year: 2023
     venue: "CHI 2023"
     topics:
