@@ -27,17 +27,16 @@ papers:
     type: conference
     award: ""
     link: "https://kixlab.github.io/website-files/2023/chi2023-creatorfriendly-paper.pdf"
-    
-  - title: "DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions"
-    author: "_Yoonjoo Lee_, _Tae Soo Kim_, Sungdong Kim, _Yohan Yun_, _Juho Kim_"
+
+  - title: "Beyond Instructions: A Taxonomy of Information Types in How-to Videos"
+    author: "_Saelyne Yang_, _Sangkyung Kwak*_, _Juhoon Lee*_, _Juho Kim_"
     year: 2023
     venue: "CHI 2023"
     topics:
-      - human-ai-interaction
       - learning
     type: conference
     award: ""
-    link: "https://kixlab.github.io/website-files/2023/chi2023-childQA-paper.pdf"
+    link: "https://kixlab.github.io/website-files/2023/chi2023-videomap-paper.pdf"
 
   - title: "How Older Adults Use Online Videos for Learning"
     author: "_Seoyoung Kim_, _Donghoon Shin_, _Jeongyeon Kim_, _Soonwoo Kwon_, _Juho Kim_"
@@ -50,15 +49,38 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2023/chi2023-olderadults-paper.pdf"
 
-  - title: "Beyond Instructions: A Taxonomy of Information Types in How-to Videos"
-    author: "_Saelyne Yang_, _Sangkyung Kwak*_, _Juhoon Lee*_, _Juho Kim_"
+  - title: "DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions"
+    author: "_Yoonjoo Lee_, _Tae Soo Kim_, Sungdong Kim, _Yohan Yun_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - human-ai-interaction
+      - learning
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-childQA-paper.pdf"
+
+  - title: "Surch: Enabling Structural Search and Comparison for Surgical Videos"
+    author: _Jeongyeon Kim_, _DaEun Choi_, _Nicole Lee_, Matt Beane, _Juho Kim_"
     year: 2023
     venue: "CHI 2023"
     topics:
       - learning
     type: conference
     award: ""
-    link: "https://kixlab.github.io/website-files/2023/chi2023-videomap-paper.pdf"
+    link: "https://kixlab.github.io/website-files/2023/chi2023-surch-paper.pdf"
+
+  - title: "ModSandbox: Facilitating Online Community Moderation Through Error Prediction and Improvement of Automated Rules"
+    author: "_Jean Y Song_, _Sangwook Lee_, _Jisoo Lee_, _Mina Kim_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - social
+      - civics
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-modsandbox-paper.pdf"
+
 
   - title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
     author: "_Hyung-Kwon Ko_, Gwanmo Park, Hyeon Jeon, Jaemin Jo, _Juho Kim_, Jinwook Seo"
