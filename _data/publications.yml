@@ -18,6 +18,16 @@ types:
 
 papers:
 
+  - title: "LMCanvas: Object-Oriented Interaction to Personalize Large Language Model-Powered Writing Environments"
+    author: "_Tae Soo Kim_, _Arghya Sarkar_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023 Workshop on Generative AI and HCI"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-lmcanvas-paper.pdf"
+
   - title: "Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms"
     author: "_Yoonseo Choi_, Eun Jeong Kang, Min Kyung Lee, _Juho Kim_"
     year: 2023
