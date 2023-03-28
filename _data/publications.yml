@@ -25,6 +25,9 @@ papers:
     topics:
       - human-ai-interaction
     type: workshop
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2303.15125"
     award: ""
     link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-lmcanvas-paper.pdf"
 
