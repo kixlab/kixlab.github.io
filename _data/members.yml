@@ -128,15 +128,7 @@ positions:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"
         message: "Beyond all the great research insights, always thankful for your patience and understanding."
-
-      - name: Haesoo Kim
-        lastName: Kim
-        email: haesoo1108@gmail.com
-        career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
-        img: "haesoo.png"
-        site: "https://haesookim.info/"
-        message: "Best advisor 2k22 (and in all the other years as well ;)) WE MISS YOU DEARLY!! Thanks so much for all the support and love you've shown us throughout the years!!"
-
+        
       - name: Jeongeon Park
         lastName: Park
         email: "jeongeon.park@kaist.ac.kr"
@@ -319,6 +311,17 @@ positions:
 
   - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
     positionMembers:
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: Undergrad Intern (SNU) & M.S. Student (co-advised by Prof. Jeong-woo Jang)
+        img: "haesoo.png"
+        period: Summer 2019 - Winter 2023
+        leavingDate: 2023.02.28
+        materials: 
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2023-haesoo.pdf"
+        site: "https://haesookim.info/"
 
       - name: Jeongyeon Kim
         lastName: Kim
