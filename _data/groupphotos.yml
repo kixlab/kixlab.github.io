@@ -1,4 +1,8 @@
 photos:
+  - filename: group_2022_jul
+    description: July, 2021
+  - filename: group_2022_mar
+    description: March, 2021
   - filename: group_2021_jul
     description: July, 2021
   - filename: group_2021_mar
