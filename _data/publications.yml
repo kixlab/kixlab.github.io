@@ -81,6 +81,11 @@ papers:
       - human-ai-interaction
       - learning
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3544548.3581369"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=nBdIhI66_vY"
     award: ""
     link: "https://kixlab.github.io/website-files/2023/chi2023-childQA-paper.pdf"
 
