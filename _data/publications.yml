@@ -17,7 +17,15 @@ types:
   - journal
 
 papers:
-
+  - title: "Towards an Experience-Centric Paradigm of Online Harassment: Responding to Calling out and Networked Harassment"
+    author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, _Jeong-woo Jang_"
+    year: 2023
+    venue: "CHI 2023 Workshop on Combating Toxicity, Harassment, and Abuse in Online Social Spaces"
+    topics:
+      - social
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-callout-paper.pdf"
 
   - title: "Moderating Customer Inquiries and Responses to Alleviate Stress and Reduce Emotional Dissonance of Customer Service Representatives"
     author: "_Hyung-Kwon Ko_, _Kihoon Son_, _Hyoungwook Jin_, _Yoonseo Choi_, Xiang ‘Anthony’ Chen"
