@@ -297,6 +297,15 @@ positions:
         site: ""
         message: ""
 
+      - name: Michal Lewkowicz
+        lastName: Lewkowicz
+        email: "michal.lewkowicz@yale.edu"
+        career: Undergrad Intern (Yale)
+        img: "michal_lewkowicz.jpg"
+        site: ""
+        message: ""
+
+
 
   - positionName: Staff
     positionMembers:
