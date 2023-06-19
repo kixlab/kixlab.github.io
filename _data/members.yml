@@ -128,7 +128,7 @@ positions:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"
         message: "Beyond all the great research insights, always thankful for your patience and understanding."
-        
+
       - name: Jeongeon Park
         lastName: Park
         email: "jeongeon.park@kaist.ac.kr"
@@ -200,7 +200,7 @@ positions:
         img: "haechan.jpg"
         site: ""
         message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
-        
+
       - name: Hyoungwook Jin
         lastName: Jin
         email: jinhw@kaist.ac.kr
@@ -208,7 +208,7 @@ positions:
         img: "hyoungwook.jpg"
         site: "https://jhw123.github.io"
         message: "Thanks for introducing me to HCI! I am proud to have taken your class in 2017."
-        
+
       - name: Jihyeong Hong
         lastName: Hong
         email: z.hyeong@kaist.ac.kr
@@ -216,7 +216,7 @@ positions:
         img: "jihyeong.jpg"
         site: "https://harmonious-prune-381.notion.site/Jihyeong-Hong-44f4f7033cbb480e944eeaf8fb22b30a"
         message: ""
-        
+
       - name: Junho Myung
         lastName: Myung
         email: "junho00211@kaist.ac.kr"
@@ -225,14 +225,10 @@ positions:
         site: ""
         message: "안녕하세요 교수님! 교수님의 재미있는 수업들 덕분에 그 이전에는 한번도 꿈꾸지 않았던 연구자의 꿈을 갖게 되었습니다. 처음으로 저에게 명확한 꿈을 갖게 해주신 교수님께 항상 감사드리고, 또 항상 저희를 좋은 방향으로 이끌어주시려 노력해주셔서 감사합니다! 가족들과 함께 행복한 안식년 보내시길 바랍니다!!"
 
-        
-        
-
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
     positionMembers:
-    
       - name: Nicole Lee
         lastName: Lee
         email: "nicolelee2001@kaist.ac.kr"
@@ -240,14 +236,6 @@ positions:
         img: "nicolelee.jpg"
         site: ""
         message: "Happy teacher's day! Thank you for all the experiences I have had and will have at KIXLAB, and for all the great classes. You are the best professor :)"
-
-      - name: Yoojin Hong
-        lastName: Hong
-        email: "dbwk18@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "yoojin.jpg"
-        site: ""
-        message: "Hi Juho, have a wonderful Teacher’s day! Thanks for your advise and always learning a lot! I’m really happy having a chance to grow up here, and hope you have a nice (and safe!) sabbatical year!"
 
       - name: Yeon Su Park
         lastName: Park
@@ -265,14 +253,6 @@ positions:
         site: ""
         message: ""
 
-      - name: Nathan Mekuria Haile
-        lastName: Haile
-        email: "nathanmekuria@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "nathan.jpg"
-        site: ""
-        message: ""
-      
       - name: Jueon Lee
         lastName: Lee
         email: "audreylee@snu.ac.kr"
@@ -280,7 +260,7 @@ positions:
         img: "jueonlee.jpg"
         site: ""
         message: ""
-        
+
       - name: Bekzat Tilekbay
         lastName: Tilekbay
         email: "tlekbay.b@gmail.com"
@@ -288,7 +268,7 @@ positions:
         img: "bekzat_tilekbay.jpg"
         site: ""
         message: ""
-        
+
       - name: Jisu Kim
         lastName: Kim
         email: "klog104@kaist.ac.kr"
@@ -304,8 +284,6 @@ positions:
         img: "michal_lewkowicz.jpg"
         site: ""
         message: ""
-
-
 
   - positionName: Staff
     positionMembers:
@@ -327,7 +305,7 @@ positions:
         img: "haesoo.png"
         period: Summer 2019 - Winter 2023
         leavingDate: 2023.02.28
-        materials: 
+        materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2023-haesoo.pdf"
         site: "https://haesookim.info/"
@@ -597,7 +575,26 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
-    
+      - name: Nathan Mekuria Haile
+        lastName: Haile
+        email: "nathanmekuria@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "nathan.jpg"
+        site: ""
+        message: ""
+        period: Winter 2023 - Spring 2023
+        leavingDate: 2023.06.16
+
+      - name: Yoojin Hong
+        lastName: Hong
+        email: "dbwk18@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "yoojin.jpg"
+        site: ""
+        message: "Hi Juho, have a wonderful Teacher’s day! Thanks for your advise and always learning a lot! I’m really happy having a chance to grow up here, and hope you have a nice (and safe!) sabbatical year!"
+        period: Winter 2022 - Spring 2023
+        leavingDate: 2023.04.07
+
       - name: Soyeong Min
         lastName: Min
         email: "ueaw@kaist.ac.kr"
