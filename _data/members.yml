@@ -285,6 +285,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Hai Nam
+        lastName: Cao
+        email: "hainam@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "hai_nam.png"
+        site: ""
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
