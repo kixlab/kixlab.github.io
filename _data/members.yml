@@ -276,6 +276,14 @@ positions:
         img: "jisu.jpg"
         site: ""
         message: ""
+      
+      - name: Yumin Cho
+        lastName: Cho
+        email: "dbals1184@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "yumincho.png"
+        site: ""
+        message: ""
 
       - name: Michal Lewkowicz
         lastName: Lewkowicz
