@@ -293,6 +293,13 @@ positions:
         site: ""
         message: ""
 
+      - name: Seonghee Lee
+        lastname: Lee
+        email: "sl994@cornell.edu"
+        career: Research Intern
+        img: "seonghee.png"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
