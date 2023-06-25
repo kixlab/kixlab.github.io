@@ -308,6 +308,13 @@ positions:
         img: "seonghee.png"
         site: ""
 
+      - name: Yokyung Lee
+        lastname: Lee
+        email: "ykleeee@kaist.ac.kr"
+        career: Research Intern
+        img: "yokyung.png"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
