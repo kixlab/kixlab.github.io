@@ -316,6 +316,14 @@ positions:
         img: "seonghee.png"
         site: ""
 
+      - name: Sumin Hong
+        lastname: Hong
+        email: "workingsumin@gmail.com"
+        career: Undergrad Intern (Seoultech)
+        img: "suminhong.jpg"
+        site: ""
+        message: ""
+
 
   - positionName: Staff
     positionMembers:
