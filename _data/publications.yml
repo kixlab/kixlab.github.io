@@ -18,7 +18,7 @@ types:
 
 papers:
   - title: "RECIPE: How to Integrate ChatGPT into EFL Writing Education"
-    author: "_Jieun Han_, _Haneul Yoo_, _Yoonsu Kim_, _Junho Myung_, _Minsun Kim_, _Hyunseung Lim_, _Juho Kim_, _Tak Yeon Lee_, _Hwajung Hong_, _So-Yeon Ahn_, _Alice Oh_"
+    author: "Jieun Han, Haneul Yoo, _Yoonsu Kim_, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Juho Kim_, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh"
     year: 2023
     venue: "L@S 2023 (Work-in-Progress)"
     topics:
@@ -28,7 +28,7 @@ papers:
     link: "https://arxiv.org/abs/2305.11583"
 
   - title: "Look Upon Thyself: Understanding the Effect of Self-Reflection on Toxic Behavior in Online Gaming"
-    author: "_Juhoon Lee_, _Juho Kim_, _Jeong-woo Jang_"
+    author: "_Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
     year: 2023
     venue: "CHI 2023 Workshop on Combating Toxicity, Harassment, and Abuse in Online Social Spaces"
     topics:
@@ -38,7 +38,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-toxicity-paper.pdf"
 
   - title: "Towards an Experience-Centric Paradigm of Online Harassment: Responding to Calling out and Networked Harassment"
-    author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, _Jeong-woo Jang_"
+    author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
     year: 2023
     venue: "CHI 2023 Workshop on Combating Toxicity, Harassment, and Abuse in Online Social Spaces"
     topics:
