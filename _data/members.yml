@@ -340,6 +340,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Dong Yun Jung
+        lastname: Jung
+        email: "djung2023@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "dongyun.jpeg"
+        site: ""
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
