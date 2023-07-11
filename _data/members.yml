@@ -332,6 +332,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Hyewon Lee
+        lastname: Lee
+        email: "hyewon0809@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "hyewon.jpg"
+        site: ""
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
