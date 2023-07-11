@@ -324,6 +324,13 @@ positions:
         site: ""
         message: ""
 
+      - name: Le Khanh Duy
+        lastname: Le
+        email: "duy.le1201@hcmut.edu.vn"
+        career: Vising Student Researcher (HCMUT)
+        img: "Khanh_Duy.jpg"
+        site: ""
+        message: ""
 
   - positionName: Staff
     positionMembers:
