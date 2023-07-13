@@ -348,6 +348,14 @@ positions:
         site: ""
         message: ""
 
+      - name: Bryan Min
+        lastname: Min
+        email: "bdmin@ucsd.edu"
+        career: Research Intern (UCSD)
+        img: "bryan.jpeg"
+        site: "https://bryanmin.me"
+        message: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
