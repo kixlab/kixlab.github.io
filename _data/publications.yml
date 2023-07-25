@@ -17,6 +17,16 @@ types:
   - journal
 
 papers:
+  - title: "Designing for AI-Powered Social Computing Systems"
+    author: "_Gionnieve Lim_, _Hyunwoo Kim_, _Yoonseo Choi_, Toby Jia-Jun Li, Chinmay Kulkarni, Hariharan Subramonyam, Joseph Seering, Michael S. Bernstein, Amy X. Zhang, Elena L. Glassman, Simon Perrault, _Juho Kim_"
+    year: 2023
+    venue: "CSCW SIG"
+    topics:
+      - human-ai-interaction
+    type: poster
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/cscw23-sig-CSCW2023SIG-workshop.pdf"
+
   - title: "RECIPE: How to Integrate ChatGPT into EFL Writing Education"
     author: "Jieun Han, Haneul Yoo, _Yoonsu Kim_, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Juho Kim_, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh"
     year: 2023
