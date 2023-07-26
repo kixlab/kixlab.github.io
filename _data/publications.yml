@@ -17,6 +17,26 @@ types:
   - journal
 
 papers:
+  - title: "EmphasisChecker: A tool for Guiding Chart and Caption Emphasis"
+    author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, _Vidya Setlur_, _Maneesh Agrawala_"
+    year: 2023
+    venue: "IEEE VIS 2023"
+    topics:
+      - visualization
+    type: journal
+    materials:
+      - label: "project website"
+        url: "https://dhkim16.github.io/emphasis-checker/"
+      - label: "supplement 1"
+        url: "https://dhkim16.github.io/emphasis-checker/pdf/supplemental.zip"
+      - label: "supplement 2"
+        url: "https://dhkim16.github.io/emphasis-checker/mp4/usage-scenario.mp4"
+      - label: "code"
+        url: "https://github.com/dhkim16/EmphasisChecker-release"
+    award: ""
+    link: "https://dhkim16.github.io/emphasis-checker/pdf/paper.pdf"
+ 
+
   - title: "Designing for AI-Powered Social Computing Systems"
     author: "_Gionnieve Lim_, _Hyunwoo Kim_, _Yoonseo Choi_, Toby Jia-Jun Li, Chinmay Kulkarni, Hariharan Subramonyam, Joseph Seering, Michael S. Bernstein, Amy X. Zhang, Elena L. Glassman, Simon Perrault, _Juho Kim_"
     year: 2023
