@@ -17,7 +17,7 @@ types:
   - journal
 
 papers:
-  - title: "EmphasisChecker: A tool for Guiding Chart and Caption Emphasis"
+  - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
     author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, _Vidya Setlur_, _Maneesh Agrawala_"
     year: 2023
     venue: "IEEE VIS 2023 (to appear)"
