@@ -30,16 +30,6 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2023/uist2023-llmobjects-paper.pdf"
 
-  - title: "Papeos: Augmenting Research Papers with Talk Videos"
-    author: "_Tae Soo Kim_, Matt Latzke, Jonathan Bragg, Amy X. Zhang, Joseph Chee Chang"
-    venue: "UIST 2023"
-    year: 2023
-    topics:
-      - learning
-    type: conference
-    award: ""
-    link: "https://kixlab.github.io/website-files/2023/uist2023-papeo-paper.pdf"
-
   - title: "Designing for AI-Powered Social Computing Systems"
     author: "_Gionnieve Lim_, _Hyunwoo Kim_, _Yoonseo Choi_, Toby Jia-Jun Li, Chinmay Kulkarni, Hariharan Subramonyam, Joseph Seering, Michael S. Bernstein, Amy X. Zhang, Elena L. Glassman, Simon Perrault, _Juho Kim_"
     year: 2023
