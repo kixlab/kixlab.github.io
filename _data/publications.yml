@@ -17,6 +17,20 @@ types:
   - journal
 
 papers:
+    
+  - title: "Cells, Generators, and Lenses: Design Framework for Object-Oriented Interaction with Large Language Models"
+    author: "_Tae Soo Kim_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"
+    venue: "UIST 2023"
+    year: 2023
+    topics:
+      - human-ai-interaction
+    type: conference
+    materials:
+      - label: "project website"
+        url: "https://llm-objects.kixlab.org/"
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/uist2023-llmobjects-paper.pdf"
+    
   - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
     author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, _Vidya Setlur_, _Maneesh Agrawala_"
     year: 2023
@@ -35,7 +49,6 @@ papers:
         url: "https://github.com/dhkim16/EmphasisChecker-release"
     award: ""
     link: "https://dhkim16.github.io/emphasis-checker/pdf/paper.pdf"
- 
 
   - title: "Designing for AI-Powered Social Computing Systems"
     author: "_Gionnieve Lim_, _Hyunwoo Kim_, _Yoonseo Choi_, Toby Jia-Jun Li, Chinmay Kulkarni, Hariharan Subramonyam, Joseph Seering, Michael S. Bernstein, Amy X. Zhang, Elena L. Glassman, Simon Perrault, _Juho Kim_"

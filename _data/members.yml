@@ -245,14 +245,6 @@ positions:
         site: ""
         message: ""
 
-      - name: Dakyeom Ahn
-        lastName: Ahn
-        email: adklys@snu.ac.kr
-        career: Undergrad Intern (Seoul National University)
-        img: "dakyeom.jpg"
-        site: ""
-        message: ""
-
       - name: Jueon Lee
         lastName: Lee
         email: "audreylee@snu.ac.kr"
@@ -380,6 +372,7 @@ positions:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2023-haesoo.pdf"
         site: "https://haesookim.info/"
+        now: Ph.D. Student @ Cornell University
 
       - name: Jeongyeon Kim
         lastName: Kim
@@ -411,7 +404,7 @@ positions:
         period: Winter 2021 - Fall 2021
         leavingDate: 2021.12.31
         site: https://www.xiameng.org/
-        now: Postdoc @ CMU
+        now: Postdoc @ CMU => Assistant Professor @ TAMU
 
       - name: Mina Huh
         lastName: Huh
@@ -646,6 +639,16 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Dakyeom Ahn
+        lastName: Ahn
+        email: adklys@snu.ac.kr
+        career: Undergrad Intern (Seoul National University)
+        img: "dakyeom.jpg"
+        site: ""
+        message: ""
+        period: Summer 2022 - Summer 2023
+        leavingDate: 2023.07.18
+
       - name: Nathan Mekuria Haile
         lastName: Haile
         email: "nathanmekuria@kaist.ac.kr"
