@@ -17,7 +17,27 @@ types:
   - journal
 
 papers:
-    
+  - title: "CodeTree: A System for Learnersourcing Subgoal Hierarchies in Code Examples"
+    author: "_Hyoungwook Jin_, _Juho Kim_"
+    venue: "CSCW 2024"
+    year: 2024
+    topics:
+      - crowdsourcing
+      - learning
+    type: conference
+    award: ""
+    link: ""
+  
+  - title: "Re:SPect: Enabling Active and Scalable Responses to Networked Online Harassment"
+    author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
+    venue: "CSCW 2024"
+    year: 2024
+    topics:
+      - social
+    type: conference
+    award: ""
+    link: ""
+
   - title: "Cells, Generators, and Lenses: Design Framework for Object-Oriented Interaction with Large Language Models"
     author: "_Tae Soo Kim_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"
     venue: "UIST 2023"
