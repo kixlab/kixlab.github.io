@@ -88,17 +88,6 @@ positions:
             url: "http://kixlab.org/files/theses/thesis-ms-2021-yoonseo.pdf"
         message: "Not only as a research advisor, it is lucky to meet you as my LIFE MENTOR. Always thanks for caring about me and all kixlabers. Take good care of your health :)"
 
-      - name: Hyung-Kwon Ko
-        lastName: Ko
-        email: hyungkwonko@gmail.com
-        career: Researcher
-        img: "hkko.jpg"
-        site: "https://hyungkwonko.info"
-        materials:
-          - label: "M.S. thesis"
-            url: "https://s-space.snu.ac.kr/handle/10371/177831"
-        message: "Thank you for your support professor Juho!"
-
       - name: Saelyne Yang
         lastName: Yang
         email: saelyne@kaist.ac.kr
@@ -128,14 +117,6 @@ positions:
           - label: "M.S. thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2022-taesoo.pdf"
         message: "Beyond all the great research insights, always thankful for your patience and understanding."
-
-      - name: Jeongeon Park
-        lastName: Park
-        email: "jeongeon.park@kaist.ac.kr"
-        career: M.S. Student
-        img: "jeongeon.jpg"
-        site: "https://jeongeonpark.com"
-        message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
 
       - name: Yoonsu Kim
         lastName: Kim
@@ -185,14 +166,6 @@ positions:
         site: ""
         message: "It's an honor to be working under you. Thank you for your inspiring work and mentorship!"
 
-      - name: Gionnieve Lim
-        lastName: Lim
-        email: "gionnievelim@gmail.com"
-        career: Visiting Ph.D. Student (SUTD)
-        img: "gionnieve.jpg"
-        site: ""
-        message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
-
       - name: Haechan Kim
         lastName: Kim
         email: "rlagocks1125@gmail.com"
@@ -215,7 +188,6 @@ positions:
         career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
         img: "jihyeong.jpg"
         site: "https://harmonious-prune-381.notion.site/Jihyeong-Hong-44f4f7033cbb480e944eeaf8fb22b30a"
-        message: ""
 
       - name: Junho Myung
         lastName: Myung
@@ -225,25 +197,23 @@ positions:
         site: ""
         message: "안녕하세요 교수님! 교수님의 재미있는 수업들 덕분에 그 이전에는 한번도 꿈꾸지 않았던 연구자의 꿈을 갖게 되었습니다. 처음으로 저에게 명확한 꿈을 갖게 해주신 교수님께 항상 감사드리고, 또 항상 저희를 좋은 방향으로 이끌어주시려 노력해주셔서 감사합니다! 가족들과 함께 행복한 안식년 보내시길 바랍니다!!"
 
+      - name: Bekzat Tilekbay
+        lastName: Tilekbay
+        email: "tlekbay.b@gmail.com"
+        career: M.S. Student
+        img: "bekzat_tilekbay.jpg"
+        site: ""
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Nicole Lee
-        lastName: Lee
-        email: "nicolelee2001@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "nicolelee.jpg"
-        site: ""
-        message: "Happy teacher's day! Thank you for all the experiences I have had and will have at KIXLAB, and for all the great classes. You are the best professor :)"
-
       - name: Yeon Su Park
         lastName: Park
         email: yeonsupark@kaist.ac.kr
         career: Undergrad Intern (KAIST)
         img: "yeonsupark.jpg"
         site: ""
-        message: ""
 
       - name: Jueon Lee
         lastName: Lee
@@ -251,39 +221,13 @@ positions:
         career: Undergrad Intern (Seoul National University)
         img: "jueonlee.jpg"
         site: ""
-        message: ""
 
-      - name: Bekzat Tilekbay
-        lastName: Tilekbay
-        email: "tlekbay.b@gmail.com"
-        career: Undergrad Intern (KAIST)
-        img: "bekzat_tilekbay.jpg"
-        site: ""
-        message: ""
-
-      - name: Jisu Kim
-        lastName: Kim
-        email: "klog104@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "jisu.jpg"
-        site: ""
-        message: ""
-      
       - name: Yumin Cho
         lastName: Cho
         email: "dbals1184@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "yumincho.png"
         site: ""
-        message: ""
-
-      - name: Michal Lewkowicz
-        lastName: Lewkowicz
-        email: "michal.lewkowicz@yale.edu"
-        career: Undergrad Intern (Yale)
-        img: "michal_lewkowicz.jpg"
-        site: ""
-        message: ""
 
       - name: Hai Nam
         lastName: Cao
@@ -291,21 +235,12 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "hai_nam.png"
         site: ""
-        message: ""
-      
+
       - name: Yokyung Lee
         lastname: Lee
         email: "ykleeee@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "yokyung.png"
-        site: ""
-        message: ""
-
-      - name: Seonghee Lee
-        lastname: Lee
-        email: "sl994@cornell.edu"
-        career: Research Intern
-        img: "seonghee.png"
         site: ""
 
       - name: Sumin Hong
@@ -314,15 +249,6 @@ positions:
         career: Undergrad Intern (Seoultech)
         img: "suminhong.jpg"
         site: ""
-        message: ""
-
-      - name: Le Khanh Duy
-        lastname: Le
-        email: "duy.le1201@hcmut.edu.vn"
-        career: Vising Student Researcher (HCMUT)
-        img: "Khanh_Duy.jpg"
-        site: ""
-        message: ""
 
       - name: Hyewon Lee
         lastname: Lee
@@ -330,7 +256,6 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "hyewon.jpg"
         site: ""
-        message: ""
 
       - name: Dong Yun Jung
         lastname: Jung
@@ -338,15 +263,6 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "dongyun.jpeg"
         site: ""
-        message: ""
-
-      - name: Bryan Min
-        lastname: Min
-        email: "bdmin@ucsd.edu"
-        career: Research Intern (UCSD)
-        img: "bryan.jpeg"
-        site: "https://bryanmin.me"
-        message: ""
 
   - positionName: Staff
     positionMembers:
@@ -361,6 +277,39 @@ positions:
 
   - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
     positionMembers:
+      - name: Jeongeon Park
+        lastName: Park
+        email: "jeongeon.park@kaist.ac.kr"
+        career: M.S. Student
+        img: "jeongeon.jpg"
+        period: Fall 2019 - Summer 2023
+        leavingDate: 2023.09.15
+        site: "https://jeongeonpark.com"
+        message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
+
+      - name: Gionnieve Lim
+        lastName: Lim
+        email: "gionnievelim@gmail.com"
+        career: Visiting Ph.D. Student (SUTD)
+        img: "gionnieve.jpg"
+        period: Winter 2023 - Summer 2023
+        leavingDate: 2023.08.13
+        site: ""
+        message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
+
+      - name: Hyung-Kwon Ko
+        lastName: Ko
+        email: hyungkwonko@gmail.com
+        career: Researcher
+        img: "hkko.jpg"
+        site: "https://hyungkwonko.info"
+        period: Summer 2022 - Fall 2022
+        leavingDate: 2022.10.14
+        materials:
+          - label: "M.S. thesis"
+            url: "https://s-space.snu.ac.kr/handle/10371/177831"
+        message: "Thank you for your support professor Juho!"
+
       - name: Haesoo Kim
         lastName: Kim
         email: haesoo1108@gmail.com
@@ -639,13 +588,67 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Bryan Min
+        lastname: Min
+        email: "bdmin@ucsd.edu"
+        career: Research Intern (UCSD)
+        img: "bryan.jpeg"
+        site: "https://bryanmin.me"
+        period: Summer 2023
+        leavingDate: 2023.09.22
+
+      - name: Seonghee Lee
+        lastname: Lee
+        email: "sl994@cornell.edu"
+        career: Research Intern
+        img: "seonghee.png"
+        site: ""
+        period: Summer 2023, Summer 2021
+        leavingDate: 2023.09.07
+
+      - name: Michal Lewkowicz
+        lastName: Lewkowicz
+        email: "michal.lewkowicz@yale.edu"
+        career: Undergrad Intern (Yale)
+        img: "michal_lewkowicz.jpg"
+        site: ""
+        period: Summer 2023
+        leavingDate: 2023.08.29
+
+      - name: Nicole Lee
+        lastName: Lee
+        email: "nicolelee2001@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "nicolelee.jpg"
+        site: ""
+        message: "Happy teacher's day! Thank you for all the experiences I have had and will have at KIXLAB, and for all the great classes. You are the best professor :)"
+        period: Summer 2021 - Summer 2023
+        leavingDate: 2023.08.25
+
+      - name: Le Khanh Duy
+        lastname: Le
+        email: "duy.le1201@hcmut.edu.vn"
+        career: Vising Student Researcher (HCMUT)
+        img: "Khanh_Duy.jpg"
+        site: ""
+        period: Summer 2023
+        leavingDate: 2023.08.18
+
+      - name: Jisu Kim
+        lastName: Kim
+        email: "klog104@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jisu.jpg"
+        site: ""
+        period: Winter 2023 - Summer 2023
+        leavingDate: 2023.07.31
+
       - name: Dakyeom Ahn
         lastName: Ahn
         email: adklys@snu.ac.kr
         career: Undergrad Intern (Seoul National University)
         img: "dakyeom.jpg"
         site: ""
-        message: ""
         period: Summer 2022 - Summer 2023
         leavingDate: 2023.07.18
 
@@ -655,7 +658,6 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "nathan.jpg"
         site: ""
-        message: ""
         period: Winter 2023 - Spring 2023
         leavingDate: 2023.06.16
 
@@ -695,7 +697,6 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "seungho.jpeg"
         site: "https://thestar.notion.site/e6f6b641bd8f493085e5f044182dcae3"
-        message: ""
         period: Fall 2022
         leavingDate: 2023.01.31
 
