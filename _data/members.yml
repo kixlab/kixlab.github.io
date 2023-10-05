@@ -284,6 +284,9 @@ positions:
         img: "jeongeon.jpg"
         period: Fall 2019 - Summer 2023
         leavingDate: 2023.09.15
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2023-jeongeon.pdf"
         site: "https://jeongeonpark.com"
         message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
 
