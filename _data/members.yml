@@ -308,9 +308,9 @@ positions:
         site: "https://hyungkwonko.info"
         period: Summer 2022 - Fall 2022
         leavingDate: 2022.10.14
-        materials:
-          - label: "M.S. thesis"
-            url: "https://s-space.snu.ac.kr/handle/10371/177831"
+        # materials:
+        #   - label: "M.S. thesis"
+        #     url: "https://s-space.snu.ac.kr/handle/10371/177831"
         message: "Thank you for your support professor Juho!"
 
       - name: Haesoo Kim
