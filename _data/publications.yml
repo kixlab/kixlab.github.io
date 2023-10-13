@@ -13,8 +13,8 @@ types:
   - conference
   - poster
   - workshop
-  #  - book
   - journal
+  - preprint
 
 papers:
   - title: "CodeTree: A System for Learnersourcing Subgoal Hierarchies in Code Examples"
@@ -37,6 +37,88 @@ papers:
     type: conference
     award: ""
     link: ""
+
+  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
+    author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - learning
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.05191"
+
+  - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
+    author: "_Jeongeon Park_, Bryan Min, Xiaojuan Ma, _Juho Kim_"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.01331"
+
+  - title: "GenQuery: Supporting Expressive Visual Search with Generative Models"
+    author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, _Juho Kim_"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.01287"
+
+  - title: '"Teach AI How to Code": Using Large Language Models as Teachable Agents for Programming Education'
+    author: "_Hyoungwook Jin_, _Seonghee Lee_, _Hyungyu Shin_, _Juho Kim_"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+      - learning
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2309.14534"
+
+  - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
+    author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2309.13633"
+
+  - title: "Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models"
+    author: "_Hyung-Kwon Ko_, Hyeon Jeon, Gwanmo Park, _Dae Hyun Kim_, Nam Wook Kim, _Juho Kim_, Jinwook Seo"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+      - visualization
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2309.10245"
+
+  - title: "CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset"
+    author: "Nayeon Lee, Chani Jung*, _Junho Myung*_, Jiho Jin, _Juho Kim_, Alice Oh"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - social
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2308.16705"
+
+  - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
+    author: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, _Juho Kim_, Minjoon Seo"
+    year: 2023
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2307.10928"
 
   - title: "Cells, Generators, and Lenses: Design Framework for Object-Oriented Interaction with Large Language Models"
     author: "_Tae Soo Kim_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"
