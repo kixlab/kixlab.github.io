@@ -101,7 +101,7 @@ papers:
     link: "https://arxiv.org/abs/2309.10245"
 
   - title: "CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset"
-    author: "Nayeon Lee, Chani Jung*, _Junho Myung*_, Jiho Jin, _Juho Kim_, Alice Oh"
+    author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
     year: 2023
     venue: "arXiv preprint"
     topics:
