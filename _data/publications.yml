@@ -52,7 +52,7 @@ papers:
     link: "https://kixlab.github.io/website-files/2023/uist2023-llmobjects-paper.pdf"
     
   - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
-    author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, _Vidya Setlur_, _Maneesh Agrawala_"
+    author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, Vidya Setlur, Maneesh Agrawala"
     year: 2023
     venue: "IEEE VIS 2023 (to appear)"
     topics:
