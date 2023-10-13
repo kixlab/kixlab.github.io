@@ -1,0 +1,117 @@
+.teachersday-event{
+    background-color: transparent;
+}
+
+.member-image{
+    flex-shrink: 0;
+}
+
+header{
+    background-color: white;
+}
+
+.namecard-content{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+
+
+
+.juho-section:hover{
+    animation: tada 1s linear ;
+}
+
+@keyframes tada {
+    0% {
+      transform: scale3d(1, 1, 1);
+    }
+  
+    10%, 20% {
+      transform: rotate3d(0, 0, 1, -3deg);
+    }
+  
+    30%, 50%, 70%, 90% {
+      transform: rotate3d(0, 0, 1, 3deg);
+    }
+  
+    40%, 60%, 80% {
+      transform:  rotate3d(0, 0, 1, -3deg);
+    }
+  
+    100% {
+      transform: scale3d(1, 1, 1);
+    }
+}
+
+.teachersday-banner{
+    max-width: 550px;
+    margin: 0 auto 1*$spacing;
+
+ 
+    background-color: white;
+    display: block;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    border: 10px solid #fff;
+    // transform: rotate(2deg);
+    text-decoration: none;
+    color: inherit;
+    font-size: (13/16)*1em;
+    
+    img {
+        box-sizing: border-box;
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+    .caption {
+        display: block;
+        padding: .5em 0 0;
+        text-align: center;
+    }
+
+    margin-bottom: 36px;
+}
+
+/* Snow? */
+
+.event-bg{
+    width: 100%;
+    height: 100vh;
+    position:fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.event-flowers {
+    --size: 3vw;
+    width: var(--size);
+    height: var(--size);
+    background-image: url('/assets/img/carnation.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -5vh;
+  }
+  
+  @keyframes fall {
+    0% {
+      transform: translate3d(var(--left-ini), 0, 0);
+    }
+    100% {
+      transform: translate3d(var(--left-end), 110vh, 0);
+    }
+  }
+  
+  @for $i from 1 through 50 {
+    .event-flowers:nth-child(#{$i}) {
+      --size: #{random(5)}vw;
+      --left-ini: #{random(20) - 10}vw;
+      --left-end: #{random(20) - 10}vw;
+      --deg-start: #{random(180)-90}deg;
+      --deg-end: #{random(180)-90}deg;
+      left: #{random(100)}vw;
+      animation: fall #{5 + random(6)}s linear infinite;
+      animation-delay: -#{random(10)}s;
+    }
+  }

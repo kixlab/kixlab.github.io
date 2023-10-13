@@ -17,25 +17,269 @@ types:
   - journal
 
 papers:
+  - title: "CodeTree: A System for Learnersourcing Subgoal Hierarchies in Code Examples"
+    author: "_Hyoungwook Jin_, _Juho Kim_"
+    venue: "CSCW 2024"
+    year: 2024
+    topics:
+      - crowdsourcing
+      - learning
+    type: conference
+    award: ""
+    link: ""
+  
+  - title: "Re:SPect: Enabling Active and Scalable Responses to Networked Online Harassment"
+    author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
+    venue: "CSCW 2024"
+    year: 2024
+    topics:
+      - social
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "Cells, Generators, and Lenses: Design Framework for Object-Oriented Interaction with Large Language Models"
+    author: "_Tae Soo Kim_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"
+    venue: "UIST 2023"
+    year: 2023
+    topics:
+      - human-ai-interaction
+    type: conference
+    materials:
+      - label: "project website"
+        url: "https://llm-objects.kixlab.org/"
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/uist2023-llmobjects-paper.pdf"
+    
+  - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
+    author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, _Vidya Setlur_, _Maneesh Agrawala_"
+    year: 2023
+    venue: "IEEE VIS 2023 (to appear)"
+    topics:
+      - visualization
+    type: journal
+    materials:
+      - label: "project website"
+        url: "https://dhkim16.github.io/emphasis-checker/"
+      - label: "supplement 1"
+        url: "https://dhkim16.github.io/emphasis-checker/pdf/supplemental.zip"
+      - label: "supplement 2"
+        url: "https://dhkim16.github.io/emphasis-checker/mp4/usage-scenario.mp4"
+      - label: "code"
+        url: "https://github.com/dhkim16/EmphasisChecker-release"
+    award: ""
+    link: "https://dhkim16.github.io/emphasis-checker/pdf/paper.pdf"
+
+  - title: "Designing for AI-Powered Social Computing Systems"
+    author: "_Gionnieve Lim_, _Hyunwoo Kim_, _Yoonseo Choi_, Toby Jia-Jun Li, Chinmay Kulkarni, Hariharan Subramonyam, Joseph Seering, Michael S. Bernstein, Amy X. Zhang, Elena L. Glassman, Simon Perrault, _Juho Kim_"
+    year: 2023
+    venue: "CSCW SIG"
+    topics:
+      - human-ai-interaction
+    type: poster
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/cscw23-sig-CSCW2023SIG-workshop.pdf"
+
+  - title: "RECIPE: How to Integrate ChatGPT into EFL Writing Education"
+    author: "Jieun Han, Haneul Yoo, _Yoonsu Kim_, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Juho Kim_, Tak Yeon Lee, Hwajung Hong, So-Yeon Ahn, Alice Oh"
+    year: 2023
+    venue: "L@S 2023 (Work-in-Progress)"
+    topics:
+      - learning
+    type: poster
+    award: ""
+    link: "https://arxiv.org/abs/2305.11583"
+
+  - title: "Look Upon Thyself: Understanding the Effect of Self-Reflection on Toxic Behavior in Online Gaming"
+    author: "_Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
+    year: 2023
+    venue: "CHI 2023 Workshop on Combating Toxicity, Harassment, and Abuse in Online Social Spaces"
+    topics:
+      - social
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-toxicity-paper.pdf"
+
+  - title: "Towards an Experience-Centric Paradigm of Online Harassment: Responding to Calling out and Networked Harassment"
+    author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
+    year: 2023
+    venue: "CHI 2023 Workshop on Combating Toxicity, Harassment, and Abuse in Online Social Spaces"
+    topics:
+      - social
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-callout-paper.pdf"
+
+  - title: "Moderating Customer Inquiries and Responses to Alleviate Stress and Reduce Emotional Dissonance of Customer Service Representatives"
+    author: "_Hyung-Kwon Ko_, _Kihoon Son_, _Hyoungwook Jin_, _Yoonseo Choi_, Xiang ‘Anthony’ Chen"
+    year: 2023
+    venue: "CHI 2023 Workshop on Generative AI and HCI"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-customer-paper.pdf"
+    
+  - title: "LMCanvas: Object-Oriented Interaction to Personalize Large Language Model-Powered Writing Environments"
+    author: "_Tae Soo Kim_, _Arghya Sarkar_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023 Workshop on Generative AI and HCI"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2303.15125"
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-lmcanvas-paper.pdf"
+
+  - title: "Creator-friendly Algorithms: Behaviors, Challenges, and Design Opportunities in Algorithmic Platforms"
+    author: "_Yoonseo Choi_, Eun Jeong Kang, Min Kyung Lee, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-creatorfriendly-paper.pdf"
+
+  - title: "Beyond Instructions: A Taxonomy of Information Types in How-to Videos"
+    author: "_Saelyne Yang_, _Sangkyung Kwak*_, _Juhoon Lee*_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - learning
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-videomap-paper.pdf"
+
+  - title: "How Older Adults Use Online Videos for Learning"
+    author: "_Seoyoung Kim_, _Donghoon Shin_, _Jeongyeon Kim_, _Soonwoo Kwon_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - learning
+      - datamining
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-olderadults-paper.pdf"
+
+  - title: "DAPIE: Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions"
+    author: "_Yoonjoo Lee_, _Tae Soo Kim_, Sungdong Kim, _Yohan Yun_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - human-ai-interaction
+      - learning
+    type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3544548.3581369"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=nBdIhI66_vY"
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-childQA-paper.pdf"
+
+  - title: "Surch: Enabling Structural Search and Comparison for Surgical Videos"
+    author: "_Jeongyeon Kim_, _DaEun Choi_, _Nicole Lee_, Matt Beane, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - learning
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-surch-paper.pdf"
+
+  - title: "ModSandbox: Facilitating Online Community Moderation Through Error Prediction and Improvement of Automated Rules"
+    author: "_Jean Y Song_, _Sangwook Lee_, _Jisoo Lee_, _Mina Kim_, _Juho Kim_"
+    year: 2023
+    venue: "CHI 2023"
+    topics:
+      - social
+      - civics
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/chi2023-modsandbox-paper.pdf"
+
+
+  - title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
+    author: "_Hyung-Kwon Ko_, Gwanmo Park, Hyeon Jeon, Jaemin Jo, _Juho Kim_, Jinwook Seo"
+    year: 2023
+    venue: "IUI 2023"
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2023/iui2023-LTGMs-paper.pdf"
+    
+    
+  - title: "When Does it Become Harassment?: An Investigation of Online Criticism and Calling Out in Twitter"
+    author: "_Haesoo Kim_, Haeeun Kim, _Juho Kim_, Jeong-woo Jang"
+    year: 2022
+    venue: "CSCW 2022"
+    topics:
+      - social
+    type: conference
+    link: "https://kixlab.github.io/website-files/2022/cscw2022-callout-paper.pdf"
+  
+  - title: "Learnersourcing Modular and Dynamic Multiple Choice Questions"
+    author: "_Haesoo Kim_, _Inhwa Song_, _Juho Kim_"
+    venue: "L@S 2022 Workshop on Learnersourcing: Student-generated Content @ Scale"
+    year: 2022
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2022/l@s2022-workshop-Kuiz-paper.pdf"
+
+  - title: "Learnersourcing Subgoal Hierarchies of Code Examples"
+    author: "_Hyoungwook Jin_, _Juho Kim_"
+    venue: "L@S 2022 Workshop on Learnersourcing: Student-generated Content @ Scale"
+    year: 2022
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2022/l@s2022-workshop-Subgoal-paper.pdf"
+    
+  - title: "Interactive Children’s Story Rewriting Through Parent-Children Interaction"
+    author: "_Yoonjoo Lee_, _Tae Soo Kim_, Minsuk Chang, _Juho Kim_"
+    year: 2022
+    venue: "ACL 2022 Workshop on Intelligent and Interactive Writing Assistants"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    link: "https://kixlab.github.io/website-files/2022/acl2022-workshop-childrenstory-paper.pdf"
+    
+  - title: "Improving Video Interfaces by Presenting Informational Units of Videos"
+    author: "_Saelyne Yang_, _Sangkyung Kwak_, _Tae Soo Kim_, _Juho Kim_"
+    venue: "CHI 2022 Workshop on Computational Approaches for Understanding, Generating, and Adapting User Interfaces"
+    year: 2022
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-workshop-StarLab-paper.pdf"
+
   - title: "RLens: A Computer-aided Visualization System for Supporting Reflection on Language Learning under Distributed Tutorship"
-    author: "_Meng Xia_, _Yankun Zhao_, _Jihyeong Hong_, _Mehmet Hamza Erol_, _Taewook Kim_, _Juho Kim_"
+    author: "_Meng Xia_, Yankun Zhao, _Jihyeong Hong_, _Mehmet Hamza Erol_, _Taewook Kim_, _Juho Kim_"
     venue: "Learning at Scale 2022"
     year: 2022
     topics:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/l@s2022-RLens-paper.pdf"
 
   - title: "Techniques for Semantic Search and Comparison for Robotic Surgery Videos"
-    author: "_Jeongyeon Kim_, _DaEun Choi_, _Matthew Beane_, _Juho Kim_"
+    author: "_Jeongyeon Kim_, _DaEun Choi_, Matthew Beane, _Juho Kim_"
     venue: "CHI 2022 Workshop on Integration of Human Factors in Surgery: Interdisciplinary Collaboration in Design, Development, and Evaluation of Surgical Technologies"
     year: 2022
     topics:
       - learning
     type: workshop
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/chi2022-workshop-Surch-paper.pdf"
 
   - title: "ReviewAid: A Scaffolded Approach to Supporting Readers’ Evaluation of Health News"
     author: "_Eun-Young Ko_, _Yeonsu Kim_, _Juho Kim_"
@@ -47,25 +291,37 @@ papers:
       - civics
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2022/icls2022-ReviewAid-paper.pdf"
 
   - title: "Capturing Diverse and Precise Reactions to a Comment with User-Generated Labels"
-    author: "_Eun-Young Ko_, _Eunseo Choi_, _Jeong-woo Jang_, _Juho Kim_"
+    author: "_Eun-Young Ko_, _Eunseo Choi_, Jeong-woo Jang, _Juho Kim_"
     venue: "TheWebConf 2022"
     year: 2022
     topics:
       - social
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"
+      - label: "project website"
+        url: "https://reaction.kixlab.org/"
+      - label: "demo"
+        url: "http://13.124.5.10:3000/"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/www2022-user-generated-labels-paper.pdf"
 
   - title: "Understanding Distributed Tutorship in Online Language Tutoring"
-    author: "_Meng Xia_, _Yankun Zhao_, _Mehmet Hamza Erol_, _Jihyeong Hong_, _Juho Kim_"
+    author: "_Meng Xia_, Yankun Zhao, _Mehmet Hamza Erol_, _Jihyeong Hong_, _Juho Kim_"
     venue: "LAK 2022"
     year: 2022
     topics:
       - learning
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3485447.3512243"
+      - label: "video presentation"
+        url: "https://youtu.be/hcPImSUs8cQ"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/lak2022-distributed-tutorship-paper.pdf"
 
@@ -77,6 +333,13 @@ papers:
       - learning
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3491102.3517461"
+      - label: "project website"
+        url: "https://catchlive.kixlab.org/"
+      - label: "video presentation"
+        url: "https://youtu.be/M7AOIPKDc20"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-CatchLive-paper.pdf"
 
@@ -87,27 +350,44 @@ papers:
     topics:
       - learning
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3501917"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=ATUML6ry3ng"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-AlgoSolve-paper.pdf"
 
   - title: "Cocomix: Utilizing Comments to Improve Non-Visual Webtoon Accessibility"
-    author: "_Mina Huh_, _Yunjung Lee_, _Dasom Choi_, _Haesoo Kim_, _Uran Oh_, _Juho Kim_"
+    author: "_Mina Huh_, Yunjung Lee, Dasom Choi, _Haesoo Kim_, Uran Oh, _Juho Kim_"
     venue: "CHI 2022"
     year: 2022
     topics:
       - crowdsourcing
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3502081"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=Oj7K7AAGudc"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-Cocomix-paper.pdf"
 
   - title: "Promptiverse: Scalable Generation of Scaffolding Prompts through Human-AI Hybrid Knowledge Graph Annotation"
-    author: "_Yoonjoo Lee_, _John Joon Young Chung_, _Tae Soo Kim_, _Jean Y Song_, _Juho Kim_"
+    author: "_Yoonjoo Lee_, John Joon Young Chung, _Tae Soo Kim_, Jean Y Song, _Juho Kim_"
     venue: "CHI 2022"
     year: 2022
     topics:
       - learning
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3491102.3502087"
+      - label: "project website"
+        url: "https://promptiverse.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=jvtsD73-Hqw"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-promptiverse-paper.pdf"
 
@@ -118,7 +398,14 @@ papers:
     topics:
       - human-ai-interaction
     type: conference
-    award: ""
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3491102.3501931"
+      - label: "project website"
+        url: "https://stylette.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=7ZJZpIW9FHc"
+    award: "Honorable Mention Award"
     link: "https://kixlab.github.io/website-files/2022/chi2022-stylette-paper.pdf"
 
   - title: "FitVid: Responsive and Flexible Video Content Adaptation"
@@ -129,6 +416,13 @@ papers:
       - learning
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3501948"
+      - label: "project website"
+        url: "https://fitvid.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=UvPo2A_jvK8"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/chi2022-FitVid-paper.pdf "
 
@@ -139,7 +433,14 @@ papers:
     topics:
       - learning
     type: conference
-    award: ""
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3491102.3502054"
+      - label: "project website"
+        url: "https://mobilemooc.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=G7RDBplEP6Y"
+    award: "Best Paper Award"
     link: "https://kixlab.github.io/website-files/2022/chi2022-mMOOC-paper.pdf"
 
   - title: "SoftVideo: Improving the Learning Experience of Software Tutorial Videos with Collective Interaction Data"
@@ -150,6 +451,11 @@ papers:
       - datamining
       - learning
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3490099.3511106"
+      - label: "project website"
+        url: "https://softvideo.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/iui2022-SoftVideo-paper.pdf"
 
@@ -161,6 +467,13 @@ papers:
       - human-ai-interaction
       - learning
     type: poster
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3478432.3499052"
+      - label: "project website"
+        url: "https://xdesign.kixlab.org/"
+      - label: "video presentation"
+        url: "https://www.youtube.com/watch?v=SPPaYUM1nrA"
     award: ""
     link: "https://kixlab.github.io/website-files/2022/sigcse2022-poster-XDesign-paper.pdf"
 
@@ -538,6 +851,17 @@ papers:
         url: "https://snapstream.kixlab.org/"
     award: ""
     link: "https://www.kixlab.org/files/2020/chi2020-Snapstream-paper.pdf"
+
+  - title: "What Makes It Hard for Users to Follow Software Tutorial Videos?"
+    author: "_Saelyne Yang_, _Juho Kim_"
+    venue: "HCI Korea 2020"
+    year: 2020
+    topics:
+      - learning
+    type: conference
+    materials: ""
+    award: ""
+    link: "https://www.kixlab.org/files/2020/hcik2020-SoftwareTutorial-paper.pdf"
 
   - title: "You are How You Behave in Your Group: Predicting Personality via Behaviors in a Co-located Group"
     author: "_Seoyoung Kim_, _Arti Thakur_, _Juho Kim_"

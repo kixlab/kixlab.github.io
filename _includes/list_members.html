@@ -1,90 +1,144 @@
 <style>
-.material {
-  margin: 0;
-  padding: 0 6px 0 2px; /* white space is 4px */
-}
-.material:not(:last-child) {
-  border-right: 1px solid #bfbfbf;
-}
+  .material {
+    margin: 0;
+    padding: 0 6px 0 2px;
+    /* white space is 4px */
+  }
 
-#popup {
-  top: 0 !important;
-  left: 0 !important;
-  width: 100%;
-  height: 100%;
-  padding: 1em;
-  background-color: rgba(0,0,0,0.85);
-  will-change: opacity;
-  z-index: 1000;
-  position: fixed;
-}
+  .material:not(:last-child) {
+    border-right: 1px solid #bfbfbf;
+  }
 
-#popup iframe {
-  position: absolute;
-  z-index: 1001;
-  transform: translate(-50%,-50%);
-  top: 50%;
-  left: 50%;
-}
+  #popup {
+    top: 0 !important;
+    left: 0 !important;
+    width: 100%;
+    height: 100%;
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.85);
+    will-change: opacity;
+    z-index: 1000;
+    position: fixed;
+  }
 
+  #popup iframe {
+    position: absolute;
+    z-index: 1001;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+  }
 </style>
 
 <script type="text/javascript">
   function onClick(id) {
     var popup = document.getElementById('popup');
-    if (id === "link-video") 
+    if (id === "link-video")
       popup.style.display = 'block';
     else {
       popup.querySelector('iframe').contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
       popup.style.display = 'none';
     }
   }
-  </script>
+</script>
 
 {% for position in site.data.members.positions %}
-    <h2 class="position-title">{{ position.positionName}}</h3>
+<h2 class="position-title">{{ position.positionName}}</h3>
 
-    <div class="position-members {% if position.positionName contains 'Alumni' %}position-alumni{% else %}grid-2{% endif %}">
-    
+  <div
+    class="position-members {% if position.positionName contains 'Alumni' %}position-alumni{% else %}grid-2{% endif %}">
+
     {% if position.positionName contains 'Alumni' %}
-      {% assign sorted_members = position.positionMembers | sort: 'leavingDate' | reverse %}
+    {% assign sorted_members = position.positionMembers | sort: 'leavingDate' | reverse %}
+    {% elsif position.positionName contains 'Faculty and Postdocs' %}
+    {% assign sorted_members = position.positionMembers %}
     {% else %}
-      {% assign sorted_members = position.positionMembers | sort: 'lastName' %}  
+    {% assign sorted_members = position.positionMembers | sort: 'lastName' | group_by: 'lastName'%} 
     {% endif %}
-    {% for member in sorted_members %}
-        <div class='namecard'>
-            <!-- Alumni -->
-            {% if position.positionName contains 'Alumni' %}
-            <div class="namecard-content">
-              {% if member.site != '' %}
-              <span class="member-name"><a href="{{member.site}}">{{member.name}}</a></span>
-              {% else %}
-              <span class="member-name">{{member.name}}</span>
-              {% endif %}
 
-              {% for career in member.career %}
-              <p class="member-career">{{career}}</p>
-              {% endfor %}
+    <!-- Alumni -->
+    {% if position.positionName contains 'Alumni' %}
+      {% for member in sorted_members %}
+      <div class='namecard'>
+      <div class="namecard-content">
+        {% if member.site != '' %}
+        <span class="member-name"><a href="{{member.site}}">{{member.name}}</a></span>
+        {% else %}
+        <span class="member-name">{{member.name}}</span>
+        {% endif %}
 
-              {% if member.period %}
-              <p class="member-period">{{member.period}}</p>
-              {% endif %}
+        {% for career in member.career %}
+        <p class="member-career">{{career}}</p>
+        {% endfor %}
 
-              <p class="member-materials">
-                {% for material in member.materials %}
-                  <a href="{{material.url}}" class="material">{{ material.label }}</a>
-                {% endfor %}
-              </p>
+        {% if member.period %}
+        <p class="member-period">{{member.period}}</p>
+        {% endif %}
 
-              {% if member.now %}
-              <p class="member-now">(now {{member.now}})</p>
-              {% endif %}
+        <p class="member-materials">
+          {% for material in member.materials %}
+            <a href="{{material.url}}" class="material">{{ material.label }}</a>
+          {% endfor %}
+        </p>
 
+        {% if member.now %}
+        <p class="member-now">(now {{member.now}})</p>
+        {% endif %}
+
+      </div>
+      </div>
+      {% endfor %}
+
+    <!-- Faculty and Postdocs -->
+    {% elsif position.positionName contains 'Faculty and Postdocs' %}
+      {% for member in sorted_members %}
+      <div class='namecard'>
+      <div class='member-image' style="background-image: url({{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }})">
+      </div>
+
+      <div class="namecard-content">
+          {% if member.site != '' %}
+          <h3 class="member-name"><a href="{{member.site}}">{{member.name}}</a></h3>
+          {% else %}
+          <h3 class="member-name">{{member.name}}</h3>
+          {% endif %}
+
+          {% for career in member.career %}
+          <p class="member-career">{{career}}</p>
+          {% endfor %}
+          
+          {% if member.email %}
+          <p class="member-email">{{member.email}}</p>
+          {% endif %}
+        
+          {% if member.interest %}
+          <p class="member-interest">{{member.interest}}</p>
+          {% endif %}
+
+          {% if member.video %}
+          <p class="member-video">
+            <a id="link-video" onclick="onClick(this.id)" href="javascript:void(0);">1-min research overview</a>
+            <div id="popup" style="display: none;" onclick="onClick(this.id)">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ member.video }}?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen></iframe>
             </div>
-            
-            
-            <!-- Current members -->
-            {% else %}
+          </p>
+          {% endif %}
+
+          <p class="member-materials">
+            {% for material in member.materials %}
+              <a href="{{material.url}}" class="material">{{ material.label }}</a>
+            {% endfor %}
+          </p>
+        </div>   
+        </div>         
+      {% endfor %}    
+
+     <!-- Current members -->
+        {% else %}
+        {% for group in sorted_members %}
+          {% assign sorted_name = group.items | sort: 'name' %}
+            {% for member in sorted_name %}
+            <div class='namecard'>
             <div class='member-image' style="background-image: url({{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }})">
             </div>
 
@@ -121,10 +175,10 @@
                     <a href="{{material.url}}" class="material">{{ material.label }}</a>
                   {% endfor %}
                 </p>
-            </div>            
-            {% endif %}
-
-        </div>
-    {% endfor %}
-    </div>
-{% endfor %}
+            </div>   
+            </div>         
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+      </div>
+  {% endfor %}

@@ -1,0 +1,193 @@
+<style>
+  .material {
+    margin: 0;
+    padding: 0 6px 0 2px;
+    /* white space is 4px */
+  }
+
+  .material:not(:last-child) {
+    border-right: 1px solid #bfbfbf;
+  }
+
+  #popup {
+    top: 0 !important;
+    left: 0 !important;
+    width: 100%;
+    height: 100%;
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.85);
+    will-change: opacity;
+    z-index: 1000;
+    position: fixed;
+  }
+
+  #popup iframe {
+    position: absolute;
+    z-index: 1001;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+  }
+
+  
+</style>
+
+<script type="text/javascript">
+  function onClick(id) {
+    var popup = document.getElementById('popup');
+    if (id === "link-video")
+      popup.style.display = 'block';
+    else {
+      popup.querySelector('iframe').contentWindow.postMessage('{"event":"command","func":"' + 'pauseVideo' + '","args":""}', '*');
+      popup.style.display = 'none';
+    }
+  }
+</script>
+
+<div class="event-bg">
+    {% for i in (1..20) %}
+        <div class = "event-flowers"></div>
+    {% endfor %}
+</div>
+
+{% for position in site.data.members.positions %}
+
+{% if position.positionName contains 'Alumni' %}
+{% else %}
+
+{% assign sorted_members = position.positionMembers | sort: 'lastName' %}
+{% endif %}
+    
+{% if position.positionName contains 'Faculty' %}
+<div
+    class="position-members grid-2">
+    {% for member in sorted_members %}
+
+    {% if member.name == 'Juho Kim' %}
+
+    <div class='namecard juho-section' style="flex-direction: column; align-items: center; margin: 0; margin-bottom: 50px;">
+
+        <div class='member-image'
+            style="background-image: url({{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }}); margin-right: 0; margin-bottom: 20px">
+        </div>
+
+        <div class="namecard-content" style="text-align: center;">
+            {% if member.site != '' %}
+            <h3 class="member-name"><a href="{{member.site}}">{{member.name}}</a></h3>
+            {% else %}
+            <h3 class="member-name">{{member.name}}</h3>
+            {% endif %}
+
+            {% for career in member.career %}
+            <p class="member-career">{{career}}</p>
+            {% endfor %}
+
+            {% if member.message %}
+            <p class="member-message">{{member.message}}</p>
+            {% endif %}
+
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+{% else %}
+
+<div class="position-members grid-2">
+    {% for member in sorted_members %}
+
+    {% if member.message %}
+    <div class='namecard'>
+
+        <!-- Current members -->
+        <div class='member-image'
+            style="background-image: url({{'/assets/img/members/' | prepend: site.baseurl }}{{ member.img }})">
+        </div>
+
+        <div class="namecard-content">
+            {% if member.site != '' %}
+            <h3 class="member-name"><a href="{{member.site}}">{{member.name}}</a></h3>
+            {% else %}
+            <h3 class="member-name">{{member.name}}</h3>
+            {% endif %}
+
+            <!-- {% for career in member.career %}
+            <p class="member-career">{{career}}</p>
+            {% endfor %}
+
+            {% if member.email %}
+            <p class="member-email">{{member.email}}</p>
+            {% endif %} -->
+
+            {% if member.message %}
+            <p class="member-message">{{member.message}}</p>
+            {% endif %}
+
+            <!-- {% if member.interest %}
+            <p class="member-interest">{{member.interest}}</p>
+            {% endif %}
+
+            {% if member.video %}
+            <p class="member-video">
+            <a id="link-video" onclick="onClick(this.id)" href="javascript:void(0);">1-min research overview</a>
+            <div id="popup" style="display: none;" onclick="onClick(this.id)">
+            <iframe width="560" height="315"
+                src="https://www.youtube.com/embed/{{ member.video }}?enablejsapi=1&version=3&playerapiid=ytplayer"
+                frameborder="0" allowfullscreen></iframe>
+            </div>
+            </p>
+            {% endif %}
+
+            <p class="member-materials">
+            {% for material in member.materials %}
+            <a href="{{material.url}}" class="material">{{ material.label }}</a>
+            {% endfor %}
+            </p> -->
+            
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    
+</div>
+
+{% endif %}
+
+{% endfor %}
+
+<div class="position-members grid-2"></div>
+<div class="namecard">
+
+    <!-- Current members -->
+    <div class="member-image" style="background-image: url(/assets/img/members/daehyun.jpg)">
+    </div>
+
+    <div class="namecard-content">
+        
+        <h3 class="member-name"><a href="https://dhkim16.github.io/">Dae Hyun Kim</a></h3>
+        
+
+        <!-- 
+        <p class="member-career">Postdoctoral Fellow</p>
+        
+
+        
+        <p class="member-email">dhkim16@cs.stanford.edu</p>
+         -->
+
+        
+        <p class="member-message">Thank you for your continued support throughout my career, ever since our first encounter in 2015-16. Very fortunate that our paths crossed -- I continue to learn a lot from your mentorship and have no doubt that I will learn a lot from you in the coming days ahead.</p>
+        
+
+        <!-- 
+
+        
+
+        <p class="member-materials">
+        
+        </p> -->
+        
+    </div>
+</div>
+</div>

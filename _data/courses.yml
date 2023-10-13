@@ -5,6 +5,8 @@ courses:
     description: "This course introduces fundamental principles, techniques, and methods for designing, prototyping, and evaluating user interfaces."
     url: https://kixlab.org/courses/hci/
     editions:
+      - semester: "Spring 2021"
+        url: https://kixlab.org/courses/cs374-spring-2021/
       - semester: "Spring 2020"
         url: https://kixlab.org/courses/cs374-spring-2020/
       - semester: "Spring 2019"
@@ -19,6 +21,8 @@ courses:
     description: "This course covers major design issues and computational techniques in building crowdsourcing and social computing systems."
     url: https://kixlab.org/courses/social/
     editions:
+      - semester: "Fall 2021"
+        url: https://kixlab.org/courses/cs473-fall-2021/
       - semester: "Fall 2020"
         url: https://kixlab.org/courses/cs473-fall-2020/
       - semester: "Fall 2019"
