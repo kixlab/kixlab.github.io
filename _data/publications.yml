@@ -40,7 +40,7 @@ papers:
 
   - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
     author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - learning
@@ -50,7 +50,7 @@ papers:
 
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
     author: "_Jeongeon Park_, Bryan Min, Xiaojuan Ma, _Juho Kim_"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - human-ai-interaction
@@ -60,7 +60,7 @@ papers:
 
   - title: "GenQuery: Supporting Expressive Visual Search with Generative Models"
     author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, _Juho Kim_"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - human-ai-interaction
@@ -70,7 +70,7 @@ papers:
 
   - title: '"Teach AI How to Code": Using Large Language Models as Teachable Agents for Programming Education'
     author: "_Hyoungwook Jin_, _Seonghee Lee_, _Hyungyu Shin_, _Juho Kim_"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - human-ai-interaction
@@ -81,7 +81,7 @@ papers:
 
   - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
     author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - human-ai-interaction
@@ -91,7 +91,7 @@ papers:
 
   - title: "Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models"
     author: "_Hyung-Kwon Ko_, Hyeon Jeon, Gwanmo Park, _Dae Hyun Kim_, Nam Wook Kim, _Juho Kim_, Jinwook Seo"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - human-ai-interaction
@@ -102,7 +102,7 @@ papers:
 
   - title: "CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset"
     author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - social
@@ -112,7 +112,7 @@ papers:
 
   - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
     author: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, _Juho Kim_, Minjoon Seo"
-    year: 2023
+    year: Preprint
     venue: "arXiv preprint"
     topics:
       - human-ai-interaction
