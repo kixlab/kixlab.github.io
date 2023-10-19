@@ -215,13 +215,6 @@ positions:
         img: "yeonsupark.jpg"
         site: ""
 
-      - name: Jueon Lee
-        lastName: Lee
-        email: "audreylee@snu.ac.kr"
-        career: Undergrad Intern (Seoul National University)
-        img: "jueonlee.jpg"
-        site: ""
-
       - name: Yumin Cho
         lastName: Cho
         email: "dbals1184@kaist.ac.kr"
@@ -563,7 +556,7 @@ positions:
         img: paul.jpg
         interest: Web Development and humans
         site: http://graycoding.com
-        period: Fall 2016-Spring 2018
+        period: Fall 2016 - Spring 2018
         leavingDate: 2018.06.29
         now: Frontend Engineer @ Superb AI
         materials:
@@ -576,7 +569,7 @@ positions:
         career: Undergrad Intern (SNU) & Researcher
         img: "john.jpg"
         site: "http://johnr0.github.io"
-        period: Spring 2017-Spring 2018
+        period: Spring 2017 - Spring 2018
         leavingDate: 2018.06.29
         now: Ph.D. Student @ University of Michigan
 
@@ -586,11 +579,20 @@ positions:
         career: Ph.D. Student
         img: yjlim.JPG
         site: ""
-        period: Fall 2016–Winter 2017
+        period: Fall 2016 - Winter 2017
         leavingDate: 2017.02.28
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Jueon Lee
+        lastName: Lee
+        email: "audreylee@snu.ac.kr"
+        career: Undergrad Intern (Seoul National University)
+        img: "jueonlee.jpg"
+        site: ""
+        period: Summer 2023 - Fall 2023
+        leavingDate: 2023.10.13
+
       - name: Bryan Min
         lastname: Min
         email: "bdmin@ucsd.edu"
@@ -1236,7 +1238,7 @@ positions:
         career: Undergrad Intern (KAIST), URP
         img: "jiyoun.png"
         site: "http://jiyounha.com"
-        period: Winter 2018-Spring 2018
+        period: Winter 2018 - Spring 2018
         leavingDate: 2018.06.29
         now: Software Engineer @ Google
 
@@ -1246,7 +1248,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "hyunjong.jpeg"
         site: "https://hyunjongl.github.io/"
-        period: Winter 2018-Spring 2018
+        period: Winter 2018 - Spring 2018
         leavingDate: 2018.06.29
         now: M.S. Student @ KAIST
 
@@ -1265,7 +1267,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "ina.jpeg"
         site: ""
-        period: Summer 2017–Fall 2017
+        period: Summer 2017 - Fall 2017
         leavingDate: 2017.12.31
         now: Software Engineer @ NAVER
 
@@ -1275,7 +1277,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "beomsu.jpg"
         site: ""
-        period: Summer 2017–Fall 2017
+        period: Summer 2017 - Fall 2017
         leavingDate: 2017.11.30
 
       - name: Jonghyuk Jung
@@ -1284,7 +1286,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "jonghyuk.jpg"
         site: "https://jonghyuk.info/"
-        period: Spring 2017–Fall 2017
+        period: Spring 2017 - Fall 2017
         leavingDate: 2017.10.30
         now: UX Designer @ Devsisters
 
@@ -1294,7 +1296,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "jooyoung.jpg"
         site: ""
-        period: Summer 2017–Fall 2017
+        period: Summer 2017 - Fall 2017
         leavingDate: 2017.10.30
 
       - name: Leonore Guillain
@@ -1350,7 +1352,7 @@ positions:
         career: Undergrad Intern (KAIST), URP
         img: hyunsung.jpg
         site: ""
-        period: Fall 2016–Winter 2017
+        period: Fall 2016 - Winter 2017
         leavingDate: 2017.02.28
         now: M.S. Student @ <a href="https://nmsl.kaist.ac.kr/">NMSL</a>, KAIST
 
@@ -1379,7 +1381,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: dongkwan.jpg
         site: ""
-        period: Summer 2016–Fall 2016
+        period: Summer 2016 - Fall 2016
         leavingDate: 2016.12.31
         now: M.S. Student @ <a href="http://uilab.kr/">U&I Lab</a>, KAIST
 
@@ -1398,7 +1400,7 @@ positions:
         career: Exchange Student from NTHU
         img: jean.jpg
         site: ""
-        period: Fall 2016–Spring 2017
+        period: Fall 2016 - Spring 2017
         leavingDate: 2017.06.30
         now: M.S. Student @ NTHU
 
@@ -1418,7 +1420,7 @@ positions:
         interest: KIXLAB
         img: jiwoo.jpg
         site: ""
-        period: Summer 2016–Fall 2016
+        period: Summer 2016 - Fall 2016
         leavingDate: 2016.12.31
         now: M.S. Student @ KAIST Business School
 
@@ -1428,7 +1430,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: soya2.jpg
         site: "https://people.csail.mit.edu/soya/"
-        period: Fall 2016–Winter 2017
+        period: Fall 2016 - Winter 2017
         leavingDate: 2017.02.28
         now: Ph.D. Student @ MIT
 
