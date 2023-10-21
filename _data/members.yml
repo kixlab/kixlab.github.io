@@ -155,7 +155,7 @@ positions:
         email: "daeun.choi@kaist.ac.kr"
         career: M.S. Student
         img: "daeun.jpg"
-        site: "https://cheddarchoi.github.io/"
+        site: "https://daeunchoi.com/"
         message: "I'm very lucky to work with you! Always thank you for your support and encouragement! Happy teacher's day :)"
 
       - name: Alex Suryapranata
@@ -282,6 +282,7 @@ positions:
             url: "http://kixlab.org/files/theses/thesis-ms-2023-jeongeon.pdf"
         site: "https://jeongeonpark.com"
         message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
+        now: Researcher @ DGIST
 
       - name: Gionnieve Lim
         lastName: Lim
