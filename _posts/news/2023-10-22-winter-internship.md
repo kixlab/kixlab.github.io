@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter 2024 Undergraduate Research Internship
-date: 2023-10-23 00:00:00
+date: 2023-10-22 00:00:00
 author: Admin
 categories: news
 img: default.png
