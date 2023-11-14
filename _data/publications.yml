@@ -28,7 +28,7 @@ papers:
     link: "https://arxiv.org/abs/2310.05191"
 
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
-    author: "_Jeongeon Park_, Bryan Min, Xiaojuan Ma, _Juho Kim_"
+    author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
     year: Preprints
     venue: "arXiv preprint"
     topics:
@@ -98,7 +98,7 @@ papers:
     type: preprint
     award: ""
     link: "https://arxiv.org/abs/2307.10928"
-    
+
   - title: "CodeTree: A System for Learnersourcing Subgoal Hierarchies in Code Examples"
     author: "_Hyoungwook Jin_, _Juho Kim_"
     venue: "CSCW 2024"
@@ -109,7 +109,7 @@ papers:
     type: conference
     award: ""
     link: ""
-  
+
   - title: "Re:SPect: Enabling Active and Scalable Responses to Networked Online Harassment"
     author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
     venue: "CSCW 2024"
@@ -132,7 +132,7 @@ papers:
         url: "https://llm-objects.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2023/uist2023-llmobjects-paper.pdf"
-    
+
   - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
     author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, Vidya Setlur, Maneesh Agrawala"
     year: 2023
@@ -201,7 +201,7 @@ papers:
     type: workshop
     award: ""
     link: "https://kixlab.github.io/website-files/2023/chi2023-workshop-customer-paper.pdf"
-    
+
   - title: "LMCanvas: Object-Oriented Interaction to Personalize Large Language Model-Powered Writing Environments"
     author: "_Tae Soo Kim_, _Arghya Sarkar_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"
     year: 2023
@@ -283,7 +283,6 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2023/chi2023-modsandbox-paper.pdf"
 
-
   - title: "Large-scale Text-to-Image Generation Models for Visual Artists' Creative Works"
     author: "_Hyung-Kwon Ko_, Gwanmo Park, Hyeon Jeon, Jaemin Jo, _Juho Kim_, Jinwook Seo"
     year: 2023
@@ -293,8 +292,7 @@ papers:
     type: conference
     award: ""
     link: "https://kixlab.github.io/website-files/2023/iui2023-LTGMs-paper.pdf"
-    
-    
+
   - title: "When Does it Become Harassment?: An Investigation of Online Criticism and Calling Out in Twitter"
     author: "_Haesoo Kim_, Haeeun Kim, _Juho Kim_, Jeong-woo Jang"
     year: 2022
@@ -303,7 +301,7 @@ papers:
       - social
     type: conference
     link: "https://kixlab.github.io/website-files/2022/cscw2022-callout-paper.pdf"
-  
+
   - title: "Learnersourcing Modular and Dynamic Multiple Choice Questions"
     author: "_Haesoo Kim_, _Inhwa Song_, _Juho Kim_"
     venue: "L@S 2022 Workshop on Learnersourcing: Student-generated Content @ Scale"
@@ -323,7 +321,7 @@ papers:
     type: workshop
     award: ""
     link: "https://kixlab.github.io/website-files/2022/l@s2022-workshop-Subgoal-paper.pdf"
-    
+
   - title: "Interactive Children’s Story Rewriting Through Parent-Children Interaction"
     author: "_Yoonjoo Lee_, _Tae Soo Kim_, Minsuk Chang, _Juho Kim_"
     year: 2022
@@ -332,7 +330,7 @@ papers:
       - human-ai-interaction
     type: workshop
     link: "https://kixlab.github.io/website-files/2022/acl2022-workshop-childrenstory-paper.pdf"
-    
+
   - title: "Improving Video Interfaces by Presenting Informational Units of Videos"
     author: "_Saelyne Yang_, _Sangkyung Kwak_, _Tae Soo Kim_, _Juho Kim_"
     venue: "CHI 2022 Workshop on Computational Approaches for Understanding, Generating, and Adapting User Interfaces"
