@@ -17,6 +17,17 @@ types:
   - preprint
 
 papers:
+
+  - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
+    author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2311.07434"
+
   - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
     author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
     year: Preprints
