@@ -17,16 +17,6 @@ types:
   - preprint
 
 papers:
-  - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
-    author: "_Seoyoung Kim_, _Yeon Su Park_, _Dakyeom Ahn_, Jin Myung Kwak, _Juho Kim_"
-    venue: "CSCW 2024"
-    year: 2024
-    topics:
-      - human-ai-interaction
-      - social
-    type: conference
-    award: ""
-    link: ""
 
   - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
     author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
@@ -119,6 +109,17 @@ papers:
     type: preprint
     award: ""
     link: "https://arxiv.org/abs/2307.10928"
+
+  - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
+    author: "_Seoyoung Kim_, _Yeon Su Park_, _Dakyeom Ahn_, Jin Myung Kwak, _Juho Kim_"
+    venue: "CSCW 2024"
+    year: 2024
+    topics:
+      - human-ai-interaction
+      - social
+    type: conference
+    award: ""
+    link: ""
 
   - title: "CodeTree: A System for Learnersourcing Subgoal Hierarchies in Code Examples"
     author: "_Hyoungwook Jin_, _Juho Kim_"
