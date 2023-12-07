@@ -150,10 +150,28 @@ papers:
       - human-ai-interaction
     type: conference
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3586183.3606833"
       - label: "project website"
         url: "https://llm-objects.kixlab.org/"
     award: ""
     link: "https://kixlab.github.io/website-files/2023/uist2023-llmobjects-paper.pdf"
+
+  - title: "Papeos: Augmenting Research Papers with Talk Videos"
+    author: "_Tae Soo Kim_, Matt Latzke, Jonathan Bragg, Amy X. Zhang, Joseph Chee Chang"
+    venue: "UIST 2023"
+    year: 2023
+    topics:
+      - human-ai-interaction
+      - learning
+    type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3586183.3606770"
+      - label: "project website"
+        url: "https://papeo.app/"
+    award: ""
+    link: "https://arxiv.org/pdf/2308.15224.pdf"
 
   - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
     author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, Vidya Setlur, Maneesh Agrawala"
