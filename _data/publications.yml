@@ -130,7 +130,7 @@ papers:
     award: ""
     link: ""
 
-    - title: "DataDive: Supporting Readers' Contextualization of Statistical Statements with Data Exploration"
+  - title: "DataDive: Supporting Readers' Contextualization of Statistical Statements with Data Exploration"
     author: "_Hyunwoo Kim_, _Khanh Duy Le_, _Gionnieve Lim_, _Dae Hyun Kim_, _Yoo Jin Hong_, _Juho Kim_"
     venue: "IUI 2024"
     year: 2024
@@ -142,7 +142,7 @@ papers:
     award: ""
     link: ""
 
-    - title: "DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback"
+  - title: "DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback"
     author: "_Jeongeon Park_, _Eun-Young Ko_, _Yeon Su Park_, Jinyeong Yim, _Juho Kim_"
     venue: "IUI 2024"
     year: 2024
