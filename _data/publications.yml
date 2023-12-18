@@ -110,6 +110,49 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2307.10928"
 
+  - title: "Understanding Users' Dissatisfaction with ChatGPT Responses:  Types, Resolving Tactics, and the Effect of Knowledge Level"
+    author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
+    venue: "IUI 2024"
+    year: 2024
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "ExpressEdit: Video Editing with Natural Language and Sketching"
+    author: "_Bekzat Tilekbay_, _Saelyne Yang_, _Michal A Lewkowicz_, _Alex Suryapranata_, _Juho Kim_"
+    venue: "IUI 2024"
+    year: 2024
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
+    - title: "DataDive: Supporting Readers' Contextualization of Statistical Statements with Data Exploration"
+    author: "_Hyunwoo Kim_, _Khanh Duy Le_, _Gionnieve Lim_, _Dae Hyun Kim_, _Yoo Jin Hong_, _Juho Kim_"
+    venue: "IUI 2024"
+    year: 2024
+    topics:
+      - crowdsourcing
+      - human-ai-interaction
+      - civics
+    type: conference
+    award: ""
+    link: ""
+
+    - title: "DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback"
+    author: "_Jeongeon Park_, _Eun-Young Ko_, _Yeon Su Park_, Jinyeong Yim, _Juho Kim_"
+    venue: "IUI 2024"
+    year: 2024
+    topics:
+      - crowdsourcing
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
   - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
     author: "_Seoyoung Kim_, _Yeon Su Park_, _Dakyeom Ahn_, Jin Myung Kwak, _Juho Kim_"
     venue: "CSCW 2024"
