@@ -18,6 +18,16 @@ types:
 
 papers:
 
+  - title: "CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI"
+    author: "_DaEun Choi_, _Sumin Hong_, _Jeongeon Park_, John Joon Young Chung, _Juho Kim_"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2312.11949"
+
   - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
     author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
     year: Preprints
