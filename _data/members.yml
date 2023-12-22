@@ -266,6 +266,13 @@ positions:
         img: "dongyun.jpeg"
         site: ""
 
+      - name: Daeheon Jeong
+        lastname: Jeong
+        email: "neohgeek@gmail.com"
+        career: Undergard Intern (Sogang)
+        img: "daeheon.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
