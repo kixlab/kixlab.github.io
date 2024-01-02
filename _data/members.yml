@@ -279,6 +279,13 @@ positions:
         img: "haeseul.jpg"
         site: ""
 
+      - name: Yoonah Park
+        lastname: Park
+        email: "wisdomsword21@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "yoonah.jpg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
