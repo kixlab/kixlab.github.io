@@ -278,6 +278,12 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "haeseul.jpg"
         site: ""
+      - name: Jinhyeon Kwon
+        lastname: Kwon
+        email: "athexplorer@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jhkwon.jpg"
+        site: "https://jinhyeonkwon.github.io"
 
   - positionName: Staff
     positionMembers:
