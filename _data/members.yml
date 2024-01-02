@@ -265,6 +265,13 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "dongyun.jpeg"
         site: ""
+      
+      - name: Chanyoung Kim
+        lastname: Kim
+        email: "itnoj15@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "chanyoung.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
