@@ -182,7 +182,6 @@ positions:
         site: "https://www.jiangnanxu.net/"
         message: "Thank you, Juho for this amazing opportunity, and looking forward to working with people at Kixlab!"
 
-
       - name: Hyoungwook Jin
         lastName: Jin
         email: jinhw@kaist.ac.kr
@@ -265,12 +264,19 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "dongyun.jpeg"
         site: ""
-      
+
       - name: Chanyoung Kim
         lastname: Kim
         email: "itnoj15@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "chanyoung.jpg"
+        site: ""
+
+      - name: Haeseul Cha
+        lastname: Cha
+        email: "jjchs1@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "haeseul.jpg"
         site: ""
 
   - positionName: Staff
