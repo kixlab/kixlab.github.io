@@ -265,6 +265,12 @@ positions:
         img: "dongyun.jpeg"
         site: ""
 
+      - name: Daeheon Jeong
+        lastname: Jeong
+        email: "neohgeek@gmail.com"
+        career: Undergard Intern (Sogang)
+        img: "daeheon.jpg"
+
       - name: Chanyoung Kim
         lastname: Kim
         email: "itnoj15@kaist.ac.kr"
