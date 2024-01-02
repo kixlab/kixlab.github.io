@@ -1,4 +1,5 @@
-FROM ruby:2.5
+# FROM ruby:2.5
+FROM ruby:2.6
 WORKDIR /src
 COPY Gemfile Gemfile.lock ./
 RUN bundle install
