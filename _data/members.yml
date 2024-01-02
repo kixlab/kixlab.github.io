@@ -270,6 +270,7 @@ positions:
         email: "neohgeek@gmail.com"
         career: Undergard Intern (Sogang)
         img: "daeheon.jpg"
+        site: ""
 
       - name: Chanyoung Kim
         lastname: Kim
@@ -284,6 +285,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "haeseul.jpg"
         site: ""
+        
       - name: Jinhyeon Kwon
         lastname: Kwon
         email: "athexplorer@kaist.ac.kr"
