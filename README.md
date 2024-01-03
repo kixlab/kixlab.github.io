@@ -34,7 +34,7 @@ bundle install && jekyll serve
 ```
 or, if you want to use Docker
 ```sh
-docker build -t kixlab-homepage . && docker run --rm -p 4000:4000 -v "$(pwd):/src" -it kixlab-homepage
+DOCKER_BUILDKIT=1 docker build -t kixlab-homepage . && docker run --rm -p 4000:4000 -v "$(pwd):/src" -it kixlab-homepage
 ```
 
 Then visit `localhost:4000` in your browser.
