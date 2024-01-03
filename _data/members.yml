@@ -299,6 +299,13 @@ positions:
         career: Undergrad Intern (SNU)
         img: "yoonah.jpg"
         site: ""
+    
+      - name: Taehyun Yang
+        lastname: Yang
+        email: "0705danny@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "taehyun.png"
+        site: "https://github.com/taehyun2017330"
 
   - positionName: Staff
     positionMembers:
