@@ -212,13 +212,7 @@ positions:
         img: "bekzat_tilekbay.jpg"
         site: ""
 
-      - name: Sahar Admoni
-        lastName: Admoni
-        email: "admoni100@gmail.com"
-        career: Visiting Researcher (Technion)
-        img: "saharadmoni.jpg"
-        site: ""
-        message: "Research interest is in Explainable Reinforcement Learning."
+      
 
   ## ---------------Undergraduates--------------------
 
@@ -246,70 +240,70 @@ positions:
         site: ""
 
       - name: Yokyung Lee
-        lastname: Lee
+        lastName: Lee
         email: "ykleeee@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "yokyung.png"
         site: ""
 
       - name: Sumin Hong
-        lastname: Hong
+        lastName: Hong
         email: "workingsumin@gmail.com"
         career: Undergrad Intern (Seoultech)
         img: "suminhong.jpg"
         site: ""
 
       - name: Hyewon Lee
-        lastname: Lee
+        lastName: Lee
         email: "hyewon0809@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "hyewon.jpg"
         site: ""
 
       - name: Dong Yun Jung
-        lastname: Jung
+        lastName: Jung
         email: "djung2023@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "dongyun.jpeg"
         site: ""
 
       - name: Daeheon Jeong
-        lastname: Jeong
+        lastName: Jeong
         email: "neohgeek@gmail.com"
         career: Undergard Intern (Sogang)
         img: "daeheon.jpg"
         site: ""
 
       - name: Chanyoung Kim
-        lastname: Kim
+        lastName: Kim
         email: "itnoj15@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "chanyoung.jpg"
         site: ""
 
       - name: Haeseul Cha
-        lastname: Cha
+        lastName: Cha
         email: "jjchs1@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "haeseul.jpg"
         site: ""
         
       - name: Jinhyeon Kwon
-        lastname: Kwon
+        lastName: Kwon
         email: "athexplorer@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "jhkwon.jpg"
         site: "https://jinhyeonkwon.github.io"
 
       - name: Yoonah Park
-        lastname: Park
+        lastName: Park
         email: "wisdomsword21@snu.ac.kr"
         career: Undergrad Intern (SNU)
         img: "yoonah.jpg"
         site: ""
     
       - name: Taehyun Yang
-        lastname: Yang
+        lastName: Yang
         email: "0705danny@snu.ac.kr"
         career: Undergrad Intern (SNU)
         img: "taehyun.png"
@@ -320,6 +314,13 @@ positions:
         email: "yadgarova@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "noza.jpeg"
+        site: ""
+
+      - name: Sahar Admoni
+        lastName: Admoni
+        email: "admoni100@gmail.com"
+        career: Visiting Researcher (Technion)
+        img: "saharadmoni.jpg"
         site: ""
 
 
