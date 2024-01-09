@@ -212,6 +212,12 @@ positions:
         img: "bekzat_tilekbay.jpg"
         site: ""
 
+      - name: Sahar Admoni
+        lastName: Admoni
+        email: "admoni100@gmail.com"
+        career: Visiting Researcher (Technion)
+        img: "saharadmoni.jpg"
+        site: ""
       
 
   ## ---------------Undergraduates--------------------
@@ -307,13 +313,6 @@ positions:
         email: "yadgarova@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "noza.jpeg"
-        site: ""
-
-      - name: Sahar Admoni
-        lastName: Admoni
-        email: "admoni100@gmail.com"
-        career: Visiting Researcher (Technion)
-        img: "saharadmoni.jpg"
         site: ""
 
 
