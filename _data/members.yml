@@ -232,13 +232,6 @@ positions:
         img: "yumincho.png"
         site: ""
 
-      - name: Hai Nam
-        lastName: Cao
-        email: "hainam@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "hai_nam.png"
-        site: ""
-
       - name: Yokyung Lee
         lastName: Lee
         email: "ykleeee@kaist.ac.kr"
@@ -652,6 +645,15 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Hai Nam
+        lastName: Cao
+        email: "hainam@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "hai_nam.png"
+        site: ""
+        period: Summer 2023 - Fall 2023
+        leavingDate: 2023.12.15
+        
       - name: Jueon Lee
         lastName: Lee
         email: "audreylee@snu.ac.kr"
