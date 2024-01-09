@@ -212,6 +212,14 @@ positions:
         img: "bekzat_tilekbay.jpg"
         site: ""
 
+        - name: Sahar Admoni
+        lastName: Admoni
+        email: "admoni100@gmail.com"
+        career: Visiting Researcher (Technion)
+        img: "saharadmoni.jpg"
+        site: ""
+        message: "Research interest is in Explainable Reinforcement Learning."
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
