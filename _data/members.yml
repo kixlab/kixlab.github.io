@@ -322,6 +322,7 @@ positions:
         img: "noza.jpg"
         site: ""
 
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
