@@ -252,13 +252,6 @@ positions:
         img: "suminhong.jpg"
         site: ""
 
-      - name: Hyewon Lee
-        lastName: Lee
-        email: "hyewon0809@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "hyewon.jpg"
-        site: ""
-
       - name: Dong Yun Jung
         lastName: Jung
         email: "djung2023@kaist.ac.kr"
@@ -644,6 +637,24 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Jiwon Jang
+        lastName: Jang
+        email: "jiwon6424@g.skku.edu"
+        career: Undergrad Intern (SKKU)
+        img: ""
+        site: ""
+        period: Winter 2024
+        leavingDate: 2024.01.19
+
+      - name: Hyewon Lee
+        lastName: Lee
+        email: "hyewon0809@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "hyewon.jpg"
+        site: ""
+        period: Summer 2023 - Fall 2023
+        leavingDate: 2024.01.12
+
       - name: Hai Nam
         lastName: Cao
         email: "hainam@kaist.ac.kr"
