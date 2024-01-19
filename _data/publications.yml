@@ -146,6 +146,17 @@ papers:
     award: ""
     link: ""
 
+  - title: "AQuA: Automated Question-Answering in Software Tutorial Videos with Visual Anchors"
+    author: "_Saelyne Yang_, Jo Vermeulen, George Fitzmaurice, Justin Matejka"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+      - learning
+    type: conference
+    award: ""
+    link: ""
+
   - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
     author: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, _Juho Kim_, Minjoon Seo"
     year: 2024
@@ -155,6 +166,17 @@ papers:
     type: preprint
     award: ""
     link: "https://arxiv.org/abs/2307.10928"
+
+  - title: "YTCommentQA: Video Question Answerability in Instructional Videos"
+    author: "_Saelyne Yang_, Sunghyun Park, Yunseok Jang, Moontae Lee"
+    year: 2024
+    venue: "AAAI 2024"
+    topics:
+      - human-ai-interaction
+      - learning
+    type: conference
+    award: ""
+    link: ""
     
   - title: "Understanding Users' Dissatisfaction with ChatGPT Responses:  Types, Resolving Tactics, and the Effect of Knowledge Level"
     author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
