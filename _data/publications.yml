@@ -94,7 +94,7 @@ papers:
     award: ""
     link: ""
 
-  - title: '"Teach AI How to Code": Using Large Language Models as Teachable Agents for Programming Education'
+  - title: "Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education"
     author: "_Hyoungwook Jin_, _Seonghee Lee_, _Hyungyu Shin_, _Juho Kim_"
     year: 2024
     venue: "CHI 2024"
