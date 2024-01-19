@@ -38,16 +38,6 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2308.16705"
 
-  - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
-    author: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, _Juho Kim_, Minjoon Seo"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2307.10928"
-
   - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
     author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
     year: Preprints
@@ -158,6 +148,16 @@ papers:
     type: conference
     award: ""
     link: ""
+
+  - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
+    author: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, _Juho Kim_, Minjoon Seo"
+    year: 2024
+    venue: "ICLR 2024 (Spotlight)"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2307.10928"
     
   - title: "Understanding Users' Dissatisfaction with ChatGPT Responses:  Types, Resolving Tactics, and the Effect of Knowledge Level"
     author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
