@@ -18,36 +18,6 @@ types:
 
 papers:
 
-  - title: "CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI"
-    author: "_DaEun Choi_, _Sumin Hong_, _Jeongeon Park_, John Joon Young Chung, _Juho Kim_"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2312.11949"
-
-  - title: "Understanding Users’ Dissatisfaction with ChatGPT Responses: Types, Resolving Tactics, and the Effect of Knowledge Level"
-    author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2311.07434"
-
-  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
-    author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - learning
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2310.05191"
-
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
     author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
     year: Preprints
@@ -57,48 +27,6 @@ papers:
     type: preprint
     award: ""
     link: "https://arxiv.org/abs/2310.01331"
-
-  - title: "GenQuery: Supporting Expressive Visual Search with Generative Models"
-    author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, _Juho Kim_"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2310.01287"
-
-  - title: '"Teach AI How to Code": Using Large Language Models as Teachable Agents for Programming Education'
-    author: "_Hyoungwook Jin_, _Seonghee Lee_, _Hyungyu Shin_, _Juho Kim_"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-      - learning
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2309.14534"
-
-  - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
-    author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2309.13633"
-
-  - title: "Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models"
-    author: "_Hyung-Kwon Ko_, Hyeon Jeon, Gwanmo Park, _Dae Hyun Kim_, Nam Wook Kim, _Juho Kim_, Jinwook Seo"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-      - visualization
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2309.10245"
 
   - title: "CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset"
     author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
@@ -120,12 +48,102 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2307.10928"
 
+  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
+    author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - learning
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.05191"
+
+  - title: "PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers"
+    author: "_Yoonjoo Lee_, Hyeonsu B Kang, Matt Latzke, _Juho Kim_, Jonathan Bragg, Joseph Chee Chang, Pao Siangliulue"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI"
+    author: "_DaEun Choi_, _Sumin Hong_, _Jeongeon Park_, John Joon Young Chung, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2312.11949"
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "GenQuery: Supporting Expressive Visual Search with Generative Models"
+    author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2310.01287"
+    type: conference
+    award: ""
+    link: ""
+
+  - title: '"Teach AI How to Code": Using Large Language Models as Teachable Agents for Programming Education'
+    author: "_Hyoungwook Jin_, _Seonghee Lee_, _Hyungyu Shin_, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+      - learning
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2309.14534"
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
+    author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2309.13633"
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models"
+    author: "_Hyung-Kwon Ko_, Hyeon Jeon, Gwanmo Park, _Dae Hyun Kim_, Nam Wook Kim, _Juho Kim_, Jinwook Seo"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+      - visualization
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2309.10245"
+    type: conference
+    award: ""
+    link: ""
+    
   - title: "Understanding Users' Dissatisfaction with ChatGPT Responses:  Types, Resolving Tactics, and the Effect of Knowledge Level"
     author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
     venue: "IUI 2024"
     year: 2024
     topics:
       - human-ai-interaction
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2311.07434"
     type: conference
     award: ""
     link: ""
