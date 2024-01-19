@@ -80,7 +80,7 @@ papers:
     type: conference
     award: ""
     link: ""
-
+    
   - title: "GenQuery: Supporting Expressive Visual Search with Generative Models"
     author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, _Juho Kim_"
     year: 2024
@@ -90,6 +90,16 @@ papers:
     materials:
       - label: "arxiv"
         url: "https://arxiv.org/abs/2310.01287"
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "Demystifying Tacit Knowledge in Graphic Design: Characteristics, Instances, Approaches, and Guidelines"
+    author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - learning
     type: conference
     award: ""
     link: ""
