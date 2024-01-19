@@ -58,6 +58,20 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+    Vs , Yoonjoo Lee, Juho Kim.
+
+
+  - title: "VIVID: Human-AI Collaborative Authoring of Vicarious Dialogues from Lecture Videos"
+    author: "_Seulgi Choi_, _Hyewon Lee_, _Yoonjoo Lee_, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024"
+    topics:
+      - human-ai-interaction
+      - learning
+    type: conference
+    award: ""
+    link: ""
+
   - title: "PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers"
     author: "_Yoonjoo Lee_, Hyeonsu B Kang, Matt Latzke, _Juho Kim_, Jonathan Bragg, Joseph Chee Chang, Pao Siangliulue"
     year: 2024
