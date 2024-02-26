@@ -153,9 +153,12 @@ positions:
       - name: DaEun Choi
         lastName: Choi
         email: "daeun.choi@kaist.ac.kr"
-        career: M.S. Student
+        career: Ph.D. Student
         img: "daeun.jpg"
         site: "https://daeunchoi.com/"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2024-daeun.pdf"
         message: "I'm very lucky to work with you! Always thank you for your support and encouragement! Happy teacher's day :)"
 
       - name: Alex Suryapranata
@@ -226,8 +229,6 @@ positions:
         img: "jaesang.jpg"
         site: ""
 
-      
-
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
@@ -287,7 +288,7 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "haeseul.jpg"
         site: ""
-        
+
       - name: Jinhyeon Kwon
         lastName: Kwon
         email: "athexplorer@kaist.ac.kr"
@@ -301,7 +302,7 @@ positions:
         career: Undergrad Intern (SNU)
         img: "yoonah.jpg"
         site: ""
-    
+
       - name: Taehyun Yang
         lastName: Yang
         email: "0705danny@snu.ac.kr"
@@ -315,7 +316,6 @@ positions:
         career: Undergrad Intern (KAIST)
         img: "noza.jpeg"
         site: ""
-
 
   - positionName: Staff
     positionMembers:
@@ -671,7 +671,7 @@ positions:
         site: ""
         period: Summer 2023 - Fall 2023
         leavingDate: 2023.12.15
-        
+
       - name: Jueon Lee
         lastName: Lee
         email: "audreylee@snu.ac.kr"
