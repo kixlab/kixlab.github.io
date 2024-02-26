@@ -121,9 +121,12 @@ positions:
       - name: Yoonsu Kim
         lastName: Kim
         email: "yoonsu16@kaist.ac.kr"
-        career: M.S. Student
+        career: Ph.D. Student
         img: "yoonsu.jpg"
         site: "https://yoonsu0816.github.io/"
+        materials:
+          - label: "M.S. thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2024-yoonsu.pdf"
         message: "Happy Teacher's Day! Juho, I always appreciate your helpful and outstanding instruction.  (Physically) Miss you!!"
 
       - name: Kihoon Son
