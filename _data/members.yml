@@ -232,17 +232,17 @@ positions:
         img: "jaesang.jpg"
         site: ""
 
+      - name: Yeon Su Park
+        lastName: Park
+        email: yeonsupark@kaist.ac.kr
+        career: M.S. Student
+        img: "yeonsupark.jpg"
+        site: ""
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Yeon Su Park
-        lastName: Park
-        email: yeonsupark@kaist.ac.kr
-        career: Undergrad Intern (KAIST)
-        img: "yeonsupark.jpg"
-        site: ""
-
       - name: Yumin Cho
         lastName: Cho
         email: "dbals1184@kaist.ac.kr"
