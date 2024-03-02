@@ -225,7 +225,7 @@ papers:
     link: ""
 
   - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
-    author: "_Seoyoung Kim_, _Yeon Su Park_, _Dakyeom Ahn_, Jin Myung Kwak, _Juho Kim_"
+    author: "_Seoyoung Kim_, _Yeon Su Park*_, _Dakyeom Ahn*_, Jin Myung Kwak, _Juho Kim_"
     venue: "CSCW 2024"
     year: 2024
     topics:
