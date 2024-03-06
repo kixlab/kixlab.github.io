@@ -145,14 +145,6 @@ positions:
         site: "https://csg17.github.io/cv/index.html"
         message: "Hello Juho! Thank you for always leading and caring us!😊  It was very fortunate to meet you as my advisor and I really appreciate that you always motivate me to do my best. May you have a memorable Teacher's day✨"
 
-      - name: Juhoon Lee
-        lastName: Lee
-        email: "juhoonlee@kaist.ac.kr"
-        career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
-        img: "juhoon.jpg"
-        site: ""
-        message: "I am always inspired by your dedication to everything you do. Thank you, you're the best teacher I've ever had :)"
-
       - name: DaEun Choi
         lastName: Choi
         email: "daeun.choi@kaist.ac.kr"
@@ -171,14 +163,6 @@ positions:
         img: "alex.webp"
         site: ""
         message: "It's an honor to be working under you. Thank you for your inspiring work and mentorship!"
-
-      - name: Haechan Kim
-        lastName: Kim
-        email: "rlagocks1125@gmail.com"
-        career: Visiting Researcher (Ringle)
-        img: "haechan.jpg"
-        site: ""
-        message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
 
       - name: Jiangnan Xu
         lastName: Xu
@@ -218,13 +202,6 @@ positions:
         img: "bekzat_tilekbay.jpg"
         site: ""
 
-      - name: Sahar Admoni
-        lastName: Admoni
-        email: "admoni100@gmail.com"
-        career: Visiting Researcher (Technion)
-        img: "saharadmoni.jpg"
-        site: ""
-
       - name: Jaesang Yu
         lastName: Yu
         email: "jaesangyu22@gmail.com"
@@ -255,13 +232,6 @@ positions:
         email: "ykleeee@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "yokyung.png"
-        site: ""
-
-      - name: Sumin Hong
-        lastName: Hong
-        email: "workingsumin@gmail.com"
-        career: Undergrad Intern (Seoultech)
-        img: "suminhong.jpg"
         site: ""
 
       - name: Dong Yun Jung
@@ -333,6 +303,48 @@ positions:
 
   - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
     positionMembers:
+      - name: Haechan Kim
+        lastName: Kim
+        email: "rlagocks1125@gmail.com"
+        career: Visiting Researcher (Ringle)
+        img: "haechan.jpg"
+        period: Spring 2023 - Winter 2024
+        leavingDate: 2024.03.02
+        site: ""
+        message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
+        
+      - name: Juhoon Lee
+        lastName: Lee
+        email: "juhoonlee@kaist.ac.kr"
+        career: M.S. Student (co-advised by Prof. Jeong-woo Jang)
+        img: "juhoon.jpg"
+        period: Spring 2022 - Winter 2024
+        leavingDate: 2024.02.23
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2024-juhoon.pdf"
+        site: ""
+        message: "I am always inspired by your dedication to everything you do. Thank you, you're the best teacher I've ever had :)"
+        now: Ph.D. Student @ CSTL KAIST
+
+      - name: Sahar Admoni
+        lastName: Admoni
+        email: "admoni100@gmail.com"
+        career: Visiting Researcher (Technion)
+        img: "saharadmoni.jpg"
+        period: Winter 2024
+        leavingDate: 2024.02.23
+        site: ""
+
+      - name: Yuewen Yang
+        lastName: Yang
+        email: "yy2228@cornell.edu"
+        career: Visiting Researcher (Cornell Tech)
+        img: ""
+        period: Winter 2024
+        leavingDate: 2024.02.16
+        site: ""
+        
       - name: Jeongeon Park
         lastName: Park
         email: "jeongeon.park@kaist.ac.kr"
@@ -648,6 +660,15 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Sumin Hong
+        lastName: Hong
+        email: "workingsumin@gmail.com"
+        career: Undergrad Intern (Seoultech)
+        img: "suminhong.jpg"
+        site: ""
+        period: Summer 2023 - Winter 2024
+        leavingDate: 2024.02.29
+        
       - name: Jiwon Jang
         lastName: Jang
         email: "jiwon6424@g.skku.edu"
