@@ -209,9 +209,14 @@ papers:
       - crowdsourcing
       - human-ai-interaction
       - civics
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3640543.3645155"
+      - label: "project website"
+        url: "https://datadive.kixlab.org/"
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2024/iui2024-DataDive-paper.pdf"
 
   - title: "DynamicLabels: Supporting Informed Construction of Machine Learning Label Sets with Crowd Feedback"
     author: "_Jeongeon Park_, _Eun-Young Ko_, _Yeon Su Park_, Jinyeong Yim, _Juho Kim_"
