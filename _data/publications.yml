@@ -204,7 +204,7 @@ papers:
         url: "https://expressedit.kixlab.org/"
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2024/iui2024-ExpressEdit-paper.pdf"
 
   - title: "DataDive: Supporting Readers' Contextualization of Statistical Statements with Data Exploration"
     author: "_Hyunwoo Kim_, _Khanh Duy Le_, _Gionnieve Lim_, _Dae Hyun Kim_, _Yoo Jin Hong_, _Juho Kim_"
