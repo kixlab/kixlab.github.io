@@ -197,6 +197,11 @@ papers:
     year: 2024
     topics:
       - human-ai-interaction
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3640543.3645164"
+      - label: "project website"
+        url: "https://expressedit.kixlab.org/"
     type: conference
     award: ""
     link: ""
