@@ -185,11 +185,13 @@ papers:
     topics:
       - human-ai-interaction
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2311.07434"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3640543.3645148"
+      - label: "project website"
+        url: "https://chatgpt-analysis.kixlab.org/"
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2024/iui2024-ChatGPT-paper.pdf"
 
   - title: "ExpressEdit: Video Editing with Natural Language and Sketching"
     author: "_Bekzat Tilekbay_, _Saelyne Yang_, _Michal A Lewkowicz_, _Alex Suryapranata_, _Juho Kim_"
