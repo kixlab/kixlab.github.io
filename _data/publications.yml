@@ -232,9 +232,15 @@ papers:
     topics:
       - crowdsourcing
       - human-ai-interaction
+    materials:
+      - label: "acm dl"
+        url: "https://doi.org/10.1145/3640543.3645157"
+      - label: "project website"
+        url: "https://dynamiclabels.kixlab.org/"
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2024/iui2024-DynamicLabels-paper.pdf"
+    
 
   - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
     author: "_Seoyoung Kim_, _Yeon Su Park*_, _Dakyeom Ahn*_, Jin Myung Kwak, _Juho Kim_"
