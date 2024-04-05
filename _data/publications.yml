@@ -18,6 +18,17 @@ types:
 
 papers:
 
+  - title: "EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners’ Transcript-Based Annotations"
+    author: "Jingchao Fang, _Jeongeon Park_, _Juho Kim_, Hao-Chuan Wang"
+    year: 2024
+    venue: "CSCW 2024"
+    topics:
+      - learning
+      - social
+    type: conference
+    award: ""
+    link: ""
+
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
     author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
     year: Preprints
