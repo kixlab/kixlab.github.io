@@ -66,6 +66,9 @@ papers:
     topics:
       - human-ai-interaction
       - learning
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2403.09168"
     type: conference
     award: ""
     link: ""
@@ -89,6 +92,8 @@ papers:
     materials:
       - label: "arxiv"
         url: "https://arxiv.org/abs/2312.11949"
+      - label: "project website"
+        url: "https://creativeconnect.kixlab.org/"
     type: conference
     award: ""
     link: ""
@@ -102,6 +107,8 @@ papers:
     materials:
       - label: "arxiv"
         url: "https://arxiv.org/abs/2310.01287"
+      - label: "project website"
+        url: "https://genquery.kixlab.org/"
     type: conference
     award: ""
     link: ""
@@ -112,6 +119,11 @@ papers:
     venue: "CHI 2024"
     topics:
       - learning
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2403.06252"
+      - label: "project website"
+        url: "http://tacitknowledge.kixlab.org/"
     type: conference
     award: ""
     link: ""
@@ -139,6 +151,8 @@ papers:
     materials:
       - label: "arxiv"
         url: "https://arxiv.org/abs/2309.13633"
+      - label: "project website"
+        url: "https://evallm.kixlab.org/"
     type: conference
     award: ""
     link: ""
