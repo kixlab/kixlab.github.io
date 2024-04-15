@@ -18,6 +18,16 @@ types:
 
 papers:
 
+  - title: "One vs. Multiple: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
+    author: "_Yoonjoo Lee_, _Kihoon Son_, _Tae Soo Kim_, _Jisu Kim_, John Joon Young Chung, Eytan Adar, _Juho Kim_"
+    year: 2024
+    venue: "FAccT 2024"
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
     author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
     year: Preprints
@@ -79,6 +89,9 @@ papers:
     venue: "CHI 2024"
     topics:
       - human-ai-interaction
+    materials:
+      - label: "arxiv"
+      - url: "https://arxiv.org/abs/2403.02939"
     type: conference
     award: ""
     link: ""
@@ -330,6 +343,17 @@ papers:
     award: ""
     link: "https://arxiv.org/pdf/2308.15224.pdf"
 
+  - title: "QASA: Advanced Question Answering on Scientific Articles"
+    author: "_Yoonjoo Lee_, Kyungjae Lee, Sunghyun Park, Dasol Hwang, Jaehyeon Kim, Hong-In Lee, Moontae Lee"
+    year: 2024
+    venue: "ICML 2023"
+    topics:
+      - human-ai-interaction
+      - dataset
+    type: conference
+    award: ""
+    link: "https://yoonjoolee.com/assets/papers/QASA_ICML2023.pdf"
+    
   - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
     author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, Vidya Setlur, Maneesh Agrawala"
     year: 2023
