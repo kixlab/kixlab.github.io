@@ -301,17 +301,8 @@ positions:
 
   ## --------------Alumni---------------------------
 
-  - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
+  - positionName: Alumni (Professors, Postdocs, Graduate Students, Researchers)
     positionMembers:
-      - name: Haechan Kim
-        lastName: Kim
-        email: "rlagocks1125@gmail.com"
-        career: Visiting Researcher (Ringle)
-        img: "haechan.jpg"
-        period: Spring 2023 - Winter 2024
-        leavingDate: 2024.03.02
-        site: ""
-        message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
         
       - name: Juhoon Lee
         lastName: Lee
@@ -326,24 +317,6 @@ positions:
         site: ""
         message: "I am always inspired by your dedication to everything you do. Thank you, you're the best teacher I've ever had :)"
         now: Ph.D. Student @ CSTL KAIST
-
-      - name: Sahar Admoni
-        lastName: Admoni
-        email: "admoni100@gmail.com"
-        career: Visiting Researcher (Technion)
-        img: "saharadmoni.jpg"
-        period: Winter 2024
-        leavingDate: 2024.02.23
-        site: ""
-
-      - name: Yuewen Yang
-        lastName: Yang
-        email: "yy2228@cornell.edu"
-        career: Visiting Researcher (Cornell Tech)
-        img: ""
-        period: Winter 2024
-        leavingDate: 2024.02.16
-        site: ""
         
       - name: Jeongeon Park
         lastName: Park
@@ -359,15 +332,18 @@ positions:
         message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
         now: Researcher @ DGIST
 
-      - name: Gionnieve Lim
-        lastName: Lim
-        email: "gionnievelim@gmail.com"
-        career: Visiting Ph.D. Student (SUTD)
-        img: "gionnieve.jpg"
-        period: Winter 2023 - Summer 2023
-        leavingDate: 2023.08.13
-        site: ""
-        message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
+      - name: Haesoo Kim
+        lastName: Kim
+        email: haesoo1108@gmail.com
+        career: Undergrad Intern (SNU) & M.S. Student (co-advised by Prof. Jeong-woo Jang)
+        img: "haesoo.png"
+        period: Summer 2019 - Winter 2023
+        leavingDate: 2023.02.28
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2023-haesoo.pdf"
+        site: "https://haesookim.info/"
+        now: Ph.D. Student @ Cornell University
 
       - name: Hyung-Kwon Ko
         lastName: Ko
@@ -381,19 +357,6 @@ positions:
         #   - label: "M.S. thesis"
         #     url: "https://s-space.snu.ac.kr/handle/10371/177831"
         message: "Thank you for your support professor Juho!"
-
-      - name: Haesoo Kim
-        lastName: Kim
-        email: haesoo1108@gmail.com
-        career: Undergrad Intern (SNU) & M.S. Student (co-advised by Prof. Jeong-woo Jang)
-        img: "haesoo.png"
-        period: Summer 2019 - Winter 2023
-        leavingDate: 2023.02.28
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2023-haesoo.pdf"
-        site: "https://haesookim.info/"
-        now: Ph.D. Student @ Cornell University
 
       - name: Jeongyeon Kim
         lastName: Kim
@@ -520,7 +483,7 @@ positions:
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2020-jibon.pdf"
-
+      
       - name: Jisoo Lee
         lastName: Lee
         email: "jisoolee@kaist.ac.kr"
@@ -530,15 +493,6 @@ positions:
         period: Summer 2019 - Spring 2020
         leavingDate: 2020.07.15
         now: Engineer @ Krafton
-
-      - name: Toni-Jan Keith Monserrat
-        lastName: Monserrat
-        email: tpmonserrat@up.edu.ph
-        career: Visiting Ph.D. Researcher (UPLB)
-        img: "tjmonsi.jpg"
-        site: ""
-        period: Summer 2019
-        leavingDate: 2019.08.16
 
       - name: Arti Thakur
         lastName: Thakur
@@ -599,31 +553,12 @@ positions:
       - name: Yi-Ching (Janet) Huang
         lastName: Huang
         email: janetyc@gmail.com
-        career: Research Scientist
+        career: Researcher
         img: janetyc.jpg
         site: "http://janetyc.github.io"
         period: Summer 2018 - Fall 2018
         leavingDate: 2018.11.30
         now: Assistant Professor @ Eindhoven University of Technology (TU/e)
-
-      - name: Ray Hong
-        lastName: Hong
-        email: rh3003@nyu.edu
-        career: Visiting Ph.D. Researcher (UW)
-        img: arti.JPG
-        site: "http://rayhong.net/"
-        period: Summer 2017, Summer 2018
-        leavingDate: 2018.08.31
-        now: Assistant Professor @ George Mason University
-
-      - name: Mercedes Huertas
-        lastName: Huertas
-        email: mdlm.huertas@unitn.it
-        career: Visiting Ph.D. Researcher (University of Trento)
-        img: mercedes.jpg
-        site: ""
-        period: Winter 2018-Spring 2018
-        leavingDate: 2018.06.29
 
       - name: Paul Grau
         lastName: Grau
@@ -657,6 +592,76 @@ positions:
         site: ""
         period: Fall 2016 - Winter 2017
         leavingDate: 2017.02.28
+
+  - positionName: Alumni (Visitors)
+    positionMembers:
+      - name: Haechan Kim
+        lastName: Kim
+        email: "rlagocks1125@gmail.com"
+        career: Visiting Researcher (Ringle)
+        img: "haechan.jpg"
+        period: Spring 2023 - Winter 2024
+        leavingDate: 2024.03.02
+        site: ""
+        message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
+
+      - name: Sahar Admoni
+        lastName: Admoni
+        email: "admoni100@gmail.com"
+        career: Visiting Researcher (Technion)
+        img: "saharadmoni.jpg"
+        period: Winter 2024
+        leavingDate: 2024.02.23
+        site: ""
+      
+      - name: Yuewen Yang
+        lastName: Yang
+        email: "yy2228@cornell.edu"
+        career: Visiting Researcher (Cornell Tech)
+        img: ""
+        period: Winter 2024
+        leavingDate: 2024.02.16
+        site: ""
+      
+      - name: Gionnieve Lim
+        lastName: Lim
+        email: "gionnievelim@gmail.com"
+        career: Visiting Ph.D. Student (SUTD)
+        img: "gionnieve.jpg"
+        period: Winter 2023 - Summer 2023
+        leavingDate: 2023.08.13
+        site: ""
+        message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
+
+      - name: Toni-Jan Keith Monserrat
+        lastName: Monserrat
+        email: tpmonserrat@up.edu.ph
+        career: Visiting Ph.D. Researcher (UPLB)
+        img: "tjmonsi.jpg"
+        site: ""
+        period: Summer 2019
+        leavingDate: 2019.08.16
+      
+      - name: Ray Hong
+        lastName: Hong
+        email: rh3003@nyu.edu
+        career: Visiting Ph.D. Researcher (UW)
+        img: arti.JPG
+        site: "http://rayhong.net/"
+        period: Summer 2017, Summer 2018
+        leavingDate: 2018.08.31
+        now: Assistant Professor @ George Mason University
+
+      - name: Mercedes Huertas
+        lastName: Huertas
+        email: mdlm.huertas@unitn.it
+        career: Visiting Ph.D. Researcher (University of Trento)
+        img: mercedes.jpg
+        site: ""
+        period: Winter 2018-Spring 2018
+        leavingDate: 2018.06.29
+      
+      
 
   - positionName: Alumni (Interns)
     positionMembers:
