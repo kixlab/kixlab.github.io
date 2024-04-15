@@ -301,17 +301,7 @@ positions:
 
   ## --------------Alumni---------------------------
 
-  - positionName: Alumni (Postdocs, Graduate Students, Researchers, and Visitors)
-    positionMembers:
-      - name: Haechan Kim
-        lastName: Kim
-        email: "rlagocks1125@gmail.com"
-        career: Visiting Researcher (Ringle)
-        img: "haechan.jpg"
-        period: Spring 2023 - Winter 2024
-        leavingDate: 2024.03.02
-        site: ""
-        message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
+  - positionName: Alumni (Professors, Postdocs, Graduate Students)
         
       - name: Juhoon Lee
         lastName: Lee
@@ -327,24 +317,6 @@ positions:
         message: "I am always inspired by your dedication to everything you do. Thank you, you're the best teacher I've ever had :)"
         now: Ph.D. Student @ CSTL KAIST
 
-      - name: Sahar Admoni
-        lastName: Admoni
-        email: "admoni100@gmail.com"
-        career: Visiting Researcher (Technion)
-        img: "saharadmoni.jpg"
-        period: Winter 2024
-        leavingDate: 2024.02.23
-        site: ""
-
-      - name: Yuewen Yang
-        lastName: Yang
-        email: "yy2228@cornell.edu"
-        career: Visiting Researcher (Cornell Tech)
-        img: ""
-        period: Winter 2024
-        leavingDate: 2024.02.16
-        site: ""
-        
       - name: Jeongeon Park
         lastName: Park
         email: "jeongeon.park@kaist.ac.kr"
@@ -358,29 +330,6 @@ positions:
         site: "https://jeongeonpark.com"
         message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
         now: Researcher @ DGIST
-
-      - name: Gionnieve Lim
-        lastName: Lim
-        email: "gionnievelim@gmail.com"
-        career: Visiting Ph.D. Student (SUTD)
-        img: "gionnieve.jpg"
-        period: Winter 2023 - Summer 2023
-        leavingDate: 2023.08.13
-        site: ""
-        message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
-
-      - name: Hyung-Kwon Ko
-        lastName: Ko
-        email: hyungkwonko@gmail.com
-        career: Researcher
-        img: "hkko.jpg"
-        site: "https://hyungkwonko.info"
-        period: Summer 2022 - Fall 2022
-        leavingDate: 2022.10.14
-        # materials:
-        #   - label: "M.S. thesis"
-        #     url: "https://s-space.snu.ac.kr/handle/10371/177831"
-        message: "Thank you for your support professor Juho!"
 
       - name: Haesoo Kim
         lastName: Kim
@@ -408,16 +357,6 @@ positions:
             url: "http://kixlab.org/files/theses/thesis-ms-2022-jeongyeon.pdf"
         now: Ph.D. Student @ Stanford University
 
-      - name: Eun Jeong Kang
-        lastName: Kang
-        email: "eunxkang@gmail.com"
-        career: M.S.Intern & Researcher
-        img: "eun.jpg"
-        site: "https://ejjjjkang.github.io/"
-        period: Summer 2020 - Winter 2022
-        leavingDate: 2022.02.28
-        now: Ph.D. Student @ Cornell University
-
       - name: Meng Xia
         lastName: Xia
         email: iris.xia@connect.ust.hk
@@ -427,14 +366,6 @@ positions:
         site: https://www.xiameng.org/
         now: Postdoc @ CMU => Assistant Professor @ TAMU
 
-      - name: Mina Huh
-        lastName: Huh
-        email: "mina1004h@gmail.com"
-        career: Undergrad Intern (KAIST) & Researcher
-        period: Winter 2020 - Summer 2021
-        leavingDate: 2021.09.17
-        site: "https://minarainbow.github.io/"
-        now: Ph.D. Student @ University of Texas, Austin
 
       - name: Kabdo Choi
         lastName: Choi
@@ -448,16 +379,6 @@ positions:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2021-kabdo.pdf"
         now: Software Engineer @ Moloco
-
-      - name: Taewook Kim
-        lastName: Kim
-        email: "taewook@u.northwestern.edu"
-        career: Researcher
-        period: Summer 2020, Winter 2021 - Summer 2021
-        leavingDate: 2021.07.15
-        # img: "taewook.jpg"
-        site: "https://hcikim.github.io/"
-        now: Ph.D. Student @ Northwestern University
 
       - name: Jean Young Song
         lastName: Song
@@ -521,45 +442,6 @@ positions:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2020-jibon.pdf"
 
-      - name: Jisoo Lee
-        lastName: Lee
-        email: "jisoolee@kaist.ac.kr"
-        career: Researcher
-        img: "jisoo.jpg"
-        site: "https://jisoolee0123.github.io"
-        period: Summer 2019 - Spring 2020
-        leavingDate: 2020.07.15
-        now: Engineer @ Krafton
-
-      - name: Toni-Jan Keith Monserrat
-        lastName: Monserrat
-        email: tpmonserrat@up.edu.ph
-        career: Visiting Ph.D. Researcher (UPLB)
-        img: "tjmonsi.jpg"
-        site: ""
-        period: Summer 2019
-        leavingDate: 2019.08.16
-
-      - name: Arti Thakur
-        lastName: Thakur
-        email: athakur36@gmail.com
-        career: Researcher
-        img: arti.JPG
-        site: "https://sites.google.com/view/artithakur"
-        period: Fall 2017 - Spring 2019
-        leavingDate: 2019.06.30
-        now: Ph.D. Student @ UC Davis
-
-      - name: Evey Huang
-        lastName: Huang
-        email: jiaxinh.evey@gmail.com
-        career: Researcher
-        img: evey.jpg
-        site: "https://eveyhuang.myportfolio.com"
-        period: Summer 2018 - Spring 2019
-        leavingDate: 2019.06.18
-        now: Ph.D. Student @ Northwestern University
-
       - name: Mathias Sixten Pedersen
         lastName: Pedersen
         email: msixten@kaist.ac.kr
@@ -596,10 +478,148 @@ positions:
         leavingDate: 2018.12.31
         now: Assistant Professor @ Singapore University of Technology and Design
 
+      - name: Paul Grau
+        lastName: Grau
+        email: grau@kaist.ac.kr
+        career: M.S. Student
+        img: paul.jpg
+        interest: Web Development and humans
+        site: http://graycoding.com
+        period: Fall 2016 - Spring 2018
+        leavingDate: 2018.06.29
+        now: Frontend Engineer @ Superb AI
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2018-paul.pdf"
+
+      
+
+  - positionName: Alumni (Researchers, and Visitors)
+    positionMembers:
+
+      - name: Haechan Kim
+        lastName: Kim
+        email: "rlagocks1125@gmail.com"
+        career: Visiting Researcher (Ringle)
+        img: "haechan.jpg"
+        period: Spring 2023 - Winter 2024
+        leavingDate: 2024.03.02
+        site: ""
+        message: "Research interest is closing ASR(Automatic Speech Recognition) accuracy gap between native and non-native speakers."
+
+      - name: Sahar Admoni
+        lastName: Admoni
+        email: "admoni100@gmail.com"
+        career: Visiting Researcher (Technion)
+        img: "saharadmoni.jpg"
+        period: Winter 2024
+        leavingDate: 2024.02.23
+        site: ""
+      
+      - name: Yuewen Yang
+        lastName: Yang
+        email: "yy2228@cornell.edu"
+        career: Visiting Researcher (Cornell Tech)
+        img: ""
+        period: Winter 2024
+        leavingDate: 2024.02.16
+        site: ""
+      
+      - name: Gionnieve Lim
+        lastName: Lim
+        email: "gionnievelim@gmail.com"
+        career: Visiting Ph.D. Student (SUTD)
+        img: "gionnieve.jpg"
+        period: Winter 2023 - Summer 2023
+        leavingDate: 2023.08.13
+        site: ""
+        message: "Thanks for this opportunity to work with the awesome people at KIXLAB!"
+      
+      - name: Hyung-Kwon Ko
+        lastName: Ko
+        email: hyungkwonko@gmail.com
+        career: Researcher
+        img: "hkko.jpg"
+        site: "https://hyungkwonko.info"
+        period: Summer 2022 - Fall 2022
+        leavingDate: 2022.10.14
+        # materials:
+        #   - label: "M.S. thesis"
+        #     url: "https://s-space.snu.ac.kr/handle/10371/177831"
+        message: "Thank you for your support professor Juho!"
+      
+      - name: Eun Jeong Kang
+        lastName: Kang
+        email: "eunxkang@gmail.com"
+        career: M.S.Intern & Researcher
+        img: "eun.jpg"
+        site: "https://ejjjjkang.github.io/"
+        period: Summer 2020 - Winter 2022
+        leavingDate: 2022.02.28
+        now: Ph.D. Student @ Cornell University
+      
+      - name: Mina Huh
+        lastName: Huh
+        email: "mina1004h@gmail.com"
+        career: Undergrad Intern (KAIST) & Researcher
+        period: Winter 2020 - Summer 2021
+        leavingDate: 2021.09.17
+        site: "https://minarainbow.github.io/"
+        now: Ph.D. Student @ University of Texas, Austin
+
+      - name: Taewook Kim
+        lastName: Kim
+        email: "taewook@u.northwestern.edu"
+        career: Researcher
+        period: Summer 2020, Winter 2021 - Summer 2021
+        leavingDate: 2021.07.15
+        # img: "taewook.jpg"
+        site: "https://hcikim.github.io/"
+        now: Ph.D. Student @ Northwestern University
+ 
+      - name: Jisoo Lee
+        lastName: Lee
+        email: "jisoolee@kaist.ac.kr"
+        career: Researcher
+        img: "jisoo.jpg"
+        site: "https://jisoolee0123.github.io"
+        period: Summer 2019 - Spring 2020
+        leavingDate: 2020.07.15
+        now: Engineer @ Krafton
+      
+      - name: Toni-Jan Keith Monserrat
+        lastName: Monserrat
+        email: tpmonserrat@up.edu.ph
+        career: Visiting Ph.D. Researcher (UPLB)
+        img: "tjmonsi.jpg"
+        site: ""
+        period: Summer 2019
+        leavingDate: 2019.08.16
+
+      - name: Arti Thakur
+        lastName: Thakur
+        email: athakur36@gmail.com
+        career: Researcher
+        img: arti.JPG
+        site: "https://sites.google.com/view/artithakur"
+        period: Fall 2017 - Spring 2019
+        leavingDate: 2019.06.30
+        now: Ph.D. Student @ UC Davis
+
+      - name: Evey Huang
+        lastName: Huang
+        email: jiaxinh.evey@gmail.com
+        career: Researcher
+        img: evey.jpg
+        site: "https://eveyhuang.myportfolio.com"
+        period: Summer 2018 - Spring 2019
+        leavingDate: 2019.06.18
+        now: Ph.D. Student @ Northwestern University
+      
       - name: Yi-Ching (Janet) Huang
         lastName: Huang
         email: janetyc@gmail.com
-        career: Research Scientist
+        career: Researcher
         img: janetyc.jpg
         site: "http://janetyc.github.io"
         period: Summer 2018 - Fall 2018
@@ -624,21 +644,7 @@ positions:
         site: ""
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
-
-      - name: Paul Grau
-        lastName: Grau
-        email: grau@kaist.ac.kr
-        career: M.S. Student
-        img: paul.jpg
-        interest: Web Development and humans
-        site: http://graycoding.com
-        period: Fall 2016 - Spring 2018
-        leavingDate: 2018.06.29
-        now: Frontend Engineer @ Superb AI
-        materials:
-          - label: "thesis"
-            url: "http://kixlab.org/files/theses/thesis-ms-2018-paul.pdf"
-
+      
       - name: John Chung
         lastName: Chung
         email: johnr0hol@gmail.com
@@ -648,11 +654,11 @@ positions:
         period: Spring 2017 - Spring 2018
         leavingDate: 2018.06.29
         now: Ph.D. Student @ University of Michigan
-
+      
       - name: Yoo Jin Lim
         lastName: Lim
         email: yjlim@kaist.ac.kr
-        career: Ph.D. Student
+        career: Researcher
         img: yjlim.JPG
         site: ""
         period: Fall 2016 - Winter 2017
