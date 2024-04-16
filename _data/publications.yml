@@ -91,7 +91,7 @@ papers:
       - human-ai-interaction
     materials:
       - label: "arxiv"
-      - url: "https://arxiv.org/abs/2403.02939"
+        url: "https://arxiv.org/abs/2403.02939"
     type: conference
     award: ""
     link: ""
