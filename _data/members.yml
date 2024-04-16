@@ -540,16 +540,6 @@ positions:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2019-hyeungshik.pdf"
 
-      - name: Simon Perrault
-        lastName: Perrault
-        email: simon.perrault@yale-nus.edu.sg
-        career: Visiting Assistant Professor
-        img: perrault.jpg
-        site: https://istd.sutd.edu.sg/people/faculty/simon-perrault
-        period: Summer 2018 - Fall 2018
-        leavingDate: 2018.12.31
-        now: Assistant Professor @ Singapore University of Technology and Design
-
       - name: Yi-Ching (Janet) Huang
         lastName: Huang
         email: janetyc@gmail.com
@@ -641,6 +631,16 @@ positions:
         site: ""
         period: Summer 2019
         leavingDate: 2019.08.16
+
+      - name: Simon Perrault
+        lastName: Perrault
+        email: simon.perrault@yale-nus.edu.sg
+        career: Visiting Assistant Professor
+        img: perrault.jpg
+        site: https://istd.sutd.edu.sg/people/faculty/simon-perrault
+        period: Summer 2018 - Fall 2018
+        leavingDate: 2018.12.31
+        now: Assistant Professor @ Singapore University of Technology and Design
       
       - name: Ray Hong
         lastName: Hong
