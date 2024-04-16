@@ -279,7 +279,6 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2024/iui2024-DynamicLabels-paper.pdf"
     
-
   - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
     author: "_Seoyoung Kim_, _Yeon Su Park*_, _Dakyeom Ahn*_, Jin Myung Kwak, _Juho Kim_"
     venue: "CSCW 2024"
@@ -345,7 +344,7 @@ papers:
 
   - title: "QASA: Advanced Question Answering on Scientific Articles"
     author: "_Yoonjoo Lee_, Kyungjae Lee, Sunghyun Park, Dasol Hwang, Jaehyeon Kim, Hong-In Lee, Moontae Lee"
-    year: 2024
+    year: 2023
     venue: "ICML 2023"
     topics:
       - human-ai-interaction
