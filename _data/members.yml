@@ -220,13 +220,6 @@ positions:
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Yumin Cho
-        lastName: Cho
-        email: "dbals1184@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "yumincho.png"
-        site: ""
-
       - name: Yokyung Lee
         lastName: Lee
         email: "ykleeee@kaist.ac.kr"
@@ -244,7 +237,7 @@ positions:
       - name: Daeheon Jeong
         lastName: Jeong
         email: "neohgeek@gmail.com"
-        career: Undergard Intern (Sogang)
+        career: Undergrad Intern (Sogang)
         img: "daeheon.jpg"
         site: ""
 
@@ -492,7 +485,7 @@ positions:
         site: "https://jisoolee0123.github.io"
         period: Summer 2019 - Spring 2020
         leavingDate: 2020.07.15
-        now: Engineer @ Krafton
+        now: Engineer @ Krafton => UX Lead & ML engineer @ Beeble
 
       - name: Arti Thakur
         lastName: Thakur
@@ -559,7 +552,7 @@ positions:
         site: http://graycoding.com
         period: Fall 2016 - Spring 2018
         leavingDate: 2018.06.29
-        now: Frontend Engineer @ Superb AI
+        now: Lead Frontend Engineer @ Alvin
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2018-paul.pdf"
@@ -572,7 +565,7 @@ positions:
         site: "http://johnr0.github.io"
         period: Spring 2017 - Spring 2018
         leavingDate: 2018.06.29
-        now: Ph.D. Student @ University of Michigan
+        now: Ph.D. Student @ University of Michigan => Research Scientist at Midjourney
 
       - name: Yoo Jin Lim
         lastName: Lim
@@ -665,6 +658,15 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Yumin Cho
+        lastName: Cho
+        email: "dbals1184@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "yumincho.png"
+        site: ""
+        period: Summer 2023 - Spring 2024
+        leavingDate: 2024.04.11
+
       - name: Sumin Hong
         lastName: Hong
         email: "workingsumin@gmail.com"
