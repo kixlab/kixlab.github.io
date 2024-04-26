@@ -191,6 +191,9 @@ papers:
     topics:
       - human-ai-interaction
       - learning
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2403.05213"
     type: conference
     award: ""
     link: ""
@@ -212,6 +215,9 @@ papers:
     topics:
       - human-ai-interaction
       - learning
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2401.17343"
     type: conference
     award: ""
     link: ""
