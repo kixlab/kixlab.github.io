@@ -78,6 +78,16 @@ papers:
     award: ""
     link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-sensemaking-paper.pdf"
 
+  - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
+    author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Human Centered Evaluation and Auditing of Large Language Models"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-evallm-paper.pdf"
+
   - title: "One vs. Multiple: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
     author: "_Yoonjoo Lee_, _Kihoon Son_, _Tae Soo Kim_, _Jisu Kim_, John Joon Young Chung, Eytan Adar, _Juho Kim_"
     year: 2024
