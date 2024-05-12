@@ -56,7 +56,7 @@ papers:
       - human-ai-interaction
     type: conference
     award: ""
-    link: ""
+    link: "https://arxiv.org/abs/2405.05581"
     
   - title: "EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners’ Transcript-Based Annotations"
     author: "Jingchao Fang, _Jeongeon Park_, _Juho Kim_, Hao-Chuan Wang"
@@ -77,11 +77,11 @@ papers:
       - human-ai-interaction
       - learning
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2403.09168"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642867"
     type: conference
     award: ""
-    link: ""
+    link: "https://arxiv.org/abs/2403.09168"
 
   - title: "PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers"
     author: "_Yoonjoo Lee_, Hyeonsu B Kang, Matt Latzke, _Juho Kim_, Jonathan Bragg, Joseph Chee Chang, Pao Siangliulue"
@@ -90,11 +90,11 @@ papers:
     topics:
       - human-ai-interaction
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2403.02939"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642196"
     type: conference
     award: ""
-    link: ""
+    link: "https://arxiv.org/abs/2403.02939"
 
   - title: "CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI"
     author: "_DaEun Choi_, _Sumin Hong_, _Jeongeon Park_, John Joon Young Chung, _Juho Kim_"
@@ -103,13 +103,13 @@ papers:
     topics:
       - human-ai-interaction
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2312.11949"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642794"
       - label: "project website"
         url: "https://creativeconnect.kixlab.org/"
     type: conference
     award: ""
-    link: ""
+    link: "https://arxiv.org/abs/2312.11949"
     
   - title: "GenQuery: Supporting Expressive Visual Search with Generative Models"
     author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, _Juho Kim_"
@@ -118,13 +118,13 @@ papers:
     topics:
       - human-ai-interaction
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2310.01287"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642847"
       - label: "project website"
         url: "https://genquery.kixlab.org/"
     type: conference
     award: ""
-    link: ""
+    link: "https://arxiv.org/abs/2310.01287"
 
   - title: "Demystifying Tacit Knowledge in Graphic Design: Characteristics, Instances, Approaches, and Guidelines"
     author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, _Juho Kim_"
@@ -133,13 +133,13 @@ papers:
     topics:
       - learning
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2403.06252"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642886"    
       - label: "project website"
         url: "http://tacitknowledge.kixlab.org/"
     type: conference
-    award: ""
-    link: ""
+    award: "Best Paper Honorable Mention Award"
+    link: "https://arxiv.org/abs/2403.06252"
 
   - title: "Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education"
     author: "_Hyoungwook Jin_, _Seonghee Lee_, _Hyungyu Shin_, _Juho Kim_"
@@ -149,11 +149,13 @@ papers:
       - human-ai-interaction
       - learning
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2309.14534"
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642216"
+      - label: "project website"
+        url: "https://evallm.kixlab.org/"        
     type: conference
-    award: ""
-    link: ""
+    award: "Best Paper Honorable Mention Award"
+    link: "https://arxiv.org/abs/2309.14534"
 
   - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
     author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
@@ -162,13 +164,11 @@ papers:
     topics:
       - human-ai-interaction
     materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2309.13633"
       - label: "project website"
         url: "https://evallm.kixlab.org/"
     type: conference
-    award: ""
-    link: ""
+    award: ""  
+    link: "https://arxiv.org/abs/2309.13633"
 
   - title: "Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models"
     author: "_Hyung-Kwon Ko_, Hyeon Jeon, Gwanmo Park, _Dae Hyun Kim_, Nam Wook Kim, _Juho Kim_, Jinwook Seo"
@@ -177,12 +177,12 @@ papers:
     topics:
       - human-ai-interaction
       - visualization
-    materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2309.10245"
     type: conference
     award: ""
-    link: ""
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3640543.3645148"    
+    link: "https://arxiv.org/abs/2309.10245"
 
   - title: "AQuA: Automated Question-Answering in Software Tutorial Videos with Visual Anchors"
     author: "_Saelyne Yang_, Jo Vermeulen, George Fitzmaurice, Justin Matejka"
@@ -193,6 +193,9 @@ papers:
       - learning
     type: conference
     award: ""
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3640543.3645148"    
     link: ""
 
   - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
@@ -356,7 +359,7 @@ papers:
   - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
     author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, Vidya Setlur, Maneesh Agrawala"
     year: 2023
-    venue: "IEEE VIS 2023 (to appear)"
+    venue: "IEEE VIS 2023"
     topics:
       - visualization
     type: journal
