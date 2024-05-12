@@ -77,7 +77,7 @@ papers:
     type: workshop
     award: ""
     link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-sensemaking-paper.pdf"
-
+  
   - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
     author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
     year: 2024
