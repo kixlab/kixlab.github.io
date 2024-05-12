@@ -18,6 +18,42 @@ types:
 
 papers:
 
+  - title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
+    author: "_Yoonsu Kim_, _Kihoon Son_, _Seoyoung Kim_, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Getting Back Together: HCI and Human Factors Joining Forces to Meet the AI Interaction Challenge"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-intent-llm-paper.pdf"
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2405.05678"
+
+  - title: "Unveiling Disparities in Web Task Handling Between Human and Web Agent"
+    author: "_Kihoon Son_, _Jinhyeon Kwon_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, Sangdoo Yun, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Computational Methodologies for Understanding, Automating, and Evaluating User Interfaces"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-tacit-paper.pdf"
+    materials:
+      - label: "arxiv"
+        url: "https://arxiv.org/abs/2405.04497"
+
+  - title: "How do multiple LLM-powered conversational agents assist sensemaking and decision-making in an unfamiliar domain?"
+    author: "_Jeongeon Park_, Bryan Min, Jean Y. Song, Xiaojuan Ma, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Sensemaking: What is it today?"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-sensemaking-paper.pdf"
+
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
     author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
     year: Preprints
