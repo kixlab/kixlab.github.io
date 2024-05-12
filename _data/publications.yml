@@ -18,7 +18,37 @@ types:
 
 papers:
 
-  - title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
+  - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
+    author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.01331"
+
+  - title: "CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset"
+    author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - social
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2308.16705"
+
+  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
+    author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - learning
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.05191"
+
+- title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
     author: "_Yoonsu Kim_, _Kihoon Son_, _Seoyoung Kim_, _Juho Kim_"
     year: 2024
     venue: "CHI 2024 Workshop on Getting Back Together: HCI and Human Factors Joining Forces to Meet the AI Interaction Challenge"
@@ -53,36 +83,6 @@ papers:
     type: workshop
     award: ""
     link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-sensemaking-paper.pdf"
-
-  - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
-    author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2310.01331"
-
-  - title: "CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset"
-    author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - social
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2308.16705"
-
-  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
-    author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - learning
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2310.05191"
 
   - title: "One vs. Multiple: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
     author: "_Yoonjoo Lee_, _Kihoon Son_, _Tae Soo Kim_, _Jisu Kim_, John Joon Young Chung, Eytan Adar, _Juho Kim_"
