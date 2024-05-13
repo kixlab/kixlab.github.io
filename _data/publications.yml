@@ -48,6 +48,67 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+
+  - title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
+    author: "_Yoonsu Kim_, _Kihoon Son_, _Seoyoung Kim_, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Getting Back Together: HCI and Human Factors Joining Forces to Meet the AI Interaction Challenge"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://arxiv.org/abs/2405.05678"
+
+  - title: "Unveiling Disparities in Web Task Handling Between Human and Web Agent"
+    author: "_Kihoon Son_, _Jinhyeon Kwon_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, Sangdoo Yun, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Computational Methodologies for Understanding, Automating, and Evaluating User Interfaces"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://arxiv.org/abs/2405.04497"
+
+  - title: "How do multiple LLM-powered conversational agents assist sensemaking and decision-making in an unfamiliar domain?"
+    author: "_Jeongeon Park_, Bryan Min, Jean Y. Song, Xiaojuan Ma, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Sensemaking: What is it today?"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-sensemaking-paper.pdf"
+  
+  - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
+    author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Human Centered Evaluation and Auditing of Large Language Models"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-evallm-paper.pdf"
+
+  - title: "How to Reflect Diverse People's Perspectives in Large-Scale LLM-based Evaluations?"
+    author: "_Yoonjoo Lee_, _Tae Soo Kim_, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Human Centered Evaluation and Auditing of Large Language Models"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://heal-workshop.github.io/papers/34_how_to_reflect_diverse_people_.pdf"
+
+  - title: "Towards an Evaluation of LLM-Generated Inspiration by Developing and Validating Inspiration Scale"
+    author: "_Hyungyu Shin_, _Seulgi choi_, Ji Yong Cho, _Sahar Admoni_, Hyunseung Lim, Taewan Kim, Hwajung Hong, Moontae Lee, _Juho Kim_"
+    year: 2024
+    venue: "CHI 2024 Workshop on Human Centered Evaluation and Auditing of Large Language Models"
+    topics:
+      - human-ai-interaction
+    type: workshop
+    award: ""
+    link: "https://heal-workshop.github.io/papers/30_towards_an_evaluation_of_llm_g.pdf"
+
   - title: "One vs. Multiple: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
     author: "_Yoonjoo Lee_, _Kihoon Son_, _Tae Soo Kim_, _Jisu Kim_, John Joon Young Chung, Eytan Adar, _Juho Kim_"
     year: 2024
