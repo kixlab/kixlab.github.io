@@ -139,6 +139,8 @@ papers:
     materials:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/10.1145/3613904.3642867"
+      - label: "project website"
+        url: "https://vivid.kixlab.org/"
     type: conference
     award: ""
     link: "https://arxiv.org/abs/2403.09168"
@@ -250,25 +252,22 @@ papers:
     venue: "CHI 2024"
     topics:
       - human-ai-interaction
-      - learning
-    materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2403.05213"
+      - learning    
     type: conference
     award: ""
     materials:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/10.1145/3640543.3645148"    
-    link: ""
+    link: "https://arxiv.org/abs/2403.05213"
 
   - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
     author: "Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, _Juho Kim_, Minjoon Seo"
     year: 2024
-    venue: "ICLR 2024 (Spotlight)"
+    venue: "ICLR 2024"
     topics:
       - human-ai-interaction
     type: preprint
-    award: ""
+    award: "Spotlight"
     link: "https://arxiv.org/abs/2307.10928"
 
   - title: "YTCommentQA: Video Question Answerability in Instructional Videos"
@@ -278,12 +277,9 @@ papers:
     topics:
       - human-ai-interaction
       - learning
-    materials:
-      - label: "arxiv"
-        url: "https://arxiv.org/abs/2401.17343"
     type: conference
     award: ""
-    link: ""
+    link: "https://arxiv.org/abs/2401.17343"
     
   - title: "Understanding Users' Dissatisfaction with ChatGPT Responses:  Types, Resolving Tactics, and the Effect of Knowledge Level"
     author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
