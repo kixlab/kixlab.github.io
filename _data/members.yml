@@ -149,7 +149,7 @@ positions:
         lastName: Choi
         email: "daeun.choi@kaist.ac.kr"
         career: Ph.D. Student
-        img: "daeun.jpg"
+        img: "daeun.JPG"
         site: "https://daeunchoi.com/"
         materials:
           - label: "M.S. thesis"
@@ -296,7 +296,6 @@ positions:
 
   - positionName: Alumni (Professors, Postdocs, Graduate Students, Researchers)
     positionMembers:
-        
       - name: Juhoon Lee
         lastName: Lee
         email: "juhoonlee@kaist.ac.kr"
@@ -310,7 +309,7 @@ positions:
         site: ""
         message: "I am always inspired by your dedication to everything you do. Thank you, you're the best teacher I've ever had :)"
         now: Ph.D. Student @ CSTL KAIST
-        
+
       - name: Jeongeon Park
         lastName: Park
         email: "jeongeon.park@kaist.ac.kr"
@@ -476,7 +475,7 @@ positions:
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2020-jibon.pdf"
-      
+
       - name: Jisoo Lee
         lastName: Lee
         email: "jisoolee@kaist.ac.kr"
@@ -596,7 +595,7 @@ positions:
         period: Winter 2024
         leavingDate: 2024.02.23
         site: ""
-      
+
       - name: Yuewen Yang
         lastName: Yang
         email: "yy2228@cornell.edu"
@@ -605,7 +604,7 @@ positions:
         period: Winter 2024
         leavingDate: 2024.02.16
         site: ""
-      
+
       - name: Gionnieve Lim
         lastName: Lim
         email: "gionnievelim@gmail.com"
@@ -634,7 +633,7 @@ positions:
         period: Summer 2018 - Fall 2018
         leavingDate: 2018.12.31
         now: Assistant Professor @ Singapore University of Technology and Design
-      
+
       - name: Ray Hong
         lastName: Hong
         email: rh3003@nyu.edu
@@ -653,8 +652,6 @@ positions:
         site: ""
         period: Winter 2018-Spring 2018
         leavingDate: 2018.06.29
-      
-      
 
   - positionName: Alumni (Interns)
     positionMembers:
@@ -675,7 +672,7 @@ positions:
         site: ""
         period: Summer 2023 - Winter 2024
         leavingDate: 2024.02.29
-        
+
       - name: Jiwon Jang
         lastName: Jang
         email: "jiwon6424@g.skku.edu"
