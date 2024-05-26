@@ -48,6 +48,16 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+  - title: "One vs. Many: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
+    author: "_Yoonjoo Lee_, _Kihoon Son_, _Tae Soo Kim_, _Jisu Kim_, John Joon Young Chung, Eytan Adar, _Juho Kim_"
+    year: 2024
+    venue: "FAccT 2024"
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: "https://arxiv.org/abs/2405.05581"
+
   - title: "Beyond Prompts: Learning from Human Communication for Enhanced AI Intent Alignment"
     author: "_Yoonsu Kim_, _Kihoon Son_, _Seoyoung Kim_, _Juho Kim_"
     year: 2024
@@ -107,16 +117,6 @@ papers:
     type: workshop
     award: ""
     link: "https://heal-workshop.github.io/papers/30_towards_an_evaluation_of_llm_g.pdf"
-
-  - title: "One vs. Multiple: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
-    author: "_Yoonjoo Lee_, _Kihoon Son_, _Tae Soo Kim_, _Jisu Kim_, John Joon Young Chung, Eytan Adar, _Juho Kim_"
-    year: 2024
-    venue: "FAccT 2024"
-    topics:
-      - human-ai-interaction
-    type: conference
-    award: ""
-    link: "https://arxiv.org/abs/2405.05581"
     
   - title: "EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners’ Transcript-Based Annotations"
     author: "Jingchao Fang, _Jeongeon Park_, _Juho Kim_, Hao-Chuan Wang"
