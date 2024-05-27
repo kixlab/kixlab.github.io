@@ -28,16 +28,6 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.01331"
 
-  - title: "CReHate: Cross-cultural Re-annotation of English Hate Speech Dataset"
-    author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - social
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2308.16705"
-
   - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
     author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
     year: Preprints
@@ -47,6 +37,16 @@ papers:
     type: preprint
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
+
+  - title: "Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis"
+    author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
+    year: 2024
+    venue: "NAACL 2024"
+    topics:
+      - social
+    type: conference
+    award: ""
+    link: "https://arxiv.org/abs/2308.16705"
 
   - title: "One vs. Many: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
     author: "_Yoonjoo Lee_, _Kihoon Son_, _Tae Soo Kim_, _Jisu Kim_, John Joon Young Chung, Eytan Adar, _Juho Kim_"
