@@ -38,6 +38,36 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+  - title: "A Context-Aware Onboarding Agent for Metaverse Powered by Large Language Models"
+    author: "_Jihyeong Hong_, _Yokyung Lee_, _Dae Hyun Kim_, _DaEun Choi_, Yeo-Jin Yoon, Gyu-cheol Lee, Zucheul Lee, _Juho Kim_"
+    venue: "DIS 2024"
+    year: 2024
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
+  - title: "AINeedsPlanner: A Workbook to Support Effective Collaboration Between AI Experts and Clients"
+    author: "_Dae Hyun Kim_, _Hyungyu Shin_, _Shakhnozakhon Yadgarova_, Jinho Son, Hariharan Subramonyam, _Juho Kim_"
+    venue: "DIS 2024"
+    year: 2024
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+  
+  - title: "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion"
+    author: "Hyunseung Lim, Ji Yong Cho, Taewan Kim, _Jeongeon Park_, _Hyungyu Shin_, _Seulgi Choi_, Sunghyun Park, Kyungjae Lee, _Juho Kim_, Moontae Lee, Hwajung Hong "
+    venue: "DIS 2024"
+    year: 2024
+    topics:
+      - human-ai-interaction
+    type: conference
+    award: ""
+    link: ""
+
   - title: "Exploring Cross-Cultural Differences in English Hate Speech Annotations: From Dataset Construction to Analysis"
     author: "Nayeon Lee, Chani Jung, _Junho Myung_, Jiho Jin, _Juho Kim_, Alice Oh"
     year: 2024
@@ -343,36 +373,6 @@ papers:
     type: conference
     award: ""
     link: "https://kixlab.github.io/website-files/2024/iui2024-DynamicLabels-paper.pdf"
-    
-  - title: "A Context-Aware Onboarding Agent for Metaverse Powered by Large Language Models"
-    author: "_Jihyeong Hong_, _Yokyung Lee_, _Dae Hyun Kim_, _DaEun Choi_, Yeo-Jin Yoon, Gyu-cheol Lee, Zucheul Lee, _Juho Kim_"
-    venue: "DIS 2024"
-    year: 2024
-    topics:
-      - human-ai-interaction
-    type: conference
-    award: ""
-    link: ""
-
-  - title: "AINeedsPlanner: A Workbook to Support Effective Collaboration Between AI Experts and Clients"
-    author: "_Dae Hyun Kim_, _Hyungyu Shin_, _Shakhnozakhon Yadgarova_, Jinho Son, Hariharan Subramonyam, _Juho Kim_"
-    venue: "DIS 2024"
-    year: 2024
-    topics:
-      - human-ai-interaction
-    type: conference
-    award: ""
-    link: ""
-  
-  - title: "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion"
-    author: "Hyunseung Lim, Ji Yong Cho, Taewan Kim, _Jeongeon Park_, _Hyungyu Shin_, _Seulgi Choi_, Sunghyun Park, Kyungjae Lee, _Juho Kim_, Moontae Lee, Hwajung Hong "
-    venue: "DIS 2024"
-    year: 2024
-    topics:
-      - human-ai-interaction
-    type: conference
-    award: ""
-    link: ""
   
   - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
     author: "_Seoyoung Kim_, _Yeon Su Park*_, _Dakyeom Ahn*_, Jin Myung Kwak, _Juho Kim_"
