@@ -38,6 +38,17 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+
+  - title: "LearnerVoice: A Dataset of Non-Native English Learners’ Spontaneous Speech"
+    author: "_Haechan Kim_, _Junho Myung_, _Seoyoung Kim_, Sungpah Lee, Dongyeop Kang, _Juho Kim_"
+    venue: "Interspeech 2024"
+    year: 2024
+    topics:
+      - learning
+    type: conference
+    award: ""
+    link: ""
+
   - title: "A Context-Aware Onboarding Agent for Metaverse Powered by Large Language Models"
     author: "_Jihyeong Hong_, _Yokyung Lee_, _Dae Hyun Kim_, _DaEun Choi_, Yeo-Jin Yoon, Gyu-cheol Lee, Zucheul Lee, _Juho Kim_"
     venue: "DIS 2024"
