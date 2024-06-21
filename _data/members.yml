@@ -283,6 +283,13 @@ positions:
         img: "noza.jpeg"
         site: ""
 
+      - name: Jiho
+        lastName: Kim
+        email: "jihokim8@acm.org"
+        career: Undergrad Intern (Calvin University)
+        img: "jiho.jpg"
+        site: "https://jihokim.dev"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
