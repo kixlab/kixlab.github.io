@@ -220,13 +220,6 @@ positions:
 
   - positionName: Undergraduate Students
     positionMembers:
-      - name: Yokyung Lee
-        lastName: Lee
-        email: "ykleeee@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "yokyung.png"
-        site: ""
-
       - name: Dong Yun Jung
         lastName: Jung
         email: "djung2023@kaist.ac.kr"
@@ -255,26 +248,12 @@ positions:
         img: "haeseul.jpg"
         site: ""
 
-      - name: Jinhyeon Kwon
-        lastName: Kwon
-        email: "athexplorer@kaist.ac.kr"
-        career: Undergrad Intern (KAIST)
-        img: "jhkwon.jpg"
-        site: "https://jinhyeonkwon.github.io"
-
       - name: Yoonah Park
         lastName: Park
         email: "wisdomsword21@snu.ac.kr"
         career: Undergrad Intern (SNU)
         img: "yoonah.jpg"
         site: ""
-
-      - name: Taehyun Yang
-        lastName: Yang
-        email: "0705danny@snu.ac.kr"
-        career: Undergrad Intern (SNU)
-        img: "taehyun.png"
-        site: "https://github.com/taehyun2017330"
 
       - name: Shahnoza
         lastName: Yadgarova
@@ -662,6 +641,33 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Jinhyeon Kwon
+        lastName: Kwon
+        email: "athexplorer@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jhkwon.jpg"
+        site: "https://jinhyeonkwon.github.io"
+        period: Winter 2024 - Spring 2024
+        leavingDate: 2024.06.16
+
+      - name: Yokyung Lee
+        lastName: Lee
+        email: "ykleeee@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "yokyung.png"
+        site: ""
+        period: Summer 2023 - Spring 2024
+        leavingDate: 2024.06.16
+       
+      - name: Taehyun Yang
+        lastName: Yang
+        email: "0705danny@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "taehyun.png"
+        site: "https://github.com/taehyun2017330"
+        period: Winter 2024 - Spring 2024
+        leavingDate: 2024.05.03
+        
       - name: Yumin Cho
         lastName: Cho
         email: "dbals1184@kaist.ac.kr"
