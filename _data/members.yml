@@ -269,6 +269,13 @@ positions:
         img: "jiho.jpg"
         site: "https://jihokim.dev"
 
+      - name: Heechan Lee
+        lastName: Lee
+        email: "hclee99@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "heechan_lee.jpeg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
@@ -658,7 +665,7 @@ positions:
         site: ""
         period: Summer 2023 - Spring 2024
         leavingDate: 2024.06.16
-       
+
       - name: Taehyun Yang
         lastName: Yang
         email: "0705danny@snu.ac.kr"
@@ -667,7 +674,7 @@ positions:
         site: "https://github.com/taehyun2017330"
         period: Winter 2024 - Spring 2024
         leavingDate: 2024.05.03
-        
+
       - name: Yumin Cho
         lastName: Cho
         email: "dbals1184@kaist.ac.kr"
