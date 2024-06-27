@@ -39,7 +39,7 @@ papers:
     link: "https://arxiv.org/abs/2310.05191"
 
   - title: "Fine-Grained Action Understanding with Tools in Instructional Videos"
-    author: "_Saelyne Yang_, Jaesang Yu, Jae Won Cho, _Juho Kim_"
+    author: "_Saelyne Yang_, _Jaesang Yu_, Jae Won Cho, _Juho Kim_"
     year: 2024
     venue: "CVPR 2024 Workshop on Learning from Procedural Videos and Language"
     topics:
