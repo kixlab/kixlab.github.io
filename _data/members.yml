@@ -276,6 +276,13 @@ positions:
         img: "heechan_lee.jpeg"
         site: ""
 
+      - name: Sadat Shams Chowdhury
+        lastName: Chowdhury
+        email: "sadatshams@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "sadat.jpeg"
+        site: "https://sadatshams.herokuapp.com"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
