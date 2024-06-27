@@ -38,6 +38,16 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+  - title: "Fine-Grained Action Understanding with Tools in Instructional Videos"
+    author: "_Saelyne Yang_, Jaesang Yu, Jae Won Cho, _Juho Kim_"
+    year: 2024
+    venue: "CVPR 2024 Workshop on Learning from Procedural Videos and Language"
+    topics:
+      - learning
+      - datamining
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/cvpr2024-finegrained-workshop.pdf"
 
   - title: "LearnerVoice: A Dataset of Non-Native English Learners’ Spontaneous Speech"
     author: "_Haechan Kim_, _Junho Myung_, _Seoyoung Kim_, Sungpah Lee, Dongyeop Kang, _Juho Kim_"
