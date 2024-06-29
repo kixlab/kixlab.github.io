@@ -283,6 +283,13 @@ positions:
         img: "sadat.jpeg"
         site: "https://sadatshams.herokuapp.com"
 
+      - name: Eunhye Kim
+        lastName: Kim
+        email: "gracekim027@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "eunhye.jpeg"
+        site: ""
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
