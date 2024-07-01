@@ -304,6 +304,13 @@ positions:
         img: "sieun.png"
         site: "https://sieunk08.github.io"
 
+      - name: Hyehyun Chu
+        lastName: Chu
+        email: "ded06031@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "hyehyun.png"
+        site: "https://hyehyunchu.vercel.app/"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
