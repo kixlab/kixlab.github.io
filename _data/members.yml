@@ -290,6 +290,13 @@ positions:
         img: "eunhye.jpeg"
         site: ""
 
+      - name: Yoonsang Lee
+        lastName: Lee
+        email: "lysianthus@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "yoonsang.jpg"
+        site: "https://lilys012.github.io"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
