@@ -297,6 +297,13 @@ positions:
         img: "yoonsang.jpg"
         site: "https://lilys012.github.io"
 
+      - name: Sieun Kim
+        lastName: Kim
+        email: "sieunk@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "sieun.jpg"
+        site: "https://sieunk08.github.io"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
