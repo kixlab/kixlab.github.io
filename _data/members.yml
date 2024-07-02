@@ -310,6 +310,13 @@ positions:
         career: Undergrad Intern (SNU)
         img: "hyehyun.png"
         site: "https://hyehyunchu.vercel.app/"
+      
+      - name: Minju Yoo
+        lastName: Yoo
+        email: "minjuu.yoo@gmail.com"
+        career: Undergrad Intern (Ewha)
+        img: "minju.png"
+        site: "https://minjuu1.github.io"
 
   - positionName: Staff
     positionMembers:
