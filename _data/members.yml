@@ -315,8 +315,15 @@ positions:
         lastName: Yoo
         email: "minjuu.yoo@gmail.com"
         career: Undergrad Intern (Ewha)
-        img: "minju.png"
+        img: "minju.jpg"
         site: "https://minjuu1.github.io"
+
+      - name: Brandon Chin
+        lastName: Chin
+        email: "brandoncjw@hkn.eecs.berkeley.edu"
+        career: Undergrad Intern (UC Berkeley)
+        img: "brandonchin.jpg"
+        site: ""
 
   - positionName: Staff
     positionMembers:
