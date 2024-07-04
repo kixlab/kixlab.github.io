@@ -303,6 +303,13 @@ positions:
         career: Undergrad Intern (SNU)
         img: "yoonsang.jpg"
         site: "https://lilys012.github.io"
+      
+      - name: Jihyun Yoo
+        lastName: Yoo
+        email: "yoojihyun6933@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jihyun.jpg"
+        site: ""
 
       - name: Sieun Kim
         lastName: Kim
