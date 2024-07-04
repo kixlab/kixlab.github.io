@@ -254,6 +254,13 @@ positions:
         career: Undergrad Intern (SNU)
         img: "yoonah.jpg"
         site: ""
+      
+      - name: Saetbyeol LeeYouk
+        lastName: LeeYouk
+        email: "sbleeyouk@gmail.com"
+        career: Undergrad Intern (Sogang)
+        img: "saetbyeol.jpg"
+        site: "https://sbleeyouk.github.io"
 
       - name: Shahnoza
         lastName: Yadgarova
