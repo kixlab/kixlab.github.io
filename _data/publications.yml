@@ -65,9 +65,12 @@ papers:
     year: 2024
     topics:
       - human-ai-interaction
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3643834.3661579"
     type: conference
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2024/dis2024-pican-paper.pdf"
 
   - title: "AINeedsPlanner: A Workbook to Support Effective Collaboration Between AI Experts and Clients"
     author: "_Dae Hyun Kim_, _Hyungyu Shin_, _Shakhnozakhon Yadgarova_, Jinho Son, Hariharan Subramonyam, _Juho Kim_"
@@ -75,6 +78,9 @@ papers:
     year: 2024
     topics:
       - human-ai-interaction
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3643834.3661577"
     type: conference
     award: ""
     link: ""
@@ -85,6 +91,9 @@ papers:
     year: 2024
     topics:
       - human-ai-interaction
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3643834.3660705"
     type: conference
     award: ""
     link: ""
