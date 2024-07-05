@@ -332,6 +332,13 @@ positions:
         img: "minju.jpg"
         site: "https://minjuu1.github.io"
 
+      - name: Nayoung Kim
+        lastName: Kim
+        email: "skdud727@dgist.ac.kr"
+        career: Undergrad Intern (DGIST)
+        img: "nayoung.jpg"
+        site: "https://github.com/skdud727"
+
   - positionName: Staff
     positionMembers:
       - name: Oaksil Kim
