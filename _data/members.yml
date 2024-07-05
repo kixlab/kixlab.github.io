@@ -276,6 +276,13 @@ positions:
         img: "jiho.jpg"
         site: "https://jihokim.dev"
 
+      - name: Vedad Misirlić
+        lastName: Misirlić
+        email: "vedad.misirlic@gmail.com"
+        career: Visiting Student Researcher (Graz University of Technology)
+        img: "vedad.jpg"
+        site: ""
+      
       - name: Heechan Lee
         lastName: Lee
         email: "hclee99@kaist.ac.kr"
