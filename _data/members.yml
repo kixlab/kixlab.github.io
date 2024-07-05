@@ -254,6 +254,13 @@ positions:
         career: Undergrad Intern (SNU)
         img: "yoonah.jpg"
         site: ""
+      
+      - name: Saetbyeol LeeYouk
+        lastName: LeeYouk
+        email: "sbleeyouk@gmail.com"
+        career: Undergrad Intern (Sogang)
+        img: "saetbyeol.jpg"
+        site: "https://sbleeyouk.github.io"
 
       - name: Shahnoza
         lastName: Yadgarova
@@ -269,6 +276,13 @@ positions:
         img: "jiho.jpg"
         site: "https://jihokim.dev"
 
+      - name: Vedad Misirlić
+        lastName: Misirlić
+        email: "vedad.misirlic@gmail.com"
+        career: Visiting Student Researcher (Graz University of Technology)
+        img: "vedad.jpg"
+        site: ""
+      
       - name: Heechan Lee
         lastName: Lee
         email: "hclee99@kaist.ac.kr"
@@ -296,6 +310,13 @@ positions:
         career: Undergrad Intern (SNU)
         img: "yoonsang.jpg"
         site: "https://lilys012.github.io"
+      
+      - name: Jihyun Yoo
+        lastName: Yoo
+        email: "yoojihyun6933@kaist.ac.kr"
+        career: Undergrad Intern (KAIST)
+        img: "jihyun.jpg"
+        site: ""
 
       - name: Sieun Kim
         lastName: Kim
@@ -324,6 +345,13 @@ positions:
         career: Undergrad Intern (UC Berkeley)
         img: "brandonchin.jpg"
         site: ""
+
+      - name: Nayoung Kim
+        lastName: Kim
+        email: "skdud727@dgist.ac.kr"
+        career: Undergrad Intern (DGIST)
+        img: "nayoung.jpg"
+        site: "https://github.com/skdud727"
 
   - positionName: Staff
     positionMembers:
