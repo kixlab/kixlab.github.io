@@ -339,6 +339,13 @@ positions:
         img: "minju.jpg"
         site: "https://minjuu1.github.io"
 
+      - name: Brandon Chin
+        lastName: Chin
+        email: "brandoncjw@hkn.eecs.berkeley.edu"
+        career: Undergrad Intern (UC Berkeley)
+        img: "brandonchin.jpg"
+        site: ""
+
       - name: Nayoung Kim
         lastName: Kim
         email: "skdud727@dgist.ac.kr"
