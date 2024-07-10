@@ -308,7 +308,7 @@ papers:
     award: ""
     materials:
       - label: "acm dl"
-        url: "https://dl.acm.org/doi/10.1145/3640543.3645148"    
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642752"    
     link: "https://arxiv.org/abs/2403.05213"
 
   - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
