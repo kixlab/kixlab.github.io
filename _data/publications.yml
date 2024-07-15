@@ -38,6 +38,17 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+  - title: "Using LLMs to Investigate Correlations of Conversational Follow-up Queries with User Satisfaction"
+    author: "_Hyunwoo Kim_, _Yoonseo Choi_, _Taehyun Yang_, Honggu Lee, Chaneon Park, Yongju Lee, Jin Young Kim, _Juho Kim_"
+    year: 2024
+    venue: "SIGIR 2024 Workshop on Large Language Models for Evaluation in Information Retrieval,"
+    topics:
+      - human-ai-interaction
+      - datamining
+    type: workshop
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/sigir2024-searchgpt-workshop.pdf"
+
   - title: "Fine-Grained Action Understanding with Tools in Instructional Videos"
     author: "_Saelyne Yang_, _Jaesang Yu_, Jae Won Cho, _Juho Kim_"
     year: 2024
