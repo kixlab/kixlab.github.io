@@ -17,7 +17,6 @@ types:
   - preprint
 
 papers:
-
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
     author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
     year: Preprints
@@ -95,7 +94,7 @@ papers:
     type: conference
     award: ""
     link: ""
-  
+
   - title: "Co-Creating Question-and-Answer Style Articles with Large Language Models for Research Promotion"
     author: "Hyunseung Lim, Ji Yong Cho, Taewan Kim, _Jeongeon Park_, _Hyungyu Shin_, _Seulgi Choi_, Sunghyun Park, Kyungjae Lee, _Juho Kim_, Moontae Lee, Hwajung Hong "
     venue: "DIS 2024"
@@ -158,7 +157,7 @@ papers:
     type: workshop
     award: ""
     link: "https://kixlab.github.io/website-files/2024/chi2024-workshop-sensemaking-paper.pdf"
-  
+
   - title: "EvalLM: Interactive Evaluation of Large Language Model Prompts on User-Defined Criteria"
     author: "_Tae Soo Kim_, _Yoonjoo Lee_, Jamin Shin, Young-Ho Kim, _Juho Kim_"
     year: 2024
@@ -188,7 +187,7 @@ papers:
     type: workshop
     award: ""
     link: "https://heal-workshop.github.io/papers/30_towards_an_evaluation_of_llm_g.pdf"
-    
+
   - title: "EduLive: Re-Creating Cues for Instructor-Learner Interaction in Educational Live Streams with Learners’ Transcript-Based Annotations"
     author: "Jingchao Fang, _Jeongeon Park_, _Juho Kim_, Hao-Chuan Wang"
     year: 2024
@@ -243,7 +242,7 @@ papers:
     type: conference
     award: ""
     link: "https://arxiv.org/abs/2312.11949"
-    
+
   - title: "GenQuery: Supporting Expressive Visual Search with Generative Models"
     author: "_Kihoon Son_, _DaEun Choi_, _Tae Soo Kim_, Young-Ho Kim, _Juho Kim_"
     year: 2024
@@ -267,7 +266,7 @@ papers:
       - learning
     materials:
       - label: "acm dl"
-        url: "https://dl.acm.org/doi/10.1145/3613904.3642886"    
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642886"
       - label: "project website"
         url: "http://tacitknowledge.kixlab.org/"
     type: conference
@@ -283,9 +282,9 @@ papers:
       - learning
     materials:
       - label: "acm dl"
-        url: "https://dl.acm.org/doi/10.1145/3613904.3642216"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642349"
       - label: "project website"
-        url: "https://evallm.kixlab.org/"        
+        url: "https://evallm.kixlab.org/"
     type: conference
     award: "Best Paper Honorable Mention Award"
     link: "https://arxiv.org/abs/2309.14534"
@@ -297,10 +296,12 @@ papers:
     topics:
       - human-ai-interaction
     materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642216"
       - label: "project website"
         url: "https://evallm.kixlab.org/"
     type: conference
-    award: ""  
+    award: ""
     link: "https://arxiv.org/abs/2309.13633"
 
   - title: "Natural Language Dataset Generation Framework for Visualizations Powered by Large Language Models"
@@ -314,7 +315,7 @@ papers:
     award: ""
     materials:
       - label: "acm dl"
-        url: "https://dl.acm.org/doi/10.1145/3640543.3645148"    
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642943"
     link: "https://arxiv.org/abs/2309.10245"
 
   - title: "AQuA: Automated Question-Answering in Software Tutorial Videos with Visual Anchors"
@@ -323,12 +324,12 @@ papers:
     venue: "CHI 2024"
     topics:
       - human-ai-interaction
-      - learning    
+      - learning
     type: conference
     award: ""
     materials:
       - label: "acm dl"
-        url: "https://dl.acm.org/doi/10.1145/3613904.3642752"    
+        url: "https://dl.acm.org/doi/10.1145/3613904.3642752"
     link: "https://arxiv.org/abs/2403.05213"
 
   - title: "FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets"
@@ -351,7 +352,7 @@ papers:
     type: conference
     award: ""
     link: "https://arxiv.org/abs/2401.17343"
-    
+
   - title: "Understanding Users' Dissatisfaction with ChatGPT Responses:  Types, Resolving Tactics, and the Effect of Knowledge Level"
     author: "_Yoonsu Kim_, _Jueon Lee_, _Seoyoung Kim_, Jaehyuk Park, _Juho Kim_"
     venue: "IUI 2024"
@@ -414,7 +415,7 @@ papers:
     type: conference
     award: ""
     link: "https://kixlab.github.io/website-files/2024/iui2024-DynamicLabels-paper.pdf"
-  
+
   - title: "Is the Same Performance Really the Same?: Understanding How Listeners Perceive ASR Results Differently According to the Speaker’s Accent"
     author: "_Seoyoung Kim_, _Yeon Su Park*_, _Dakyeom Ahn*_, Jin Myung Kwak, _Juho Kim_"
     venue: "CSCW 2024"
@@ -488,7 +489,7 @@ papers:
     type: conference
     award: ""
     link: "https://yoonjoolee.com/assets/papers/QASA_ICML2023.pdf"
-    
+
   - title: "EmphasisChecker: A Tool for Guiding Chart and Caption Emphasis"
     author: "_Dae Hyun Kim_, _Seulgi Choi_, _Juho Kim_, Vidya Setlur, Maneesh Agrawala"
     year: 2023
