@@ -97,7 +97,7 @@ papers:
       - learning
     type: conference
     award: ""
-    link: ""
+    link: "https://arxiv.org/abs/2407.04280"
 
   - title: "A Context-Aware Onboarding Agent for Metaverse Powered by Large Language Models"
     author: "_Jihyeong Hong_, _Yokyung Lee_, _Dae Hyun Kim_, _DaEun Choi_, Yeo-Jin Yoon, Gyu-cheol Lee, Zucheul Lee, _Juho Kim_"
