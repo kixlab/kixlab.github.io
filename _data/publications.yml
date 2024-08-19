@@ -17,6 +17,26 @@ types:
   - preprint
 
 papers:
+  - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
+    author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - human-ai-interaction
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.01331"
+
+  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
+    author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
+    year: Preprints
+    venue: "arXiv preprint"
+    topics:
+      - learning
+    type: preprint
+    award: ""
+    link: "https://arxiv.org/abs/2310.05191"
+
   - title: "KUIZ: Encouraging Modular Learnersourcing of Multiple Choice Questions through LLM Interventions"
     author: "_Hyoungwook Jin_, _Haesoo Kim_, _Nathan Mekuria Haile_, _Soyeong Min_, _Juho Kim_"
     year: 2024
@@ -46,26 +66,6 @@ papers:
     type: workshop
     award: ""
     link: "https://dl.acm.org/doi/10.1145/3657604.3664643"
-
-  - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
-    author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - human-ai-interaction
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2310.01331"
-
-  - title: "FABRIC: Automated Scoring and Feedback Generation for Essays"
-    author: "Jieun Han, Haneul Yoo, _Junho Myung_, Minsun Kim, Hyunseung Lim, _Yoonsu Kim_, Tak Yeon Lee, Hwajung Hong, _Juho Kim_, So-Yeon Ahn, Alice Oh"
-    year: Preprints
-    venue: "arXiv preprint"
-    topics:
-      - learning
-    type: preprint
-    award: ""
-    link: "https://arxiv.org/abs/2310.05191"
 
   - title: "Using LLMs to Investigate Correlations of Conversational Follow-up Queries with User Satisfaction"
     author: "_Hyunwoo Kim_, _Yoonseo Choi_, _Taehyun Yang_, Honggu Lee, Chaneon Park, Yongju Lee, Jin Young Kim, _Juho Kim_"
