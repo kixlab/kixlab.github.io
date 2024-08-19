@@ -37,6 +37,36 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+  - title: "KUIZ: Encouraging Modular Learnersourcing of Multiple Choice Questions through LLM Interventions"
+    author: "_Hyoungwook Jin_, _Haesoo Kim_, _Nathan Mekuria Haile_, _Soyeong Min_, _Juho Kim_"
+    year: 2024
+    venue: "Learning at Scale 2024"
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: "https://drive.google.com/file/d/1zElYwT-VJ9LRm6to1IVy59_uAitqwZ6h/view?usp=sharing"
+
+  - title: "Using Large Language Models To Diagnose Math Problem-solving Skills At Scale"
+    author: "_Hyoungwook Jin_, _Yoonsu Kim_, _Yeonsu Park_, _Bekzat Tilekbay_, _Juho Kim_"
+    year: 2024
+    venue: "Learning at Scale 2024 (Work-in-Progress)"
+    topics:
+      - learning
+    type: poster
+    award: ""
+    link: "https://dl.acm.org/doi/10.1145/3657604.3664697"
+
+  - title: "Learnersourcing: Student-generated Content @ Scale: 2nd Annual Workshop"
+    author: "Steven Moore, Anjali Singh, Xinyi Lu, _Hyoungwook Jin_, Hassan Khosravi, Paul Denny, Christopher Brooks, Xu Wang, _Juho Kim_, John Stamper"
+    year: 2024
+    venue: "Learning at Scale 2024"
+    topics:
+      - learning
+    type: workshop
+    award: ""
+    link: "https://dl.acm.org/doi/10.1145/3657604.3664643"
+
   - title: "Using LLMs to Investigate Correlations of Conversational Follow-up Queries with User Satisfaction"
     author: "_Hyunwoo Kim_, _Yoonseo Choi_, _Taehyun Yang_, Honggu Lee, Chaneon Park, Yongju Lee, Jin Young Kim, _Juho Kim_"
     year: 2024
@@ -284,7 +314,7 @@ papers:
       - label: "acm dl"
         url: "https://dl.acm.org/doi/10.1145/3613904.3642349"
       - label: "project website"
-        url: "https://evallm.kixlab.org/"
+        url: "https://teachyou.kixlab.org/"
     type: conference
     award: "Best Paper Honorable Mention Award"
     link: "https://arxiv.org/abs/2309.14534"
