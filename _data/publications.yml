@@ -40,7 +40,7 @@ papers:
   - title: "KUIZ: Encouraging Modular Learnersourcing of Multiple Choice Questions through LLM Interventions"
     author: "_Hyoungwook Jin_, _Haesoo Kim_, _Nathan Mekuria Haile_, _Soyeong Min_, _Juho Kim_"
     year: 2024
-    venue: "Learning at Scale 2024"
+    venue: "L@S 2024 Workshop on Learnersourcing: Student-generated Content @ Scale"
     topics:
       - learning
     type: workshop
@@ -50,7 +50,7 @@ papers:
   - title: "Using Large Language Models To Diagnose Math Problem-solving Skills At Scale"
     author: "_Hyoungwook Jin_, _Yoonsu Kim_, _Yeonsu Park_, _Bekzat Tilekbay_, _Juho Kim_"
     year: 2024
-    venue: "Learning at Scale 2024 (Work-in-Progress)"
+    venue: "L@S 2024 (Work-in-Progress)"
     topics:
       - learning
     type: poster
@@ -60,7 +60,7 @@ papers:
   - title: "Learnersourcing: Student-generated Content @ Scale: 2nd Annual Workshop"
     author: "Steven Moore, Anjali Singh, Xinyi Lu, _Hyoungwook Jin_, Hassan Khosravi, Paul Denny, Christopher Brooks, Xu Wang, _Juho Kim_, John Stamper"
     year: 2024
-    venue: "Learning at Scale 2024"
+    venue: "L@S 2024 Workshop Proposal"
     topics:
       - learning
     type: workshop
