@@ -37,6 +37,17 @@ papers:
     award: ""
     link: "https://arxiv.org/abs/2310.05191"
 
+  - title: "Enhancing How People Learn Procedural Tasks Through How-to Videos"
+    author: "_Saelyne Yang_"
+    year: 2024
+    venue: "UIST 2024 Doctoral Symposium"
+    topics:
+      - human-ai-interaction
+      - learning
+    type: conference
+    award: ""
+    link: "https://kixlab.github.io/website-files/2024/uist2024-dc-saelyne.pdf"
+
   - title: "KUIZ: Encouraging Modular Learnersourcing of Multiple Choice Questions through LLM Interventions"
     author: "_Hyoungwook Jin_, _Haesoo Kim_, _Nathan Mekuria Haile_, _Soyeong Min_, _Juho Kim_"
     year: 2024
