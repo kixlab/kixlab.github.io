@@ -466,7 +466,7 @@ papers:
       - social
     type: conference
     award: ""
-    link: ""
+    link: "https://dl.acm.org/doi/10.1145/3641008"
 
   - title: "CodeTree: A System for Learnersourcing Subgoal Hierarchies in Code Examples"
     author: "_Hyoungwook Jin_, _Juho Kim_"
