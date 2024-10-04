@@ -353,17 +353,17 @@ positions:
   - positionName: Alumni (Professors, Postdocs, Graduate Students, Researchers)
     positionMembers:
       - name: Seulgi Choi
-          lastName: Choi
-          email: "igules8925@gmail.com"
-          career: M.S. Student
-          img: "seulgi.jpg"
-          period: Spring 2022 - Summer 2024
-          leavingDate: 2024.09.14
-          materials:
-            - label: "thesis"
-              url: "http://kixlab.org/files/theses/thesis-ms-2024-seulgi.pdf"
-          site: "https://csg17.github.io/cv/index.html"
-          message: "Hello Juho! Thank you for always leading and caring us!😊  It was very fortunate to meet you as my advisor and I really appreciate that you always motivate me to do my best. May you have a memorable Teacher's day✨"
+        lastName: Choi
+        email: "igules8925@gmail.com"
+        career: M.S. Student
+        img: "seulgi.jpg"
+        period: Spring 2022 - Summer 2024
+        leavingDate: 2024.09.14
+        materials:
+          - label: "thesis"
+            url: "http://kixlab.org/files/theses/thesis-ms-2024-seulgi.pdf"
+        site: "https://csg17.github.io/cv/index.html"
+        message: "Hello Juho! Thank you for always leading and caring us!😊  It was very fortunate to meet you as my advisor and I really appreciate that you always motivate me to do my best. May you have a memorable Teacher's day✨"
           
       - name: Juhoon Lee
         lastName: Lee
