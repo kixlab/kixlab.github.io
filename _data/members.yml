@@ -137,14 +137,6 @@ positions:
         site: "https://kihoonson.com"
         message: "It is not a long time since I have joined KIXLAB,  I love and enjoy my research life here because of you, Juho! Appreciate your effort for the lab and members, and hope to be a happy teacher's day 🙂."
 
-      - name: Seulgi Choi
-        lastName: Choi
-        email: "igules8925@gmail.com"
-        career: M.S. Student
-        img: "seulgi.jpg"
-        site: "https://csg17.github.io/cv/index.html"
-        message: "Hello Juho! Thank you for always leading and caring us!😊  It was very fortunate to meet you as my advisor and I really appreciate that you always motivate me to do my best. May you have a memorable Teacher's day✨"
-
       - name: DaEun Choi
         lastName: Choi
         email: "daeun.choi@kaist.ac.kr"
@@ -216,6 +208,21 @@ positions:
         img: "yeonsupark.jpg"
         site: ""
 
+      - name: Daeheon Jeong
+        lastName: Jeong
+        email: "neohgeek@gmail.com"
+        career: M.S. Student
+        img: "daeheon.jpg"
+        site: ""
+
+      - name: Hyehyun Chu
+        lastName: Chu
+        email: "ded06031@snu.ac.kr"
+        career: M.S. Student
+        img: "hyehyun.png"
+        site: "https://hyehyunchu.vercel.app/"
+
+
   ## ---------------Undergraduates--------------------
 
   - positionName: Undergraduate Students
@@ -225,13 +232,6 @@ positions:
         email: "djung2023@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "dongyun.jpeg"
-        site: ""
-
-      - name: Daeheon Jeong
-        lastName: Jeong
-        email: "neohgeek@gmail.com"
-        career: Undergrad Intern (Sogang)
-        img: "daeheon.jpg"
         site: ""
 
       - name: Chanyoung Kim
@@ -246,13 +246,6 @@ positions:
         email: "jjchs1@kaist.ac.kr"
         career: Undergrad Intern (KAIST)
         img: "haeseul.jpg"
-        site: ""
-
-      - name: Yoonah Park
-        lastName: Park
-        email: "wisdomsword21@snu.ac.kr"
-        career: Undergrad Intern (SNU)
-        img: "yoonah.jpg"
         site: ""
       
       - name: Saetbyeol LeeYouk
@@ -324,13 +317,6 @@ positions:
         career: Undergrad Intern (SNU)
         img: "sieun.png"
         site: "https://sieunk08.github.io"
-
-      - name: Hyehyun Chu
-        lastName: Chu
-        email: "ded06031@snu.ac.kr"
-        career: Undergrad Intern (SNU)
-        img: "hyehyun.png"
-        site: "https://hyehyunchu.vercel.app/"
       
       - name: Minju Yoo
         lastName: Yoo
@@ -366,6 +352,19 @@ positions:
 
   - positionName: Alumni (Professors, Postdocs, Graduate Students, Researchers)
     positionMembers:
+      - name: Seulgi Choi
+          lastName: Choi
+          email: "igules8925@gmail.com"
+          career: M.S. Student
+          img: "seulgi.jpg"
+          period: Spring 2022 - Summer 2024
+          leavingDate: 2024.09.14
+          materials:
+            - label: "thesis"
+              url: "http://kixlab.org/files/theses/thesis-ms-2024-seulgi.pdf"
+          site: "https://csg17.github.io/cv/index.html"
+          message: "Hello Juho! Thank you for always leading and caring us!😊  It was very fortunate to meet you as my advisor and I really appreciate that you always motivate me to do my best. May you have a memorable Teacher's day✨"
+          
       - name: Juhoon Lee
         lastName: Lee
         email: "juhoonlee@kaist.ac.kr"
@@ -725,6 +724,13 @@ positions:
 
   - positionName: Alumni (Interns)
     positionMembers:
+      - name: Yoonah Park
+        lastName: Park
+        email: "wisdomsword21@snu.ac.kr"
+        career: Undergrad Intern (SNU)
+        img: "yoonah.jpg"
+        site: ""
+        
       - name: Jinhyeon Kwon
         lastName: Kwon
         email: "athexplorer@kaist.ac.kr"
