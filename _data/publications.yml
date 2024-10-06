@@ -17,6 +17,17 @@ types:
   - preprint
 
 papers:
+  - title: "ARXIVDIGESTABLES: Synthesizing Scientific Literature into Tables using Language Models"
+    author: "Benjamin Newman, _Yoonjoo Lee_, Aakanksha Naik, Pao Siangliulue, Raymond Fok, _Juho Kim_, Daniel S. Weld, Joseph Chee Chang, Kyle Lo"
+    year: 2024
+    venue: "EMNLP 2024 Main Track"
+    topics:
+      - human-ai-interaction
+      - datamining
+    type: conference
+    award: ""
+    link: ""
+    
   - title: "ChoiceMates: Supporting Unfamiliar Online Decision-Making with Multi-Agent Conversational Interactions"
     author: "_Jeongeon Park_, _Bryan Min_, Xiaojuan Ma, _Juho Kim_"
     year: Preprints
