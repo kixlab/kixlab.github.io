@@ -118,7 +118,7 @@ papers:
     topics:
       - learning
     type: conference
-    award: ""
+    award: "Shortlisted for ISCA Best Student Paper Award"
     link: "https://arxiv.org/abs/2407.04280"
 
   - title: "A Context-Aware Onboarding Agent for Metaverse Powered by Large Language Models"
@@ -161,7 +161,7 @@ papers:
     topics:
       - social
     type: conference
-    award: ""
+    award: "Resource Award"
     link: "https://arxiv.org/abs/2308.16705"
 
   - title: "One vs. Many: Comprehending Accurate Information from Multiple Erroneous and Inconsistent AI Generations"
