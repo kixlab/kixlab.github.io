@@ -141,6 +141,9 @@ papers:
     topics:
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/abs/10.1145/3643834.3661577"
     award: ""
     link: "https://kixlab.github.io/website-files/2024/dis2024-aineedsplanner-paper.pdf"
 
@@ -151,6 +154,9 @@ papers:
     topics:
       - human-ai-interaction
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3643834.3660705"
     award: ""
     link: "https://kixlab.github.io/website-files/2024/dis2024-podcast-paper.pdf"
 
@@ -470,8 +476,11 @@ papers:
       - human-ai-interaction
       - social
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3641008"
     award: ""
-    link: "https://dl.acm.org/doi/10.1145/3641008"
+    link: "https://kixlab.github.io/website-files/2024/cscw2024-asr-paper.pdf"
 
   - title: "CodeTree: A System for Learnersourcing Subgoal Hierarchies in Code Examples"
     author: "_Hyoungwook Jin_, _Juho Kim_"
@@ -481,8 +490,11 @@ papers:
       - crowdsourcing
       - learning
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3637308"
     award: ""
-    link: "https://dl.acm.org/doi/10.1145/3637308"
+    link: "https://kixlab.github.io/website-files/2024/cscw2024-codetree-paper.pdf"
 
   - title: "Re:SPect: Enabling Active and Scalable Responses to Networked Online Harassment"
     author: "_Haesoo Kim_, _Juhoon Lee_, _Juho Kim_, Jeong-woo Jang"
@@ -491,8 +503,11 @@ papers:
     topics:
       - social
     type: conference
+    materials:
+      - label: "acm dl"
+        url: "https://dl.acm.org/doi/10.1145/3637394"
     award: ""
-    link: ""
+    link: "https://kixlab.github.io/website-files/2024/cscw2024-respect-paper.pdf"
 
   - title: "Cells, Generators, and Lenses: Design Framework for Object-Oriented Interaction with Large Language Models"
     author: "_Tae Soo Kim_, _Yoonjoo Lee_, Minsuk Chang, _Juho Kim_"

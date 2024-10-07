@@ -391,7 +391,7 @@ positions:
             url: "http://kixlab.org/files/theses/thesis-ms-2023-jeongeon.pdf"
         site: "https://jeongeonpark.com"
         message: "Thanks Juho for being the best advisor one can ever ask for! Really appreciate the effort for meetings past 2am in your timezone .. 😂"
-        now: Researcher @ DGIST
+        now: Researcher @ DGIST => Ph.D. Student @ UCSD
 
       - name: Haesoo Kim
         lastName: Kim
@@ -418,6 +418,7 @@ positions:
         #   - label: "M.S. thesis"
         #     url: "https://s-space.snu.ac.kr/handle/10371/177831"
         message: "Thank you for your support professor Juho!"
+        now: Ph.D. Student @ Stanford University
 
       - name: Jeongyeon Kim
         lastName: Kim
@@ -491,7 +492,7 @@ positions:
         leavingDate: 2021.06.30
         #img: profile_jean.jpg
         site: https://jyskwon.github.io/
-        now: Assistant Professor @ DGIST
+        now: Assistant Professor @ DGIST => Assistant Professor @ Yonsei University
 
       - name: Kyung Je Jo
         lastName: Jo
@@ -501,7 +502,7 @@ positions:
         site: "http://kyungjejo.com"
         period: Spring 2018 - Winter 2021
         leavingDate: 2021.02.28
-        now: Software Engineer @ Peoplefund
+        now: ML Engineer @ Peoplefund
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2020-kyungje.pdf"
@@ -516,7 +517,7 @@ positions:
         site: https://www.minsukchang.com
         period: Summer 2016 - Winter 2021
         leavingDate: 2021.02.28
-        now: Research Scientist @ PAIR, Google Research
+        now: Research Scientist @ Google Deepmind
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-phd-2021-minsuk.pdf"
@@ -553,7 +554,7 @@ positions:
         site: "https://jisoolee0123.github.io"
         period: Summer 2019 - Spring 2020
         leavingDate: 2020.07.15
-        now: Engineer @ Krafton => UX Lead & ML engineer @ Beeble
+        now: Engineer @ Krafton => UX Lead & ML Engineer @ Beeble
 
       - name: Arti Thakur
         lastName: Thakur
@@ -596,7 +597,7 @@ positions:
         site: "https://hyeungshikjung.com"
         period: Summer 2016 - Winter 2019
         leavingDate: 2019.02.15
-        now: Software Engineer @ NAVER
+        now: Software Engineer @ NAVER => Software Engineer @ Coupang
         materials:
           - label: "thesis"
             url: "http://kixlab.org/files/theses/thesis-ms-2019-hyeungshik.pdf"
@@ -777,6 +778,7 @@ positions:
         site: ""
         period: Summer 2023 - Winter 2024
         leavingDate: 2024.02.29
+        now: Ph.D. Student @ University of Notre Dame
 
       - name: Jiwon Jang
         lastName: Jang
@@ -822,6 +824,7 @@ positions:
         site: "https://bryanmin.me"
         period: Summer 2023
         leavingDate: 2023.09.22
+        now: Ph.D. Student @ UCSD
 
       - name: Seonghee Lee
         lastname: Lee
@@ -831,6 +834,7 @@ positions:
         site: ""
         period: Summer 2023, Summer 2021
         leavingDate: 2023.09.07
+        now: M.S. Student @ Stanford University
 
       - name: Michal Lewkowicz
         lastName: Lewkowicz
@@ -868,6 +872,7 @@ positions:
         site: ""
         period: Winter 2023 - Summer 2023
         leavingDate: 2023.07.31
+        now: M.S. Student @ Georgia Tech
 
       - name: Dakyeom Ahn
         lastName: Ahn
@@ -896,6 +901,7 @@ positions:
         message: "Hi Juho, have a wonderful Teacher’s day! Thanks for your advise and always learning a lot! I’m really happy having a chance to grow up here, and hope you have a nice (and safe!) sabbatical year!"
         period: Winter 2022 - Spring 2023
         leavingDate: 2023.04.07
+        now: M.S. Student @ KAIST CSTL 
 
       - name: Soyeong Min
         lastName: Min
@@ -945,6 +951,7 @@ positions:
         message: "Thank you so much for guiding, inspiring and giving motivation! Lucky to have a chance working with you :)"
         period: Summer 2021 - Summer 2022
         leavingDate: 2022.09.16
+        now: M.S. Student @ KAIST GSAI
 
       - name: Honggi Lee
         lastName: Lee
@@ -977,6 +984,7 @@ positions:
         period: Fall 2021 - Summer 2022
         leavingDate: 2022.07.31
         site: ""
+        now: M.S. Student @ KAIST HCIL
 
       - name: Subeen Park
         lastName: Park
@@ -1019,6 +1027,7 @@ positions:
         period: Summer 2021 - Fall 2021
         leavingDate: 2021.12.31
         site: ""
+        now: M.S. Student @ KAIST CSTL
 
       - name: Mehmet Hamza Erol
         lastName: Erol
@@ -1027,6 +1036,7 @@ positions:
         period: Summer 2021 - Fall 2021
         leavingDate: 2021.12.17
         site: ""
+        now: M.S. Student @ Stanford University
 
       - name: Seokhun Jeong
         lastName: Jeong
@@ -1053,14 +1063,6 @@ positions:
         leavingDate: 2021.11.19
         site: "https://shuloco.blogspot.com/"
 
-      - name: Jihyeong Hong
-        lastName: Hong
-        email: z.hyeong@kaist.ac.kr
-        career: Undergrad Intern (KAIST)
-        period: Summer 2020 - Fall 2021
-        leavingDate: 2021.10.08
-        site: "https://harmonious-prune-381.notion.site/Jihyeong-Hong-44f4f7033cbb480e944eeaf8fb22b30a"
-
       - name: Jisu Yim
         lastName: Yim
         email: "yimjisu99@kaist.ac.kr"
@@ -1068,6 +1070,7 @@ positions:
         period: Winter 2021 - Summer 2021
         leavingDate: 2021.09.10
         site: ""
+        now: M.S. Student @ KAIST HCIL
 
       - name: Sangwook Lee
         lastName: Lee
@@ -1076,7 +1079,7 @@ positions:
         period: Fall 2020 - Summer 2021
         leavingDate: 2021.09.10
         site: "https://www.linkedin.com/in/sangwook-lee/"
-        now: M.S. Student @ <a href="http://cps.kaist.ac.kr//">CPS Lab</a>, KAIST
+        now: M.S. Student @ <a href="http://cps.kaist.ac.kr//">CPS Lab</a>, KAIST => Ph.D. Student @ Virginia Tech
 
       - name: Hyerim Lee
         lastName: Lee
@@ -1120,14 +1123,6 @@ positions:
         leavingDate: 2021.08.30
         site: ""
 
-      - name: Seong Hee Lee
-        lastName: Lee
-        email: "sl994@cornell.edu"
-        career: Undergrad Intern (Cornell University)
-        period: Summer 2021
-        leavingDate: 2021.08.13
-        site: ""
-
       - name: Yubin Choi
         lastName: Choi
         email: "yubinc@kaist.ac.kr"
@@ -1135,6 +1130,7 @@ positions:
         period: Winter 2021 - Summer 2021
         leavingDate: 2021.07.16
         site: ""
+        now: M.S. Student @ KAIST CSTL
 
       - name: Seongha Eom
         lastName: Eom
@@ -1144,6 +1140,7 @@ positions:
         leavingDate: 2021.07.16
         # img: "seongha.jpg"
         site: ""
+        now: ML Engineer @ Hyperconnect
 
       # - name: Juhoon Lee
       #   lastName: Lee
@@ -1232,6 +1229,7 @@ positions:
         site: ""
         period: Summer 2020
         leavingDate: 2020.09.15
+        now: Wikimedia Foundation
 
       - name: Seungsu Kim
         lastName: Kim
@@ -1259,6 +1257,7 @@ positions:
         site: "https://nix07.github.io/"
         period: Summer 2019 - Winter 2020
         leavingDate: 2020.02.29
+        now: Ph.D. Student @ Northeastern University
 
       # - name: Haesoo Kim
       #   lastName: Kim
@@ -1345,7 +1344,7 @@ positions:
         site: ""
         period: Summer 2019
         leavingDate: 2019.08.30
-        now: M.S. Student @ HCI Lab, KAIST
+        now: M.S. Student @ HCIL, KAIST
 
       - name: Cheoljun Cho
         lastName: Cho
