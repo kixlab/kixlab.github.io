@@ -23,7 +23,14 @@ positions:
         img: "daehyun.jpg"
         site: "https://dhkim16.github.io/"
         message: "Thank you for your continued support throughout my career, ever since our first encounter in 2015-16. Very fortunate that our paths crossed -- I continue to learn a lot from your mentorship and have no doubt that I will learn a lot from you in the coming days ahead."
-
+      
+      - name: Seungju Kim
+        lastName: Kim
+        email: "sjkim64891@gmail.com"
+        career: Postdoctoral Fellow
+        img: "seungju.jpg"
+        site: ""
+        message: "Thank you for your mentorship and support!"
   ## --------------Graduate Students and Researchers ------------------
 
   - positionName: Graduate Students and Researchers
