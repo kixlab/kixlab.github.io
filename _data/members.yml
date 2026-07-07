@@ -222,6 +222,13 @@ positions:
         img: "hyehyun.png"
         site: "https://hyehyunchu.vercel.app/"
 
+      - name: Seongeun Jeon
+        lastName: Jeon
+        email: "tjddms422422@gmail.com"
+        career: Visiting Researcher (ROKA)
+        img: "seongeun.jpg"
+        site: ""
+
 
   ## ---------------Undergraduates--------------------
 
