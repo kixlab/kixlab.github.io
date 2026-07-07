@@ -28,3 +28,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem "webrick", "~> 1.8"
+
+# Ruby 3.4+ removed these from the default gems, but github-pages/jekyll still need them
+gem "csv"
+gem "logger"
